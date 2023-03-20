@@ -15,7 +15,7 @@ jobs:
       - uses: denoland/setup-deno@v1
         with:
           deno-version: v1.x
-      - name: Build Deno Module
+      - name: Scrape incidents from Sac PD site
         run: deno run --allow-read=incidents.json --allow-write=incidents.json --allow-net ./scrape.ts --days=10
       - name: Commit and push if it changed
         run: |-
