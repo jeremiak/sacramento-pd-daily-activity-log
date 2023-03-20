@@ -1,8 +1,9 @@
 name: Scrape police activity log data
 
 on:
-  pull_request:
-    branches: [main]
+  workflow_dispatch:
+  schedule:
+    - cron: '35 23 * * *'
 
 jobs:
   test:
