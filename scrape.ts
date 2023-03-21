@@ -1,25 +1,27 @@
 // deno-lint-ignore-file no-explicit-any
 
 import _ from "npm:lodash@4.17";
-import dayjs from "npm:dayjs@1";
+// @deno-types="https://deno.land/x/dayjs@v1.11.7/types/index.d.ts"
+import dayjs, { Dayjs } from "npm:dayjs@1.11.7";
 import {
   DOMParser,
   Element,
+  HTMLDocument,
 } from "https://deno.land/x/deno_dom/deno-dom-wasm.ts";
 import { parse } from "https://deno.land/std@0.175.0/flags/mod.ts";
 import Queue from "npm:p-queue@7";
 
 interface Incident {
-  cmd: string;
-  id: string;
-  code: string;
+  cmd: string | undefined;
+  id: string | undefined;
+  code: string | undefined;
   location: string;
   time: string;
   date: string;
   text: string;
 }
 
-async function scrapeDailyActivityLog(date): Promise<Incident[]> {
+async function scrapeDailyActivityLog(date: Dayjs): Promise<Incident[]> {
   console.log(
     `Attempting to scrape police activity logs for ${
       date.format("YYYY-MM-DD")
@@ -31,21 +33,24 @@ async function scrapeDailyActivityLog(date): Promise<Incident[]> {
   const response = await fetch(url);
   const status: number = response.status;
   const html = await response.text();
-  const doc = new DOMParser().parseFromString(html, "text/html");
+  const doc: HTMLDocument | null = new DOMParser().parseFromString(
+    html,
+    "text/html",
+  );
 
   if (status !== 200) throw new Error(`Error with ${url} - ${status}`);
 
-  const rows: Element[] = doc.querySelectorAll(".row .col-sm-12");
+  const rows: any[] = doc ? [...doc.querySelectorAll(".row .col-sm-12")] : [];
   const incidents: Incident[] = [];
 
-  rows.forEach((row) => {
+  rows.forEach((row: Element) => {
     const cmdContent: Element | null = row.querySelector(".cmdContent");
 
     if (!cmdContent) return;
     const cmd: Element | null = row.querySelector("h4");
-    const pElements: Element[] = cmdContent.querySelectorAll("p");
+    const pElements: any[] = [...cmdContent.querySelectorAll("p")];
 
-    const ps = [...pElements].filter((p) => {
+    const ps = [...pElements].filter((p: Element) => {
       // skip over empty paragraph elements
       return p.innerText.trim() !== "";
     });
@@ -70,6 +75,12 @@ async function scrapeDailyActivityLog(date): Promise<Incident[]> {
     });
   });
 
+  console.log(
+    `Found ${incidents.length} incidents listed on ${
+      date.format("YYYY-MM-DD")
+    }`,
+  );
+
   return incidents;
 }
 
@@ -85,11 +96,11 @@ const scraped: Incident[] = [];
 const queue = new Queue({ concurrency: 4 });
 const maxTries = 3;
 
-function enqueue(date, tries = 1) {
+function enqueue(date: Dayjs, tries = 1) {
   queue.add(async () => {
-    console.log(`enqueuing ${date.format("YYYY-MM-DD")}`);
+    console.log(`Enqueuing ${date.format("YYYY-MM-DD")}`);
     try {
-      const s = await scrapeDailyActivityLog(date);
+      const s: Incident[] = await scrapeDailyActivityLog(date);
       scraped.push(...s);
     } catch (e) {
       if (tries === maxTries) {
@@ -114,7 +125,7 @@ _.range(daysToScrape).forEach((d: number) => {
 
   if (flags["skip-existing"] && hasExistingData) {
     console.log(
-      `skipping ${
+      `Skipping ${
         toScrapeDate.format("YYYY-MM-DD")
       }, already have data from that date`,
     );
@@ -128,6 +139,7 @@ _.range(daysToScrape).forEach((d: number) => {
 
 await queue.onIdle();
 
-console.log(`all done, saving to a file`);
+console.log(`Saving to a file`);
 const sorted = _.orderBy([...existing, ...scraped], ["date", "time", "id"]);
 await Deno.writeTextFile("./incidents.json", JSON.stringify(sorted, null, 2));
+console.log(`All done`);
