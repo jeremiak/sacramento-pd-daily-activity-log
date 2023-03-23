@@ -4363,5 +4363,122 @@
     "date": "2023-03-16",
     "time": "2347",
     "text": "Officers responded to reports of an individual who had a gunshot wound.  Upon arrival, officers located a male adult with a gunshot wound.  The individual was transported to an area hospital where the injury was determined to be non-life-threatening.  The investigation is active. "
+  },
+  {
+    "cmd": "North Command",
+    "id": "23-072329",
+    "code": "Assault - Arrest",
+    "location": "3600 Block of Altos Ave",
+    "date": "2023-03-17",
+    "time": "0741",
+    "text": "Officers responded to a report of an assault. Upon arrival, officers detained the suspect and determined that victim sustained moderate injuries. The suspect was arrest for related charges."
+  },
+  {
+    "cmd": "Central Command",
+    "id": "23-072941",
+    "code": "Subject Stop - Warrant Arrest",
+    "location": "900 Block of I St",
+    "date": "2023-03-17",
+    "time": "1843",
+    "text": "Officers recognized a subject in the area known to have an outstanding felony warrant. Officers attempted to detain the suspect, but the suspect resisted. Additional officers arrived on-scene and the suspect was safely detained and arrested for the outstanding warrant."
+  },
+  {
+    "cmd": "Central Command",
+    "id": "23-073312",
+    "code": "Armed Robbery - Arrest",
+    "location": "1100 Block of 15th Street",
+    "date": "2023-03-18",
+    "time": "0137",
+    "text": "Officers responded to a report of an armed robbery that had just occurred. Officers attempted to detain the suspect who were still on-scene, but both suspects fled on foot. A foot pursuit ensued, and additional officers responded to assist. Both suspects were safely detained by pursuing officers. Once suspect discarded an illegally possessed handgun while running and a second illegally possessed handgun was located on the other suspect. The stolen property was recovered by officers and the suspects were arrested for related charges."
+  },
+  {
+    "cmd": "North Command",
+    "id": "23-073505",
+    "code": "Assault - Arrest",
+    "location": "2700 Block of Tasuli Avenue",
+    "date": "2023-03-18",
+    "time": "1001",
+    "text": "Officers responded to a report of an assault with bleach. Upon arrival, officers located and detained the suspect. The suspect was arrested for assault related charges."
+  },
+  {
+    "cmd": "East Command",
+    "id": "23-073928",
+    "code": "Fatal Hit-and-Run Collision",
+    "location": "Stockton Boulevard & 20th Avenue",
+    "date": "2023-03-18",
+    "time": "1902",
+    "text": "Please see the following link for a press release regarding this incident: Fatal Hit-and-Run Collision – Stockton Boulevard & 20th Avenue"
+  },
+  {
+    "cmd": "North Command",
+    "id": "23-074084",
+    "code": "Stolen Vehicle - Arrest",
+    "location": "Arcade Blvd / Rio Linda Blvd",
+    "date": "2023-03-18",
+    "time": "2139",
+    "text": "Officers were in the area when they located a stolen vehicle. Officers attempted to conduct an enforcement stop but the driver fled on foot. Officers established a perimeter, and the suspect was located with the assistance of a police helicopter. The suspect was arrested for theft related charges."
+  },
+  {
+    "cmd": "Central Command",
+    "id": "23-074174",
+    "code": "Assault - Arrest",
+    "location": "500 Block of David Stern Walk",
+    "date": "2023-03-18",
+    "time": "2317",
+    "text": "Officers contacted a group of individuals drinking in public. During the investigation, officers attempted to detain one of the suspects, but the suspect physically resisted. Other members from the group attempted to intervene with the detention and additional officers responded to assist. Two suspects were safely detained and arrested for related charges.   "
+  },
+  {
+    "cmd": "South Command",
+    "id": "23-074398",
+    "code": "Fatal Hit-and-Run Collision",
+    "location": "Franklin Boulevard & 26th Avenue",
+    "date": "2023-03-19",
+    "time": "0600",
+    "text": "Please see the following link for a press release regarding this incident: Fatal Hit-and-Run Collision – Franklin Boulevard & 26th Avenue"
+  },
+  {
+    "cmd": "North Command",
+    "id": "23-074744",
+    "code": "Robbery - Arrest",
+    "location": "3000 Block of Northgate Blvd",
+    "date": "2023-03-19",
+    "time": "1547",
+    "text": "Officers responded to a report of a robbery in progress. Before officers arrived on-scene, the suspect fled in a vehicle. Officers located the suspect vehicle and attempted to conduct an enforcement stop. The driver failed to stop, and a vehicle pursuit ensued. During the pursuit, the suspect vehicle became disabled, and the suspect was safely detained. The suspect was arrested for robbery and evasion related charges."
+  },
+  {
+    "cmd": "South Command",
+    "id": "23-075088",
+    "code": "Robbery - Arrest",
+    "location": "3100 Block of 20th Avenue",
+    "date": "2023-03-19",
+    "time": "2241",
+    "text": "Officers responded to a report of a robbery. Officers located the suspect in the area and detained them. Officers recovered the stolen property and arrested the suspect for robbery related charges."
+  },
+  {
+    "cmd": "North Command",
+    "id": "23-075297",
+    "code": "Homicide – Investigation",
+    "location": "Roseville Rd / Connie Dr",
+    "date": "2023-03-20",
+    "time": "0726",
+    "text": "Please see the following link for a press release regarding this incident: https://apps.sacpd.org/Releases/liveview.aspx?reference=20230320-017"
+  },
+  {
+    "cmd": "North Command",
+    "id": "23-075694",
+    "code": "Assault - Investigation",
+    "location": "1000 Block of North Ave",
+    "date": "2023-03-20",
+    "time": "1514",
+    "text": "Officers responded to a report of an assault with a knife. Upon arrival, officers located two victims with non-life-threatening injuries. The victims were transported to an area hospital to be treated for their injuries. No suspects have been arrested. A crime report was generated."
+  },
+  {
+    "cmd": "North Command",
+    "id": "23-075988",
+    "code": "Theft - Gun Arrest",
+    "location": "1700 Block of Arden Way",
+    "date": "2023-03-20",
+    "time": "2115",
+    "text": "Officers responded to a theft report. Upon arrival, officers detained the suspect. During the investigation, officers located an illegal handgun. The suspect was arrested on related charges."
   }
 ]
