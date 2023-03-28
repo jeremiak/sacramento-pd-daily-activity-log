@@ -5011,5 +5011,59 @@
     "date": "2023-03-21",
     "time": "2359",
     "text": "Officers responded to a report of shooting. Upon arrival, officers did not locate any victims. Officers conducted a search of the area and detained the suspect. During the investigation, officers located a firearm, and the suspect was arrested for related charges."
+  },
+  {
+    "cmd": "North Command",
+    "id": "23-077262",
+    "code": "Warrant Arrest",
+    "location": "1000 Block of North Avenue",
+    "date": "2023-03-22",
+    "time": "1006",
+    "text": "Officers responded to a residence regarding a suspect on-scene wanted for a stabbing that occurred a few days prior. Detectives obtained an arrest warrant for the suspect and executed a search warrant at the suspects residence. The suspect was safely detained and arrested for assault related charges."
+  },
+  {
+    "cmd": "East Command",
+    "id": "23-077437",
+    "code": "Firearm and Narcotics - Arrest",
+    "location": "3700 Block of 2nd Avenue",
+    "date": "2023-03-22",
+    "time": "1253",
+    "text": "Officers from the Sacramento Police Department's South Gang Enforcement Team conducted a month long narcotics and firearms investigation. During the investigation, officers seized 51 pounds of crystal methamphetamine and 62 firearms. Three adult suspects were arrested for related charges."
+  },
+  {
+    "cmd": "East Command",
+    "id": "23-079006",
+    "code": "Burglary - Arrest",
+    "location": "100 Block of Breckenwood Way",
+    "date": "2023-03-24",
+    "time": "0017",
+    "text": "Officers responded to an alarm activation. Upon arrival, officers detained two suspects and confirmed with the homeowner that no one should be home. Both suspects were booked for burglary related charges. "
+  },
+  {
+    "cmd": "South Command",
+    "id": "23-079057",
+    "code": "Warrant Arrest",
+    "location": "Keeling Court",
+    "date": "2023-03-24",
+    "time": "0204",
+    "text": "Officers received information regarding the location of a suspect wanted on $1 million dollar warrant. Officers conducted an attempt pickup and arrested the suspect for their outstanding warrant. "
+  },
+  {
+    "cmd": "East Command",
+    "id": "23-079195",
+    "code": "Assault - Arrest",
+    "location": "2900 Block of Ramona Avenue",
+    "date": "2023-03-24",
+    "time": "0849",
+    "text": "Officers responded to a disturbance call. Upon arrival, officers determined that the victim sustained minor injuries after the suspect attempted to assault the victim with a knife. The suspect was arrested for assault related charges. "
+  },
+  {
+    "cmd": "North Command",
+    "id": "23-079641",
+    "code": "Pursuit - Arrest",
+    "location": "Rio Linda Blvd / Del Paso Blvd",
+    "date": "2023-03-24",
+    "time": "1733",
+    "text": "Officers attempted to conduct a traffic enforcement stop and the driver failed to stop. A short vehicle pursuit ensued before the driver stopped. Officers detained the driver and arrested them for pursuit and DUI related charges. "
   }
 ]
