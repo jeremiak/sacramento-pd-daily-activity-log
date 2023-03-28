@@ -1,5 +1,527 @@
 [
   {
+    "cmd": "South Command",
+    "id": "22-252943",
+    "code": "ShotSpotter - Investigation",
+    "location": "South Sacramento",
+    "date": "2022-09-09",
+    "time": "0019",
+    "text": "Officers responded to a ShotSpotter activation. A business appeared to have been struck by gunfire however no injuries were reported. Officers canvassed the area for evidence and witnesses. A crime report was generated."
+  },
+  {
+    "cmd": "South Command",
+    "id": "22-252951",
+    "code": "Vehicle Collision - DUI Arrest",
+    "location": "1400 Block of Sutterville Rd",
+    "date": "2022-09-09",
+    "time": "0032",
+    "text": "Officers responded to a report of a collision in which a vehicle struck a building. Multiple parked and unoccupied vehicles were struck, and the vehicle eventually collided with a residential building. No injuries were reported. The driver of the involved vehicle was found to be driving under the influence and was also found to be in possession of a firearm. The driver was arrested for DUI and weapons violations."
+  },
+  {
+    "cmd": "South Command",
+    "id": "22-253340",
+    "code": "Sideshow",
+    "location": "Citywide",
+    "date": "2022-09-09",
+    "time": "1220",
+    "text": "Officers conducted enforcement on sideshow activity around the city. The enforcement resulted in one firearm seizure, 60 citations, 36 towed vehicles, 37 misdemeanor citations, and five felony arrests."
+  },
+  {
+    "cmd": "South Command",
+    "id": "22-253890",
+    "code": "Robbery - Investigation",
+    "location": "Florin Rd / Freeport Blvd",
+    "date": "2022-09-09",
+    "time": "2320",
+    "text": "Officers responded to a report of a robbery. The suspects forcibly stole property from the victims and then fled the area. A crime report was generated."
+  },
+  {
+    "cmd": "North Command",
+    "id": "22-254471",
+    "code": "Death Investigation",
+    "location": "3300 Block of Albany Way",
+    "date": "2022-09-10",
+    "time": "1653",
+    "text": "Officers responded to conduct a welfare check on a subject. Officers located the described subject deceased. A death investigation was conducted, and no suspicious circumstances were observed. A coroner responded to take over the investigation."
+  },
+  {
+    "cmd": "Central Command",
+    "id": "22-254601",
+    "code": "Stolen Vehicle - Arrest",
+    "location": "1400 Block of Uptown Aly",
+    "date": "2022-09-10",
+    "time": "1921",
+    "text": "Officers responded to a report of a stolen vehicle that was located in the area. Officers conducted an enforcement stop and safely detained the occupants. The vehicle was stolen in a recent carjacking. Both occupants were arrested for carjacking and theft-related charges.  "
+  },
+  {
+    "cmd": "North Command",
+    "id": "22-255068",
+    "code": "Shooting - Investigation",
+    "location": "70 Block of Village Green Dr",
+    "date": "2022-09-11",
+    "time": "0442",
+    "text": "Officers responded to a report of a subject who had been shot. One female adult victim was located with non-life-threatening injuries. The victim was transported to a hospital for treatment. Officers canvassed the area for evidence and witnesses and a crime report was generated"
+  },
+  {
+    "cmd": "North Command",
+    "id": "22-255239",
+    "code": "Subject Stop - Gun Arrest",
+    "location": "Cypress St / Roanoae Ave",
+    "date": "2022-09-11",
+    "time": "1034",
+    "text": "Officers conducted an enforcement stop on a vehicle. During the investigation, a firearm was located. An occupant was determined to be wanted for a recent shooting. That suspect was arrested for assault and weapons charges, as well as a parole warrant."
+  },
+  {
+    "cmd": "Central Command",
+    "id": "22-255279",
+    "code": "Assault - Arrest",
+    "location": "Capitol Mall / Neasham Cir",
+    "date": "2022-09-11",
+    "time": "1137",
+    "text": "Officers responded to a report of a suspect who was causing a disturbance and assaulted a victim. Officers contacted the suspect who then assaulted an officer. Officers were eventually able to detain the suspect who was arrested for assault and resisting officers.  "
+  },
+  {
+    "cmd": "South Command",
+    "id": "22-255382",
+    "code": "Shooting - Investigation",
+    "location": "Franklin Blvd / Brookfield Dr",
+    "date": "2022-09-11",
+    "time": "1432",
+    "text": "Officers responded to a report of a shooting. Evidence of a shooting was located at the scene however no injuries were reported. During the investigation, officers detained one male adult who was possibly related to the incident. That subject was found to be wanted for an assault that occurred in an outside agency jurisdiction. Officers canvassed the area for evidence and witnesses. A crime report was generated."
+  },
+  {
+    "cmd": "North Command",
+    "id": "22-255615",
+    "code": "Weapons Disturbance - Gun Arrest",
+    "location": "4700 Block of Kit Way",
+    "date": "2022-09-11",
+    "time": "1920",
+    "text": "Officers responded to a report of a disturbance in which a subject was armed with a firearm and had possibly fired it. Officers safely detained two possibly related subjects. No injuries were reported at the scene. During the investigation, two firearms were located, and the two subjects were arrested for weapons violations."
+  },
+  {
+    "cmd": "North Command",
+    "id": "22-255646",
+    "code": "Vehicle Collision",
+    "location": "Raley Blvd / Santa Ana Ave",
+    "date": "2022-09-11",
+    "time": "1952",
+    "text": "Officers responded to a report of a collision involving a vehicle and a pedestrian. The pedestrian was transported to a hospital with serious injuries. The driver of the vehicle was contacted at the scene. Officers conducted a collision investigation that will be documented in a report."
+  },
+  {
+    "cmd": "South Command",
+    "id": "22-255899",
+    "code": "Assault - Investigation",
+    "location": "8100 Block of Center Pkwy",
+    "date": "2022-09-12",
+    "time": "0454",
+    "text": "Officers responded to a report of an assault. The suspect stabbed the victim with a pair of scissors and then fled the area. The victim self-transported to an area hospital for treatment of non-life-threatening injuries. A crime report was generated."
+  },
+  {
+    "cmd": "South Command",
+    "id": "22-256272",
+    "code": "Shooting - Investigation",
+    "location": "4200 Block of Weymouth Ln",
+    "date": "2022-09-12",
+    "time": "1324",
+    "text": "Officers responded to a report of a shooting. One male adult victim sustained at least one gunshot wound and was transported to a hospital where he was reported to be in stable condition. The victim’s vehicle was also stolen during the incident. Officers canvassed the area for evidence and witnesses. A crime report was generated."
+  },
+  {
+    "cmd": "East Command",
+    "id": "22-256572",
+    "code": "Vandalism - Investigation",
+    "location": "600 Block of Alhambra Blvd",
+    "date": "2022-09-12",
+    "time": "1821",
+    "text": "Officers responded to a report of vandalism. Two windows were broken on a church building. Officers canvassed the area for evidence and witnesses. A crime report was generated."
+  },
+  {
+    "cmd": "South Command",
+    "id": "22-256996",
+    "code": "Robbery - Investigation",
+    "location": "2900 Block of Florin Rd",
+    "date": "2022-09-13",
+    "time": "0743",
+    "text": "Officers responded to a report of a robbery. The suspects forcibly stole personal property from the victims and then fled the area. Officers canvassed the area for evidence and witnesses. A crime report was generated."
+  },
+  {
+    "cmd": "South Command",
+    "id": "22-257629",
+    "code": "Shooting - Investigation",
+    "location": "6800 Block of Carnation Ave",
+    "date": "2022-09-13",
+    "time": "1841",
+    "text": "Officers responded to a report of a shooting. At least three parked and unoccupied vehicles appeared to have been struck by gunfire. No injuries were reported. Officers canvassed the area for evidence and witnesses. A crime report was generated."
+  },
+  {
+    "cmd": "Central Command",
+    "id": "22-257664",
+    "code": "Hit-and-Run Collision - Arrest",
+    "location": "900 Block of 8th St",
+    "date": "2022-09-13",
+    "time": "1935",
+    "text": "Officers responded to a report of a collision involving a vehicle and a pedestrian. The vehicle fled the scene after the collision. The pedestrian was transported to a hospital for treatment and was reported to be in stable condition. Officers later located the suspect who was found to be driving under the influence and was arrested."
+  },
+  {
+    "cmd": "North Command",
+    "id": "22-257791",
+    "code": "Traffic Stop - Gun Arrest",
+    "location": "Marysville Blvd / North Ave",
+    "date": "2022-09-13",
+    "time": "2218",
+    "text": "Officers conducted an enforcement stop on a vehicle. During the investigation, a firearm was located. The driver was arrested for weapons violations. A passenger was found to have a felony warrant and was also arrested.  "
+  },
+  {
+    "cmd": "South Command",
+    "id": "22-257887",
+    "code": "Weapons Disturbance - Gun Arrest",
+    "location": "5200 Block of Meadow Park Way",
+    "date": "2022-09-14",
+    "time": "0131",
+    "text": "Officers responded to a report of a disturbance in which one person was armed with a firearm. Officers detained the described subject and located a firearm during the investigation. That subject was arrested for weapons violations."
+  },
+  {
+    "cmd": "Central Command",
+    "id": "22-257900",
+    "code": "Burglary - Arrest",
+    "location": "1700 Block of W Socap Walk",
+    "date": "2022-09-14",
+    "time": "0228",
+    "text": "Officers responded to a report of a suspect striking a residence with a metal pole and attempting to make entry. The suspect fled the area when confronted by an uninvolved subject. Officers located the suspect in the area and she was arrested for attempted burglary."
+  },
+  {
+    "cmd": "Central Command",
+    "id": "22-258252",
+    "code": "Homicide - Investigation",
+    "location": "200 Block of Bannon St",
+    "date": "2022-09-14",
+    "time": "1124",
+    "text": "A press release regarding this incident can be found at the following link: Homicide Investigation - 200 Block of Bannon St"
+  },
+  {
+    "cmd": "East Command",
+    "id": "22-258459",
+    "code": "Traffic Stop - Gun Arrest",
+    "location": "Martin Luther King Jr. Blvd / Broadway",
+    "date": "2022-09-14",
+    "time": "1459",
+    "text": "Officers conducted an enforcement stop on a vehicle. During the investigation, a firearm was located. An occupant was arrested for weapons violations."
+  },
+  {
+    "cmd": "North Command",
+    "id": "22-258753",
+    "code": "Stolen Vehicle - Gun Arrest",
+    "location": "Silver Eagle Rd / Norwood Ave",
+    "date": "2022-09-14",
+    "time": "2007",
+    "text": "Officers located an occupied stolen vehicle. The occupants of the vehicle were safely detained. During the investigation, narcotics and a firearm were located. The driver was arrested for narcotics, weapons, and theft-related charges."
+  },
+  {
+    "cmd": "East Command",
+    "id": "22-258952",
+    "code": "Assault - Arrest",
+    "location": "Martin Luther King Jr. Blvd / 12th Ave",
+    "date": "2022-09-15",
+    "time": "0106",
+    "text": "Officers responded to a report of an assault. The suspect stabbed the victim with some type of sharp object and then fled the area. The victim was transported to a hospital with non-life-threatening injuries. Officers later located the suspect and arrested her for felony assault."
+  },
+  {
+    "cmd": "South Command",
+    "id": "22-259093",
+    "code": "ShotSpotter - Investigation",
+    "location": "South Sacramento",
+    "date": "2022-09-15",
+    "time": "0753",
+    "text": "Officers responded to a ShotSpotter activation. Evidence of a shooting was located at the scene however no injuries were reported. Officers canvassed the area for evidence and witnesses. A crime report was generated."
+  },
+  {
+    "cmd": "North Command",
+    "id": "22-259435",
+    "code": "Vehicle Collision",
+    "location": "El Camino Ave / Bus 80 EB",
+    "date": "2022-09-15",
+    "time": "1311",
+    "text": "Officers responded to a report of a collision involving two vehicles. One involved driver sustained serious injuries and was transported to a hospital for treatment. Once at the hospital the driver was expected to survive his injuries. Officers conducted a collision investigation that will be documented in a report."
+  },
+  {
+    "cmd": "Central Command",
+    "id": "22-259443",
+    "code": "Weapons Disturbance - Arrest",
+    "location": "5th St / J St",
+    "date": "2022-09-15",
+    "time": "1316",
+    "text": "Officers responded to a report of a subject causing a disturbance while armed with a knife. The subject yelled derogatory terms and threatened security officers in the area. Officers safely detained the described subject who was arrested for criminal threats and brandishing charges."
+  },
+  {
+    "cmd": "South Command",
+    "id": "22-259653",
+    "code": "ShotSpotter - Investigation",
+    "location": "South Sacramento",
+    "date": "2022-09-15",
+    "time": "1609",
+    "text": "Officers responded to a ShotSpotter activation. Evidence of a shooting was located at the scene however no injuries were reported. Officers canvassed the area for evidence and witnesses. A crime report was generated."
+  },
+  {
+    "cmd": "North Command",
+    "id": "22-260030",
+    "code": "ShotSpotter - Investigation",
+    "location": "North Sacramento",
+    "date": "2022-09-15",
+    "time": "2311",
+    "text": "Officers responded to a ShotSpotter activation. Evidence of a shooting was located at the scene however no injuries were reported. Officers canvassed the area for evidence and witnesses. A crime report was generated."
+  },
+  {
+    "cmd": "East Command",
+    "id": "22-260069",
+    "code": "ShotSpotter - Investigation",
+    "location": "East Sacramento",
+    "date": "2022-09-16",
+    "time": "0011",
+    "text": "Officers responded to a ShotSpotter activation. Evidence of a shooting was located at the scene however no injuries were reported. Officers canvassed the area for evidence and witnesses. A crime report was generated."
+  },
+  {
+    "cmd": "Central Command",
+    "id": "22-260121",
+    "code": "Traffic Stop - Gun Arrest",
+    "location": "5th St / Q St",
+    "date": "2022-09-16",
+    "time": "0141",
+    "text": "Officers conducted an enforcement stop on a vehicle. During the investigation, a firearm and narcotics were located. Two occupants of the vehicle were arrested on related charges."
+  },
+  {
+    "cmd": "East Command",
+    "id": "22-260620",
+    "code": "Assault - Arrest",
+    "location": "4000 Block of J St",
+    "date": "2022-09-16",
+    "time": "1359",
+    "text": "Officers had transported an in-custody assault suspect to a hospital for medical clearance prior to being booked into the jail. The suspect fled from custody and officers established a perimeter. The suspect was located within the perimeter and was booked for his original assault-related charges as well as fresh charges for fleeing arrest."
+  },
+  {
+    "cmd": "Central Command",
+    "id": "22-260746",
+    "code": "Vandalism - Arrest",
+    "location": "800 Block of 9th St",
+    "date": "2022-09-16",
+    "time": "1608",
+    "text": "Officers responded to a report of a suspect breaking a building’s windows with a hammer. Officers attempted to contact the suspect and the suspect fled on foot. Officers were able to apprehend the suspect who was found to have a felony warrant and was arrested for the warrant and vandalism."
+  },
+  {
+    "cmd": "South Command",
+    "id": "22-260751",
+    "code": "Assault - Gun Arrest",
+    "location": "Franklin Blvd / Brookfield Dr",
+    "date": "2022-09-16",
+    "time": "1613",
+    "text": "Officers responded to a report of an assault. The suspect pointed a firearm at the victim from a vehicle. The suspect then drove away but was located and safely detained by officers. During the investigation, a firearm was located. The suspect was arrested for assault and weapons violations."
+  },
+  {
+    "cmd": "South Command",
+    "id": "22-260880",
+    "code": "Traffic Stop - Gun Arrest",
+    "location": "24th St / Fruitridge Rd",
+    "date": "2022-09-16",
+    "time": "1808",
+    "text": "An officer conducted an enforcement stop on a vehicle. During the investigation, a firearm and narcotics were located. The driver was arrested on related narcotics and weapons violations."
+  },
+  {
+    "cmd": "North Command",
+    "id": "22-261069",
+    "code": "ShotSpotter - Gun Arrest",
+    "location": "North Sacramento",
+    "date": "2022-09-16",
+    "time": "2121",
+    "text": "Officers responded to a ShotSpotter activation. Evidence of a shooting was located at the scene however no injuries were reported. Officers detained a possibly involved subject and served a search warrant at a residence. During the investigation, a firearm was located. The detained subject was arrested for weapons and shooting violations."
+  },
+  {
+    "cmd": "Central Command",
+    "id": "22-261161",
+    "code": "Traffic Stop - Gun Arrest",
+    "location": "Richards Blvd / I-5",
+    "date": "2022-09-16",
+    "time": "2243",
+    "text": "Officers conducted an enforcement stop on a vehicle. During the investigation, a firearm was located. The occupant was arrested for weapons violations."
+  },
+  {
+    "cmd": "South Command",
+    "id": "22-261901",
+    "code": "Subject Stop - Arrest",
+    "location": "5600 Block of Gilgunn Way",
+    "date": "2022-09-17",
+    "time": "1737",
+    "text": "An officer conducted an enforcement stop on a subject. The subject was found to have a felony warrant and was arrested."
+  },
+  {
+    "cmd": "South Command",
+    "id": "22-261925",
+    "code": "Robbery - Arrest",
+    "location": "7200 Block of Franklin Blvd",
+    "date": "2022-09-17",
+    "time": "1815",
+    "text": "Officers responded to a report of a robbery. The suspect assaulted the victim with a piece of wood and stole items from a business. The suspect fled the scene after the incident. Officers located the suspect in the area, and he was arrested for assault and robbery."
+  },
+  {
+    "cmd": "Central Command",
+    "id": "22-262179",
+    "code": "Assault - Arrest",
+    "location": "1100 Block of 7th St",
+    "date": "2022-09-17",
+    "time": "2226",
+    "text": "Officers responded to a report of a subject who was urinating on a vehicle. The subject assaulted a victim when confronted. Officers detained the subject and arrested him for assault and urinating in public."
+  },
+  {
+    "cmd": "East Command",
+    "id": "22-262299",
+    "code": "ShotSpotter - Investigation",
+    "location": "East Sacramento",
+    "date": "2022-09-18",
+    "time": "0106",
+    "text": "Officers responded to a ShotSpotter activation. Evidence of a shooting was located however no injuries were reported. Officers canvassed the area for evidence and witnesses. A crime report was generated."
+  },
+  {
+    "cmd": "East Command",
+    "id": "22-262662",
+    "code": "Burglary - Arrest",
+    "location": "3400 58th St",
+    "date": "2022-09-18",
+    "time": "1241",
+    "text": "Officers responded to a report of a burglary at a residence. The suspects forced entry to a residence and were located by officers inside. Two suspects were arrested for burglary.  "
+  },
+  {
+    "cmd": "East Command",
+    "id": "22-263300",
+    "code": "Fatal Hit-and-Run Collision - Investigation",
+    "location": "8800 Block of Fruitridge Rd",
+    "date": "2022-09-19",
+    "time": "0327",
+    "text": "Please see the following link for a press release with information regarding this incident: Press Release - Fatal Hit-and-Run Collision - 8800 Block of Fruitridge Rd"
+  },
+  {
+    "cmd": "Central Command",
+    "id": "22-263399",
+    "code": "Assault - Arrest",
+    "location": "1100 Block of K St",
+    "date": "2022-09-19",
+    "time": "0815",
+    "text": "Officers responded to a report of an assault. The suspect assaulted the victim with a knife resulting in non-life-threatening injuries to the victim. Officers safely detained the described suspect who was arrested for assault."
+  },
+  {
+    "cmd": "North Command",
+    "id": "22-263555",
+    "code": "Stolen Vehicle - Arrest",
+    "location": "Northgate Blvd / San Juan Rd",
+    "date": "2022-09-19",
+    "time": "1114",
+    "text": "Officers located an occupied stolen vehicle and conducted an enforcement stop. The occupants were safely detained, and the driver was arrested for stolen vehicle-related charges."
+  },
+  {
+    "cmd": "North Command",
+    "id": "22-263917",
+    "code": "Robbery - Investigation",
+    "location": "2600 Block of Stonecreek Dr",
+    "date": "2022-09-19",
+    "time": "1800",
+    "text": "Officers responded to a report of a robbery. The suspects, who were armed with a firearm, stole property from the victim and then fled the area. A crime report was generated. "
+  },
+  {
+    "cmd": "South Command",
+    "id": "22-264061",
+    "code": "Robbery - Arrest",
+    "location": "2300 Block of Fruitridge Rd",
+    "date": "2022-09-19",
+    "time": "2104",
+    "text": "Officers responded to a report of a robbery. The suspect stole items from a business and threatened the victim. Officers located the suspect in the area and arrested him for robbery."
+  },
+  {
+    "cmd": "South Command",
+    "id": "22-264129",
+    "code": "Traffic Stop - Gun Arrest",
+    "location": "7200 Block of Franklin Blvd",
+    "date": "2022-09-19",
+    "time": "2242",
+    "text": "An officer conducted an enforcement stop on a vehicle. During the investigation, a firearm was located. The driver was arrested for weapons violations."
+  },
+  {
+    "cmd": "East Command",
+    "id": "22-264244",
+    "code": "Burglary - Arrest",
+    "location": "8200 Block of Folsom Blvd",
+    "date": "2022-09-20",
+    "time": "0411",
+    "text": "Officers responded to a report of a burglary at a closed business. The suspects were observed burglarizing the business but fled prior to police arrival. Officers later located and detained one suspect who was arrested for the burglary."
+  },
+  {
+    "cmd": "North Command",
+    "id": "22-264253",
+    "code": "Burglary - Investigation",
+    "location": "2300 Block of Northgate Blvd",
+    "date": "2022-09-20",
+    "time": "0442",
+    "text": "Officers responded to a report of a burglary. The suspects forced entry into a closed business and stole items from inside. The suspects fled prior to police arrival. A crime report was generated."
+  },
+  {
+    "cmd": "North Command",
+    "id": "22-264795",
+    "code": "Weapons Disturbance - Gun Arrest",
+    "location": "1800 Block of Arden Way",
+    "date": "2022-09-20",
+    "time": "1603",
+    "text": "Officers responded to a report of a subject who was possibly armed with a firearm. Officers safely detained the described subject who was found to be in possession of a firearm. The 15-year-old subject was arrested for weapons violations."
+  },
+  {
+    "cmd": "East Command",
+    "id": "22-264966",
+    "code": "Threats - Arrest",
+    "location": "3000 Block of L St",
+    "date": "2022-09-20",
+    "time": "1838",
+    "text": "Officers responded to a report of a subject making threatening statements. Officers located the subject and safely detained him. He was arrested for a threats-related charge."
+  },
+  {
+    "cmd": "South Command",
+    "id": "22-264992",
+    "code": "Vehicle Collision",
+    "location": "26th Ave / Franklin Blvd",
+    "date": "2022-09-20",
+    "time": "1859",
+    "text": "Officers responded to a report of a collision involving a vehicle and a pedestrian. The pedestrian was transported to a hospital with serious injuries. Officers conducted a collision investigation that will be documented in a report."
+  },
+  {
+    "cmd": "North Command",
+    "id": "22-265064",
+    "code": "Traffic Stop - Gun Arrest",
+    "location": "W El Camino Ave / Truxel Rd",
+    "date": "2022-09-20",
+    "time": "2027",
+    "text": "Officers conducted an enforcement stop on a vehicle. During the investigation, a firearm and evidence of narcotics sales was located. Two occupants were arrested for weapons and narcotics violations."
+  },
+  {
+    "cmd": "Central Command",
+    "id": "22-265586",
+    "code": "Vehicle Pursuit Arrest",
+    "location": "F ST / 9th St",
+    "date": "2022-09-21",
+    "time": "1138",
+    "text": "Officers located a vehicle related to reports of reckless driving.  Upon attempting to contact the driver, the vehicle fled and was pursued for a period of time.  The driver was later located and safely taken into custody for related charges. "
+  },
+  {
+    "cmd": "North Command",
+    "id": "22-265779",
+    "code": "Shooting Investigation",
+    "location": "Seamist Dr / Sandcastle Way",
+    "date": "2022-09-21",
+    "time": "1457",
+    "text": "Officers responded to reports of a shooting involving a vehicle.  Evidence of a shooting was located with no victims or property damage.  Crime report generated."
+  },
+  {
+    "cmd": "East Command",
+    "id": "22-265885",
+    "code": "Stolen Vehicle Arrest",
+    "location": "Power Inn Rd / Folsom Blvd",
+    "date": "2022-09-21",
+    "time": "1638",
+    "text": "Officers located a stolen vehicle and safely arrested the driver for related charges."
+  },
+  {
     "cmd": "East Command",
     "id": "22-266427",
     "code": "Disturbance - Arrest",
