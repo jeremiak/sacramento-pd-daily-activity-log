@@ -5209,5 +5209,95 @@
     "date": "2023-03-30",
     "time": "0222",
     "text": "Officers responded to a report of a brandishing involving a firearm. Upon arrival, officers contacted the involved individuals and located a firearm.  The suspect was arrested for related charges. "
+  },
+  {
+    "cmd": "South Command",
+    "id": "23-086081",
+    "code": "Disturbance - Firearm Arrest",
+    "location": "7800 Block of Center Parkway",
+    "date": "2023-03-31",
+    "time": "1457",
+    "text": "Officers responded to reports of the suspect brandishing a firearm. Upon arrival, officers detained the suspect. During the investigation, they located a handgun. The suspect was arrested for firearm related charges. "
+  },
+  {
+    "cmd": "East Command",
+    "id": "23-086261",
+    "code": "Stolen Vehicle – Arrest",
+    "location": "14th Ave / Martin Luther King Blvd",
+    "date": "2023-03-31",
+    "time": "1758",
+    "text": "Officers were in the area and located a stolen vehicle. The vehicle parked and the occupants exited the vehicle. Officers safely detained the occupants and arrested the driver for theft related charges. "
+  },
+  {
+    "cmd": "North Command",
+    "id": "23-086511",
+    "code": "Stolen Vehicle - Arrest",
+    "location": "Northfield Dr / Northview Dr",
+    "date": "2023-03-31",
+    "time": "2239",
+    "text": "Officers were in the area and located a stolen vehicle. Officers conducted an enforcement stop and detained the driver. The driver was arrested for theft related charges.  "
+  },
+  {
+    "cmd": "East Command",
+    "id": "23-086545",
+    "code": "Homicide Investigation",
+    "location": "4400 Block of 71st Street",
+    "date": "2023-03-31",
+    "time": "2322",
+    "text": "Please see the following link for a press release regarding this incident: Homicide Investigation - 4400 Block of 71st Street "
+  },
+  {
+    "cmd": "South Command",
+    "id": "23-086573",
+    "code": "Stolen Vehicle - Arrest",
+    "location": "Florin Rd/ Freeport Blvd",
+    "date": "2023-03-31",
+    "time": "2338",
+    "text": "Officers were in the area and located a stolen vehicle. Officers conducted an enforcement stop and detained the driver. The driver was arrested for theft related charges.  "
+  },
+  {
+    "cmd": "Central Command",
+    "id": "23-087005",
+    "code": "Disturbance - Warrant Arrest",
+    "location": "10th St / J St",
+    "date": "2023-04-01",
+    "time": "1237",
+    "text": "Officers responded to reports of the suspect brandishing a knife and threatening people. The suspect was located in the area and safely detained. The suspect was arrested for related charges and an outstanding felony warrant. "
+  },
+  {
+    "cmd": "North Command",
+    "id": "23-087175",
+    "code": "Traffic Stop - Gun Arrest",
+    "location": "Ethan Way / Delma Way",
+    "date": "2023-04-01",
+    "time": "1607",
+    "text": "Officers conducted a traffic enforcement stop and detained the occupants. During the investigation, officers located a handgun and narcotics. The suspect was arrested for related charges."
+  },
+  {
+    "cmd": "North Command",
+    "id": "23-087317",
+    "code": "Traffic Stop - Gun Arrest",
+    "location": "4200 Block of Raley Blvd",
+    "date": "2023-04-01",
+    "time": "1925",
+    "text": "Officers conducted a traffic enforcement stop and contacted the driver. During the investigation, officers located an illegal handgun. The driver was arrested for firearm related charges and an outstanding felony warrant. "
+  },
+  {
+    "cmd": "Central Command",
+    "id": "23-087454",
+    "code": "Burglary - Arrest",
+    "location": "600 Block of Cannery Ave",
+    "date": "2023-04-01",
+    "time": "2153",
+    "text": "Officers responded to a report of vandalism. Upon arrival, officers attempted to detain the suspect, but the suspect fled on foot. When officers caught up to the suspect, the suspect physically resisted. Additional officers responded to assist, and the suspect was detained. The suspect was booked for vandalism and resisting arrest. "
+  },
+  {
+    "cmd": "North Command",
+    "id": "23-087559",
+    "code": "Traffic Stop - Gun Arrest",
+    "location": "Gateway Oaks Blvd / W El Camino Ave",
+    "date": "2023-04-01",
+    "time": "2328",
+    "text": "Officers conducted a traffic enforcement stop.  During the investigation, officers located an illegally possessed firearm. The suspect was arrested for firearm related charges.  "
   }
 ]
