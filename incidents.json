@@ -5353,5 +5353,32 @@
     "date": "2023-04-02",
     "time": "1628",
     "text": "Officers were in the area and located a stolen vehicle. Officers conducted an enforcement stop and detained the driver. The driver was arrested for theft related charges.  "
+  },
+  {
+    "cmd": "North Command",
+    "id": "23-088609",
+    "code": "Pursuit - Reckless Driving Arrest",
+    "location": "Arden Way / Del Paso Blvd",
+    "date": "2023-04-03",
+    "time": "0123",
+    "text": "Officers observed a vehicle speeding in the area and attempted to conduct an enforcement stop. The vehicle failed to stop, and a vehicle pursuit ensued. During the pursuit, the driver voluntarily pulled over and was safely detained. The suspect was arrested for related charges.  "
+  },
+  {
+    "cmd": "East Command",
+    "id": "23-089176",
+    "code": "Burglary - Arrest",
+    "location": "8100 Block of La Riviera",
+    "date": "2023-04-03",
+    "time": "1457",
+    "text": "Officers responded to a report of a burglary in progress. Upon arrival, officers located the suspect inside the residence. The suspect was detained and arrested for burglary related charges.  "
+  },
+  {
+    "cmd": "North Command",
+    "id": "23-089425",
+    "code": "Stolen Vehicle – Arrest",
+    "location": "Marysville Blvd / Los Robles Blvd",
+    "date": "2023-04-03",
+    "time": "2004",
+    "text": "Officers located a stolen vehicle in the area. As officers responded, the car crashed into a parked car and the occupants fled on foot from the vehicle. Officers established a perimeter, and the suspect was safely located. The suspect was arrested for related charges. "
   }
 ]
