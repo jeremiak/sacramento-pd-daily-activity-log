@@ -5398,5 +5398,68 @@
     "date": "2023-04-05",
     "time": "1834",
     "text": "Officers responded to a report of the suspect brandishing a firearm. Upon arrival, officers located and detained the suspect. During the investigation, officers located a firearm and arrested the suspect for related charges.  "
+  },
+  {
+    "cmd": "East Command",
+    "id": "23-091779",
+    "code": "Traffic Stop - Gun Arrest",
+    "location": "65th St / Elvas Ave",
+    "date": "2023-04-06",
+    "time": "0043",
+    "text": "Officers conducted a traffic enforcement stop and contacted the driver. During the investigation, officers located narcotics and a firearm. The driver was arrested on related charges. "
+  },
+  {
+    "cmd": "Central Command",
+    "id": "23-092317",
+    "code": "Assault - Arrest",
+    "location": "1800 Block of L St",
+    "date": "2023-04-06",
+    "time": "1452",
+    "text": "Officers responded to a report of an assault with rocks. Upon arrival, officers located the uninjured victim and the suspect. The suspect was arrested for assault related charges. "
+  },
+  {
+    "cmd": "East Command",
+    "id": "23-092473",
+    "code": "Disturbance - Warrant Arrest",
+    "location": "5100 Block of Martin Luther King Blvd",
+    "date": "2023-04-06",
+    "time": "1743",
+    "text": "Officers responded to a disturbance at a vacant residence. Upon arrival, officers located and detained the suspect. The suspect was arrested for an outstanding felony warrant. "
+  },
+  {
+    "cmd": "East Command",
+    "id": "23-092701",
+    "code": "Burglary - Arrest",
+    "location": "5700 Block of Folsom Blvd",
+    "date": "2023-04-06",
+    "time": "2151",
+    "text": "Officers responded to reports of a burglary. Upon arrival, officers quickly detained two suspects. Based on the investigation, the two suspects were arrested for burglary and conspiracy related charges. "
+  },
+  {
+    "cmd": "East Command",
+    "id": "23-093202",
+    "code": "Robbery - Arrest",
+    "location": "2600 Block of Stockton Blvd",
+    "date": "2023-04-07",
+    "time": "1319",
+    "text": "Officers responded to a report of a robbery. Upon arrival, witnesses directed officers to the suspect who was detained. During the investigation, officers located the stolen property and returned it to the victim. The suspect was arrested for related charges."
+  },
+  {
+    "cmd": "North Command",
+    "id": "23-094239",
+    "code": "Medical Aid - Firearm Arrest",
+    "location": "2000 Block of South Ave",
+    "date": "2023-04-08",
+    "time": "1434",
+    "text": "Officers responded to a report of a 3-year-old who accidentally shot himself. The juvenile was transported to an area hospital with non-life-threatening injuries. During the investigation, officers determined that the father of the child was illegally in possession of a firearm and did not properly store the firearm. The suspect was arrested for firearm related charges and child endangerment.  "
+  },
+  {
+    "cmd": "North Command",
+    "id": "23-094710",
+    "code": "Traffic Stop - Pursuit Arrest",
+    "location": "2200 Block of Del Paso Blvd",
+    "date": "2023-04-08",
+    "time": "2322",
+    "text": "Officers attempted to conduct a traffic enforcement stop on a vehicle, but the vehicle failed to yield. A vehicle pursuit ensued. After a few minutes, the driver stopped but refused to exit his vehicle. Officers spoke to the driver who eventually agreed to exit the vehicle and was safely detained. The driver was arrested for pursuit and evasion related charges. "
   }
 ]
