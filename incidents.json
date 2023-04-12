@@ -5461,5 +5461,59 @@
     "date": "2023-04-08",
     "time": "2322",
     "text": "Officers attempted to conduct a traffic enforcement stop on a vehicle, but the vehicle failed to yield. A vehicle pursuit ensued. After a few minutes, the driver stopped but refused to exit his vehicle. Officers spoke to the driver who eventually agreed to exit the vehicle and was safely detained. The driver was arrested for pursuit and evasion related charges. "
+  },
+  {
+    "cmd": "North Command",
+    "id": "23-094859",
+    "code": "Stolen Vehicle - Arrest",
+    "location": "Del Paso Blvd / El Camino Ave",
+    "date": "2023-04-09",
+    "time": "0234",
+    "text": "Officers located a stolen vehicle and conducted a traffic enforcement stop. The occupants of the vehicle were detained, and the driver was arrested for theft related charges. "
+  },
+  {
+    "cmd": "Central Command",
+    "id": "23-095287",
+    "code": "Indecent Exposure - Arrest",
+    "location": "1100 Block of Front St",
+    "date": "2023-04-09",
+    "time": "1548",
+    "text": "Officers responded to a report of an individual exposing themselves. Upon arrival, officers attempted to contact the suspect who ignored them and walked away. While officers attempted to detain the suspect, the suspect spit on an officer and tried to bite a second officer. The suspect was safely detained and determined to be under the influence of narcotics. The suspect was arrested for related charges. "
+  },
+  {
+    "cmd": "North Command",
+    "id": "23-095377",
+    "code": "Traffic Stop - Firearm Arrest",
+    "location": "2600 Block of Altos Ave",
+    "date": "2023-04-09",
+    "time": "1731",
+    "text": "Officers conducted a traffic enforcement stop. During the investigation, officers located a loaded firearm in the vehicle. The driver was arrested for firearm related charges. "
+  },
+  {
+    "cmd": "North Command",
+    "id": "23-095408",
+    "code": "Pursuit - Arrest",
+    "location": "Azevedo Dr / Las Coches Way",
+    "date": "2023-04-09",
+    "time": "1812",
+    "text": "Officers were in the area when they located an occupied stolen vehicle.  The suspect vehicle immediately fled from officers and a short vehicle pursuit ensued.  The driver struck a curb which, disabled the vehicle. The driver then fled on foot but was quickly detained. The suspect was arrested for related charges.  "
+  },
+  {
+    "cmd": "North Command",
+    "id": "23-095412",
+    "code": "Assault - Arrest",
+    "location": "2200 Block of Colfax St",
+    "date": "2023-04-09",
+    "time": "1815",
+    "text": "Officers responded to a report of a stabbing. Upon arrival, officers located the victim and determined they were stabbed with a construction tool. The suspect was located and arrested for related charges. "
+  },
+  {
+    "cmd": "North Command",
+    "id": "23-095623",
+    "code": "Burglary - Arrest",
+    "location": "2700 Block of Connie Dr",
+    "date": "2023-04-09",
+    "time": "2217",
+    "text": "Officers responded to a report of a burglary. Upon arrival, officers located the suspect inside the business. The suspect was safely detained and booked for burglary related charges.  "
   }
 ]
