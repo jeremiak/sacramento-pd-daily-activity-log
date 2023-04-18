@@ -5542,5 +5542,41 @@
     "date": "2023-04-11",
     "time": "2251",
     "text": "Officers observed a suspect known to have an outstanding felony warrant. Officers attempted to detain the suspect, but the suspect immediately fled on foot from officers. When officers caught up to the suspect, he continued to resist. Additional units arrived to assist, and the suspect was safely detained. During the investigation, officers located a large amount of narcotics. The suspect was arrested for related charges. "
+  },
+  {
+    "cmd": "South Command",
+    "id": "23-098986",
+    "code": "Assault on Officers/Arrest",
+    "location": "3800 Block of Florin Road",
+    "date": "2023-04-12",
+    "time": "2326",
+    "text": "Officers were searching an area for a wanted subject when they came across four individuals actively fighting.  When officers approached the individuals, two of them fled the scene, but the other two were detained. The two individuals were transported to jail for resisting arrest and trying to bite one of the officers. "
+  },
+  {
+    "cmd": "South Command",
+    "id": "23-099718",
+    "code": "Foot Pursuit/Arrest",
+    "location": "2600 Block of Toy Ave",
+    "date": "2023-04-13",
+    "time": "1652",
+    "text": "Officers were in the area looking for a suspect who had three felony warrants. While on-scene, officers located the suspect and attempted to detain them. The suspect fled on foot and a perimeter was quickly established. With the assistance of a police helicopter and police K9, the suspect was located and safely arrested for the outstanding warrants.  "
+  },
+  {
+    "cmd": "South Command",
+    "id": "23-101189",
+    "code": "Gun Arrest",
+    "location": "Florin Rd/Indian Lane",
+    "date": "2023-04-15",
+    "time": "0018",
+    "text": "Officers conducted a traffic enforcement stop and determined the driver of the vehicle was intoxicated. During the investigation, officers also located a handgun.  The driver was arrested for firearm and DUI related charges.  "
+  },
+  {
+    "cmd": "East Command",
+    "id": "23-101792",
+    "code": "Arson Arrest",
+    "location": "2900 Block of Stockton",
+    "date": "2023-04-15",
+    "time": "1706",
+    "text": "Officers received a call of a subject who had lit a fire near a business. Upon arrival, officers detained the suspect and located minor property damage. Arson Investigators responded and took over the investigation. The suspect was arrested for related "
   }
 ]
