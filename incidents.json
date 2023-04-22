@@ -5580,6 +5580,33 @@
     "text": "Officers received a call of a subject who had lit a fire near a business. Upon arrival, officers detained the suspect and located minor property damage. Arson Investigators responded and took over the investigation. The suspect was arrested for related "
   },
   {
+    "cmd": "North Command",
+    "id": "23-102747",
+    "code": "Stolen Vehicle - Arrest",
+    "location": "Marconi Ave / Connie Dr",
+    "date": "2023-04-16",
+    "time": "1610",
+    "text": "Officers were in the area when they located a stolen vehicle. Officers attempted to conduct a traffic enforcement stop but the vehicle fled from officers. A vehicle pursuit ensued. Due to the suspect's unsafe driving, the pursuit was terminated. With the assistance of a police helicopter, the suspect was located and safely detained. The suspect was arrested for related charges.  "
+  },
+  {
+    "cmd": "North Command",
+    "id": "23-103898",
+    "code": "Stolen Vehicle - Arrest",
+    "location": "Norwood Ave / Jessie Ave",
+    "date": "2023-04-17",
+    "time": "1759",
+    "text": "Officers located an unoccupied stolen vehicle. While on-scene, officers located and detained the suspect. The suspect was arrested for theft related charges.  "
+  },
+  {
+    "cmd": "North Command",
+    "id": "23-103959",
+    "code": "Disturbance - Firearm Arrest",
+    "location": "Main Ave / Norwood Ave",
+    "date": "2023-04-17",
+    "time": "1907",
+    "text": "Officers responded to a report of a disturbance. During the investigation, officers determined the suspect brandished a firearm and intentionally hit  the victim’s vehicle. Officers detained the suspect and located the firearm. The suspect was arrested for assault and firearm related charges. "
+  },
+  {
     "cmd": "South Command",
     "id": "23-105010",
     "code": "Stolen Vehicle - Arrest",
