@@ -5623,5 +5623,41 @@
     "date": "2023-04-18",
     "time": "2220",
     "text": "Officers conducted a traffic enforcement stop and contacted the occupants. During the investigation, officers located a loaded firearm. The suspect was arrested for related charges. "
+  },
+  {
+    "cmd": "East Command",
+    "id": "23-108258",
+    "code": "Robbery - Arrest",
+    "location": "6500 Block of Folsom Blvd",
+    "date": "2023-04-21",
+    "time": "2212",
+    "text": "Officers responded to a report of a stabbing. Officers searched the area and detained the suspect. The suspect was arrested for robbery related charges. "
+  },
+  {
+    "cmd": "Central Command",
+    "id": "23-108256",
+    "code": "Assault - Arrest",
+    "location": "500 Block of J Street",
+    "date": "2023-04-21",
+    "time": "2213",
+    "text": "Officers responded to a report of an assault. During the investigation, officers located the suspect and arrested them for assault related charges. "
+  },
+  {
+    "cmd": "Central Command",
+    "id": "23-108429",
+    "code": "Homicide – Investigation",
+    "location": "1000 Block of L Street",
+    "date": "2023-04-22",
+    "time": "0150",
+    "text": "Please see the following link for a press release regarding this incident: Homicide Investigation - 1000 Block of L Street"
+  },
+  {
+    "cmd": "North Command",
+    "id": "23-108971",
+    "code": "Assault - Firearm Arrest",
+    "location": "1000 Block of Pinedale Ave",
+    "date": "2023-04-22",
+    "time": "1746",
+    "text": "Officers responded to a report of a brandishing involving a firearm. Upon arrival, officers detained the suspect. During the investigation, officers located a loaded firearm and narcotics. The suspect was arrested for related charges. "
   }
 ]
