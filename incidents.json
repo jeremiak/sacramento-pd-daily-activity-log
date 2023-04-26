@@ -5659,5 +5659,32 @@
     "date": "2023-04-22",
     "time": "1746",
     "text": "Officers responded to a report of a brandishing involving a firearm. Upon arrival, officers detained the suspect. During the investigation, officers located a loaded firearm and narcotics. The suspect was arrested for related charges. "
+  },
+  {
+    "cmd": "East Command",
+    "id": "23-109278",
+    "code": "Warrant Arrest",
+    "location": "84th St / 24th Ave",
+    "date": "2023-04-23",
+    "time": "0017",
+    "text": "Officers responded to the area regarding a subject with an outstanding felony warrant. After an extensive search, officers located the suspect who was safely arrested for the outstanding warrant. "
+  },
+  {
+    "cmd": "Central Command",
+    "id": "23-109312",
+    "code": "Stolen Vehicle – Arrest",
+    "location": "12th St / C St",
+    "date": "2023-04-23",
+    "time": "0109",
+    "text": "Officers were in the area when they located a stolen vehicle. Officers conducted a traffic enforcement stop and detained the driver. The suspect was arrested for theft related charges. "
+  },
+  {
+    "cmd": "South Command",
+    "id": "23-109523",
+    "code": "Burglary - Arrest",
+    "location": "4000 Block of Freeport Blvd",
+    "date": "2023-04-23",
+    "time": "0911",
+    "text": "Officers responded to a report of a burglary where the victim observed a suspect break into a business. Upon arrival, officers located and detained the suspect. During the investigation, officers located stolen items from the business. The suspect was arrested for related charges. "
   }
 ]
