@@ -5686,5 +5686,50 @@
     "date": "2023-04-23",
     "time": "0911",
     "text": "Officers responded to a report of a burglary where the victim observed a suspect break into a business. Upon arrival, officers located and detained the suspect. During the investigation, officers located stolen items from the business. The suspect was arrested for related charges. "
+  },
+  {
+    "cmd": "North Command",
+    "id": "23-110406",
+    "code": "Assault - Arrest",
+    "location": "2400 Block of Erickson St",
+    "date": "2023-04-24",
+    "time": "0248",
+    "text": "Officers responded to a disturbance involving two individuals. Upon arrival, officers determined that the suspect struck the victim with a flashlight. The victim sustained moderate injuries. The suspect was located and arrested for assault related charges. "
+  },
+  {
+    "cmd": "South Command",
+    "id": "23-110461",
+    "code": "Burglary - Firearm Arrest",
+    "location": "7800 Block of Brizio Walk",
+    "date": "2023-04-24",
+    "time": "0604",
+    "text": "Officers responded to a report of a burglary at a closed business. During the investigation, officers located the suspect and located several stolen items. Officers also located an illegally possessed firearm. The suspect was arrested for related charges. "
+  },
+  {
+    "cmd": "Central Command",
+    "id": "23-110965",
+    "code": "Vehicle Collision - Investigation",
+    "location": "W St / 24th St",
+    "date": "2023-04-24",
+    "time": "1529",
+    "text": "Officers responded to a report of a vehicle collision involving a motorcycle. At the scene, officers located the motorcyclist, a male adult, who sustained serious injuries. Officers performed life saving measures, but the individual was declared deceased on-scene. The driver of the vehicle involved in the collision remained on-scene. Major Collision Investigations Unit Detectives responded to process the scene. "
+  },
+  {
+    "cmd": "South Command",
+    "id": "23-111106",
+    "code": "Reckless Driver - Citation",
+    "location": "7000 Block of Laramore Way",
+    "date": "2023-04-24",
+    "time": "1724",
+    "text": "Officers responded to a report of a reckless driver. Upon arrival, officers located the involved vehicle parked in the area. Through the investigation, officers determined that the registered owner was driving the vehicle and obtained evidence of reckless driving. The registered owner was cited for related charges and the vehicle was towed on a 30 day impound. "
+  },
+  {
+    "cmd": "Central Command",
+    "id": "23-111272",
+    "code": "Robbery - Arrest",
+    "location": "7th St / L St",
+    "date": "2023-04-24",
+    "time": "2033",
+    "text": "Officers were in the area when a victim notified them of a robbery that just occurred. Officers located the suspect on the victim’s stolen bicycle and attempted to stop the suspect. The suspect fled on foot from officers. Officers caught up to the suspect who then physically assaulted an officer. Additional officers responded to assist, and the suspect was safely taken into custody. The stolen bicycle was recovered, and the suspect was arrested for related charges. "
   }
 ]
