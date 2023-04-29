@@ -5740,5 +5740,32 @@
     "date": "2023-04-25",
     "time": "0150",
     "text": "Officers responded to a report of a subject pointing a green laser at a police aircraft. Officers located and detained the suspect. During the investigation, officers recovered the laser and the suspect was arrested for related charges.  "
+  },
+  {
+    "cmd": "Central Command",
+    "id": "23-112621",
+    "code": "Robbery - Arrest",
+    "location": "600 Block of I Street",
+    "date": "2023-04-26",
+    "time": "0104",
+    "text": "Officers responded to a report of a robbery committed by a known suspect. Upon arrival, officers located the suspect and determined that the suspect had an outstanding felony warrant. The suspect was arrested for related charges and their warrant. "
+  },
+  {
+    "cmd": "South Command",
+    "id": "23-113486",
+    "code": "Vehicle Collision - DUI Arrest",
+    "location": "2700 Block of Meadowview",
+    "date": "2023-04-26",
+    "time": "1844",
+    "text": "Officers responded to a report of a vehicle collision. Upon arrival, officers contacted one of the involved drivers and determined they displayed objective signs of intoxication. The suspect was arrested for related charges. "
+  },
+  {
+    "cmd": "North Command",
+    "id": "23-113620",
+    "code": "Assault - Arrest",
+    "location": "3000 Block of Tierra Nuevo Way",
+    "date": "2023-04-26",
+    "time": "2105",
+    "text": "Officers responded to a report of a physical fight. Upon arrival, officers attempted to detain the suspect. The suspect physically assaulted two officers who sustained minor injuries. Additional officers arrived on-scene, and safely detained the suspect. The suspect was arrested for related charges. "
   }
 ]
