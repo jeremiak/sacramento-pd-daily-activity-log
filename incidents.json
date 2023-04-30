@@ -5767,5 +5767,23 @@
     "date": "2023-04-26",
     "time": "2105",
     "text": "Officers responded to a report of a physical fight. Upon arrival, officers attempted to detain the suspect. The suspect physically assaulted two officers who sustained minor injuries. Additional officers arrived on-scene, and safely detained the suspect. The suspect was arrested for related charges. "
+  },
+  {
+    "cmd": "North Command",
+    "id": "23-113789",
+    "code": "Stolen Vehicle - Arrest",
+    "location": "600 El Camino Ave",
+    "date": "2023-04-27",
+    "time": "0115",
+    "text": "Officers were in the area when they located a felony vehicle. Officers attempted to conduct a traffic enforcement stop and a vehicle pursuit ensued. During the pursuit, the suspect’s vehicle became disabled, and the suspect fled on foot from the vehicle. Officers pursued the suspect, and they were safely detained. The suspect was arrested for related charges. "
+  },
+  {
+    "cmd": "North Command",
+    "id": "23-113811",
+    "code": "Burglary - Arrest",
+    "location": "20th Block of Goldenland Court",
+    "date": "2023-04-27",
+    "time": "0155",
+    "text": "Officers responded to a report of burglary. Upon arrival, officers located a door that had been forced open. During the investigation, officers located two suspects inside the building and arrested them for burglary related charges. "
   }
 ]
