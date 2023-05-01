@@ -5785,5 +5785,32 @@
     "date": "2023-04-27",
     "time": "0155",
     "text": "Officers responded to a report of burglary. Upon arrival, officers located a door that had been forced open. During the investigation, officers located two suspects inside the building and arrested them for burglary related charges. "
+  },
+  {
+    "cmd": "South Command",
+    "id": "23-115784",
+    "code": "Robbery Arrest",
+    "location": "2300 Block of Matson Dr",
+    "date": "2023-04-28",
+    "time": "1600",
+    "text": "Officers responded to reports of a robbery.  Multiple suspects assaulted the victim and stole property.  While investigating officers located the suspects in the area.  The suspects fled on foot and were eventually detained.  After investigating, all of the suspects were arrested for related charges and the victim’s property was returned."
+  },
+  {
+    "cmd": "North Command",
+    "id": "23-116098",
+    "code": "Robbery Investigation",
+    "location": "3300 Block of Zalema Way",
+    "date": "2023-04-28",
+    "time": "2117",
+    "text": "Officers responded to reports of a gunpoint robbery. The suspects brandished handguns and stole cash from the victim before fleeing.  Active investigation."
+  },
+  {
+    "cmd": "East Command",
+    "id": "23-116220",
+    "code": "Shooting Investigation",
+    "location": "3500 Block of 16th Ave",
+    "date": "2023-04-28",
+    "time": "2334",
+    "text": "Officers responded to reports of a shooting.  Officers located one victim who had sustained a non-life threatening gunshot wound.  The suspects fled prior to the arrival of officers.  Active investigation."
   }
 ]
