@@ -5812,5 +5812,41 @@
     "date": "2023-04-28",
     "time": "2334",
     "text": "Officers responded to reports of a shooting.  Officers located one victim who had sustained a non-life threatening gunshot wound.  The suspects fled prior to the arrival of officers.  Active investigation."
+  },
+  {
+    "cmd": "South Command",
+    "id": "23-116321",
+    "code": "Gun Arrest",
+    "location": "Meadowview Rd / Red Willow St",
+    "date": "2023-04-29",
+    "time": "0203",
+    "text": "Officers made a traffic stop for vehicle code violations.  During the stop, officers located an illegally possessed handgun in the vehicle.  One suspect was arrested for related charges."
+  },
+  {
+    "cmd": "East Command",
+    "id": "23-116329",
+    "code": "Robbery Investigation",
+    "location": "3000 Block of Redding Ave",
+    "date": "2023-04-29",
+    "time": "0225",
+    "text": "Officers responded to reports of a robbery.  The victim was confronted by three individuals who stole his personal property.  The victim was uninjured.  The suspects fled the scene prior to the arrival of officers.  Active investigation."
+  },
+  {
+    "cmd": "East Command",
+    "id": "23-116853",
+    "code": "Robbery Arrest",
+    "location": "8000 Block of Elder Creek Rd",
+    "date": "2023-04-29",
+    "time": "1605",
+    "text": "Officers responded to a theft call.  The suspect had attempted to steal merchandise from a business.  When confronted, the suspect assaulted employees and vandalized the business.  Responding officers safely arrested the suspect for related charges. "
+  },
+  {
+    "cmd": "South Command",
+    "id": "23-116857",
+    "code": "Vehicle Theft Arrest",
+    "location": "24th St / 47th Ave",
+    "date": "2023-04-29",
+    "time": "1612",
+    "text": "Officers located a stolen vehicle and safely arrested the driver for related charges"
   }
 ]
