@@ -5848,5 +5848,41 @@
     "date": "2023-04-29",
     "time": "1612",
     "text": "Officers located a stolen vehicle and safely arrested the driver for related charges"
+  },
+  {
+    "cmd": "North Command",
+    "id": "23-118024",
+    "code": "Shooting Investigation",
+    "location": "500 Block of Wisconsin Ave",
+    "date": "2023-04-30",
+    "time": "1649",
+    "text": "Officers responded to reports of a shooting.  Upon arrival, officers located a male adult victim suffering from a gunshot wound.  The victim was transported to an area hospital in stable condition.  Active investigation."
+  },
+  {
+    "cmd": "Central Command",
+    "id": "23-118294",
+    "code": "Assault Investigation",
+    "location": "100 Block of K St",
+    "date": "2023-04-30",
+    "time": "2131",
+    "text": "Officers responded to reports of a large fight.  Upon arrival, officers located an unconscious male adult.  The male was transported to an area hospital in stable condition.  Active investigation. "
+  },
+  {
+    "cmd": "Central Command",
+    "id": "23-118364",
+    "code": "Assault Arrest",
+    "location": "24th St / Jazz Alley",
+    "date": "2023-04-30",
+    "time": "2255",
+    "text": "Officers responded to reports of a large fight.  Upon arrival, officers observed the suspect actively assaulting the victim.  Officers removed the suspect from the victim and safely arrested him for related charges."
+  },
+  {
+    "cmd": "South Command",
+    "id": "23-119181",
+    "code": "Hit and Run - Arrest",
+    "location": "19th St / Broadway",
+    "date": "2023-05-01",
+    "time": "1749",
+    "text": "Officers responded to a report of a hit and run. Before officers arrived on-scene, the suspect fled on foot from the suspect vehicle. Upon arrival, witnesses led officers to the suspect. The suspect was detained and officers determined the suspect displayed signs of intoxication. The suspect was arrested for DUI related charges. "
   }
 ]
