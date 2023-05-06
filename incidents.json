@@ -5893,5 +5893,23 @@
     "date": "2023-05-02",
     "time": "1619",
     "text": "Officers responded to a report of a disturbance. Upon arrival, officers observed a physical altercation between two individuals and attempted to intervene. The suspect continued to physically resist officers. Additional officers responded and the suspect was safely detained. The suspect was arrested for related charges. "
+  },
+  {
+    "cmd": "North Command",
+    "id": "23-121363",
+    "code": "Traffic Stop - Gun Arrest",
+    "location": "Harris Ave / Balsam St",
+    "date": "2023-05-03",
+    "time": "1915",
+    "text": "Officers conducted a traffic enforcement stop and contacted the occupants. During the investigation, officers located an illegally possessed firearm. The suspect was arrested for firearm related charges. "
+  },
+  {
+    "cmd": "North Command",
+    "id": "23-121382",
+    "code": "Disturbance - Arrest",
+    "location": "100 Block of Spinel Cir",
+    "date": "2023-05-03",
+    "time": "1937",
+    "text": "Officers responded to a report of a subject brandishing a firearm. Upon arrival, officers located and detained the suspect. Officers located the involved firearm and determined that it was a BB gun. The suspect was arrested for related charges. "
   }
 ]
