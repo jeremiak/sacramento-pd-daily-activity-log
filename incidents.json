@@ -5911,5 +5911,113 @@
     "date": "2023-05-03",
     "time": "1937",
     "text": "Officers responded to a report of a subject brandishing a firearm. Upon arrival, officers located and detained the suspect. Officers located the involved firearm and determined that it was a BB gun. The suspect was arrested for related charges. "
+  },
+  {
+    "cmd": "Central Command",
+    "id": "23-121781",
+    "code": "Assault - Arrest",
+    "location": "600 Block of 17th Street",
+    "date": "2023-05-04",
+    "time": "0904",
+    "text": "Officers responded to a report of a shooting. Upon arrival, officers located the uninjured victim. During the investigation, officers identified and located the suspect. The suspect was safely arrested for assault related charges. "
+  },
+  {
+    "cmd": "South Command",
+    "id": "23-122154",
+    "code": "Firearm Arrest",
+    "location": "2700 Block of Ramp Way",
+    "date": "2023-05-04",
+    "time": "1550",
+    "text": "Officers were conducting follow-up on a shooting that occurred the month prior. During the investigation, officers detained the suspect and located a firearm. The suspect was arrested for assault and firearm related charges. "
+  },
+  {
+    "cmd": "Central Command",
+    "id": "23-122734",
+    "code": "Weapons - Arrest",
+    "location": "Vine St / Riverine Way",
+    "date": "2023-05-05",
+    "time": "0834",
+    "text": "Officers responded to a report of a suspect who brandished a knife. Upon arrival, officers detained the suspect and located a knife. The suspect was arrested on related charges. "
+  },
+  {
+    "cmd": "Central Command",
+    "id": "23-122758",
+    "code": "Vandalism - Arrest",
+    "location": "600 H Street",
+    "date": "2023-05-05",
+    "time": "0913",
+    "text": "Officers responded to a report of a vandalism that involved a rock. Upon arrival, officers safely detained the suspect and arrested them for related charges. "
+  },
+  {
+    "cmd": "South Command",
+    "id": "23-122927",
+    "code": "Robbery - Arrest",
+    "location": "1400 Block of Meadowview Road",
+    "date": "2023-05-05",
+    "time": "1232",
+    "text": "Officers responded to a report of a robbery. Upon arrival, officers determined that the suspect got into a physical altercation with the victim before fleeing the scene. Officers located the suspect in the area and arrested them for related charges. "
+  },
+  {
+    "cmd": "South Command",
+    "id": "23-122977",
+    "code": "Burglary - Arrest",
+    "location": "8400 Block of W Wing Drive",
+    "date": "2023-05-05",
+    "time": "1332",
+    "text": "Officers responded to a report of a burglary in progress. Upon arrival, officers located and detained the suspect. The suspect was arrested for burglary related charges. "
+  },
+  {
+    "cmd": "South Command",
+    "id": "23-123114",
+    "code": "Burglary - Arrest",
+    "location": "3900 Block of Mack Road",
+    "date": "2023-05-05",
+    "time": "1603",
+    "text": "Officers responded to a report of a burglary in progress. Upon arrival, officers located the suspect inside the victim bedroom. The suspect was arrested for burglary related charges as well as outstanding warrants. "
+  },
+  {
+    "cmd": "East Command",
+    "id": "23-123129",
+    "code": "Subject Stop - Arrest",
+    "location": "34th St / 19th Ave",
+    "date": "2023-05-05",
+    "time": "1619",
+    "text": "Officers were in the area when they located a wanted suspect. Officers coordinated with assigned detectives and safely detained the suspect. The suspect was arrested for related charges. "
+  },
+  {
+    "cmd": "East Command",
+    "id": "23-123179",
+    "code": "Firearm Arrest",
+    "location": "3400 Block of 4th Avenue",
+    "date": "2023-05-05",
+    "time": "1710",
+    "text": "Officers responded to a report of a disturbance involving a shotgun. Upon arrival, officers safely detained the suspect and located the illegally possessed shotgun. The suspect was arrested for related charges. "
+  },
+  {
+    "cmd": "Central Command",
+    "id": "23-123239",
+    "code": "Trespassing - Arrest",
+    "location": "400 Block of 12th Street",
+    "date": "2023-05-05",
+    "time": "1812",
+    "text": "Officers responded to a suspicious circumstance involving two individuals trespassing on the property. Upon arrival, officers located two involved subjects and attempted to detain them. Both suspects physically resisted and assaulted officers. Additional units arrived on-scene and the suspects were safely detained. Both suspects were arrested for related charges. "
+  },
+  {
+    "cmd": "Central Command",
+    "id": "23-123624",
+    "code": "Weapons - Arrest",
+    "location": "1000 Block of 20th Street",
+    "date": "2023-05-06",
+    "time": "0158",
+    "text": "Officers responded to a report of a suspect who brandished a knife. Upon arrival, officers detained the suspect who was arrested for related charges. "
+  },
+  {
+    "cmd": "South Command",
+    "id": "23-124179",
+    "code": "Vehicle Collision - DUI Arrest",
+    "location": "24th St / Florin Rd",
+    "date": "2023-05-06",
+    "time": "1625",
+    "text": "Officers responded to a report of a vehicle collision. Upon arrival, both occupants were transported to area hospitals to be treated for non-life-threatening injuries. During the investigation, officers determined the driver displayed objective signs of intoxication. The suspect was arrested for DUI related charges. "
   }
 ]
