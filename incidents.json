@@ -6019,5 +6019,23 @@
     "date": "2023-05-06",
     "time": "1625",
     "text": "Officers responded to a report of a vehicle collision. Upon arrival, both occupants were transported to area hospitals to be treated for non-life-threatening injuries. During the investigation, officers determined the driver displayed objective signs of intoxication. The suspect was arrested for DUI related charges. "
+  },
+  {
+    "cmd": "Central Command",
+    "id": "23-124625",
+    "code": "Assault - Arrest",
+    "location": "1000 Block of K Street",
+    "date": "2023-05-07",
+    "time": "0126",
+    "text": "Officers were in the area when they observed multiple suspects physically assaulting the victim. Officers quickly intervened and detained the suspect. The suspects were arrested for assault related charges. "
+  },
+  {
+    "cmd": "South Command",
+    "id": "23-124684",
+    "code": "Homicide Investigation and Arrest",
+    "location": "2000 Block of 67th Avenue",
+    "date": "2023-05-07",
+    "time": "0257",
+    "text": "Please see the following link for a press release regarding this incident: Homicide Investigation and Arrest"
   }
 ]
