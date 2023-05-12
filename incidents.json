@@ -6046,5 +6046,50 @@
     "date": "2023-05-08",
     "time": "1648",
     "text": "Officers responded to a report of a shooting.  Upon arrival, officers located evidence of a shooting with no property damage or victims.  Active Investigation."
+  },
+  {
+    "cmd": "South Command",
+    "id": "23-126547",
+    "code": "Shooting Investigation",
+    "location": "2600 Block of Edinger Ave",
+    "date": "2023-05-09",
+    "time": "0023",
+    "text": "Officers responded to a report of a shooting. Officers were unable to locate any evidence of a shooting during follow-up.  Crime report generated."
+  },
+  {
+    "cmd": "South Command",
+    "id": "23-127096",
+    "code": "Warrant - Arrest",
+    "location": "1400 block of Broadway",
+    "date": "2023-05-09",
+    "time": "1441",
+    "text": "Officers responded to the area regarding a subject with an outstanding warrant. Officers located the suspect who was arrested for their outstanding warrant. "
+  },
+  {
+    "cmd": "North Command",
+    "id": "23-127349",
+    "code": "Stolen Vehicle - Arrest",
+    "location": "2800 Block of Del Paso Blvd",
+    "date": "2023-05-09",
+    "time": "1859",
+    "text": "Officers were in the area when they located a stolen vehicle. Officers conducted a traffic enforcement stop and detained the driver. The suspect was arrested for related charges. "
+  },
+  {
+    "cmd": "Central Command",
+    "id": "23-127394",
+    "code": "Warrant - Arrest",
+    "location": "1200 Block of Front St",
+    "date": "2023-05-09",
+    "time": "1956",
+    "text": "Officers responded to the area regarding a subject with an outstanding warrant. After an extensive search, officers located the suspect who was safely arrested for the outstanding warrant. "
+  },
+  {
+    "cmd": "East Command",
+    "id": "23-127523",
+    "code": "Shooting Investigation",
+    "location": "3500 Block of 9th Ave",
+    "date": "2023-05-09",
+    "time": "2336",
+    "text": "Officers responded to a report of a shooting. Upon arrival, officers located a victim with at least one non-life-threatening gunshots wound. The victim was transported to an area hospital to be treated for their injuries. No suspects have been arrested. This remains an active investigation."
   }
 ]
