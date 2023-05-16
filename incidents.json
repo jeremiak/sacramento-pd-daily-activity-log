@@ -6145,5 +6145,122 @@
     "date": "2023-05-10",
     "time": "2225",
     "text": "Officers responded to a report of a hit and run. Officers located the suspect vehicle. The suspect was arrested on related charges."
+  },
+  {
+    "cmd": "Central Command",
+    "id": "23-128763",
+    "code": "Burglary - Arrest",
+    "location": "1000 Block of 24th St",
+    "date": "2023-05-11",
+    "time": "0644",
+    "text": "Officers responded to a report of a burglary in progress. Upon arrival, officers located and detained the suspect. The suspect was arrested for burglary related charges.  "
+  },
+  {
+    "cmd": "Central Command",
+    "id": "23-128796",
+    "code": "Vandalism – Arrest",
+    "location": "2200 Block of 16th St",
+    "date": "2023-05-11",
+    "time": "0755",
+    "text": "Officers responded to a report of a vandalism. Upon arrival, officers located and detained the suspect. The suspect was arrested for vandalism related charges. "
+  },
+  {
+    "cmd": "South Command",
+    "id": "23-129361",
+    "code": "Firearm - Arrest",
+    "location": "3800 Block of Florin Rd",
+    "date": "2023-05-11",
+    "time": "1737",
+    "text": "Officers conducted a traffic enforcement stop and contacted the occupants. During the investigation, officers located an illegally possessed firearm. The suspect was arrested for firearm related charges. "
+  },
+  {
+    "cmd": "East Command",
+    "id": "23-129816",
+    "code": "Disturbance - Arrest",
+    "location": "5600 Block of 66th St",
+    "date": "2023-05-12",
+    "time": "0627",
+    "text": "Officers responded to a report of an incomplete emergency call. Upon arrival, officers learned the suspect got into a physical altercation and threatened the victim. The suspect was arrested on related charges."
+  },
+  {
+    "cmd": "East Command",
+    "id": "23-130188",
+    "code": "Robbery - Arrest",
+    "location": "4400 Block of Broadway",
+    "date": "2023-05-12",
+    "time": "1333",
+    "text": "Officers responded to a report of a robbery and assault at two separate locations. During the investigation, officers identified the suspects and arrested them for related charges. "
+  },
+  {
+    "cmd": "North Command",
+    "id": "23-130329",
+    "code": "Subject Stop - Narcotic Arrest",
+    "location": "400 Block of Haggin Ave",
+    "date": "2023-05-12",
+    "time": "1538",
+    "text": "Officers conducted an enforcement stop and located narcotics and a stolen motorcycle. During the investigation, officers located additional narcotics. The suspect was arrested for theft and narcotic related charges.  "
+  },
+  {
+    "cmd": "Central Command",
+    "id": "23-130380",
+    "code": "Theft - Arrest",
+    "location": "1700 Block of J Street",
+    "date": "2023-05-12",
+    "time": "1622",
+    "text": "Officers responded to a report of a theft. Upon arrival, officers located and attempted to detain the suspect. The suspect physically resisted. Additional officers responded to assist, and the suspect was safely detained. The suspect was arrested for related charges.  "
+  },
+  {
+    "cmd": "East Command",
+    "id": "23-130703",
+    "code": "Traffic Stop - Gun Arrest",
+    "location": "Power Inn Rd / Folsom Blvd",
+    "date": "2023-05-12",
+    "time": "2104",
+    "text": "Officer conducted a traffic enforcement stop and contacted the occupants. During the investigation, officers located a firearm and narcotics. Both suspects were arrested for related charges. "
+  },
+  {
+    "cmd": "North Command",
+    "id": "23-130867",
+    "code": "Pursuit - Stolen Vehicle Arrest",
+    "location": "Altos Ave / Lampasas Ave",
+    "date": "2023-05-13",
+    "time": "0014",
+    "text": "Officers attempted to conduct a traffic enforcement stop, but the driver failed to yield. A vehicle pursuit ensued. During the pursuit, the suspect’s vehicle became disabled, and the occupants fled from the vehicle. Officers quickly detained the driver and arrested them for theft related charges. "
+  },
+  {
+    "cmd": "South Command",
+    "id": "23-131217",
+    "code": "Assault - Arrest",
+    "location": "7100 Block of 24th St",
+    "date": "2023-05-13",
+    "time": "1051",
+    "text": "Officers responded to a report of a physical altercation between two individuals. Upon arrival, officers determined that the suspect assaulted the victim with a stick. The suspect was arrested for assault related charges.  "
+  },
+  {
+    "cmd": "South Command",
+    "id": "23-131448",
+    "code": "Sideshow - Multiple Citations",
+    "location": "Meadowview Rd / Amherst St",
+    "date": "2023-05-13",
+    "time": "1510",
+    "text": "Officers responded to a report of a large sideshow involving over 500 vehicles. Upon arrival, officers towed twelve vehicles, issued thirteen citations, and arrested two suspects for pursuit related charges. "
+  },
+  {
+    "cmd": "North Command",
+    "id": "23-131467",
+    "code": "Vandalism - Arrest",
+    "location": "2800 Block of Del Paso Rd",
+    "date": "2023-05-13",
+    "time": "1535",
+    "text": "Officers responded to a report of a disturbance and vandalism. Upon arrival, officers located and safely detained the suspect. The suspect was arrested for related charges. "
+  },
+  {
+    "cmd": "North Command",
+    "id": "23-131697",
+    "code": "Fatal Vehicle Collision - Investigation",
+    "location": "3800 Block of Roseville Rd",
+    "date": "2023-05-13",
+    "time": "1838",
+    "text": "Officers responded to a single vehicle collision involving an unoccupied parked vehicle. Upon arrival, officers located a male adult with serious injuries. Officers began rendering life-saving efforts on the sole occupant of the vehicle until relieved by Sacramento Fire Department personnel. Despite these efforts, the driver was pronounced deceased at the scene. Based on the circumstances, detectives from the Major Collisions Investigations Unit responded to conduct the investigation. "
   }
 ]
