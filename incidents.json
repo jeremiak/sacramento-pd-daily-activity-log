@@ -6262,5 +6262,23 @@
     "date": "2023-05-13",
     "time": "1838",
     "text": "Officers responded to a single vehicle collision involving an unoccupied parked vehicle. Upon arrival, officers located a male adult with serious injuries. Officers began rendering life-saving efforts on the sole occupant of the vehicle until relieved by Sacramento Fire Department personnel. Despite these efforts, the driver was pronounced deceased at the scene. Based on the circumstances, detectives from the Major Collisions Investigations Unit responded to conduct the investigation. "
+  },
+  {
+    "cmd": "North Command",
+    "id": "23-132917",
+    "code": "Firearm - Arrest",
+    "location": "3600 Block of Clay St",
+    "date": "2023-05-14",
+    "time": "1928",
+    "text": "Officers responded to a report of a disturbance involving a subject armed with a firearm. Upon arrival, officers learned that a witness had grabbed the firearm from the suspect and safely secured it. During the investigation, officers located the firearm and arrested the suspect for related charges. "
+  },
+  {
+    "cmd": "Central Command",
+    "id": "23-132990",
+    "code": "Weapon - Arrest",
+    "location": "2600 Block of C St",
+    "date": "2023-05-14",
+    "time": "2043",
+    "text": "Officers responded to a report of a subject swinging a hatchet at a tree. Upon arrival, officers located and detained the suspect. During the investigation, officers learned that the suspect also threatened a victim with the hatchet. The suspect was arrested for related charges. "
   }
 ]
