@@ -6316,5 +6316,41 @@
     "date": "2023-05-15",
     "time": "1909",
     "text": "Officers were in the area when they located a wanted subject. Officers arrested the suspect for their outstanding warrant."
+  },
+  {
+    "cmd": "North Command",
+    "id": "23-134243",
+    "code": "Pursuit - Arrest",
+    "location": "Stonecreek Dr/ W El Camino Ave",
+    "date": "2023-05-16",
+    "time": "0019",
+    "text": "Officers attempted to conduct a traffic enforcement stop, but the driver failed to yield. A vehicle pursuit ensued. Due to the reckless driving of the suspect, the pursuit was terminated. The suspect was located with the assistance of a police helicopter. Officers safely detained and arrested on related charges."
+  },
+  {
+    "cmd": "Central Command",
+    "id": "23-134708",
+    "code": "Assault - Arrest",
+    "location": "N B ST / N 7TH ST",
+    "date": "2023-05-16",
+    "time": "1230",
+    "text": "Officers responded to a report of an assault. Upon arrival, Officers located and detained the suspect. The suspect was arrested on related charges"
+  },
+  {
+    "cmd": "East Command",
+    "id": "23-135153",
+    "code": "Disturbance - Arrest",
+    "location": "6000 Block of Folsom Blvd",
+    "date": "2023-05-16",
+    "time": "1941",
+    "text": "Officers responded to a report of a disturbance. Upon arrival, officers located the suspect who fled on foot. Officers pursued the suspect, who was safely detained and arrested for an outstanding warrant and related charges."
+  },
+  {
+    "cmd": "South Command",
+    "id": "23-135185",
+    "code": "Gun - Arrest",
+    "location": "2000 Block of Edinger Ave",
+    "date": "2023-05-16",
+    "time": "2015",
+    "text": "Officers were conducting follow-up on a shooting that occurred the week prior. During their investigation, officers detained the suspect and located a firearm and narcotics. The suspect was arrested on related charges. "
   }
 ]
