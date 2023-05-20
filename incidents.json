@@ -6352,5 +6352,23 @@
     "date": "2023-05-16",
     "time": "2015",
     "text": "Officers were conducting follow-up on a shooting that occurred the week prior. During their investigation, officers detained the suspect and located a firearm and narcotics. The suspect was arrested on related charges. "
+  },
+  {
+    "cmd": "North Command",
+    "id": "23-136221",
+    "code": "Pursuit - Firearm Arrest",
+    "location": "Beaumont St / Bowles St",
+    "date": "2023-05-17",
+    "time": "1819",
+    "text": "Officers attempted to conduct a traffic enforcement stop but the vehicle failed to yield. A vehicle pursuit ensued. During the pursuit, the suspect vehicle became disabled, and the driver fled on foot. Additional officers responded to assist, and safely detained the suspect. During the investigation, officers located a firearm. The suspect was arrested for related charges. "
+  },
+  {
+    "cmd": "North Command",
+    "id": "23-136307",
+    "code": "Robbery - Arrest",
+    "location": "3400 Block of Colchester Ave",
+    "date": "2023-05-17",
+    "time": "1936",
+    "text": "Officers responded to a report of a robbery at two different locations involving the same suspect. With the assistance of a police helicopter, the suspects were located and detained in the area. During the investigation, officers located the victim’s stolen property. Both suspects were arrested for related charges. "
   }
 ]
