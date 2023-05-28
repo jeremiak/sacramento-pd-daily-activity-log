@@ -6505,5 +6505,59 @@
     "date": "2023-05-23",
     "time": "1308",
     "text": "Officers responded to a report of an assault involving a pipe. Upon arrival, officers located the victim who sustained moderate injuries and was transported to an area hospital for treatment. During the investigation, officers located the suspect and arrested them for related charges. "
+  },
+  {
+    "cmd": "South Command",
+    "id": "23-143442",
+    "code": "Assault - Arrest",
+    "location": "6500 Block of Mack Rd",
+    "date": "2023-05-24",
+    "time": "0746",
+    "text": "Officers responded to a report of an assault involving medical personnel. Upon arrival, officers located the uninjured victim and arrested the suspect for assault related charges. "
+  },
+  {
+    "cmd": "North Command",
+    "id": "23-143639",
+    "code": "Firearm - Arrest",
+    "location": "1600 Block of Arden Way",
+    "date": "2023-05-24",
+    "time": "1058",
+    "text": "Officers responded to a report of an armed individual with a firearm. Upon arrival, officers received information that three individuals got into a vehicle. Officers located the suspect vehicle in the area and one suspect fled on foot from officers. That suspect was located and detained with the assistance of a police K9. During the investigation, officers located a firearm in the area. During the investigation, officers located a second firearm in the area. Officers determined that the suspects were involved in a brandishing call earlier in the morning near Arden Way/Challenge Way. All three suspects were arrested for related charges. "
+  },
+  {
+    "cmd": "South Command",
+    "id": "23-144210",
+    "code": "Burglary - Arrest",
+    "location": "5700 Block of Franklin Blvd",
+    "date": "2023-05-24",
+    "time": "1945",
+    "text": "Officers responded to a report of a burglary in progress. Upon arrival, officers searched the area and located the suspect. The suspect was arrested for burglary related charges. "
+  },
+  {
+    "cmd": "South Command",
+    "id": "23-144257",
+    "code": "Burglary - Arrest",
+    "location": "7500 Block of Candlewood Way",
+    "date": "2023-05-24",
+    "time": "2045",
+    "text": "Officers responded to a vandalism and burglary in progress. The suspect was located with the assistance of a police helicopter. The suspect was arrested for related charges. "
+  },
+  {
+    "cmd": "East Command",
+    "id": "23-144568",
+    "code": "Burglary - Arrest",
+    "location": "1600 Block of 42nd St",
+    "date": "2023-05-25",
+    "time": "0642",
+    "text": "Officers responded to a report of a burglary. During the burglary, the suspect stole the victim’s vehicle. Later that morning, the suspect was located in the stolen vehicle by an outside agency and arrested for related charges. "
+  },
+  {
+    "cmd": "North Command",
+    "id": "23-145213",
+    "code": "Theft - Arrest",
+    "location": "1600 Block of Arden Way",
+    "date": "2023-05-25",
+    "time": "1752",
+    "text": "Officers responded to a report of a theft. Upon arrival, officers located the suspect vehicle in the parking lot and attempted to conduct a traffic enforcement stop. The vehicle failed to yield, and a vehicle pursuit ensued. The suspect vehicle eventually pulled over and the occupants were detained. The suspects were arrested for related charges. "
   }
 ]
