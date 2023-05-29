@@ -6559,5 +6559,23 @@
     "date": "2023-05-25",
     "time": "1752",
     "text": "Officers responded to a report of a theft. Upon arrival, officers located the suspect vehicle in the parking lot and attempted to conduct a traffic enforcement stop. The vehicle failed to yield, and a vehicle pursuit ensued. The suspect vehicle eventually pulled over and the occupants were detained. The suspects were arrested for related charges. "
+  },
+  {
+    "cmd": "East Command",
+    "id": "23-145841",
+    "code": "Robbery - Arrest",
+    "location": "2000 Block of Fair Oaks Blvd",
+    "date": "2023-05-26",
+    "time": "1215",
+    "text": "Officers responded to a report of a robbery. Upon arrival, officers determined that the suspect stole food and brandished a knife. The suspect was located and arrested for robbery related charges. "
+  },
+  {
+    "cmd": "East Command",
+    "id": "23-146283",
+    "code": "Robbery - Arrest",
+    "location": "8000 Block of Folsom Blvd",
+    "date": "2023-05-26",
+    "time": "1942",
+    "text": "Officers responded to a report of a robbery. Upon arrival, officers determined the suspect stole merchandise and got into a physical confrontation with the loss prevention officer. The suspect was located and arrested for robbery related charges. "
   }
 ]
