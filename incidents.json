@@ -6586,5 +6586,32 @@
     "date": "2023-05-27",
     "time": "1913",
     "text": "Officers were in the area when they located a stolen vehicle. Officers conducted a traffic enforcement stop and detained the occupants. The suspect was arrested for theft related charges. "
+  },
+  {
+    "cmd": "North Command",
+    "id": "23-147788",
+    "code": "Assault - Arrest",
+    "location": "2600 Block of Rio Linda Blvd",
+    "date": "2023-05-28",
+    "time": "0850",
+    "text": "Officers responded to a report of a robbery involving a knife. Upon arrival, officers located the victim who sustained minor injuries. During the investigation, officers identified and located the suspect. The suspect was arrested for assault and robbery related charges. "
+  },
+  {
+    "cmd": "North Command",
+    "id": "23-147877",
+    "code": "Theft - Arrest",
+    "location": "N Market / Northgate Blvd",
+    "date": "2023-05-28",
+    "time": "1117",
+    "text": "Officers responded to a report of mail theft. Upon arrival, officers located the suspect vehicle and conducted a traffic enforcement stop. During the investigation, officers located numerous items of stolen mail. Both suspects were arrested on theft related charges."
+  },
+  {
+    "cmd": "North Command",
+    "id": "23-148163",
+    "code": "Traffic Stop - Gun Arrest",
+    "location": "Norwood Ave / Harris Ave",
+    "date": "2023-05-28",
+    "time": "1759",
+    "text": "Officers conducted a traffic enforcement stop and detained both occupants. During the investigation, officers located two loaded firearms. Both occupants were arrested for firearm related charges. "
   }
 ]
