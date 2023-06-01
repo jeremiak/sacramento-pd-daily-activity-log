@@ -6613,5 +6613,23 @@
     "date": "2023-05-28",
     "time": "1759",
     "text": "Officers conducted a traffic enforcement stop and detained both occupants. During the investigation, officers located two loaded firearms. Both occupants were arrested for firearm related charges. "
+  },
+  {
+    "cmd": "North Command",
+    "id": "23-148815",
+    "code": "Robbery - Arrest",
+    "location": "1600 Block of Arden Way",
+    "date": "2023-05-29",
+    "time": "1232",
+    "text": "Officers responded to a report of a robbery. Upon arrival, officer located the suspect vehicle in the area. Both suspects fled on foot from the vehicle but were quickly detained. Both suspects were arrested for robbery related charges. "
+  },
+  {
+    "cmd": "East Command",
+    "id": "23-149189",
+    "code": "Burglary - Arrest",
+    "location": "2800 Block of Power Inn Road",
+    "date": "2023-05-29",
+    "time": "2101",
+    "text": "Officers responded to a report of a burglary in progress. Upon arrival, the suspects fled on foot from officers. One suspect was detained and arrested for burglary related charges."
   }
 ]
