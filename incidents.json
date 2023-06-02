@@ -6631,5 +6631,41 @@
     "date": "2023-05-29",
     "time": "2101",
     "text": "Officers responded to a report of a burglary in progress. Upon arrival, the suspects fled on foot from officers. One suspect was detained and arrested for burglary related charges."
+  },
+  {
+    "cmd": "South Command",
+    "id": "23-149787",
+    "code": "Firearm/Pursuit - Arrest",
+    "location": "5000 Block of Accrington Way",
+    "date": "2023-05-30",
+    "time": "1405",
+    "text": "Officers responded to a report of an armed subject. Upon arrival, officers located the suspect who fled in a vehicle. The suspect failed to yield, and a vehicle pursuit ensued. Due to the reckless driving of the suspect, the pursuit was terminated. The driver continued to drive recklessly and collided with another vehicle. The suspect vehicle became disabled, and the driver fled on foot. Additional officers responded to assist and safely detained the suspect. During the investigation, officers located a firearm. The suspect was arrested for related charges. "
+  },
+  {
+    "cmd": "South Command",
+    "id": "23-149802",
+    "code": "Assault - Arrest",
+    "location": "2400 Block of 24th St",
+    "date": "2023-05-30",
+    "time": "1421",
+    "text": "Officers responded to a report of an assault. Upon arrival, officers located the uninjured victim and arrested the suspect for assault related charges. "
+  },
+  {
+    "cmd": "South Command",
+    "id": "23-149960",
+    "code": "Burglary - Arrest",
+    "location": "3200 Block of E Curtis Dr",
+    "date": "2023-05-30",
+    "time": "1642",
+    "text": "Officers responded to a report of a burglary in progress. Upon arrival, officers located the suspect inside the residence. The suspect was detained and arrested for burglary related charges.  "
+  },
+  {
+    "cmd": "North Command",
+    "id": "23-150025",
+    "code": "Pursuit - Arrest",
+    "location": "MARYSVILLE BLVD / GRAND AVE",
+    "date": "2023-05-30",
+    "time": "1741",
+    "text": "Officers attempted to conduct a traffic enforcement stop, and a vehicle pursuit ensued. The suspect vehicle yielded. During the investigation, officers determined the driver displayed objective signs of intoxication. The suspect was arrested on related charges."
   }
 ]
