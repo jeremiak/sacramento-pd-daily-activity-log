@@ -6667,5 +6667,41 @@
     "date": "2023-05-30",
     "time": "1741",
     "text": "Officers attempted to conduct a traffic enforcement stop, and a vehicle pursuit ensued. The suspect vehicle yielded. During the investigation, officers determined the driver displayed objective signs of intoxication. The suspect was arrested on related charges."
+  },
+  {
+    "cmd": "East Command",
+    "id": "23-150292",
+    "code": "Pursuit/Stolen Vehicle - Arrest",
+    "location": "200 Block of Howe Ave",
+    "date": "2023-05-31",
+    "time": "0045",
+    "text": "Officers responded to a report of vehicles being burglarized. Upon arrival, officers located the suspect vehicle and attempted to conduct an enforcement stop. The vehicle fled and a pursuit ensued. During the pursuit, the suspect vehicle became disabled, and the occupants fled. Officers located and safely detained all occupants. During the investigation, officers determined the suspect vehicle was also a reported stolen vehicle. The occupants were arrested on related charges."
+  },
+  {
+    "cmd": "North Command",
+    "id": "23-150441",
+    "code": "Stolen Vehicle - Arrest",
+    "location": "Bandon Way / San Juan Rd",
+    "date": "2023-05-31",
+    "time": "0810",
+    "text": "Officers were in the area when they located a stolen vehicle. Officers contacted and detained the driver. The suspect was arrested for related charges."
+  },
+  {
+    "cmd": "South Command",
+    "id": "23-150566",
+    "code": "Stolen Vehicle - Arrest",
+    "location": "Creeks Edge Way / Franklin Blvd",
+    "date": "2023-05-31",
+    "time": "1032",
+    "text": "Officers were in the area when they located a stolen vehicle. Officers conducted a traffic enforcement stop and detained the driver. The suspect was arrested for related charges. "
+  },
+  {
+    "cmd": "East Command",
+    "id": "23-150568",
+    "code": "Stolen Vehicle - Arrest",
+    "location": "Folsom Blvd / Power Inn Rd",
+    "date": "2023-05-31",
+    "time": "1033",
+    "text": "Officers were in the area when they located a stolen vehicle. Officers conducted a traffic enforcement stop and detained the driver. The suspect was arrested for related charges. "
   }
 ]
