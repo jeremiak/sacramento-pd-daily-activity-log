@@ -6703,5 +6703,23 @@
     "date": "2023-05-31",
     "time": "1033",
     "text": "Officers were in the area when they located a stolen vehicle. Officers conducted a traffic enforcement stop and detained the driver. The suspect was arrested for related charges. "
+  },
+  {
+    "cmd": "North Command",
+    "id": "23-151527",
+    "code": "Pursuit/Stolen Vehicle - Arrest",
+    "location": "600 Block of Bell Ave",
+    "date": "2023-06-01",
+    "time": "0742",
+    "text": "Officers attempted to conduct a traffic enforcement stop on a vehicle. The vehicle failed to yield, and a short vehicle pursuit ensued. The suspect vehicle yielded. During the investigation, officers determined the driver displayed objective signs of intoxication. Officers also determined that the suspect was operating a reported stolen vehicle. The suspect was arrested on related charges."
+  },
+  {
+    "cmd": "North Command",
+    "id": "23-152128",
+    "code": "Firearm - Arrest",
+    "location": "200 block of El Camino Ave",
+    "date": "2023-06-01",
+    "time": "1721",
+    "text": "Officers responded to a report of a subject brandishing a firearm. Upon arrival, officers located and detained the suspect. During the investigation, officers located an illegally possessed firearm. The suspect was arrested for related charges. "
   }
 ]
