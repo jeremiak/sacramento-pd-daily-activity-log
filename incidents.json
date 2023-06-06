@@ -6730,5 +6730,41 @@
     "date": "2023-06-02",
     "time": "0218",
     "text": "Officers conducted a traffic enforcement stop and contacted the occupants of the vehicle. During the investigation, officers located an illegally possessed firearm and narcotics. The suspect was arrested on related charges. "
+  },
+  {
+    "cmd": "South Command",
+    "id": "23-154165",
+    "code": "Robbery - Arrest",
+    "location": "6300 Block of Mack Road",
+    "date": "2023-06-03",
+    "time": "1458",
+    "text": "Officers responded to a report of suspects stealing merchandise from a business. Employees attempted to detain the suspects and they physically assaulted the victim. As officers arrived on-scene, the suspects were detained and arrested for related charges. "
+  },
+  {
+    "cmd": "Central Command",
+    "id": "23-154167",
+    "code": "DUI - Arrest",
+    "location": "21st St / K St",
+    "date": "2023-06-03",
+    "time": "1501",
+    "text": "Officers responded to a report of an individual parked for over an hour in lanes of traffic. Upon arrival, officers contacted the suspect who displayed objective signs of intoxication. As officers attempted to remove the suspect from the vehicle, they physically assaulted an officer. The officer was uninjured and the suspect was arrested for DUI and assault related charges. "
+  },
+  {
+    "cmd": "South Command",
+    "id": "23-154234",
+    "code": "Assault - Arrest",
+    "location": "1300 Block of Florin Rd",
+    "date": "2023-06-03",
+    "time": "1629",
+    "text": "Officers responded to a report of an assault involving scissors. Upon arrival, officers contacted the victim who sustained minor injuries. The suspect was arrested for assault related charges. "
+  },
+  {
+    "cmd": "East Command",
+    "id": "23-154463",
+    "code": "Pursuit - DUI Arrest",
+    "location": "26th Ave/36th St",
+    "date": "2023-06-03",
+    "time": "2040",
+    "text": "Officers observed a vehicle driving recklessly in the area and attempted to conduct a traffic enforcement stop. The vehicle failed to yield and a pursuit ensued. During the pursuit, the driver pulled over and was safely detained. The driver displayed objective signs of intoxication and was arrested for DUI. "
   }
 ]
