@@ -6766,5 +6766,32 @@
     "date": "2023-06-03",
     "time": "2040",
     "text": "Officers observed a vehicle driving recklessly in the area and attempted to conduct a traffic enforcement stop. The vehicle failed to yield and a pursuit ensued. During the pursuit, the driver pulled over and was safely detained. The driver displayed objective signs of intoxication and was arrested for DUI. "
+  },
+  {
+    "cmd": "North Command",
+    "id": "23-156372",
+    "code": "Robbery - Arrest",
+    "location": "2400 Block of Del Paso Blvd",
+    "date": "2023-06-05",
+    "time": "1436",
+    "text": "Officers responded to a report of a robbery. Officers quickly responded and detained the suspect as they attempted to walk away. The suspect was arrested for robbery related charges. "
+  },
+  {
+    "cmd": "South Command",
+    "id": "23-156583",
+    "code": "Robbery - Arrest",
+    "location": "5900 Block of 24th St",
+    "date": "2023-06-05",
+    "time": "1827",
+    "text": "Officers responded to a report of a robbery. Upon arrival, officers attempted to detain the suspect but the suspect physically assaulted one of the officers. Additional officers responded to assist and the suspect was safely detained. The officer was uninjured and the suspect was arrested for assault and robbery related charges. "
+  },
+  {
+    "cmd": "South Command",
+    "id": "23-156638",
+    "code": "Firearm - Arrest",
+    "location": "2300 Block of Broadway",
+    "date": "2023-06-05",
+    "time": "1926",
+    "text": "Officers responded to a report of an attempted robbery involving a firearm. Officers located the suspect in the area but the suspect fled on foot from officers. After a short foot pursuit, the suspect was safely detained. During the investigation, officers located a loaded firearm. The suspect was arrested for related charges. "
   }
 ]
