@@ -6793,5 +6793,41 @@
     "date": "2023-06-05",
     "time": "1926",
     "text": "Officers responded to a report of an attempted robbery involving a firearm. Officers located the suspect in the area but the suspect fled on foot from officers. After a short foot pursuit, the suspect was safely detained. During the investigation, officers located a loaded firearm. The suspect was arrested for related charges. "
+  },
+  {
+    "cmd": "Central Command",
+    "id": "23-156959",
+    "code": "Hit and Run - Gun Arrest",
+    "location": "800 Block of 20th St",
+    "date": "2023-06-06",
+    "time": "0655",
+    "text": "Officers responded to report of a hit and run where the victim located the suspect vehicle. Upon arrival, officers detained the suspect inside the vehicle. During the investigation, officers located two illegally possessed firearms. The suspect was arrested for related charges. "
+  },
+  {
+    "cmd": "South Command",
+    "id": "23-157191",
+    "code": "Weapons Call - Firearm Arrest",
+    "location": "7200 Block of Munson Way",
+    "date": "2023-06-06",
+    "time": "1055",
+    "text": "Officers responded to a report of individuals armed with firearms. Upon arrival, officers detained three individuals. During the investigation, officers located an illegally possessed firearm and ammunition. The suspects were arrested for related charges. "
+  },
+  {
+    "cmd": "Central Command",
+    "id": "23-157368",
+    "code": "Robbery - Arrest",
+    "location": "200 Block of Jibboom St",
+    "date": "2023-06-06",
+    "time": "1323",
+    "text": "Officers responded to a report of a robbery. The suspect attempted to leave but was detained by security guards. Upon arrival, officers arrested the suspect for related charges. "
+  },
+  {
+    "cmd": "East Command",
+    "id": "23-157801",
+    "code": "Assault - Arrest",
+    "location": "3200 Block of B St",
+    "date": "2023-06-06",
+    "time": "2027",
+    "text": "Officers responded to a report of an assault involving a pipe. Upon arrival, officer located the victim who sustained non-life-threatening injuries. Officers conducted a search of the area and located the suspect. The suspect was arrested for assault related charges. "
   }
 ]
