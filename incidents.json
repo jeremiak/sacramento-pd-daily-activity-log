@@ -6829,5 +6829,23 @@
     "date": "2023-06-06",
     "time": "2027",
     "text": "Officers responded to a report of an assault involving a pipe. Upon arrival, officer located the victim who sustained non-life-threatening injuries. Officers conducted a search of the area and located the suspect. The suspect was arrested for assault related charges. "
+  },
+  {
+    "cmd": "East Command",
+    "id": "23-158084",
+    "code": "Assault - Arrest",
+    "location": "3000 Block of K Street",
+    "date": "2023-06-07",
+    "time": "0702",
+    "text": "Officers responded to a report of an assault. Upon arrival, officers attempted to detain the suspect but the suspect physically assaulted officers. Additional officers responded and safely detained the suspect. The suspect was arrested for related charges. "
+  },
+  {
+    "cmd": "South Command",
+    "id": "23-158997",
+    "code": "Reckless Driver - Citation",
+    "location": "I 5 / Sutterville Rd",
+    "date": "2023-06-07",
+    "time": "2211",
+    "text": "Officers were in the area and observed a vehicle driving recklessly. Officers conducted a traffic enforcement stop on the vehicle and the driver was cited for related violations. "
   }
 ]
