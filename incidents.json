@@ -6865,5 +6865,32 @@
     "date": "2023-06-09",
     "time": "0131",
     "text": "Officers responded to a report of a vehicle burglary. Upon arrival, officers located evidence of multiple vehicle burglaries and detained two suspects. The suspects were arrested on related charges. "
+  },
+  {
+    "cmd": "Central Command",
+    "id": "23-161936",
+    "code": "Weapon - Arrest",
+    "location": "7th St / L St",
+    "date": "2023-06-10",
+    "time": "1425",
+    "text": "Officers responded to a report of a male swinging a baseball bat and hitting poles. Upon arrival, officers contacted the suspect who complied with officer’s commands. During the investigation, officers determined the suspect has a felony warrant. The suspect was arrested for the outstanding warrant. "
+  },
+  {
+    "cmd": "North Command",
+    "id": "23-162025",
+    "code": "Subject Stop - Warrant Arrest",
+    "location": "Altos Ave / Las Palmas Ave",
+    "date": "2023-06-10",
+    "time": "1610",
+    "text": "Officers were in the area when they observed a subject known to have a felony warrant. The suspect was arrested for the outstanding warrant. "
+  },
+  {
+    "cmd": "East Command",
+    "id": "23-162194",
+    "code": "Assault - Arrest",
+    "location": "1000 Block of Alhambra Blvd",
+    "date": "2023-06-10",
+    "time": "1901",
+    "text": "Officers responded to a report of an assault. Upon arrival, officers located the suspect who fled on foot. Officers pursued the suspect and detained them. The suspect was arrested for related charges. "
   }
 ]
