@@ -6955,5 +6955,32 @@
     "date": "2023-06-19",
     "time": "0426",
     "text": "Officers responded to a report of a vandalism. Upon arrival, officers located and detained the suspect. The suspect was arrested for vandalism-related charges.  "
+  },
+  {
+    "cmd": "North Command",
+    "id": "23-173477",
+    "code": "Stolen Vehicle - Arrest",
+    "location": "Alamos Ave / Clay St",
+    "date": "2023-06-21",
+    "time": "1001",
+    "text": "Officers were in the area when they located a stolen vehicle. Officers conducted an enforcement stop and detained the driver. During a search of the vehicle, officers located a firearm and narcotics. The suspect was arrested for related charges. "
+  },
+  {
+    "cmd": "East Command",
+    "id": "23-173605",
+    "code": "Firearm - Arrest",
+    "location": "6700 Block of Briggs Dr",
+    "date": "2023-06-21",
+    "time": "1214",
+    "text": "Officers were conducting follow-up on a shooting that occurred last month. Officers contacted the suspect and located illegally possessed firearms. The suspect was arrested for firearm-related charges. "
+  },
+  {
+    "cmd": "North Command",
+    "id": "23-174158",
+    "code": "Firearm - Arrest",
+    "location": "El Camino Ave / Forrest St",
+    "date": "2023-06-21",
+    "time": "2214",
+    "text": "Officers conducted a traffic enforcement stop and contacted the occupants. During the investigation, officers located an illegally possessed firearm. The suspect was arrested for firearm-related charges. "
   }
 ]
