@@ -6993,6 +6993,15 @@
     "text": "Officers responded to a report of a shooting. Upon arrival, officers located the uninjured victim and determined that the suspect negligently discharged a firearm. Officers located and safely detained the suspect. The suspect was arrested for assault and firearm related charges. "
   },
   {
+    "cmd": "South Command",
+    "id": "23-176001",
+    "code": "Burglary - Arrest",
+    "location": "1100 block of Silver Lake Drive",
+    "date": "2023-06-23",
+    "time": "1858",
+    "text": "Officers responded to a report of a burglary in progress. Upon arrival, officers located the suspect near the residence. The suspect was detained and arrested for burglary related charges.  "
+  },
+  {
     "cmd": "North Command",
     "id": "23-176280",
     "code": "Firearm - Arrest",
@@ -7000,5 +7009,14 @@
     "date": "2023-06-24",
     "time": "0007",
     "text": "Officers observed a vehicle driving recklessly and attempted to conduct a traffic enforcement stop. The vehicle failed to yield, and a vehicle pursuit ensued. The suspect attempted to flee on foot and was located with the assistance of a police aircraft. During the investigation, officers located an illegally possessed firearm. The suspect was arrested on related charges. "
+  },
+  {
+    "cmd": "East Command",
+    "id": "23-177911",
+    "code": "Stolen Vehicle - Arrest",
+    "location": "Julliard Dr / Folsom Blvd",
+    "date": "2023-06-25",
+    "time": "1616",
+    "text": "Officers were in the area when they located a stolen vehicle. Officers contacted and detained the driver. The suspect was arrested for related charges."
   }
 ]
