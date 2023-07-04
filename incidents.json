@@ -7063,5 +7063,23 @@
     "date": "2023-06-30",
     "time": "2245",
     "text": "Officers were in the area when they observed a vehicle driving recklessly. Officers attempted to conduct a traffic enforcement stop. The vehicle failed to yield and a vehicle pursuit ensued. The suspect drove to a residence where he was located. The suspect was arrested for pursuit related charges. "
+  },
+  {
+    "cmd": "North Command",
+    "id": "23-184221",
+    "code": "Assault - Arrest",
+    "location": "2400 Block of Western Avenue",
+    "date": "2023-07-01",
+    "time": "1221",
+    "text": "Officers responded to a report of an assault with a pole. Upon arrival, officers located the victim who  directed officers to the suspect's location. The suspect was detained and arrested for an outstanding felony warrant and assault related charges. "
+  },
+  {
+    "cmd": "Central Command",
+    "id": "23-184466",
+    "code": "Robbery - Arrest",
+    "location": "1800 Block of 28th St",
+    "date": "2023-07-01",
+    "time": "1742",
+    "text": "Officers responded to a report of a robbery. Upon arrival, officers located the suspect and determined the suspect had two felony warrants. The suspect was arrested for robbery related charges as well the outstanding warrants. "
   }
 ]
