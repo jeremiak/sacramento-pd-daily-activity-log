@@ -7081,5 +7081,23 @@
     "date": "2023-07-01",
     "time": "1742",
     "text": "Officers responded to a report of a robbery. Upon arrival, officers located the suspect and determined the suspect had two felony warrants. The suspect was arrested for robbery related charges as well the outstanding warrants. "
+  },
+  {
+    "cmd": "Central Command",
+    "id": "23-185675",
+    "code": "Assault - Arrest",
+    "location": "2000 Block of K Street",
+    "date": "2023-07-02",
+    "time": "1939",
+    "text": "Officers responded to a disturbance involving an intoxicated individual. Upon arrival, officers attempted to detain the suspect and the suspect spit in the officers face. The suspect was arrested for related charges. "
+  },
+  {
+    "cmd": "East Command",
+    "id": "23-185865",
+    "code": "Burglary - Arrest",
+    "location": "3500 Block of J Street",
+    "date": "2023-07-02",
+    "time": "2203",
+    "text": "Officers responded to a report of a suspicious subject in the victim's residence. Upon arrival, officers located and detained the suspect who was still inside. The suspect was arrested for related charges. "
   }
 ]
