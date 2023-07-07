@@ -7108,5 +7108,23 @@
     "date": "2023-07-03",
     "time": "1453",
     "text": "Officers responded to a report of an assault. Upon arrival, officers located the uninjured victim and arrested the suspect for assault related charges. "
+  },
+  {
+    "cmd": "East Command",
+    "id": "23-187620",
+    "code": "Pursuit - Arrest",
+    "location": "2th Ave / 38th St",
+    "date": "2023-07-04",
+    "time": "1543",
+    "text": "Officers attempted to conduct a traffic enforcement stop, but the driver failed to yield. A vehicle pursuit ensued. During the pursuit, the suspect stopped and fled on foot. A perimeter was established, and the suspect was located.  The suspect was detained and arrested on related charges."
+  },
+  {
+    "cmd": "North Command",
+    "id": "23-188092",
+    "code": "Firearm - Arrest",
+    "location": "Harris Ave / Balsam St",
+    "date": "2023-07-04",
+    "time": "2227",
+    "text": "Officers were in the area and conducted an enforcement stop on a vehicle. During the investigation, officers located a loaded firearm. The suspect was arrested on related charges. "
   }
 ]
