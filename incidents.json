@@ -7135,5 +7135,59 @@
     "date": "2023-07-05",
     "time": "1232",
     "text": "Officers responded to a report of a vandalism. Upon arrival, officers located and detained the suspect. The suspect was arrested for vandalism related charges.  "
+  },
+  {
+    "cmd": "South Command",
+    "id": "23-189390",
+    "code": "Assault - Arrest",
+    "location": "2900 Block of 31st Street",
+    "date": "2023-07-06",
+    "time": "0005",
+    "text": "Officers responded to a report of an assault. Upon arrival, officers located the uninjured victim and arrested the suspect for assault related charges. "
+  },
+  {
+    "cmd": "Central Command",
+    "id": "23-189607",
+    "code": "Assault - Arrest",
+    "location": "1300 Block of N C Street",
+    "date": "2023-07-06",
+    "time": "0757",
+    "text": "Officers responded to a report of an assault. Upon arrival, officers located the victim and arrested the suspect for assault related charges. "
+  },
+  {
+    "cmd": "East Command",
+    "id": "23-190056",
+    "code": "Assault - Arrest",
+    "location": "1000 Block of Alhambra Blvd",
+    "date": "2023-07-06",
+    "time": "1525",
+    "text": "Officers responded to a report of an assault. Upon arrival, officers located the victim and arrested the suspect for assault related charges. "
+  },
+  {
+    "cmd": "Central Command",
+    "id": "23-190378",
+    "code": "Theft - Arrest",
+    "location": "F St / 9th St",
+    "date": "2023-07-06",
+    "time": "2135",
+    "text": "Officers responded to the report of a theft. Officers located the stolen item and arrested the suspect for related charges. "
+  },
+  {
+    "cmd": "East Command",
+    "id": "23-190380",
+    "code": "Stolen Vehicle - Arrest",
+    "location": "Stockton Blvd / Broadway",
+    "date": "2023-07-06",
+    "time": "2137",
+    "text": "Officers were in the area when they located a stolen vehicle. Officers conducted a traffic enforcement stop and detained the driver. The suspect was arrested for related charges. "
+  },
+  {
+    "cmd": "South Command",
+    "id": "23-190401",
+    "code": "Stolen Vehicle - Arrest",
+    "location": "7800 Block of Stockton Blvd",
+    "date": "2023-07-06",
+    "time": "2205",
+    "text": "Officers were in the area when they located a stolen vehicle. Officers conducted a traffic enforcement stop and detained the driver. The suspect was arrested for related charges. "
   }
 ]
