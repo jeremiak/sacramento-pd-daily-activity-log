@@ -7189,5 +7189,32 @@
     "date": "2023-07-06",
     "time": "2205",
     "text": "Officers were in the area when they located a stolen vehicle. Officers conducted a traffic enforcement stop and detained the driver. The suspect was arrested for related charges. "
+  },
+  {
+    "cmd": "East Command",
+    "id": "23-190492",
+    "code": "Burglary - Arrest",
+    "location": "4000 Block of Power Inn Rd",
+    "date": "2023-07-07",
+    "time": "0006",
+    "text": "Officers responded to a report of a burglary in progress. Upon arrival, officers located the suspects nearby. The suspects were detained and arrested for burglary related charges.  "
+  },
+  {
+    "cmd": "South Command",
+    "id": "23-190543",
+    "code": "Stolen Vehicle - Arrest",
+    "location": "Meadowview Rd / 24th St",
+    "date": "2023-07-07",
+    "time": "0147",
+    "text": "Officers were in the area when they located a stolen vehicle. Officers conducted a traffic enforcement stop and detained the driver. The suspect was arrested for related charges. "
+  },
+  {
+    "cmd": "East Command",
+    "id": "23-191118",
+    "code": "Vandalism - Arrest",
+    "location": "3100 Block of Granada Way",
+    "date": "2023-07-07",
+    "time": "1716",
+    "text": "Officers responded to a report of a vandalism involving an individual throwing rocks at parked vehicles. Upon arrival, officers located the suspect in the area and arrested the suspect for related charges. "
   }
 ]
