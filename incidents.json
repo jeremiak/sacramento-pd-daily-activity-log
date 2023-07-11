@@ -7216,5 +7216,41 @@
     "date": "2023-07-07",
     "time": "1716",
     "text": "Officers responded to a report of a vandalism involving an individual throwing rocks at parked vehicles. Upon arrival, officers located the suspect in the area and arrested the suspect for related charges. "
+  },
+  {
+    "cmd": "South Command",
+    "id": "23-191523",
+    "code": "Traffic Stop - Stolen Vehicle Arrest",
+    "location": "Mack Rd / Tangerine Ave",
+    "date": "2023-07-08",
+    "time": "0240",
+    "text": "Officers conducted a traffic enforcement stop and observed damage to ignition. Through the investigation, officers determined that the vehicle was stolen. The suspect was arrested for theft related charges. "
+  },
+  {
+    "cmd": "South Command",
+    "id": "23-192150",
+    "code": "Stolen Vehicle - Firearm Arrest",
+    "location": "Detroit Blvd / Meadowview Rd",
+    "date": "2023-07-08",
+    "time": "2013",
+    "text": "Officers located a stolen vehicle and attempted to conduct a traffic enforcement stop. The occupants fled on foot from the vehicle. Officers pursued the suspects and quickly detained them. During the investigation, officers located a firearm. The suspects were arrested for related charges. "
+  },
+  {
+    "cmd": "North Command",
+    "id": "23-192229",
+    "code": "Homicide Investigation",
+    "location": "2600 Block of American Avenue",
+    "date": "2023-07-08",
+    "time": "2141",
+    "text": "Please see the following link for a press release regarding this incident: Homicide Investigation - 2600 Block of American Avenue "
+  },
+  {
+    "cmd": "South Command",
+    "id": "23-192288",
+    "code": "Traffic Stop - Gun Arrest",
+    "location": "8000 Block of Pegler Way",
+    "date": "2023-07-08",
+    "time": "2226",
+    "text": "Officers conducted a traffic enforcement stop and contacted the driver of the vehicle. During the investigation, officers determined the driver improperly stored their firearm in the vehicle. Officers issued the driver a citation for related charges. "
   }
 ]
