@@ -7252,5 +7252,32 @@
     "date": "2023-07-08",
     "time": "2226",
     "text": "Officers conducted a traffic enforcement stop and contacted the driver of the vehicle. During the investigation, officers determined the driver improperly stored their firearm in the vehicle. Officers issued the driver a citation for related charges. "
+  },
+  {
+    "cmd": "North Command",
+    "id": "23-192954",
+    "code": "Subject Stop - Gun Arrest",
+    "location": "2800 Block of Rio Linda Blvd",
+    "date": "2023-07-09",
+    "time": "1659",
+    "text": "Officers conducted a subject stop on a group of individuals. During the investigation, officers located two illegally possessed firearms. The suspect was arrested for firearm related charges.  "
+  },
+  {
+    "cmd": "Central Command",
+    "id": "23-193019",
+    "code": "Fatal Vehicle Collision - Investigation",
+    "location": "Richards Blvd / Jibboom St",
+    "date": "2023-07-09",
+    "time": "1834",
+    "text": "Please see the following link for a press release regarding this incident: Fatal Vehicle Collision – Richards Boulevard and Jibboom Street"
+  },
+  {
+    "cmd": "South Command",
+    "id": "23-193231",
+    "code": "Assault - Arrest",
+    "location": "6600 Block of Valley Hi Drive",
+    "date": "2023-07-09",
+    "time": "2331",
+    "text": "Officers responded to an assault. Upon arrival, officers located the victim who sustained minor injuries. The suspect was detained and arrested for related charges. "
   }
 ]
