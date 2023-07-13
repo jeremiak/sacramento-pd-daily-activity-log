@@ -7279,5 +7279,32 @@
     "date": "2023-07-09",
     "time": "2331",
     "text": "Officers responded to an assault. Upon arrival, officers located the victim who sustained minor injuries. The suspect was detained and arrested for related charges. "
+  },
+  {
+    "cmd": "South Command",
+    "id": "23-193784",
+    "code": "Stolen Vehicle - Arrest",
+    "location": "7800 Block of Center Pkwy",
+    "date": "2023-07-10",
+    "time": "1350",
+    "text": "Officers were in the area when they located a stolen vehicle. Officers conducted a traffic enforcement stop and detained the driver. The suspect was arrested for related charges. "
+  },
+  {
+    "cmd": "Central Command",
+    "id": "23-193836",
+    "code": "Firearm - Arrest",
+    "location": "1200 Block of C St",
+    "date": "2023-07-10",
+    "time": "1429",
+    "text": "Officers responded to a report of an individual armed with a firearm. Officers located and safely detained the suspect. During the investigation, officers located a loaded firearm and evidence that the suspect had negligently discharged the firearm. The suspect was arrested for related charges. "
+  },
+  {
+    "cmd": "North Command",
+    "id": "23-194066",
+    "code": "Robbery - Arrest",
+    "location": "2300 Block of Del Paso Blvd",
+    "date": "2023-07-10",
+    "time": "1831",
+    "text": "Officers responded to a report of a robbery. Upon arrival, officers located and detained the suspect. The suspect was positively identified and arrested for robbery related charges."
   }
 ]
