@@ -7324,5 +7324,23 @@
     "date": "2023-07-11",
     "time": "2114",
     "text": "Officers responded to a report of a burglary in progress. Upon arrival, officers located the suspect, who was arrested for burglary related charges."
+  },
+  {
+    "cmd": "South Command",
+    "id": "23-195846",
+    "code": "Firearm - Arrest",
+    "location": "21st St / 63rd Ave",
+    "date": "2023-07-12",
+    "time": "1055",
+    "text": "Officers observed a vehicle driving recklessly and conducted an enforcement stop. Upon contact, officers determined the driver displayed objective signs of intoxication. During the investigation, officers located a firearm inside the vehicle. The driver was arrested for related charges. "
+  },
+  {
+    "cmd": "East Command",
+    "id": "23-196231",
+    "code": "Vandalism - Arrest",
+    "location": "University Ave/ Scripps Dr",
+    "date": "2023-07-12",
+    "time": "1632",
+    "text": "Officers responded to a report of a vandalism. Upon arrival, officers located and detained the suspect. The suspect was cited for vandalism related charges.  "
   }
 ]
