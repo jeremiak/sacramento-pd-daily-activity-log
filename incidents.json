@@ -7342,5 +7342,23 @@
     "date": "2023-07-12",
     "time": "1632",
     "text": "Officers responded to a report of a vandalism. Upon arrival, officers located and detained the suspect. The suspect was cited for vandalism related charges.  "
+  },
+  {
+    "cmd": "Central Command",
+    "id": "23-196648",
+    "code": "Theft - Arrest",
+    "location": "2nd St / L St",
+    "date": "2023-07-13",
+    "time": "0222",
+    "text": "Officers responded to the report of a theft. Officers located the stolen item and arrested the suspect for related charges. "
+  },
+  {
+    "cmd": "Central Command",
+    "id": "23-196733",
+    "code": "Theft - Arrest",
+    "location": "900 Block of I St",
+    "date": "2023-07-13",
+    "time": "0702",
+    "text": "Officers responded to the report of a theft. Officers located the stolen item and detained the suspect. During the investigation, officers also located narcotics and narcotic paraphernalia. The suspect was arrested on related charges."
   }
 ]
