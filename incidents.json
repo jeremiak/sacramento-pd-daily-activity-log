@@ -7369,5 +7369,23 @@
     "date": "2023-07-14",
     "time": "0020",
     "text": "Officers responded to an assault involving a security guard. Officers located the suspect nearby as they attempted to flee on foot. Officers were able to safely detain the suspect with assistance of additional responding units. The suspect was arrested for assault related charges. "
+  },
+  {
+    "cmd": "South Command",
+    "id": "23-198833",
+    "code": "Stolen Vehicle - Arrest",
+    "location": "6100 Block of Riverside Blvd",
+    "date": "2023-07-15",
+    "time": "0824",
+    "text": "Officers were in the area when they located a stolen vehicle. As officers attempted to contact the suspect, the suspect ran from the vehicle. Officers quickly established a perimeter and located the suspect who was arrested for theft related charges. "
+  },
+  {
+    "cmd": "Central Command",
+    "id": "23-199566",
+    "code": "Disturbance - Arrest",
+    "location": "9th St/ J St",
+    "date": "2023-07-15",
+    "time": "2220",
+    "text": "Officers were in the area when they observed a suspect urinating in public. Officers attempted to contact the suspect who ran from officers. A foot pursuit ensued, and the suspect was quickly detained. The suspect was arrested for related charges."
   }
 ]
