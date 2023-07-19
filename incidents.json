@@ -7387,5 +7387,41 @@
     "date": "2023-07-15",
     "time": "2220",
     "text": "Officers were in the area when they observed a suspect urinating in public. Officers attempted to contact the suspect who ran from officers. A foot pursuit ensued, and the suspect was quickly detained. The suspect was arrested for related charges."
+  },
+  {
+    "cmd": "North Command",
+    "id": "23-200194",
+    "code": "Traffic Stop - Gun Arrest",
+    "location": "2000 Block of Ellen St",
+    "date": "2023-07-16",
+    "time": "1539",
+    "text": "Officers conducted a traffic enforcement stop.  Officers contacted the driver and observed a loaded firearm in the vehicle. The suspect was arrested for firearm related charges."
+  },
+  {
+    "cmd": "North Command",
+    "id": "23-200371",
+    "code": "Assault  - Arrest",
+    "location": "El Camino Ave / Edgewater Rd",
+    "date": "2023-07-16",
+    "time": "1938",
+    "text": "Officers responded to a report of a shooting. Upon arrival, officers located the victim who sustained one non-life-threatening gunshot wound. During the investigation, officers located the suspect who was arrested for assault related charges.  "
+  },
+  {
+    "cmd": "North Command",
+    "id": "23-200380",
+    "code": "Disturbance - Firearm Arrest",
+    "location": "1800 Block of S Breezy Meadow Dr",
+    "date": "2023-07-16",
+    "time": "1956",
+    "text": "Officers responded to a report of a disturbance involving an individual armed with a firearm. Upon arrival, the suspect ran from officers. A foot pursuit ensued, and officers quickly established a perimeter. The suspect was located and detained. During the investigation, officers located a firearm. The suspect was arrested for firearm related charges.   "
+  },
+  {
+    "cmd": "North Command",
+    "id": "23-200525",
+    "code": "Traffic Stop - Warrant Arrest",
+    "location": "W El Camino Ave / Erin Dr",
+    "date": "2023-07-16",
+    "time": "2257",
+    "text": "Officers attempted to conduct a traffic enforcement stop on a bike. The suspect fled from officers and a pursuit ensued. The suspect was quickly detained by officers. During the investigation, officers determined the suspect had an outstanding felony warrant. The suspect was arrested for related charges. "
   }
 ]
