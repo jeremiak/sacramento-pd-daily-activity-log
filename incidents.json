@@ -7486,5 +7486,23 @@
     "date": "2023-07-18",
     "time": "2223",
     "text": "Officers attempted to conduct a traffic enforcement stop on a bicyclist but the suspect fled from officers. Officers pursued the suspect for several blocks and safely detained the suspect. During the investigation, officers located a firearm. The suspect was arrested for firearm related charges. "
+  },
+  {
+    "cmd": "South Command",
+    "id": "23-202981",
+    "code": "Foot Pursuit - Warrant Arrest",
+    "location": "7800 Block of Center Parkway",
+    "date": "2023-07-19",
+    "time": "1134",
+    "text": "Officers attempted to contact two individuals in the area. One of the individuals fled on foot from officers. After a short foot pursuit ensued, the suspect was safely detained. During the investigation, officers determined the suspect had an outstanding felony warrant. The suspect was arrested and booked on their outstanding warrant. "
+  },
+  {
+    "cmd": "East Command",
+    "id": "23-203278",
+    "code": "Foot Pursuit - Warrant Arrest",
+    "location": "7800 Block of Folsom Blvd",
+    "date": "2023-07-19",
+    "time": "1602",
+    "text": "Officers observed an individual armed with a knife and attempted to contact them. The suspect fled on foot from officers and a pursuit ensued. The suspect discarded the knife during the pursuit and was safely detained. During the investigation, officers determined the suspect had an outstanding felony warrant. The suspect was arrested and booked for their outstanding warrant. "
   }
 ]
