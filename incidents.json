@@ -7504,5 +7504,23 @@
     "date": "2023-07-19",
     "time": "1602",
     "text": "Officers observed an individual armed with a knife and attempted to contact them. The suspect fled on foot from officers and a pursuit ensued. The suspect discarded the knife during the pursuit and was safely detained. During the investigation, officers determined the suspect had an outstanding felony warrant. The suspect was arrested and booked for their outstanding warrant. "
+  },
+  {
+    "cmd": "North Command",
+    "id": "23-204154",
+    "code": "Firearm - Arrest",
+    "location": "2500 Block of Beaumont St",
+    "date": "2023-07-20",
+    "time": "1306",
+    "text": "Officers responded to a report of a shooting. Upon arrival, officers located the victim who sustained at least one non-life-threatening gunshot wound. The victim was transported to an area hospital to be treated. During the investigation, officers located the suspect who was safely detained. The suspect was arrested for assault related charges. "
+  },
+  {
+    "cmd": "North Command",
+    "id": "23-204201",
+    "code": "Warrant - Arrest",
+    "location": "3000 Block of Academy Way",
+    "date": "2023-07-20",
+    "time": "1400",
+    "text": "Officers responded to a report of a subject armed with a firearm. Upon arrival, officers located the suspect who was known to have an outstanding felony warrant. The suspect fled from officers on a bicycle. After a short pursuit, the suspect was safely taken into custody. The suspect was arrested for related charges. "
   }
 ]
