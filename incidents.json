@@ -7522,5 +7522,41 @@
     "date": "2023-07-20",
     "time": "1400",
     "text": "Officers responded to a report of a subject armed with a firearm. Upon arrival, officers located the suspect who was known to have an outstanding felony warrant. The suspect fled from officers on a bicycle. After a short pursuit, the suspect was safely taken into custody. The suspect was arrested for related charges. "
+  },
+  {
+    "cmd": "South Command",
+    "id": "23-204666",
+    "code": "Traffic Stop - Gun Arrest",
+    "location": "Bamford Drive / Grandstaff Drive",
+    "date": "2023-07-21",
+    "time": "0008",
+    "text": "Officers conducted a traffic enforcement stop and contacted the occupants. During the investigation, officers located an illegally possessed firearm and narcotics. The suspect was arrested for related charges. "
+  },
+  {
+    "cmd": "North Command",
+    "id": "23-204681",
+    "code": "Shooting - Firearm Arrest",
+    "location": "700 Block of Northfield Drive",
+    "date": "2023-07-21",
+    "time": "0036",
+    "text": "Officers responded to a report of a subject discharging a firearm. Upon arrival, no victims were located. Witnesses directed officers to the suspects location and detained them. During the investigation, officers  located multiple firearms and evidence of a shooting. The suspect was arrested for related charges. "
+  },
+  {
+    "cmd": "North Command",
+    "id": "23-204791",
+    "code": "DUI - Arrest",
+    "location": "3600 Block of Fulton Avenue",
+    "date": "2023-07-21",
+    "time": "0610",
+    "text": "Officers responded to a report of a vehicle collision into a fence. Upon arrival, officers contacted the driver who displayed objective signs of intoxication. The driver was arrested for DUI related charges. "
+  },
+  {
+    "cmd": "South Command",
+    "id": "23-205324",
+    "code": "Shooting - Arrest",
+    "location": "7600 Block of Manorside Drive",
+    "date": "2023-07-21",
+    "time": "1642",
+    "text": "Officers responded to reports of gunshots being fired in the area. Upon arrival, officers detained the suspect and determined there were no injuries. The suspect was arrested for negligent discharge of a firearm. "
   }
 ]
