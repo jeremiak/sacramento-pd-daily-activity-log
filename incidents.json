@@ -7558,5 +7558,32 @@
     "date": "2023-07-21",
     "time": "1642",
     "text": "Officers responded to reports of gunshots being fired in the area. Upon arrival, officers detained the suspect and determined there were no injuries. The suspect was arrested for negligent discharge of a firearm. "
+  },
+  {
+    "cmd": "North Command",
+    "id": "23-205801",
+    "code": "Assault - Firearm Arrest",
+    "location": "3700 Block of Ripley Street",
+    "date": "2023-07-22",
+    "time": "0018",
+    "text": "Officers responded to a report of a shooting. During the investigation, officers located two victims who sustained at least one non-life-threatening gunshot wound each. Both victims were transported to area hospitals to be treated for their injuries. At the scene, officers located two suspects who in possession of a firearm. Both suspects were arrested for assault and firearm related charges. "
+  },
+  {
+    "cmd": "North Command",
+    "id": "23-206357",
+    "code": "Shooting - Firearm Arrest",
+    "location": "1000 Block of Rivera Drive",
+    "date": "2023-07-22",
+    "time": "1600",
+    "text": "Officers responded to a report of a shooting. Upon arrival, officers observed the suspect vehicle leaving the scene. Officers conducted a traffic enforcement stop and detained the occupants. During the investigation, officers located a firearm. No injuries were reported. The suspects were booked on assault and firearm related charges. "
+  },
+  {
+    "cmd": "South Command",
+    "id": "23-206458",
+    "code": "Robbery - Arrest",
+    "location": "8200 Block of Delta Shores Cir S",
+    "date": "2023-07-22",
+    "time": "1824",
+    "text": "Officers responded to a report of a robbery. Upon arrival, officers located the suspects who fled on foot. After a short foot pursuit, the suspects were detained and arrested for related charges. "
   }
 ]
