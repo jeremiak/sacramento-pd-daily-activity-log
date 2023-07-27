@@ -7603,5 +7603,23 @@
     "date": "2023-07-23",
     "time": "0240",
     "text": "Officers located a stolen vehicle and attempted to conduct a vehicle enforcement stop. The vehicle failed to yield and a vehicle pursuit ensued. During the pursuit, the suspect vehicle became disabled and the occupants fled on foot. Both suspects were quickly detained and the driver was arrested for related charges. "
+  },
+  {
+    "cmd": "South Command",
+    "id": "23-208273",
+    "code": "Stolen Vehicle - Arrest",
+    "location": "Freeport Blvd / Blair Ave",
+    "date": "2023-07-24",
+    "time": "1436",
+    "text": "Officers located an occupied stolen vehicle. Officers conducted a traffic enforcement stop and contacted the occupant. The driver was arrested for related charges. "
+  },
+  {
+    "cmd": "North Command",
+    "id": "23-208691",
+    "code": "Stolen Vehicle - Arrest",
+    "location": "Grand Ave / Dry Creek Rd",
+    "date": "2023-07-24",
+    "time": "2208",
+    "text": "Officers located an occupied stolen vehicle. Officers conducted a traffic enforcement stop and contacted the occupant. The driver was arrested for related charges.  "
   }
 ]
