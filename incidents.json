@@ -7666,5 +7666,23 @@
     "date": "2023-07-28",
     "time": "0955",
     "text": "Officers conducted an traffic enforcement stop. The suspect attempted to run but was quickly detained by officers. The suspect was found to have a loaded handgun on his person. The suspect was arrested for related charges."
+  },
+  {
+    "cmd": "North Command",
+    "id": "23-213427",
+    "code": "Vehicle Collision - DUI Arrest",
+    "location": "3500 block of Northgate Blvd",
+    "date": "2023-07-29",
+    "time": "0641",
+    "text": "Officers responded to a vehicle collision into a building. Upon arrival, officers contacted the driver who displayed objective signs of intoxication. The suspect was arrested for DUI related charges."
+  },
+  {
+    "cmd": "North Command",
+    "id": "23-213914",
+    "code": "Pursuit/DUI - Arrest",
+    "location": "Marysville Blvd / Arcade Blvd",
+    "date": "2023-07-29",
+    "time": "1818",
+    "text": "Officers observed a vehicle driving reckless and attempted to conduct an enforcement stop. The suspect failed to yield to officers and a pursuit was initiated. The suspect later pulled over and displayed objective signs of intoxication. The suspect was arrested for related charges. "
   }
 ]
