@@ -7711,5 +7711,32 @@
     "date": "2023-07-30",
     "time": "1935",
     "text": "Officers located an occupied stolen motorcycle. Before officers could initiate a high risk stop, the suspect began riding recklessly. A short pursuit ensued and ended when the suspect collided into a fence. The suspect attempted to discard a firearm and run from police, but the suspect was quickly detained by officers. The suspect was arrested for related charges. "
+  },
+  {
+    "cmd": "East Command",
+    "id": "23-215795",
+    "code": "Stolen Vehicle - Arrest",
+    "location": "Fruitridge Rd / 65th Street Expy",
+    "date": "2023-07-31",
+    "time": "1628",
+    "text": "Officers located an occupied stolen vehicle. Officers conducted a high-risk enforcement stop and detained the driver. The driver was arrested for related charges. "
+  },
+  {
+    "cmd": "Central Command",
+    "id": "23-215872",
+    "code": "Foot Pursuit - Arrest",
+    "location": "400 block of K St",
+    "date": "2023-07-31",
+    "time": "1742",
+    "text": "Officers responded to a disturbance call. Upon attempting to contact one of the individuals, the suspect fled from officers. Officers eventually located and detained the suspect who was arrested for outstanding warrants."
+  },
+  {
+    "cmd": "North Command",
+    "id": "23-216088",
+    "code": "Stolen Vehicle - Arrest",
+    "location": "Norwood Ave / Jessie Ave",
+    "date": "2023-07-31",
+    "time": "2217",
+    "text": "Officers located an occupied stolen vehicle. Officers conducted a high-risk enforcement stop and detained the driver. The driver was arrested for related charges. "
   }
 ]
