@@ -7756,5 +7756,41 @@
     "date": "2023-08-01",
     "time": "2216",
     "text": "Officers responded to reports of a shooting. Upon arrival, officers located a victim with a non-life threatening gun shot wound. The victim was transported to an area hospital to be treated for their injuries. This remains an activate investigation. "
+  },
+  {
+    "cmd": "North Command",
+    "id": "23-217404",
+    "code": "Traffic Stop - Gun Arrest",
+    "location": "100 block of Commerce Cir",
+    "date": "2023-08-02",
+    "time": "0409",
+    "text": "Officers conducted an enforcement stop. During the investigation, officers determined the driver was a parolee and located an illegally possessed firearm in the vehicle. The suspect was arrested for related charges."
+  },
+  {
+    "cmd": "East Command",
+    "id": "23-217915",
+    "code": "Warrant/Firearm - Arrest",
+    "location": "Alhambra Blvd / C St",
+    "date": "2023-08-02",
+    "time": "1437",
+    "text": "Officers located a known suspect with outstanding warrants. When officers attempted to make contact, the suspect attempted to flee. Officers were attempting to detain the suspect when the suspect reached for a firearm that was in their waistband. Officers were able to control the firearm in the suspect’s hand and remove it. The suspect was arrested for related charges. "
+  },
+  {
+    "cmd": "Central Command",
+    "id": "23-217926",
+    "code": "Burglary - Arrest",
+    "location": "1300 block of F St",
+    "date": "2023-08-02",
+    "time": "1450",
+    "text": "Officers responded to a burglary in progress. As officers arrived, they observed two subjects nearby and detained them. Through their investigation, they located stolen property from the burglary in their possession. The suspects were arrested for related charges. "
+  },
+  {
+    "cmd": "North Command",
+    "id": "23-218108",
+    "code": "Felony Assault - Arrest",
+    "location": "Del Paso Blvd / Dixieanne Ave",
+    "date": "2023-08-02",
+    "time": "1759",
+    "text": "Officers responded to a felony assault. When officers arrived, they located a victim with a non-life-threatening stab wound. The victim had the suspect detained until officers arrived on scene. The suspect was arrested for related charges. "
   }
 ]
