@@ -7792,5 +7792,32 @@
     "date": "2023-08-02",
     "time": "1759",
     "text": "Officers responded to a felony assault. When officers arrived, they located a victim with a non-life-threatening stab wound. The victim had the suspect detained until officers arrived on scene. The suspect was arrested for related charges. "
+  },
+  {
+    "cmd": "North Command",
+    "id": "23-220029",
+    "code": "Robbery - Arrest",
+    "location": "1600 block of W. El Camino Ave",
+    "date": "2023-08-04",
+    "time": "1412",
+    "text": "Officers responded to a robbery in progress. During the investigation, officers located the suspect and arrested him for related charges. An investigation was done and a crime report was generated. "
+  },
+  {
+    "cmd": "Central Command",
+    "id": "23-220088",
+    "code": "Felony Assault - Arrest",
+    "location": "1100 block of 17th St",
+    "date": "2023-08-04",
+    "time": "1503",
+    "text": "Officers responded to a report of a felony assault. The victim sustained serious bodily injury. Through a thorough investigation, officers identified who the suspect was and then later arrested the suspect for related charges. "
+  },
+  {
+    "cmd": "Central Command",
+    "id": "23-220545",
+    "code": "Felony Assault - Arrest",
+    "location": "800 block of J St",
+    "date": "2023-08-04",
+    "time": "2323",
+    "text": "Officers responded to reports of a felony assault. While on scene investigating, the victim pointed out the suspect to officers. Officers detained the suspect, who was arrested for related charges. "
   }
 ]
