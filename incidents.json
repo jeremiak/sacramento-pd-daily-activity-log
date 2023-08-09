@@ -7837,5 +7837,41 @@
     "date": "2023-08-05",
     "time": "1547",
     "text": "Officers located an occupied stolen vehicle. The suspect attempted to flee on foot, but was quickly taken into custody without incident. The juvenile suspect was arrested for related charges.  "
+  },
+  {
+    "cmd": "East Command",
+    "id": "23-221786",
+    "code": "Burglary - Arrest",
+    "location": "6400 block of Stockton Blvd",
+    "date": "2023-08-06",
+    "time": "0350",
+    "text": "Officers responded to reports of a burglary in progress. Once officers arrived on scene, they located the suspect outside of the business, then quickly detained the suspect. Officers conducted an investigation, generated a report and the suspect was arrested for related charges."
+  },
+  {
+    "cmd": "North Command",
+    "id": "23-222254",
+    "code": "Stolen Vehicle - Arrest",
+    "location": "Marconi Ave / Connie Dr",
+    "date": "2023-08-06",
+    "time": "1536",
+    "text": "Officers located an occupied stolen vehicle. With the assistance of the Sacramento Sheriff’s Office’s helicopter, officers were able to safely detain the suspect. The suspect was arrested for related charges."
+  },
+  {
+    "cmd": "North Command",
+    "id": "23-222326",
+    "code": "Felony Assault - Arrest",
+    "location": "2300 block of Del Paso Blvd",
+    "date": "2023-08-06",
+    "time": "1720",
+    "text": "Officers responded to a report of a felony assault. The victim told officers that a suspect pointed a firearm at them. Officers conducted an investigation and obtained a suspect and suspect vehicle description. Later that evening, SPD officers located the suspect vehicle and safely detained the suspect. The suspect was arrested for related charges."
+  },
+  {
+    "cmd": "South Command",
+    "id": "23-222567",
+    "code": "Shooting Investigation",
+    "location": "2400 block of Meadowview Rd",
+    "date": "2023-08-06",
+    "time": "2227",
+    "text": "Officers responded to reports of a shooting. Nothing appeared to be hit by the gunfire, but officers did locate evidence of a shooting. Officers conducted an investigation and a crime report was generated. "
   }
 ]
