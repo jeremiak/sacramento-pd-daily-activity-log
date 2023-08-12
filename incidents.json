@@ -7891,5 +7891,23 @@
     "date": "2023-08-08",
     "time": "0130",
     "text": "Officers responded to reports of a shooting. Officers located evidence of a shooting. Preliminarily, it does not appear that anything or any persons were hit. Officers conducted an investigation and a crime report was generated. "
+  },
+  {
+    "cmd": "North Command",
+    "id": "23-224821",
+    "code": "Firearm Arrest",
+    "location": "2300 block of Cambridge St",
+    "date": "2023-08-09",
+    "time": "0345",
+    "text": "Officers contacted a subject who was found to be on Post Release Community Supervision (PRCS). During a PRCS search of the subject’s vehicle, the officers located an illegally possessed firearm. The suspect was arrested for related charges."
+  },
+  {
+    "cmd": "Central Command",
+    "id": "23-224846",
+    "code": "Pursuit/Stolen Vehicle - Arrest",
+    "location": "N. 12th St / Richards Blvd",
+    "date": "2023-08-09",
+    "time": "0532",
+    "text": "Officers attempted to make a traffic stop for a vehicle code violation. The driver failed to yield and fled from officers wrong-way on N. 12th St. Officers immediately canceled the pursuit due to safety. A short time later, officers were made aware of a collision on Highway 160. Officers responded and determined the vehicle involved was the vehicle that fled from them. Through record check, officers determined the suspect vehicle was recently stolen. The suspect was arrested for related charges. "
   }
 ]
