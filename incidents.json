@@ -7909,5 +7909,23 @@
     "date": "2023-08-09",
     "time": "0532",
     "text": "Officers attempted to make a traffic stop for a vehicle code violation. The driver failed to yield and fled from officers wrong-way on N. 12th St. Officers immediately canceled the pursuit due to safety. A short time later, officers were made aware of a collision on Highway 160. Officers responded and determined the vehicle involved was the vehicle that fled from them. Through record check, officers determined the suspect vehicle was recently stolen. The suspect was arrested for related charges. "
+  },
+  {
+    "cmd": "Central Command",
+    "id": "23-225819",
+    "code": "Firearm - Arrest",
+    "location": "500 block of Bercut Dr",
+    "date": "2023-08-10",
+    "time": "0329",
+    "text": "Officers contacted a subject in a vehicle in a parking lot. The subject was found to be on Post Release Community Supervision (PRCS). During a PRCS search of the vehicle, officers located an illegally possessed loaded firearm. The suspect was arrested for related charges."
+  },
+  {
+    "cmd": "South Command",
+    "id": "23-226814",
+    "code": "Stolen Vehicle - Arrest",
+    "location": "Deer Grove Ct / Reindeer Wy",
+    "date": "2023-08-10",
+    "time": "2349",
+    "text": "Officers from our helicopter located an occupied stolen vehicle. Our Air Unit observed two suspects run from the vehicle and hide. Officers eventually located the suspects. The driver was arrested for related charges."
   }
 ]
