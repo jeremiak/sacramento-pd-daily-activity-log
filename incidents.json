@@ -7927,5 +7927,23 @@
     "date": "2023-08-10",
     "time": "2349",
     "text": "Officers from our helicopter located an occupied stolen vehicle. Our Air Unit observed two suspects run from the vehicle and hide. Officers eventually located the suspects. The driver was arrested for related charges."
+  },
+  {
+    "cmd": "South Command",
+    "id": "23-227490",
+    "code": "Assault - Arrest",
+    "location": "24th St / Hogan Dr",
+    "date": "2023-08-11",
+    "time": "1747",
+    "text": "Officers responded to a report of an assault. Upon arrival, officers located both the victim and the suspect on scene. The victim sustained non life-threatening injuries and was transported to an area hospital for their injuries. The suspect was arrested for assault related charges."
+  },
+  {
+    "cmd": "Central Command",
+    "id": "23-227806",
+    "code": "Pursuit/DUI - Arrest",
+    "location": "28th St / K St",
+    "date": "2023-08-11",
+    "time": "2251",
+    "text": "Officers attempted to conduct an enforcement stop for a vehicle code violation. The suspect initially failed to yield and a pursuit was initiated. The suspect ultimately pulled over and displayed objective signs of intoxication. The suspect was arrested for related charges. "
   }
 ]
