@@ -7945,5 +7945,32 @@
     "date": "2023-08-11",
     "time": "2251",
     "text": "Officers attempted to conduct an enforcement stop for a vehicle code violation. The suspect initially failed to yield and a pursuit was initiated. The suspect ultimately pulled over and displayed objective signs of intoxication. The suspect was arrested for related charges. "
+  },
+  {
+    "cmd": "East Command",
+    "id": "23-227914",
+    "code": "Traffic Stop - Gun Arrest",
+    "location": "37th Ave / Power Inn Rd",
+    "date": "2023-08-12",
+    "time": "0053",
+    "text": "Officers conducted an enforcement stop for reckless driving. During a search of the vehicle, officers located an illegally possessed firearm with an illegal extended magazine. The suspect was arrested for related charges. "
+  },
+  {
+    "cmd": "South Command",
+    "id": "23-228483",
+    "code": "Firearm - Arrest",
+    "location": "80 block of Coral Gables Ct",
+    "date": "2023-08-12",
+    "time": "1639",
+    "text": "Officers contacted a subject in a vehicle. The subject was found to be on parole and a search of the vehicle was conducted. During the search, officers located an illegally possessed firearm with an illegal high-capacity magazine. The suspect was arrested for related charges. "
+  },
+  {
+    "cmd": "North Command",
+    "id": "23-228792",
+    "code": "Pursuit/Firearm - Arrest",
+    "location": "Brewerton Dr / Stonecreek Dr",
+    "date": "2023-08-12",
+    "time": "2223",
+    "text": "Officers attempted to make an enforcement stop for reckless driving. The suspect failed to yield and a pursuit was initiated. The suspects vehicle became immobilized and three passengers fled from the vehicle on foot, but they were quickly detained by our officers. The suspects discarded firearms as they attempted to flee, which were located. The suspects were arrested for related charges. "
   }
 ]
