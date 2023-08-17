@@ -7981,5 +7981,32 @@
     "date": "2023-08-13",
     "time": "0351",
     "text": "Officers responded to reports of a shooting. Officers located evidence of a shooting. Fortunately, no persons were struck by gunfire. Officers conducted an investigation and a report was generated."
+  },
+  {
+    "cmd": "East Command",
+    "id": "23-230052",
+    "code": "Homicide Investigation",
+    "location": "3800 block of 23rd Ave",
+    "date": "2023-08-14",
+    "time": "0850",
+    "text": "Please see the following link for a press release regarding this incident: https://apps.sacpd.org/Releases/index.aspx"
+  },
+  {
+    "cmd": "South Command",
+    "id": "23-230408",
+    "code": "Stolen Vehicle - Arrest",
+    "location": "Shining Star Dr / Franklin Blvd",
+    "date": "2023-08-14",
+    "time": "1605",
+    "text": "Officers located an occupied stolen vehicle. The suspect fled from the vehicle on foot but was quickly detained by officers. The suspect was arrested for related charges."
+  },
+  {
+    "cmd": "North Command",
+    "id": "23-230416",
+    "code": "Pursuit - Arrest",
+    "location": "3100 block of Clay St",
+    "date": "2023-08-14",
+    "time": "1613",
+    "text": "Officers responded to reports of a person threatening people with a knife. When officers arrived, the suspect fled in a vehicle. A pursuit was initiated. The pursuit eventually ended in Rocklin, CA where the suspect was detained and arrested for related charges. "
   }
 ]
