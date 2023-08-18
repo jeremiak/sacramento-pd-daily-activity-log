@@ -8008,5 +8008,23 @@
     "date": "2023-08-14",
     "time": "1613",
     "text": "Officers responded to reports of a person threatening people with a knife. When officers arrived, the suspect fled in a vehicle. A pursuit was initiated. The pursuit eventually ended in Rocklin, CA where the suspect was detained and arrested for related charges. "
+  },
+  {
+    "cmd": "Central Command",
+    "id": "23-230967",
+    "code": "Attempt Carjacking - Arrest",
+    "location": "28th St / K St",
+    "date": "2023-08-15",
+    "time": "0902",
+    "text": "Officers responded to reports of an attempt carjacking. Victims were in a vehicle when the suspect entered the driver seat and attempted to drive off. After being unsuccessful, the suspect fled. Responding officers located and detained the suspect. The suspect was arrested for related charges."
+  },
+  {
+    "cmd": "South Command",
+    "id": "23-231441",
+    "code": "Officer Involved Shooting",
+    "location": "3800 block of 24th St",
+    "date": "2023-08-15",
+    "time": "1707",
+    "text": "Please see the following link regarding this incident: https://apps.sacpd.org/Releases/liveview.aspx?reference=20230815-048"
   }
 ]
