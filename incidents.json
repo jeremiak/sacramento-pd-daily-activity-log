@@ -654,7 +654,7 @@
     "location": "2200 Block of Northgate Blvd",
     "date": "2022-09-28",
     "time": "2227",
-    "text": "Officers responded to a business for a report of a shooting.  Officers located evidence of a shooting and conducted an investigation.  No injuries were reported.  Crime report generated."
+    "text": "Officers responded to a business for a report of a shooting.ﾠ Officers located evidence of a shooting and conducted an investigation.ﾠ No injuries were reported.ﾠ Crime report generated."
   },
   {
     "cmd": "South Command",
@@ -1374,7 +1374,7 @@
     "location": "2400 Block of I St",
     "date": "2022-10-24",
     "time": "1319",
-    "text": "Officers responded to a vandalism report. Officers determined the suspect threw an object through the window of a residence. A short time later, officers located the suspect and arrested the suspect for vandalism. "
+    "text": "Officers responded to a vandalism report. Officers determined the suspect threw an object through the window of a residence. A short time later, officers located the suspect and arrested the suspect for vandalism.ﾠ"
   },
   {
     "cmd": "East Command",
@@ -2733,7 +2733,7 @@
     "location": "4000 Block of Freeport Blvd",
     "date": "2022-12-06",
     "time": "1115",
-    "text": "Officers responded to a report of a robbery. The suspect entered a business, brandished a knife, and attempted to steal from the business. The suspect fled the scene but was located by responding officers and arrested for related charges. "
+    "text": "Officers responded to a report of a robbery. The suspect entered a business, brandished a knife, and attempted to steal from the business. The suspect fled the scene but was located by responding officers and arrested for related charges.ﾠ"
   },
   {
     "cmd": "North Command",
@@ -2742,7 +2742,7 @@
     "location": "2300 Block of Northgate Blvd",
     "date": "2022-12-06",
     "time": "1220",
-    "text": "Officers responded to a report of a robbery. The suspect stole items from a business and assaulted the victim with a flashlight. The suspect fled the area but was located by responding officers and arrested for related charges. "
+    "text": "Officers responded to a report of a robbery. The suspect stole items from a business and assaulted the victim with a flashlight. The suspect fled the area but was located by responding officers and arrested for related charges.ﾠ"
   },
   {
     "cmd": "North Command",
@@ -2751,7 +2751,7 @@
     "location": "El Camino Ave / Bus 80 WB",
     "date": "2022-12-07",
     "time": "0132",
-    "text": "Officers conducted an enforcement stop on a vehicle. During the investigation, multiple firearms and narcotics were located. The driver was arrested for weapons and narcotics violations. "
+    "text": "Officers conducted an enforcement stop on a vehicle. During the investigation, multiple firearms and narcotics were located. The driver was arrested for weapons and narcotics violations.ﾠ"
   },
   {
     "cmd": "East Command",
@@ -5388,7 +5388,7 @@
     "location": "Harding Ave / Northgate Blvd",
     "date": "2023-04-04",
     "time": "0217",
-    "text": "Officers observed a reckless driver and attempted to conduct a traffic enforcement stop. The vehicle failed to yield, and a vehicle pursuit ensured. The pursuit continued until the suspect vehicle stopped at the dead end of a street. The driver was safely detained and arrested for evasion related charges. "
+    "text": "Officers observed a reckless driver and attempted to conduct a traffic enforcement stop. The vehicle failed to yield, and a vehicle pursuit ensured. The pursuit continued until the suspect vehicle stopped at the dead end of a street. The driver was safely detained and arrested for evasion related charges.ﾠ"
   },
   {
     "cmd": "South Command",
@@ -5406,7 +5406,7 @@
     "location": "65th St / Elvas Ave",
     "date": "2023-04-06",
     "time": "0043",
-    "text": "Officers conducted a traffic enforcement stop and contacted the driver. During the investigation, officers located narcotics and a firearm. The driver was arrested on related charges. "
+    "text": "Officers conducted a traffic enforcement stop and contacted the driver. During the investigation, officers located narcotics and a firearm. The driver was arrested on related charges.ﾠ"
   },
   {
     "cmd": "Central Command",
@@ -5415,7 +5415,7 @@
     "location": "1800 Block of L St",
     "date": "2023-04-06",
     "time": "1452",
-    "text": "Officers responded to a report of an assault with rocks. Upon arrival, officers located the uninjured victim and the suspect. The suspect was arrested for assault related charges. "
+    "text": "Officers responded to a report of an assault with rocks. Upon arrival, officers located the uninjured victim and the suspect. The suspect was arrested for assault related charges.ﾠ"
   },
   {
     "cmd": "East Command",
@@ -5424,7 +5424,7 @@
     "location": "5100 Block of Martin Luther King Blvd",
     "date": "2023-04-06",
     "time": "1743",
-    "text": "Officers responded to a disturbance at a vacant residence. Upon arrival, officers located and detained the suspect. The suspect was arrested for an outstanding felony warrant. "
+    "text": "Officers responded to a disturbance at a vacant residence. Upon arrival, officers located and detained the suspect. The suspect was arrested for an outstanding felony warrant.ﾠ"
   },
   {
     "cmd": "East Command",
@@ -5433,7 +5433,7 @@
     "location": "5700 Block of Folsom Blvd",
     "date": "2023-04-06",
     "time": "2151",
-    "text": "Officers responded to reports of a burglary. Upon arrival, officers quickly detained two suspects. Based on the investigation, the two suspects were arrested for burglary and conspiracy related charges. "
+    "text": "Officers responded to reports of a burglary. Upon arrival, officers quickly detained two suspects. Based on the investigation, the two suspects were arrested for burglary and conspiracy related charges.ﾠ"
   },
   {
     "cmd": "East Command",
@@ -8026,5 +8026,23 @@
     "date": "2023-08-15",
     "time": "1707",
     "text": "Please see the following link regarding this incident: https://apps.sacpd.org/Releases/liveview.aspx?reference=20230815-048"
+  },
+  {
+    "cmd": "North Command",
+    "id": "23-234682",
+    "code": "Shooting - Investigation",
+    "location": "4000 Block of Norwood Ave",
+    "date": "2023-08-18",
+    "time": "2140",
+    "text": "Officers responded to reports of a shooting. Officers located evidence of a shooting. Fortunately, no persons were struck by gunfire. Officers canvassed the area and a report was generated. "
+  },
+  {
+    "cmd": "Central Command",
+    "id": "23-234757",
+    "code": "Pursuit/DUI - Arrest",
+    "location": "L St / 18th St",
+    "date": "2023-08-18",
+    "time": "2324",
+    "text": "Officers attempted to make an enforcement stop for reckless driving. The suspect fled from officers and a pursuit was initiated. The suspect finally yielded to officers and displayed objective signs of intoxication. The suspect was arrested for related charges. "
   }
 ]
