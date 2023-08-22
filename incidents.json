@@ -8044,5 +8044,41 @@
     "date": "2023-08-18",
     "time": "2324",
     "text": "Officers attempted to make an enforcement stop for reckless driving. The suspect fled from officers and a pursuit was initiated. The suspect finally yielded to officers and displayed objective signs of intoxication. The suspect was arrested for related charges. "
+  },
+  {
+    "cmd": "North Command",
+    "id": "23-234944",
+    "code": "Pursuit - Arrest",
+    "location": "Marysville Blvd / Sonoma Ave",
+    "date": "2023-08-19",
+    "time": "0526",
+    "text": "Officers attempted to conduct an enforcement stop. The suspect fled from officers and a pursuit was initiated. The suspect eventually fled from the vehicle on foot, but was located and detained a short time later. The suspect was arrested for related charges. "
+  },
+  {
+    "cmd": "North Command",
+    "id": "23-235378",
+    "code": "Shooting - Investigation",
+    "location": "3800 Block of Alder St",
+    "date": "2023-08-19",
+    "time": "1705",
+    "text": "Officers responded to reports of a shooting. When officers arrived, they observed evidence of a shooting. Fortunately, nobody was injured by the gunfire. Officers canvassed the area and a report was generated. "
+  },
+  {
+    "cmd": "South Command",
+    "id": "23-235446",
+    "code": "Stolen Vehicle - Arrest",
+    "location": "3900 Block of Deer Run Wy",
+    "date": "2023-08-19",
+    "time": "1900",
+    "text": "Officers located an occupied stolen vehicle. The suspect was detained without incident and arrested for related charges. "
+  },
+  {
+    "cmd": "North Command",
+    "id": "23-235527",
+    "code": "Homicide Investigation",
+    "location": "1300 Block of Dixieanne Ave",
+    "date": "2023-08-19",
+    "time": "2019",
+    "text": "Please see the following Press Release: https://apps.sacpd.org/Releases/liveview.aspx?reference=20230820-050"
   }
 ]
