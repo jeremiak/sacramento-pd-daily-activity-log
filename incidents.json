@@ -8080,5 +8080,32 @@
     "date": "2023-08-19",
     "time": "2019",
     "text": "Please see the following Press Release: https://apps.sacpd.org/Releases/liveview.aspx?reference=20230820-050"
+  },
+  {
+    "cmd": "Central Command",
+    "id": "23-235843",
+    "code": "Pursuit/Firearm - Arrest",
+    "location": "Interstate 5 NB / J St",
+    "date": "2023-08-20",
+    "time": "0227",
+    "text": "Officers attempted to conduct an enforcement stop on a vehicle. The suspect fled from officers and a pursuit was initiated. The suspect eventually fled from the vehicle on foot but was detained a short time later. The suspect was found to be in possession of an illegally possessed firearm with a high capacity magazine. The suspect was arrested for related charges."
+  },
+  {
+    "cmd": "North Command",
+    "id": "23-236101",
+    "code": "Shooting - Investigation",
+    "location": "1100 Block of Frienza Ave",
+    "date": "2023-08-20",
+    "time": "1044",
+    "text": "Officers responded to reports of a shooting. Officers located evidence of a shooting. Fortunately, no persons were struck by gunfire. Officers canvassed the area and a report was generated. "
+  },
+  {
+    "cmd": "North Command",
+    "id": "23-236643",
+    "code": "Shooting - Investigation",
+    "location": "400 Block of W. Silver Eagle Rd",
+    "date": "2023-08-20",
+    "time": "2207",
+    "text": "Officers responded to reports of a shooting. Officers located evidence of a shooting. Fortunately, no persons were struck by gunfire. Officers canvassed the area and a report was generated."
   }
 ]
