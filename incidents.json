@@ -8152,5 +8152,32 @@
     "date": "2023-08-25",
     "time": "1037",
     "text": "Sacramento Police Department bike officers responded to a report of a verbal dispute in the 400 Block of K Street. Upon arrival, bike officers located and detained the suspect sitting nearby. During the investigation, officers located a loaded firearm on the suspect's person. The suspect was arrested on firearm-related charges."
+  },
+  {
+    "cmd": "Central Command",
+    "id": "23-241854",
+    "code": "Stolen Vehicle - Arrest",
+    "location": "16th Street / J Street",
+    "date": "2023-08-26",
+    "time": "0009",
+    "text": "Officers were in the area when they located a stolen vehicle. Officers conducted a traffic enforcement stop and detained the driver. The suspect was arrested for related charges. "
+  },
+  {
+    "cmd": "North Command",
+    "id": "23-241883",
+    "code": "Stolen Vehicle - Arrest",
+    "location": "Nogales Street / Marysville Blvd",
+    "date": "2023-08-26",
+    "time": "0103",
+    "text": "Officers were in the area when they located a stolen vehicle. Officers conducted a traffic enforcement stop and detained the driver. The suspect was arrested for related charges. "
+  },
+  {
+    "cmd": "North Command",
+    "id": "23-242739",
+    "code": "Homicide Investigation",
+    "location": "1400 Block of Arcade Boulevard",
+    "date": "2023-08-26",
+    "time": "2238",
+    "text": "Link to New Release: https://apps.sacpd.org/Releases/liveview.aspx?reference=20230827-051"
   }
 ]
