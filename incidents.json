@@ -8179,5 +8179,50 @@
     "date": "2023-08-26",
     "time": "2238",
     "text": "Link to New Release: https://apps.sacpd.org/Releases/liveview.aspx?reference=20230827-051"
+  },
+  {
+    "cmd": "East Command",
+    "id": "23-242931",
+    "code": "Fatal Hit-And-Run Vehicle Collision",
+    "location": "2st Avenue / Martin Luther King Jr Blvd",
+    "date": "2023-08-27",
+    "time": "0153",
+    "text": "Link to News Release: https://apps.sacpd.org/Releases/liveview.aspx?reference=20230827-052"
+  },
+  {
+    "cmd": "North Command",
+    "id": "23-243493",
+    "code": "Felony Assault - Arrest",
+    "location": "Truxel Road / Gateway Park Boulevard",
+    "date": "2023-08-27",
+    "time": "1817",
+    "text": "Officers responded to reports of a felony assault. Officers located a victim with non-life-threatening injuries. The suspect was located on scene and arrested for related charges. "
+  },
+  {
+    "cmd": "East Command",
+    "id": "23-243632",
+    "code": "Fatal Collision - Investigation",
+    "location": "5000 block of Fruitridge Road",
+    "date": "2023-08-27",
+    "time": "2108",
+    "text": "Officers responded to reports of a vehicle versus pedestrian collision. Upon arrival, Officers and Sacramento Fire Department Personnel began rendering medical aid on a female adult down in the roadway. Despite their efforts, the female was pronounced deceased by Fire Personnel on scene. The driver remained on scene. The incident is being investigated by our Major Collision Investigation Unit (MCIU). "
+  },
+  {
+    "cmd": "North Command",
+    "id": "23-243723",
+    "code": "Shooting - Investigation",
+    "location": "2500 block of Traction Avenue",
+    "date": "2023-08-27",
+    "time": "2252",
+    "text": "Officers responded to reports of a shooting. Once on scene, officers located evidence of a shooting. Nothing was found to have been hit and no injuries were reported. "
+  },
+  {
+    "cmd": "North Command",
+    "id": "23-243740",
+    "code": "Shooting - Investigation",
+    "location": "900 block of Carmelita Avenue",
+    "date": "2023-08-27",
+    "time": "2306",
+    "text": "Officers responded to reports of a shooting. Once on scene, officers located evidence of a shooting. Nothing was found to have been hit and no injuries were reported."
   }
 ]
