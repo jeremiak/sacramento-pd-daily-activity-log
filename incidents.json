@@ -8224,5 +8224,23 @@
     "date": "2023-08-27",
     "time": "2306",
     "text": "Officers responded to reports of a shooting. Once on scene, officers located evidence of a shooting. Nothing was found to have been hit and no injuries were reported."
+  },
+  {
+    "cmd": "North Command",
+    "id": "23-243854",
+    "code": "Warrant - Arrest",
+    "location": "Town Center Dr / Del Paso Rd",
+    "date": "2023-08-28",
+    "time": "0236",
+    "text": "Officers proactively contacted an individual who was found to have an outstanding warrant for their arrest. The suspect was arrested and booked for their warrant."
+  },
+  {
+    "cmd": "East Command",
+    "id": "23-244069",
+    "code": "Shooting - Investigation",
+    "location": "1400 block of 30th Street",
+    "date": "2023-08-28",
+    "time": "0953",
+    "text": "Officers responded to reports of a shooting. Officers located evidence of a shooting. No injuries were reported. Officers conducted an investigation and a report was generated."
   }
 ]
