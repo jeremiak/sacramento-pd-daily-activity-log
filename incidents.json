@@ -8242,5 +8242,23 @@
     "date": "2023-08-28",
     "time": "0953",
     "text": "Officers responded to reports of a shooting. Officers located evidence of a shooting. No injuries were reported. Officers conducted an investigation and a report was generated."
+  },
+  {
+    "cmd": "South Command",
+    "id": "23-245076",
+    "code": "Stolen Vehicle/Pursuit - Arrest",
+    "location": "Mack Rd / Center Pkwy",
+    "date": "2023-08-29",
+    "time": "1110",
+    "text": "Officers located a stolen vehicle. As the officers got behind the stolen vehicle, the suspect immediately fled from officers. A short pursuit was initiated and the driver eventually pulled over. The driver was arrested for related charges."
+  },
+  {
+    "cmd": "North Command",
+    "id": "23-245444",
+    "code": "Firearm - Arrest",
+    "location": "2900 block of Marysville Blvd",
+    "date": "2023-08-29",
+    "time": "1717",
+    "text": "Officers responded to reports of a threat with a gun. Officers contacted all parties, located the firearm, and arrested the suspect for threats and firearm related charges."
   }
 ]
