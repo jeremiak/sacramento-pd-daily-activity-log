@@ -8269,5 +8269,32 @@
     "date": "2023-08-30",
     "time": "0153",
     "text": "Officers responded to reports of a shooting. Officers located evidence of a shooting. No injuries were reported. Officers conducted an investigation and a report was generated. "
+  },
+  {
+    "cmd": "Central Command",
+    "id": "23-246713",
+    "code": "Shooting - Investigation",
+    "location": "1000 Block of Front Street",
+    "date": "2023-08-31",
+    "time": "0102",
+    "text": "Officers responded to reports of a shooting. Officers located evidence of a shooting. Nothing appeared to be struck by gunfire and no injuries were reported. Officers conducted an investigation and a report was generated. "
+  },
+  {
+    "cmd": "North Command",
+    "id": "23-246714",
+    "code": "Stolen vehicle/Pursuit/Firearm - Arrest",
+    "location": "Norwood Avenue / Jessie Avenue",
+    "date": "2023-08-31",
+    "time": "0109",
+    "text": "Officers located a stolen vehicle. The vehicle fled from officers and a pursuit was initiated. The occupants of the vehicle later fled from the vehicle but were detained nearby. Officers located an illegally possessed rifle. The driver and passenger were arrested for related charges. "
+  },
+  {
+    "cmd": "North Command",
+    "id": "23-247435",
+    "code": "Stolen Vehicle - Arrest",
+    "location": "Norwood Ave  / Silver Eagle Road",
+    "date": "2023-08-31",
+    "time": "1807",
+    "text": "Officers were in the area and located a stolen vehicle. An enforcement stop was conducted, and the driver was detained. During the investigation, officers located a loaded firearm and found that the driver had outstanding warrants. The suspect was later booked at the Sacramento County Main Jail for their warrants and related charges."
   }
 ]
