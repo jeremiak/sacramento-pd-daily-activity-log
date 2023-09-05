@@ -8305,5 +8305,23 @@
     "date": "2023-09-01",
     "time": "0245",
     "text": "Officers were in the area and located a stolen vehicle. Additional officers arrived to assist in conducting an enforcement stop. The vehicle yielded, and the driver was arrested. The driver was later booked at the Sacramento County Main Jail for related charges."
+  },
+  {
+    "cmd": "South Command",
+    "id": "23-248875",
+    "code": "DUI - Arrest",
+    "location": "Broadway / Muir Way",
+    "date": "2023-09-02",
+    "time": "0222",
+    "text": "Officers responded to a vehicle collision. Upon arrival, officers contacted the driver, who showed objective signs of intoxication. The driver was later arrested and booked for DUI related charges."
+  },
+  {
+    "cmd": "Central Command",
+    "id": "23-249024",
+    "code": "Stolen Vehicle - Arrest",
+    "location": "8th St / L St",
+    "date": "2023-09-02",
+    "time": "0846",
+    "text": "Officers were in the area and located a stolen vehicle. Officers conducted an enforcement stop, and the vehicle yielded. The driver was arrested on related charges."
   }
 ]
