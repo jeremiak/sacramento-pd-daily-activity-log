@@ -8332,5 +8332,41 @@
     "date": "2023-09-03",
     "time": "1549",
     "text": "Officers located an occupied stolen vehicle. The suspect was detained and during a search, officers located an illegally possessed firearm. The suspect was arrested for related charges."
+  },
+  {
+    "cmd": "South Command",
+    "id": "23-251217",
+    "code": "Stolen Vehicle - Arrest",
+    "location": "2720 Florin Rd",
+    "date": "2023-09-04",
+    "time": "1318",
+    "text": "Officers located a stolen vehicle. The suspect was detained and arrested for related charges."
+  },
+  {
+    "cmd": "Central Command",
+    "id": "23-251474",
+    "code": "Theft - Arrest",
+    "location": "16th St / I St",
+    "date": "2023-09-04",
+    "time": "1856",
+    "text": "Officers responded to a stolen property report. Upon arrival, officers located the suspect with the stolen property in the area. The suspect was arrested on related charges."
+  },
+  {
+    "cmd": "North Command",
+    "id": "23-251523",
+    "code": "Felony Assault - Arrest",
+    "location": "3800 Block of Marysville Blvd",
+    "date": "2023-09-04",
+    "time": "2010",
+    "text": "Officers responded to reports of a stabbing. Responding officers provided medical aid to the victim and located the fleeing suspect nearby. The victim sustained a non-life-threatening injury and the suspect was arrested for related charges."
+  },
+  {
+    "cmd": "South Command",
+    "id": "23-251678",
+    "code": "Firearm - Arrest",
+    "location": "Franklin Blvd / Florin Rd",
+    "date": "2023-09-04",
+    "time": "2352",
+    "text": "Officers conducted an enforcement stop for a vehicle code violation. The driver was found to be a parolee-at-large and during a search of the suspect, officers located an illegally possessed firearm. The suspect was arrested for related charges. "
   }
 ]
