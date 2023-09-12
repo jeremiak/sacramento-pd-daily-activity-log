@@ -8404,5 +8404,32 @@
     "date": "2023-09-08",
     "time": "1046",
     "text": "Officers responded to an assault with a taser. Upon arrival, officers located the suspect. The victim sustained non-life-threatening injuries. The suspect was arrested and booked at Sacramento County Main Jail for assault-related charges. "
+  },
+  {
+    "cmd": "South Command",
+    "id": "23-255824",
+    "code": "Shooting - Investigation",
+    "location": "7500 Block of Loma Verde Way",
+    "date": "2023-09-09",
+    "time": "0100",
+    "text": "Officers responded to reports of a shooting. Officers located evidence of a shooting. Nothing appeared to be struck by gunfire and no injuries were reported. Officers conducted an investigation and a report was generated. "
+  },
+  {
+    "cmd": "North Command",
+    "id": "23-255839",
+    "code": "Shooting - Investigation",
+    "location": "400 Block of Silver Eagle Road",
+    "date": "2023-09-09",
+    "time": "0123",
+    "text": "Officers responded to reports of a shooting. Officers located evidence of a shooting. Nothing appeared to be struck by gunfire and no injuries were reported. Officers conducted an investigation and a report was generated. "
+  },
+  {
+    "cmd": "North Command",
+    "id": "23-256625",
+    "code": "Firearm - Arrest",
+    "location": "4700 Block of Nashua Way",
+    "date": "2023-09-09",
+    "time": "2120",
+    "text": "Officers responded to reports of a suspicious vehicle. As officers arrived, they located the vehicle and contacted the occupants. During the investigation, officers located an illegally possessed rifle and narcotics. The suspects were arrested for related charges."
   }
 ]
