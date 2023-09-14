@@ -8458,5 +8458,14 @@
     "date": "2023-09-10",
     "time": "1823",
     "text": "Officers responded to reports of a robbery. Responding officers located the suspect, who was safely detained. Officers conducted an investigation, and a report was generated. The suspect was arrested for related charges. "
+  },
+  {
+    "cmd": "North Command",
+    "id": "23-258333",
+    "code": "Assault - Arrest",
+    "location": "3200 Block of Truxel Road",
+    "date": "2023-09-11",
+    "time": "1548",
+    "text": "Officers responded to reports of a large fight. Upon arrival, officers located an individual assaulting another. The suspect was detained. The victim sustained non-life-threatening injuries. The suspect was cited for assault related charges."
   }
 ]
