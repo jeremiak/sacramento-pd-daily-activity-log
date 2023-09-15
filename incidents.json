@@ -8467,5 +8467,23 @@
     "date": "2023-09-11",
     "time": "1548",
     "text": "Officers responded to reports of a large fight. Upon arrival, officers located an individual assaulting another. The suspect was detained. The victim sustained non-life-threatening injuries. The suspect was cited for assault related charges."
+  },
+  {
+    "cmd": "Central Command",
+    "id": "23-258736",
+    "code": "Officer Involved Shooting",
+    "location": "300 Block of L St",
+    "date": "2023-09-12",
+    "time": "0101",
+    "text": "Link to News Release: https://apps.sacpd.org/Releases/liveview.aspx?reference=20230912-058"
+  },
+  {
+    "cmd": "East Command",
+    "id": "23-258851",
+    "code": "Stolen Vehicle - Arrest",
+    "location": "Lemon Hill Ave / 63rd Street",
+    "date": "2023-09-12",
+    "time": "0718",
+    "text": "Officers were in the area and located an occupied stolen vehicle. The suspect was arrested on related charges."
   }
 ]
