@@ -8503,5 +8503,32 @@
     "date": "2023-09-13",
     "time": "1734",
     "text": "Officers responded to reports of a subject stealing items and assaulting store employees. Upon arrival, Officers located the suspect outside of the store. The suspect attempted to flee on foot. Officers quickly caught up to the suspect. While attempting to detain the suspect an officer was assaulted. The suspect was detained and later booked at Sacramento County Main Jail for related charges."
+  },
+  {
+    "cmd": "South Command",
+    "id": "23-261588",
+    "code": "Robbery - Arrest",
+    "location": "8000 Block of Delta Shores Circle",
+    "date": "2023-09-14",
+    "time": "2127",
+    "text": "Officers responded to reports of an individual who was robbed and sustained non-life threatening injuries. Upon arrival, officers located the suspects, who were arrested and later booked at Sacramento County Main Jail for related charges."
+  },
+  {
+    "cmd": "South Command",
+    "id": "23-261741",
+    "code": "Assault - Arrest",
+    "location": "5th Street / Broadway",
+    "date": "2023-09-15",
+    "time": "0219",
+    "text": "Officers responded to a reported assault. Upon arrival, officers located the victim and suspect. The victim sustained non-life threatening injuries. The suspect was arrested on related charges."
+  },
+  {
+    "cmd": "South Command",
+    "id": "23-262463",
+    "code": "Homicide Investigation",
+    "location": "2600 Block of Kit Carson Street",
+    "date": "2023-09-15",
+    "time": "1900",
+    "text": "Link to News Release: https://apps.sacpd.org/Releases/liveview.aspx?reference=20230916-060"
   }
 ]
