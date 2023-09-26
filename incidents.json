@@ -8593,5 +8593,23 @@
     "date": "2023-09-22",
     "time": "0035",
     "text": "An officer attempted to stop an individual on a bicycle for vehicle code violations. The suspect failed to yield, and a pursuit ensued. The suspect was detained and found to be a parolee at large and in possession of narcotics. The suspect was booked on related charges."
+  },
+  {
+    "cmd": "North Command",
+    "id": "23-270014",
+    "code": "Firearm - Arrest",
+    "location": "3800 Block of Truxel Road",
+    "date": "2023-09-23",
+    "time": "0918",
+    "text": "Officers responded to a report of an individual using narcotics in front of a business. During the investigation, officers located a stolen firearm in the individual's possession. He was arrested on related charges."
+  },
+  {
+    "cmd": "North Command",
+    "id": "23-270054",
+    "code": "Firearm - Arrest",
+    "location": "4100 Block of Norwood Ave",
+    "date": "2023-09-23",
+    "time": "1016",
+    "text": "Officers contacted the occupant of a vehicle in a business parking lot. During their investigation, officers located a stolen firearm and narcotics inside the car. The suspect was arrested on related charges."
   }
 ]
