@@ -8611,5 +8611,32 @@
     "date": "2023-09-23",
     "time": "1016",
     "text": "Officers contacted the occupant of a vehicle in a business parking lot. During their investigation, officers located a stolen firearm and narcotics inside the car. The suspect was arrested on related charges."
+  },
+  {
+    "cmd": "North Command",
+    "id": "23-270703",
+    "code": "Robbery - Arrest",
+    "location": "400 Block of Arden Way",
+    "date": "2023-09-24",
+    "time": "0001",
+    "text": "Officers responded to a reported robbery. Upon arrival, Officers located the victim and suspect. The victim sustained minor injuries. The suspect was arrested for related charges."
+  },
+  {
+    "cmd": "Central Command",
+    "id": "23-270792",
+    "code": "DUI - Arrest",
+    "location": "21st Street / L Street",
+    "date": "2023-09-24",
+    "time": "0142",
+    "text": "Officers conducted an enforcement stop on a vehicle. Upon contact with the driver, officers observed objective signs of intoxication. The driver was arrested and booked for DUI-related charges. "
+  },
+  {
+    "cmd": "East Command",
+    "id": "23-271062",
+    "code": "Burglary - Arrest",
+    "location": "3000 Block of H Street",
+    "date": "2023-09-24",
+    "time": "1153",
+    "text": "Officers responded to reports of a burglary in progress. Upon arrival, officers located an individual inside the building. The suspect was arrested on burglary-related charges. "
   }
 ]
