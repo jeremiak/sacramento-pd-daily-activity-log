@@ -8638,5 +8638,23 @@
     "date": "2023-09-24",
     "time": "1153",
     "text": "Officers responded to reports of a burglary in progress. Upon arrival, officers located an individual inside the building. The suspect was arrested on burglary-related charges. "
+  },
+  {
+    "cmd": "South Command",
+    "id": "23-271907",
+    "code": "Warrant - Arrest",
+    "location": "Kit Carson St / Revere St",
+    "date": "2023-09-25",
+    "time": "1116",
+    "text": "Officers contacted an individual who was determined to have an active felony warrant. The individual was arrested for the outstanding warrant. "
+  },
+  {
+    "cmd": "North Command",
+    "id": "23-272174",
+    "code": "Shooting - Investigation",
+    "location": "900 Block of Grand Ave",
+    "date": "2023-09-25",
+    "time": "1611",
+    "text": "Officers responded to reports of a shooting. On scene, officers located one male juvenile with a non-life-threatening injury who was transported to an area hospital for treatment. Officers conducted an investigation and a report was generated."
   }
 ]
