@@ -8674,5 +8674,32 @@
     "date": "2023-09-27",
     "time": "1354",
     "text": "Officers responded to a report of a robbery with a knife. Upon arrival, officers located the suspect, who was safely detained. The suspect was later booked at Sacramento County Main Jail on related charges."
+  },
+  {
+    "cmd": "North Command",
+    "id": "23-274782",
+    "code": "Stolen Vehicle - Arrest",
+    "location": "DEL PASO BLVD / EL CAMINO AVE",
+    "date": "2023-09-28",
+    "time": "0933",
+    "text": "Officers were in the area and located a stolen vehicle. An enforcement stop was conducted, and the suspect was arrested on related charges. "
+  },
+  {
+    "cmd": "North Command",
+    "id": "23-275203",
+    "code": "Shooting - Investigation",
+    "location": "2500 Block of Seamist Drive",
+    "date": "2023-09-28",
+    "time": "1726",
+    "text": "Officers responded to reports of a shooting. Responding officers located evidence of a shooting. No injuries were reported. Officers conducted an investigation and a report was generated."
+  },
+  {
+    "cmd": "South Command",
+    "id": "23-275474",
+    "code": "Shooting - Investigation",
+    "location": "2300 Block of Broadway",
+    "date": "2023-09-28",
+    "time": "2243",
+    "text": "Officers responded to reports of a shooting. Responding officers located evidence of a shooting. No injuries were reported. Officers conducted an investigation and a report was generated."
   }
 ]
