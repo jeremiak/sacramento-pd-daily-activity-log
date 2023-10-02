@@ -8701,5 +8701,32 @@
     "date": "2023-09-28",
     "time": "2243",
     "text": "Officers responded to reports of a shooting. Responding officers located evidence of a shooting. No injuries were reported. Officers conducted an investigation and a report was generated."
+  },
+  {
+    "cmd": "North Command",
+    "id": "23-275601",
+    "code": "Shooting - Investigation",
+    "location": "2300 Block of Laramie Lane",
+    "date": "2023-09-29",
+    "time": "0306",
+    "text": "Officers responded to reports of a shooting. Responding officers located evidence of a shooting. No injuries were reported. Officers conducted an investigation and a report was generated."
+  },
+  {
+    "cmd": "Central Command",
+    "id": "23-275890",
+    "code": "Carjacking/Pursuit - Arrest",
+    "location": "6th Street / S Street",
+    "date": "2023-09-29",
+    "time": "1120",
+    "text": "Officers responded to reports of a carjacking. A report was taken. A short time later, officers located the carjacked vehicle in the area of 5th St and J St. A pursuit ensued. The pursuit was handed off to the CHP. The suspect returned to the city. The suspect left the vehicle on foot and was quickly detained near the 3000 block of Alhambra Blvd. The suspect was arrested for related charges. "
+  },
+  {
+    "cmd": "East Command",
+    "id": "23-275988",
+    "code": "DUI/Collision - Arrest",
+    "location": "I Street / Alhambra Blvd",
+    "date": "2023-09-29",
+    "time": "1337",
+    "text": "Officers responded to reports of a vehicle vs. a pedestrian collision. The pedestrian had minor injury. Officers conducted a DUI evaluation and as a result, the driver was arrested for DUI related charges. "
   }
 ]
