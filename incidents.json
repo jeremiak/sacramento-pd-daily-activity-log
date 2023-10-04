@@ -8728,5 +8728,23 @@
     "date": "2023-09-29",
     "time": "1337",
     "text": "Officers responded to reports of a vehicle vs. a pedestrian collision. The pedestrian had minor injury. Officers conducted a DUI evaluation and as a result, the driver was arrested for DUI related charges. "
+  },
+  {
+    "cmd": "Central Command",
+    "id": "23-277525",
+    "code": "Shooting - Investigation",
+    "location": "7th Street / K Street",
+    "date": "2023-10-01",
+    "time": "0121",
+    "text": "Officers responded to reports of a shooting. Responding officers located evidence of a shooting. No injuries were reported. Officers conducted an investigation and a report was generated."
+  },
+  {
+    "cmd": "East Command",
+    "id": "23-277985",
+    "code": "Burglary - Arrest",
+    "location": "3700 Block of 2nd Ave",
+    "date": "2023-10-01",
+    "time": "1608",
+    "text": "Officers responded to reports of a burglary. Upon arrival, officers located the suspect inside the residence. The suspect was arrested and booked on related charges."
   }
 ]
