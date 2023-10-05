@@ -8746,5 +8746,32 @@
     "date": "2023-10-01",
     "time": "1608",
     "text": "Officers responded to reports of a burglary. Upon arrival, officers located the suspect inside the residence. The suspect was arrested and booked on related charges."
+  },
+  {
+    "cmd": "South Command",
+    "id": "23-278683",
+    "code": "Robbery - Arrest",
+    "location": "6000 Block of Valley Hi Drive",
+    "date": "2023-10-02",
+    "time": "1059",
+    "text": "Officers responded to reports of a robbery by force. The suspects had fled prior to the officers' arrival. Approximately one hour later, the suspect returned and attempted to steal more items. Officers responded and detained the suspect without incident. The suspect was later booked at Sacramento County Main Jail on related charges. "
+  },
+  {
+    "cmd": "Central Command",
+    "id": "23-279232",
+    "code": "Pursuit - Arrest",
+    "location": "1600 Block of 11th Street",
+    "date": "2023-10-02",
+    "time": "2141",
+    "text": "Officers were in the area and observed a subject known to have several outstanding warrants. Officers attempted to stop the individual who fled on foot. Officers initiated a foot pursuit and quickly established a perimeter around the area. The suspect was located hiding in a dumpster and later booked for their outstanding warrants. "
+  },
+  {
+    "cmd": "North Command",
+    "id": "23-279298",
+    "code": "Pursuit - Arrest",
+    "location": "AMERICAN AVE / HARDING AVE",
+    "date": "2023-10-02",
+    "time": "2317",
+    "text": "Officers attempted to stop a vehicle for a traffic violation. The vehicle failed to yield, and a pursuit ensued. The driver drove to their residence and parked the vehicle. The driver was detained and showed objective signs of intoxication. The driver was later booked at Sacramento County Main Jail for related charges."
   }
 ]
