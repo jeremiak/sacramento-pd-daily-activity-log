@@ -8800,5 +8800,32 @@
     "date": "2023-10-04",
     "time": "1742",
     "text": "Officers located an occupied stolen vehicle. The suspect was contacted and arrested on related charges."
+  },
+  {
+    "cmd": "North Command",
+    "id": "23-282252",
+    "code": "Firearm - Arrest",
+    "location": "900 Block of Eleanor Ave",
+    "date": "2023-10-05",
+    "time": "2245",
+    "text": "Officers responded to reports of suspicious activity. As officers arrived, one of the suspects fled from officers on foot. That suspect was detained and during the investigation, officers located an illegally possessed firearm. The suspect was arrested for related charges."
+  },
+  {
+    "cmd": "North Command",
+    "id": "23-282254",
+    "code": "Traffic Stop - Warrant Arrest",
+    "location": "Timberwood Ct / West El Camino Ave",
+    "date": "2023-10-05",
+    "time": "2247",
+    "text": "Officers conducted a vehicle enforcement stop. During the stop, the suspect fled from the vehicle on foot. The suspect subsequently detained and found to have two active felony warrants. The suspect was arrested for related charges."
+  },
+  {
+    "cmd": "South Command",
+    "id": "23-282268",
+    "code": "Firearm - Arrest",
+    "location": "Franklin Blvd / Sutterville Rd",
+    "date": "2023-10-05",
+    "time": "2308",
+    "text": "Officers from our South Violent Crime Reduction Team detained a known person on probation. During a probation search of individual’s vehicle, an illegally possessed firearm and narcotics were located. The suspect was arrested for related charges."
   }
 ]
