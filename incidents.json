@@ -8845,5 +8845,41 @@
     "date": "2023-10-06",
     "time": "0816",
     "text": "Officers responded to reports of a vandalism. Upon arrival, officers located and attempted to detain the suspect. The suspect assaulted an officer, causing injury. The suspect was detained by other officers on scene and was later booked at Sacramento County Main Jail on vandalism and assault-related charges."
+  },
+  {
+    "cmd": "South Command",
+    "id": "23-283391",
+    "code": "Firearm - Arrest",
+    "location": "FRANKLIN BLVD / IDAHO DR",
+    "date": "2023-10-07",
+    "time": "0240",
+    "text": "Officers contacted a suspect with active warrants. During the investigation, officers located a loaded firearm on their person. The suspect was later booked on related charges."
+  },
+  {
+    "cmd": "North Command",
+    "id": "23-283572",
+    "code": "Pursuit - Arrest",
+    "location": "3000 Block of Bridgemeadow Way",
+    "date": "2023-10-07",
+    "time": "1020",
+    "text": "Officers responded to reports of a suspect brandishing a firearm. Upon arrival, officers located the suspect attempting to flee on a moped and attempted to conduct an enforcement stop. The suspect failed to yield, and a pursuit ensued. The suspect collided with a parked vehicle and then attempted to flee on foot. The pursuing officers quickly took the suspect into custody. During the investigation, officers determined that the moped was stolen. The suspect was arrested on related charges. "
+  },
+  {
+    "cmd": "South Command",
+    "id": "23-283875",
+    "code": "Firearm - Arrest",
+    "location": "65th Avenue / Stratford Street",
+    "date": "2023-10-07",
+    "time": "1726",
+    "text": "Officers conducted an enforcement stop on a vehicle. During the investigation, officers located a loaded handgun in the vehicle. Both occupants of the vehicle were arrested on related charges. "
+  },
+  {
+    "cmd": "South Command",
+    "id": "23-284196",
+    "code": "Pursuit - Arrest",
+    "location": "5TH ST / X ST",
+    "date": "2023-10-07",
+    "time": "2244",
+    "text": "Officers attempted to conduct an enforcement stop on a vehicle. The vehicle failed to yield, and a pursuit ensued. The driver yielded, was safely taken into custody, and later booked on related charges."
   }
 ]
