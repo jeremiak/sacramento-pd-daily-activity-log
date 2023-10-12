@@ -8890,5 +8890,32 @@
     "date": "2023-10-08",
     "time": "0137",
     "text": "Officers responded to reports of an individual brandishing a firearm. Officers located the suspect who was safely detained. During the investigation, officers located a loaded firearm. The suspect was arrested on related charges."
+  },
+  {
+    "cmd": "North Command",
+    "id": "23-285214",
+    "code": "Pursuit - Arrest",
+    "location": "TRUXEL RD / PEBBLEWOOD DR",
+    "date": "2023-10-09",
+    "time": "0306",
+    "text": "An officer was in the area and observed a vehicle driving recklessly. The officer attempted to conduct an enforcement stop. The driver failed to yield, and a pursuit ensued. The driver safely yielded in the area of Truxel Road / West El Camino and was taken into custody. The driver was booked on related charges,"
+  },
+  {
+    "cmd": "North Command",
+    "id": "23-285485",
+    "code": "Robbery - Arrest",
+    "location": "2000 Block of Del Paso Blvd",
+    "date": "2023-10-09",
+    "time": "1129",
+    "text": "Officers responded to reports of a robbery by force. Responding officers located the suspect who was detained and arrested for related charges."
+  },
+  {
+    "cmd": "North Command",
+    "id": "23-285871",
+    "code": "Traffic Stop - Gun Arrest",
+    "location": "Pell Cir / Pell Dr",
+    "date": "2023-10-09",
+    "time": "1849",
+    "text": "Officers conducted an enforcement stop. During the investigation, officers located an illegally possessed firearm. The suspect was arrested for related charges."
   }
 ]
