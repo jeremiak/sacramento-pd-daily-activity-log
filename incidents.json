@@ -8926,5 +8926,32 @@
     "date": "2023-10-10",
     "time": "1530",
     "text": "Officers contacted a subject, who was found to have a warrant. During their investigation, officers located an illegally possessed firearm. The suspect was arrested for related charges."
+  },
+  {
+    "cmd": "Central Command",
+    "id": "23-288038",
+    "code": "Shooting - Arrest",
+    "location": "8th St / J St",
+    "date": "2023-10-11",
+    "time": "1847",
+    "text": "Officers responded to reports of a shooting. Responding officers located a male victim with at least one non-life-threatening gunshot wound. The victim was transported to an area hospital. A suspect was detained, and a firearm was located. The suspect was arrested for related charges. "
+  },
+  {
+    "cmd": "North Command",
+    "id": "23-288086",
+    "code": "Firearm - Arrest",
+    "location": "1900 Block of Canterbury Rd",
+    "date": "2023-10-11",
+    "time": "1941",
+    "text": "Officers conducted a vehicle stop. During a probation search, officers located an illegally possessed firearm. The suspect was arrested for related charges."
+  },
+  {
+    "cmd": "North Command",
+    "id": "23-288206",
+    "code": "Pursuit - Arrest",
+    "location": "Del Paso Blvd / El Camino Ave",
+    "date": "2023-10-11",
+    "time": "2320",
+    "text": "Officers attempted to make a traffic stop for a vehicle code violation. The suspect failed to yield, and a pursuit was initiated. The occupants of the vehicle fled on foot and a perimeter was quickly set. With the assistance of our Uncrewed Aerial System (UAS), the suspects were located and safely detained. The suspects were arrested for related charges."
   }
 ]
