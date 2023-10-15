@@ -8953,5 +8953,32 @@
     "date": "2023-10-11",
     "time": "2320",
     "text": "Officers attempted to make a traffic stop for a vehicle code violation. The suspect failed to yield, and a pursuit was initiated. The occupants of the vehicle fled on foot and a perimeter was quickly set. With the assistance of our Uncrewed Aerial System (UAS), the suspects were located and safely detained. The suspects were arrested for related charges."
+  },
+  {
+    "cmd": "South Command",
+    "id": "23-289135",
+    "code": "Traffic Stop - Gun Arrest",
+    "location": "Mack Rd / Brookfield Dr",
+    "date": "2023-10-12",
+    "time": "1853",
+    "text": "Officers conducted an enforcement stop. During the investigation, officers located an illegally possessed firearm. The suspect was arrested for related charges. "
+  },
+  {
+    "cmd": "East Command",
+    "id": "23-289204",
+    "code": "Felony Assault - Investigation",
+    "location": "2900 Block of X St",
+    "date": "2023-10-12",
+    "time": "2045",
+    "text": "Officers responded to reports of a stabbing in the 2900 Block of X St. Responding officers located one adult male victim with at least one stab wound. That victim was transported to an area hospital for treatment and was listed in stable condition. Officers conducted an investigation and a report was generated. "
+  },
+  {
+    "cmd": "East Command",
+    "id": "23-289282",
+    "code": "Reckless Driving - Gun Arrest",
+    "location": "Light Sky Ct / Younger Creek Dr",
+    "date": "2023-10-12",
+    "time": "2256",
+    "text": "Officers located several vehicles driving recklessly on the roadway. Officers conducted an enforcement stop and a vehicle yielded. During the investigation, officers located an illegally possessed firearm inside of the vehicle. The suspect was arrested for related charges. "
   }
 ]
