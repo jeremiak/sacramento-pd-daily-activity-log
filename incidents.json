@@ -8980,5 +8980,32 @@
     "date": "2023-10-12",
     "time": "2256",
     "text": "Officers located several vehicles driving recklessly on the roadway. Officers conducted an enforcement stop and a vehicle yielded. During the investigation, officers located an illegally possessed firearm inside of the vehicle. The suspect was arrested for related charges. "
+  },
+  {
+    "cmd": "North Command",
+    "id": "23-289329",
+    "code": "Fatal Collision - Investigation",
+    "location": "Norwood Ave / Ford Rd",
+    "date": "2023-10-13",
+    "time": "0015",
+    "text": "Officers responded to reports of a single vehicle collision. Responding officers located on person on scene with major injuries. That person was pronounced deceased on scene by Fire personnel. Given the circumstances, detectives from our Major Collision Investigation Unit and CSI responded to take over the investigation. "
+  },
+  {
+    "cmd": "South Command",
+    "id": "23-289348",
+    "code": "Shooting - Arrest",
+    "location": "60 Block of Nedra Ct",
+    "date": "2023-10-13",
+    "time": "0048",
+    "text": "Officers responded to reports of a shooting. While on scene, officers heard another gun shot and observed a person matching the description given walking nearby. Officers detained that person, who was found to be in illegal possession of a firearm. Evidence of a shooting was located. No injuries were reported. The suspect was arrested for related charges. "
+  },
+  {
+    "cmd": "North Command",
+    "id": "23-289986",
+    "code": "Brandishing - Arrest",
+    "location": "Del Paso Blvd / Rio Linda Blvd",
+    "date": "2023-10-13",
+    "time": "1601",
+    "text": "Officers responded to reports of a brandishing. Responding officers located the suspect and detained him. During the course of the investigation, officers determined the firearm was a replica. The suspect was arrested for brandishing a replica firearm charges, as well as an active felony warrant. "
   }
 ]
