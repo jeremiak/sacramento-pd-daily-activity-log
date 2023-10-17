@@ -9007,5 +9007,23 @@
     "date": "2023-10-13",
     "time": "1601",
     "text": "Officers responded to reports of a brandishing. Responding officers located the suspect and detained him. During the course of the investigation, officers determined the firearm was a replica. The suspect was arrested for brandishing a replica firearm charges, as well as an active felony warrant. "
+  },
+  {
+    "cmd": "South Command",
+    "id": "23-291014",
+    "code": "DUI/Collision - Arrest",
+    "location": "6300 Block of Valley Hi Dr",
+    "date": "2023-10-14",
+    "time": "1845",
+    "text": "Offices responded to reports of an injury collision. Several involved parties were transported to area hospitals as precaution. One of the drivers displayed objective signs of intoxication. A DUI investigation was conducted and that driver was arrested for suspicion of DUI."
+  },
+  {
+    "cmd": "South Command",
+    "id": "23-291264",
+    "code": "Shooting - Investigation",
+    "location": "40 Block of Park City Ct",
+    "date": "2023-10-14",
+    "time": "2335",
+    "text": "Officers responded to reports of a shooting. Responding officers located evidence of a shooting. No injuries were reported. Officers conducted an investigation and a report was generated."
   }
 ]
