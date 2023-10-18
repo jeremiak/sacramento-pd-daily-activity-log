@@ -9025,5 +9025,23 @@
     "date": "2023-10-14",
     "time": "2335",
     "text": "Officers responded to reports of a shooting. Responding officers located evidence of a shooting. No injuries were reported. Officers conducted an investigation and a report was generated."
+  },
+  {
+    "cmd": "North Command",
+    "id": "23-291814",
+    "code": "Pursuit - Arrest",
+    "location": "EL CAMINO AVE / TAFT ST",
+    "date": "2023-10-15",
+    "time": "1526",
+    "text": "Officers located a vehicle associated with a robbery that had previously occurred. Officers attempted to conduct an enforcement stop, but the vehicle failed to yield, and a pursuit ensued. The pursuit was called into surveillance mode. The vehicle eventually stopped in the area of Auburn Blvd, and the suspect fled on food. With the assistance of a police helicopter, officers were able to respond to the area, establish containment, and safely take the suspect into custody. The suspect was booked for the related robbery and pursuit-related charges."
+  },
+  {
+    "cmd": "North Command",
+    "id": "23-291940",
+    "code": "Theft - Arrest",
+    "location": "1800 Block of Arden Way",
+    "date": "2023-10-15",
+    "time": "1757",
+    "text": "Officers responded to two separate calls of multiple suspects stealing items from nearby establishments. Officers responded to the area and determined that the amount of items stolen was of a felony amount in both cases. With the assistance of our regional law enforcement partners and our dispatch center, officers were able to locate the suspects attempting to commit another theft in Roseville. All four suspects were taken into custody and later transported to Sacramento County Main Jail, where they were booked for Felony Grand theft."
   }
 ]
