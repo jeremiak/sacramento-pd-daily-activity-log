@@ -9043,5 +9043,23 @@
     "date": "2023-10-15",
     "time": "1757",
     "text": "Officers responded to two separate calls of multiple suspects stealing items from nearby establishments. Officers responded to the area and determined that the amount of items stolen was of a felony amount in both cases. With the assistance of our regional law enforcement partners and our dispatch center, officers were able to locate the suspects attempting to commit another theft in Roseville. All four suspects were taken into custody and later transported to Sacramento County Main Jail, where they were booked for Felony Grand theft."
+  },
+  {
+    "cmd": "East Command",
+    "id": "23-292245",
+    "code": "Vandalism - Arrest",
+    "location": "3000 Block of K Street",
+    "date": "2023-10-16",
+    "time": "0200",
+    "text": "Officers responded to reports of an individual vandalizing the business doors. Upon arrival, officers located the suspect in the area. During the investigation, officers determined the amount of vandalism caused was a felony amount. The suspect was transported and booked for felony vandalism."
+  },
+  {
+    "cmd": "East Command",
+    "id": "23-292989",
+    "code": "Theft - Arrest",
+    "location": "6500 Block of 4th Avenue",
+    "date": "2023-10-16",
+    "time": "1850",
+    "text": "Officers responded to reports of an individual stealing items from a store. Upon arrival, officers formulated a plan and were able to safely take the suspect into custody as they exited the store. The suspect was later booked for an outstanding warrant and felony theft."
   }
 ]
