@@ -9070,5 +9070,23 @@
     "date": "2023-10-17",
     "time": "1637",
     "text": "Officers were in the area when they located a stolen vehicle. The suspect attempted to flee on foot but was quickly detained. The suspect was later booked for related charges."
+  },
+  {
+    "cmd": "South Command",
+    "id": "23-294425",
+    "code": "Fatal Vehicle Collision - Investigation",
+    "location": "MACK RD / SUMMERSDALE DR",
+    "date": "2023-10-18",
+    "time": "0657",
+    "text": "Offices responded to a vehicle versus pedestrian collision. Upon arrival, a female adult was located on scene with serious injuries. She was later pronounced deceased on scene. The driver of the vehicle remained on scene. Given the circumstances, detectives from our Major Collision Investigation Unit and CSI responded to take over the investigation. "
+  },
+  {
+    "cmd": "South Command",
+    "id": "23-294775",
+    "code": "Stolen Vehicle - Arrest",
+    "location": "MEADOWVIEW RD / AMHERST ST",
+    "date": "2023-10-18",
+    "time": "1241",
+    "text": "Officers were in the area and located a stolen vehicle. An enforcement stop was conducted, and the suspect was detained. The suspect was later booked on related charges. "
   }
 ]
