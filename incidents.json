@@ -9133,5 +9133,23 @@
     "date": "2023-10-21",
     "time": "0149",
     "text": "Officers observed a vehicle commit a series of vehicle code violations and conducted an enforcement stop. Upon contact with the driver, officers observed objective signs of intoxication. During the investigation, officers found cocaine and methamphetamine in the driver's possession. The driver was arrested and booked for related charges."
+  },
+  {
+    "cmd": "North Command",
+    "id": "23-298533",
+    "code": "Warrant - Arrest",
+    "location": "4100 Block of Taylor Street",
+    "date": "2023-10-22",
+    "time": "1015",
+    "text": "Officers contacted an individual who was known to have an outstanding warrant. Officers on scene coordinated and safely took the suspect into custody. During the Investigation, officers located ammunition which the suspect is prohibited from possessing. The suspect was transported and later booked for the outstanding warrant and related charges."
+  },
+  {
+    "cmd": "South Command",
+    "id": "23-299009",
+    "code": "Threats - Arrest",
+    "location": "4600 Block of Freeport Blvd",
+    "date": "2023-10-22",
+    "time": "2237",
+    "text": "Officers responded to reports of an individual armed with a pipe threatening employees of a nearby business. Upon, Arrival, officers located and safely detained the suspect in the area. The suspect was later booked on related charges. "
   }
 ]
