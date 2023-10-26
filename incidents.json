@@ -9151,5 +9151,23 @@
     "date": "2023-10-22",
     "time": "2237",
     "text": "Officers responded to reports of an individual armed with a pipe threatening employees of a nearby business. Upon, Arrival, officers located and safely detained the suspect in the area. The suspect was later booked on related charges. "
+  },
+  {
+    "cmd": "North Command",
+    "id": "23-299555",
+    "code": "Stolen Vehicle - Arrest",
+    "location": "2300 Block of Mossy Bank Dr",
+    "date": "2023-10-23",
+    "time": "1521",
+    "text": "Officers responded to a person breaking into a car. As officers arrived, they observed the vehicle being broken into exiting the area. The suspect was detained and arrested for stolen vehicle charges."
+  },
+  {
+    "cmd": "North Command",
+    "id": "23-299727",
+    "code": "Shooting - Investigation",
+    "location": "2100 Block of Catskill Way",
+    "date": "2023-10-23",
+    "time": "1819",
+    "text": "Officers responded to reports of a shooting. Responding officers located evidence of a shooting. No injuries were reported. Officers conducted an investigation, and a report was generated."
   }
 ]
