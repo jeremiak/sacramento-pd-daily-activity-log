@@ -9169,5 +9169,50 @@
     "date": "2023-10-23",
     "time": "1819",
     "text": "Officers responded to reports of a shooting. Responding officers located evidence of a shooting. No injuries were reported. Officers conducted an investigation, and a report was generated."
+  },
+  {
+    "cmd": "Central Command",
+    "id": "23-299986",
+    "code": "Stolen Vehicle - Arrest",
+    "location": "J St / 5th St",
+    "date": "2023-10-24",
+    "time": "0059",
+    "text": "Officers located a stolen vehicle. The driver was detained and arrested for stolen vehicle charges. "
+  },
+  {
+    "cmd": "East Command",
+    "id": "23-299991",
+    "code": "Firearm - Arrest",
+    "location": "2200 Block of Stockton Blvd",
+    "date": "2023-10-24",
+    "time": "0126",
+    "text": "Officers conducted a traffic stop for vehicle violations. During the investigation, officers located an illegally possessed firearm inside the vehicle. The suspect was arrested for related charges. "
+  },
+  {
+    "cmd": "South Command",
+    "id": "23-300120",
+    "code": "Burglary - Arrest",
+    "location": "1800 Block of Vallejo Way",
+    "date": "2023-10-24",
+    "time": "0746",
+    "text": "Officers responded to reports of a burglary. The suspect was located in the area and was detained without incident. The suspect was arrested for related charges. "
+  },
+  {
+    "cmd": "North Command",
+    "id": "23-300742",
+    "code": "Stolen Vehicle - Arrest",
+    "location": "Del Paso Blvd / El Camino Ave",
+    "date": "2023-10-24",
+    "time": "1738",
+    "text": "Officers located a stolen vehicle. When officers attempted to stop the vehicle, a brief slow-speed pursuit ensued, until the suspect eventually pulled over. The suspect was detained and arrested for related charges."
+  },
+  {
+    "cmd": "South Command",
+    "id": "23-300825",
+    "code": "Stolen Vehicle - Arrest",
+    "location": "24th St / 47th Ave",
+    "date": "2023-10-24",
+    "time": "1907",
+    "text": "Officers located a stolen vehicle. When officers attempted to stop the vehicle, the suspect fled. The suspect was detained a short time later and arrested for related charges."
   }
 ]
