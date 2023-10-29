@@ -9223,5 +9223,50 @@
     "date": "2023-10-25",
     "time": "0633",
     "text": "Officers responded to reports of a burglary. The suspect fled prior to police arrival. Through great police investigation, the suspect was located and arrested for related charges. "
+  },
+  {
+    "cmd": "East Command",
+    "id": "23-302116",
+    "code": "Robbery - Arrest",
+    "location": "3000 Block of P Street",
+    "date": "2023-10-26",
+    "time": "0050",
+    "text": "Patrol officers were conducting follow up on a robbery report they took last week. During that follow up, they located the suspect nearby. The suspect was detained and after additional investigation, the suspect was arrested for related charges."
+  },
+  {
+    "cmd": "South Command",
+    "id": "23-302124",
+    "code": "Traffic Stop - Gun Arrest",
+    "location": "Meadowview Rd / Amherst St",
+    "date": "2023-10-26",
+    "time": "0105",
+    "text": "Officers conducted a vehicle stop. During a parole search of the vehicle, an illegally possessed firearm was located. An arrest was made for related charges."
+  },
+  {
+    "cmd": "South Command",
+    "id": "23-302379",
+    "code": "Stolen Vehicle - Arrest",
+    "location": "Mack Rd / Center Pkwy",
+    "date": "2023-10-26",
+    "time": "0919",
+    "text": "Officers located an occupied stolen vehicle. The vehicle was stopped, the driver was detained, and arrested for related charges. "
+  },
+  {
+    "cmd": "Central Command",
+    "id": "23-302550",
+    "code": "Stolen Vehicle/Firearm - Arrest",
+    "location": "800 Block of F St",
+    "date": "2023-10-26",
+    "time": "1144",
+    "text": "Officers located a stolen vehicle. A stop was conducted and the driver was detained. During the investigation, officers located two illegally possessed loaded handguns inside of the vehicle. The suspect was arrested for related charges. "
+  },
+  {
+    "cmd": "North Command",
+    "id": "23-303145",
+    "code": "Firearm - Arrest",
+    "location": "Del Paso Blvd / Eleanor Ave",
+    "date": "2023-10-26",
+    "time": "2257",
+    "text": "Officers responded to reports of a vehicle/motorcycle collision. Responding officers noticed a handgun on the motorcyclist. Through the officer’s investigation, they determined the firearm was reported stolen. The suspect was transported to an area hospital for treatment and will be booked on firearm charges once cleared from the hospital. "
   }
 ]
