@@ -9268,5 +9268,23 @@
     "date": "2023-10-26",
     "time": "2257",
     "text": "Officers responded to reports of a vehicle/motorcycle collision. Responding officers noticed a handgun on the motorcyclist. Through the officer’s investigation, they determined the firearm was reported stolen. The suspect was transported to an area hospital for treatment and will be booked on firearm charges once cleared from the hospital. "
+  },
+  {
+    "cmd": "North Command",
+    "id": "23-304819",
+    "code": "Warrant - Arrest",
+    "location": "Eleanor Ave / Altos Ave",
+    "date": "2023-10-28",
+    "time": "1919",
+    "text": "Officers attempted to conduct a bicycle stop. The suspect fled but was later detained by officers. The suspect was found to have an outstanding felony warrant. The suspect was arrested for related charges. "
+  },
+  {
+    "cmd": "South Command",
+    "id": "23-305068",
+    "code": "Attempt Burglary - Arrest",
+    "location": "5100 Block of Franklin Blvd",
+    "date": "2023-10-28",
+    "time": "2325",
+    "text": "Officers responded to reports of an attempted burglary. As officers arrived, several suspects fled on foot. Officers were able to detain three suspects. The three suspects were arrested for attempt burglary charges."
   }
 ]
