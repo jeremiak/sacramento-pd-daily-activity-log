@@ -9295,5 +9295,14 @@
     "date": "2023-10-29",
     "time": "1643",
     "text": "Officers conducted an enforcement stop on a vehicle. During the investigation, officers ran the VIN number, and the vehicle returned as stolen. The driver was arrested and booked on related charges."
+  },
+  {
+    "cmd": "North Command",
+    "id": "23-306845",
+    "code": "Pursuit - Arrest",
+    "location": "Grand Ave / Dry Creek Road",
+    "date": "2023-10-30",
+    "time": "2257",
+    "text": "Officers located a stolen vehicle. Officers attempted to stop the vehicle, but the vehicle failed to yield, and a pursuit ensued. The driver stopped and attempted to flee on foot but was quickly taken into custody. The suspect was later booked on related charges."
   }
 ]
