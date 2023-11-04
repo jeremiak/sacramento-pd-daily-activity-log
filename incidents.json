@@ -9304,5 +9304,32 @@
     "date": "2023-10-30",
     "time": "2257",
     "text": "Officers located a stolen vehicle. Officers attempted to stop the vehicle, but the vehicle failed to yield, and a pursuit ensued. The driver stopped and attempted to flee on foot but was quickly taken into custody. The suspect was later booked on related charges."
+  },
+  {
+    "cmd": "North Command",
+    "id": "23-307969",
+    "code": "Firearm - Arrest",
+    "location": "EDGEWATER RD / LAMPASAS AVE",
+    "date": "2023-11-01",
+    "time": "0101",
+    "text": "Officers conducted an enforcement stop on a vehicle for an equipment violation. Officers contacted the driver. During the investigation, officers located a replica AR-15-style rifle, a replica handgun, methamphetamine, and narcotic paraphernalia. The driver was cited for related charges."
+  },
+  {
+    "cmd": "Central Command",
+    "id": "23-308648",
+    "code": "Narcotics - Arrest",
+    "location": "7TH ST / K ST",
+    "date": "2023-11-01",
+    "time": "1702",
+    "text": "Bike officers observed an individual in possession of narcotic paraphernalia in public. The individual was cited for related charges."
+  },
+  {
+    "cmd": "Central Command",
+    "id": "23-308870",
+    "code": "Warrant - Arrest",
+    "location": "7TH ST / K ST",
+    "date": "2023-11-01",
+    "time": "2039",
+    "text": "Bike officers observed a subject consuming an alcoholic beverage in public. During the investigation, officers learned the individual had an outstanding felony warrant. The individual was transported to jail and booked for their outstanding warrant."
   }
 ]
