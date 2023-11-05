@@ -9331,5 +9331,59 @@
     "date": "2023-11-01",
     "time": "2039",
     "text": "Bike officers observed a subject consuming an alcoholic beverage in public. During the investigation, officers learned the individual had an outstanding felony warrant. The individual was transported to jail and booked for their outstanding warrant."
+  },
+  {
+    "cmd": "South Command",
+    "id": "23-309022",
+    "code": "Stolen Vehicle - Arrest",
+    "location": "MACK RD / CENTER PKWY",
+    "date": "2023-11-02",
+    "time": "0048",
+    "text": "Officers located a stolen vehicle. An enforcement stop was conducted. The driver was arrested and later booked on related charges."
+  },
+  {
+    "cmd": "North Command",
+    "id": "23-309397",
+    "code": "Stolen Vehicle - Arrest",
+    "location": "Silver Eagle Rd / Mabel St",
+    "date": "2023-11-02",
+    "time": "1040",
+    "text": "A motor officer located a stolen vehicle. A stop was conducted and the driver was detained and arrested for related charges."
+  },
+  {
+    "cmd": "Central Command",
+    "id": "23-309589",
+    "code": "Shooting - Arrest",
+    "location": "700 block of 7th St",
+    "date": "2023-11-02",
+    "time": "1254",
+    "text": "Officers responded to reports of a shooting. One victim was located with at least one non-life-threatening gunshot wound, who was transported to an area hospital for treatment. After an extensive and thorough investigation, our officers and detectives located the suspect, who was arrested for related charges. "
+  },
+  {
+    "cmd": "South Command",
+    "id": "23-309813",
+    "code": "Stolen Vehicle - Arrest",
+    "location": "Florin Rd / 24th St",
+    "date": "2023-11-02",
+    "time": "1655",
+    "text": "A patrol sergeant located an occupied stolen vehicle. A stop was conducted and the driver was detained. The driver was arrested for related charges. "
+  },
+  {
+    "cmd": "North Command",
+    "id": "23-309929",
+    "code": "Stolen Vehicle - Arrest",
+    "location": "Northgate Blvd / San Juan Rd",
+    "date": "2023-11-02",
+    "time": "1829",
+    "text": "Officers located an occupied stolen vehicle. A stop was conducted and the driver was detained. The driver was arrested for related charges."
+  },
+  {
+    "cmd": "North Command",
+    "id": "23-310056",
+    "code": "Robbery - Arrest",
+    "location": "1500 block of W. El Camino Ave",
+    "date": "2023-11-02",
+    "time": "2123",
+    "text": "Officers responded to a robbery. Responding officers located the suspect vehicle and a pursuit ensued. The pursuit was eventually handed off to the CHP, who pursued the vehicle throughout the City. The vehicle eventually came to a stop and all suspects were arrested."
   }
 ]
