@@ -9385,5 +9385,41 @@
     "date": "2023-11-02",
     "time": "2123",
     "text": "Officers responded to a robbery. Responding officers located the suspect vehicle and a pursuit ensued. The pursuit was eventually handed off to the CHP, who pursued the vehicle throughout the City. The vehicle eventually came to a stop and all suspects were arrested."
+  },
+  {
+    "cmd": "North Command",
+    "id": "23-310878",
+    "code": "Firearm - Arrest",
+    "location": "2500 block of Hawthorne Street",
+    "date": "2023-11-03",
+    "time": "1707",
+    "text": "Officers responded to reports of gunshots. Officers responded to the area and located the possible suspects nearby. During the investigation, officers located a ghost handgun with a threaded barrel and narcotics. All three suspects were arrested on related charges."
+  },
+  {
+    "cmd": "North Command",
+    "id": "23-310890",
+    "code": "Firearm - Arrest",
+    "location": "300 Block of El Camino",
+    "date": "2023-11-03",
+    "time": "1716",
+    "text": "Officers responded to a call of an individual who brandished a firearm. Officers responded and located the suspect. During the investigation, officers located a stolen rifle in the suspect's vehicle. The suspect was arrested on related charges. "
+  },
+  {
+    "cmd": "Central Command",
+    "id": "23-311088",
+    "code": "Warrant - Arrest",
+    "location": "700 Block of K Street",
+    "date": "2023-11-03",
+    "time": "2039",
+    "text": "Officers observed a known individual with a felony warrant. Officers arrested the individual and transported them to the Sacramento County Main Jail, where they were booked on an outstanding warrant."
+  },
+  {
+    "cmd": "Central Command",
+    "id": "23-311102",
+    "code": "Warrant - Arrest",
+    "location": "10th Street / Improv Aly",
+    "date": "2023-11-03",
+    "time": "2101",
+    "text": "Officers observed a known individual with a felony warrant. Officers arrested the individual and transported them to the Sacramento County Main Jail, where they were booked on an outstanding warrant."
   }
 ]
