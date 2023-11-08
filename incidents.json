@@ -9421,5 +9421,23 @@
     "date": "2023-11-03",
     "time": "2101",
     "text": "Officers observed a known individual with a felony warrant. Officers arrested the individual and transported them to the Sacramento County Main Jail, where they were booked on an outstanding warrant."
+  },
+  {
+    "cmd": "Central Command",
+    "id": "23-312695",
+    "code": "DUI - Arrest",
+    "location": "5TH ST / L ST",
+    "date": "2023-11-05",
+    "time": "1727",
+    "text": "Officers conducted an enforcement stop on a vehicle. During the investigation, officers observed objective signs of impairment. The driver was arrested for DUI related charges."
+  },
+  {
+    "cmd": "East Command",
+    "id": "23-312875",
+    "code": "Firearm - Arrest",
+    "location": "1ST AVE / 33RD ST",
+    "date": "2023-11-05",
+    "time": "2232",
+    "text": "Officers conducted an enforcement stop on a vehicle. During the investigation, officers located a loaded handgun concealed in the vehicle. The driver was arrested on related charges."
   }
 ]
