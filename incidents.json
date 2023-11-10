@@ -9448,5 +9448,32 @@
     "date": "2023-11-06",
     "time": "0100",
     "text": "Officers conducted an enforcement stop on a vehicle. During the investigation, officers observed objective signs of impairment. The driver was arrested for DUI related charges."
+  },
+  {
+    "cmd": "North Command",
+    "id": "23-313883",
+    "code": "Pursuit/Stolen Vehicle - Arrest",
+    "location": "Rio Linda Blvd / Arcade Blvd",
+    "date": "2023-11-07",
+    "time": "0148",
+    "text": "Officers attempted to conduct an enforcement stop for an equipment violation, but the driver of the vehicle quickly sped off, initiating a pursuit. The suspect fled from the vehicle and a perimeter was set. A record check of the vehicle showed it to be reported stolen. The suspect was located within the perimeter and arrested for related charges. "
+  },
+  {
+    "cmd": "North Command",
+    "id": "23-314569",
+    "code": "Stolen Vehicle - Arrest",
+    "location": "Silver Eagle Rd / Western Ave",
+    "date": "2023-11-07",
+    "time": "1704",
+    "text": "Officers located an occupied stolen vehicle. After a stop was conducted, the driver was detained and arrested for related charges."
+  },
+  {
+    "cmd": "North Command",
+    "id": "23-314665",
+    "code": "Foot Pursuit - Arrest",
+    "location": "2400 block of Del Paso Blvd",
+    "date": "2023-11-07",
+    "time": "1846",
+    "text": "Officers responded to a call of a man standing near an ATM with a screwdriver. When officers attempted to contact him, the suspect fled on foot. Officers were able to detain the suspect, who was found to be on probation. The suspect was arrested for applicable charges."
   }
 ]
