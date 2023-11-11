@@ -9475,5 +9475,32 @@
     "date": "2023-11-07",
     "time": "1846",
     "text": "Officers responded to a call of a man standing near an ATM with a screwdriver. When officers attempted to contact him, the suspect fled on foot. Officers were able to detain the suspect, who was found to be on probation. The suspect was arrested for applicable charges."
+  },
+  {
+    "cmd": "East Command",
+    "id": "23-315033",
+    "code": "Burglary - Arrest",
+    "location": "Stockton Blvd / X St",
+    "date": "2023-11-08",
+    "time": "0717",
+    "text": "A victim advised that they located a suspect who burglarized their house a few days prior. Officers responded and detained the suspect. Officers developed probable cause that this was the suspect who burglarized the house a few days prior. The suspect was also found to have an active felony warrant. The suspect was arrested for related charges. "
+  },
+  {
+    "cmd": "North Command",
+    "id": "23-315939",
+    "code": "Homicide Investigation",
+    "location": "2400 block of Del Paso Blvd",
+    "date": "2023-11-08",
+    "time": "2321",
+    "text": "Please see the following News Release: Homicide Investigation – Del Paso Boulevard / El Camino Avenue"
+  },
+  {
+    "cmd": "Central Command",
+    "id": "23-315950",
+    "code": "Pursuit - Arrest",
+    "location": "P St / 3rd St",
+    "date": "2023-11-08",
+    "time": "2349",
+    "text": "Officers observed a vehicle driving wrong-way on the roadway. Officers attempted to conduct an enforcement stop and the suspect fled. A pursuit was initiated and ultimately came to an end near Broadway/Marina View Dr. The suspect was arrested for related charges."
   }
 ]
