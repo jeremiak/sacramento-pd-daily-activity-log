@@ -9520,5 +9520,23 @@
     "date": "2023-11-09",
     "time": "1926",
     "text": "Nearby officers heard sounds of shots fired. Officers checked the area and no injuries were reported. Officers conducted an investigation and a report was generated."
+  },
+  {
+    "cmd": "Central Command",
+    "id": "23-316893",
+    "code": "Firearm - Arrest",
+    "location": "2200 block of 16th St",
+    "date": "2023-11-10",
+    "time": "0043",
+    "text": "Officers contacted an individual who was found to be on probation. The suspect attempted to flee on foot, but was quickly detained by officers. During a probation search, officers located an illegally possessed firearm, as well as narcotics on the suspect. The suspect was arrested for arrested for related charges."
+  },
+  {
+    "cmd": "North Command",
+    "id": "23-317648",
+    "code": "Shooting - Investigation",
+    "location": "1900 block of Verano St",
+    "date": "2023-11-10",
+    "time": "2226",
+    "text": "Officers responded to reports of a shooting. Responding officers located evidence of a shooting. No injuries were reported. Officers conducted an investigation and a report was generated."
   }
 ]
