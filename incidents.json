@@ -9583,5 +9583,32 @@
     "date": "2023-11-13",
     "time": "2225",
     "text": "Officers attempted to stop an individual. The individual refused to stop and fled on foot. Officers eventually detained the individual and arrested them for possession of narcotic paraphrenia and resisting arrest. "
+  },
+  {
+    "cmd": "North Command",
+    "id": "23-320533",
+    "code": "Assault - Arrest",
+    "location": "700 Block of NORTHFIELD DR",
+    "date": "2023-11-14",
+    "time": "1123",
+    "text": "Officers responded to reports of an individual pepper-spraying people and swinging a knife around. Upon arrival, officers located the suspect, who was safely detained. The victim sustained minor injuries. The suspect was arrested for assault-related charges."
+  },
+  {
+    "cmd": "Central Command",
+    "id": "23-320837",
+    "code": "Homicide Investigation",
+    "location": "400 Block of K Street",
+    "date": "2023-11-14",
+    "time": "1644",
+    "text": "https://apps.sacpd.org/Releases/liveview.aspx?reference=20231114-072"
+  },
+  {
+    "cmd": "East Command",
+    "id": "23-320949",
+    "code": "Firearm - Arrest",
+    "location": "STOCKTON BLVD / 2ND AVE",
+    "date": "2023-11-14",
+    "time": "1900",
+    "text": "Officers conducted a traffic stop on a vehicle. As the vehicle came to a stop one of the passengers fled on foot with a loaded automatic rifle. A Police aircraft was overhead and assisted officers with locating and detaining the suspect who fled with the rifle. The suspect was arrested on related charges."
   }
 ]
