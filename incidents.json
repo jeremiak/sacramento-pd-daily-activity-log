@@ -9637,5 +9637,23 @@
     "date": "2023-11-15",
     "time": "1554",
     "text": "Officers responded to reports of a robbery by force at a business. Upon arrival, officers located two juvenile suspects in possession of stolen property. Both suspects were detained and later booked on related charges. "
+  },
+  {
+    "cmd": "East Command",
+    "id": "23-322179",
+    "code": "Stolen Vehicle - Arrest",
+    "location": "FOLSOM BLVD / NOTRE DAME DR",
+    "date": "2023-11-16",
+    "time": "0126",
+    "text": "Officers located a stolen vehicle. A stop was conducted. The suspect was arrested and later booked on related charges."
+  },
+  {
+    "cmd": "North Command",
+    "id": "23-322702",
+    "code": "Robbery - Arrest",
+    "location": "300 block of El Camino Ave",
+    "date": "2023-11-16",
+    "time": "1336",
+    "text": "Officers responded to reports of a robbery to a business. As officers were checking the area, they located the suspect nearby. The suspect were safely detained. After the officer’s investigation, the suspect was arrested for related charges."
   }
 ]
