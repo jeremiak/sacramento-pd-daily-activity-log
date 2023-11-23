@@ -9691,5 +9691,32 @@
     "date": "2023-11-19",
     "time": "0220",
     "text": "Officers conducted a traffic stop and the driver was found to be on probation. A probation search of the vehicle yielded large quantity of narcotics. The driver was arrested for related charges."
+  },
+  {
+    "cmd": "South Command",
+    "id": "23-325917",
+    "code": "Felony Assault - Arrest",
+    "location": "7400 block of Patero Circle",
+    "date": "2023-11-20",
+    "time": "0652",
+    "text": "Officers responded to reports that a known person pointed a firearm at a victim. Responding officers had the victim exit the house and with the assistance of our Crisis Negotiation Team, the suspect ultimately exited the house and surrendered. The suspect was arrested for related charges."
+  },
+  {
+    "cmd": "North Command",
+    "id": "23-326409",
+    "code": "Firearm - Arrest",
+    "location": "El Camino Ave / Albatross Way",
+    "date": "2023-11-20",
+    "time": "1623",
+    "text": "Officers conducted a vehicle stop. During the investigation, officers located an illegally possessed firearm inside of the vehicle. The suspect was arrested for related charges."
+  },
+  {
+    "cmd": "East Command",
+    "id": "23-326696",
+    "code": "Shooting - Investigation",
+    "location": "4000 block of Stockton Blvd",
+    "date": "2023-11-20",
+    "time": "2346",
+    "text": "Officers responded to reports of a shooting. Responding officers located evidence of a shooting. No injuries were reported. Officers conducted an investigation and a report was generated."
   }
 ]
