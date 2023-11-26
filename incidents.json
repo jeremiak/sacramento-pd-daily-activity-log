@@ -9727,5 +9727,23 @@
     "date": "2023-11-21",
     "time": "2113",
     "text": "Officers responded to reports of a shooting. Responding officers located evidence of a shooting. No injuries were reported. Officers conducted an investigation and a report was generated. "
+  },
+  {
+    "cmd": "South Command",
+    "id": "23-328617",
+    "code": "Shooting - Investigation",
+    "location": "5600 block of Yvonne Wy",
+    "date": "2023-11-23",
+    "time": "0339",
+    "text": "Officers responded to reports of a shooting. Responding officers located evidence of a shooting. No injuries were reported. Officers conducted an investigation and a report was generated."
+  },
+  {
+    "cmd": "South Command",
+    "id": "23-328723",
+    "code": "Burglary - Arrest",
+    "location": "4100 block of Franklin Blvd",
+    "date": "2023-11-23",
+    "time": "0907",
+    "text": "Officers responded to reports of a burglary in progress. Responding officers located the suspect on scene. At the conclusion of the investigation, the suspect was arrested for related charges."
   }
 ]
