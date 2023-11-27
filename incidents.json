@@ -9745,5 +9745,23 @@
     "date": "2023-11-23",
     "time": "0907",
     "text": "Officers responded to reports of a burglary in progress. Responding officers located the suspect on scene. At the conclusion of the investigation, the suspect was arrested for related charges."
+  },
+  {
+    "cmd": "North Command",
+    "id": "23-329591",
+    "code": "Stolen Vehicle - Arrest",
+    "location": "Northfield Dr / Northview Dr",
+    "date": "2023-11-24",
+    "time": "1323",
+    "text": "Officers located an occupied stolen vehicle. The occupants were detained and the driver was arrested for related charges."
+  },
+  {
+    "cmd": "North Command",
+    "id": "23-329979",
+    "code": "Sideshow/Pursuit - Arrest",
+    "location": "N. Freeway Blvd / Gateway Park Blvd",
+    "date": "2023-11-24",
+    "time": "2104",
+    "text": "Officers observed a vehicle participating in an illegal sideshow. When officers attempted to stop the vehicle, the suspect fled and a pursuit ensued. The suspect vehicle became disabled and the driver and passenger both attempted to flee from the vehicle. Both were detained. The driver was arrested for sideshow and pursuit charges. "
   }
 ]
