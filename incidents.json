@@ -9808,5 +9808,32 @@
     "date": "2023-11-25",
     "time": "2202",
     "text": "Officers located an occupied stolen vehicle. All occupants were detained. The driver was arrested for related charges and the passengers were released."
+  },
+  {
+    "cmd": "South Command",
+    "id": "23-331368",
+    "code": "Assault - Arrest",
+    "location": "2300 block Florin Road",
+    "date": "2023-11-26",
+    "time": "1452",
+    "text": "Officers responded to a subject armed with a sword. Upon arrival, officers located the suspect and were able to evacuate the surrounding area. Officers from our Crisis Negotions Team arrived on scene and established a line of communication with the suspect. Eventually, the suspect put down the sword and was detained by officers. He was later booked on related charges."
+  },
+  {
+    "cmd": "North Command",
+    "id": "23-331460",
+    "code": "Assault - Arrest",
+    "location": "3000 Block of Arena Blvd",
+    "date": "2023-11-26",
+    "time": "1710",
+    "text": "Officers responded to a subject armed with a knife. Upon arrival, officers located the suspect, who attempted to flee on foot. The suspect was taken into custody and later booked at a juvenile detention facility on related charges."
+  },
+  {
+    "cmd": "South Command",
+    "id": "23-331682",
+    "code": "Warrant - Arrest",
+    "location": "BROADWAY / 20TH ST",
+    "date": "2023-11-26",
+    "time": "2336",
+    "text": "Officers conducted a stop on a bicyclist for an equipment violation. During the investigation, the bicyclist provided a false name and attempted to flee on foot. Officers quickly detained the suspect, who was found to be a parolee at large. The suspect was later booked for his outstanding warrant."
   }
 ]
