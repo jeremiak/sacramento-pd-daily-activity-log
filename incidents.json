@@ -9853,5 +9853,23 @@
     "date": "2023-11-27",
     "time": "1944",
     "text": "Officers responded regarding an assault report. The victim was assaulted and pistol-whipped by the suspects. The victim sustained non-life-threatening injuries. A report was taken. The suspects are outstanding. "
+  },
+  {
+    "cmd": "North Command",
+    "id": "23-333263",
+    "code": "Robbery - Arrest",
+    "location": "3600 Block of Cypress Street",
+    "date": "2023-11-28",
+    "time": "1734",
+    "text": "Officers responded to reports of an armed robbery where the victim's phone was taken. Upon arrival, officers contacted the victim and worked with them to track their stolen property. During the investigation, officers located the suspect, the stolen property, and the replica firearm used by the suspect. The suspect was arrested and booked on related charges."
+  },
+  {
+    "cmd": "North Command",
+    "id": "23-333427",
+    "code": "Shooting Investigation",
+    "location": "2900 Block of Clay Street",
+    "date": "2023-11-28",
+    "time": "2239",
+    "text": "Officers responded to reports of a shooting. Upon arrival, officers located evidence of a shooting. No victims or damaged property were located. A report was generated."
   }
 ]
