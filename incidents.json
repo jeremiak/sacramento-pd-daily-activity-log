@@ -9898,5 +9898,68 @@
     "date": "2023-11-30",
     "time": "2219",
     "text": "Officers located an occupied stolen vehicle. The driver was detained and arrested for related charges."
+  },
+  {
+    "cmd": "South Command",
+    "id": "23-336124",
+    "code": "Assault - Arrest",
+    "location": "2800 Block of 19th Ave",
+    "date": "2023-12-01",
+    "time": "2012",
+    "text": "Just after 8pm officers responded to the 2800 block of 19th Ave regarding a dispute where a firearm was brandished and later, sounds of a gunshot were heard. Upon arrival, officers located evidence of a shooting and determined that one suspect remained in an upstairs apartment. There were no reported injuries as a result of the shooting. Officers attempted to establish communication with the suspect for several hours but were unsuccessful. Officers from our SWAT and Crisis Negotiations Team (CNT) responded due to the suspect being armed and refusing to exit the apartment. Officers from our CNT attempted to establish communication with the suspect for over an hour.Around 1am, the suspect exited the apartment on their own, and was taken into custody without incident. Officers located several firearms on scene. Three individuals were arrested on firearms and assault related charges."
+  },
+  {
+    "cmd": "Central Command",
+    "id": "23-336192",
+    "code": "Stolen Vehicle - Arrest",
+    "location": "12TH ST / C ST",
+    "date": "2023-12-01",
+    "time": "2219",
+    "text": "Officers in the area located a stolen vehicle. Additional units responded, and a stop was conducted. The driver was arrested on related charges."
+  },
+  {
+    "cmd": "North Command",
+    "id": "23-336332",
+    "code": "Warrant - Arrest",
+    "location": "RIO LINDA BLVD / PLAZA AVE",
+    "date": "2023-12-02",
+    "time": "0230",
+    "text": "Officers attempted to stop an individual on foot with a felony warrant. The suspect tried to flee but was quickly detained by officers. The suspect was arrested for resisting arrest and their outstanding warrant."
+  },
+  {
+    "cmd": "East Command",
+    "id": "23-336740",
+    "code": "Stolen Vehicle - Arrest",
+    "location": "65TH ST / BROADWAY",
+    "date": "2023-12-02",
+    "time": "1537",
+    "text": "Officers located a stolen vehicle in the area. An enforcement stop was conducted, and the vehicle yielded. The driver was arrested and later booked on related charges."
+  },
+  {
+    "cmd": "South Command",
+    "id": "23-336943",
+    "code": "Warrant - Arrest",
+    "location": "4000 Block of Florin Road",
+    "date": "2023-12-02",
+    "time": "1931",
+    "text": "Officers contacted an individual who was found to have two outstanding felony warrants. The individual was arrested and later booked at jail on their outstanding warrants."
+  },
+  {
+    "cmd": "South Command",
+    "id": "23-337361",
+    "code": "Firearm - Arrest",
+    "location": "6800 block of Waterview Way",
+    "date": "2023-12-03",
+    "time": "0652",
+    "text": "Officers responded to conduct a probation search at the residence. During the investigation, officers located narcotics and paraphernalia that were indicative of sales. Officers also located a .40cal Glock handgun. Three individuals were arrested on related charges."
+  },
+  {
+    "cmd": "North Command",
+    "id": "23-337969",
+    "code": "Narcotics - Arrest",
+    "location": "2400 Block of Northgate Blvd",
+    "date": "2023-12-03",
+    "time": "2201",
+    "text": "Officers conduct a stop on an individual for a violation. The subject immediately fled on foot but was quickly detained by pursuing officers. During the investigation, officers located narcotics paraphernalia on the suspect's person. The suspect was transported to jail and booked on related charges."
   }
 ]
