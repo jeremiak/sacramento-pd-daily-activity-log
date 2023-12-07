@@ -9961,5 +9961,41 @@
     "date": "2023-12-03",
     "time": "2201",
     "text": "Officers conduct a stop on an individual for a violation. The subject immediately fled on foot but was quickly detained by pursuing officers. During the investigation, officers located narcotics paraphernalia on the suspect's person. The suspect was transported to jail and booked on related charges."
+  },
+  {
+    "cmd": "South Command",
+    "id": "23-338052",
+    "code": "Assault - Arrest",
+    "location": "10 Block of Clover Hill Court",
+    "date": "2023-12-04",
+    "time": "0108",
+    "text": "Officers responded to reports of a shooting. Upon arrival, officers located three victims with non-life-threatening injuries. The suspect and firearm were later located nearby. The suspect was booked at SCMJ on related charges."
+  },
+  {
+    "cmd": "North Command",
+    "id": "23-338097",
+    "code": "Assault - Arrest",
+    "location": "3400 Block of Astoria St",
+    "date": "2023-12-04",
+    "time": "0328",
+    "text": "Officers responded to a reported shooting. Upon arrival, officers located two victims and evidence of a shooting. The two victims were not injured as a result of the shooting. Responding officers located one suspect outside of the residence, who was quickly detained. The second suspect refused to exit the residence. Our Crisis Negotiations Team (CNT) and SWAT Team responded to assist. After several hours of attempting to establish communication, the suspect walked out of the residence and was safely taken into custody. The two suspects were later booked on assault-related charges. "
+  },
+  {
+    "cmd": "Central Command",
+    "id": "23-338268",
+    "code": "Resisting Arrest",
+    "location": "2000 Block of 16th Street",
+    "date": "2023-12-04",
+    "time": "0934",
+    "text": "Officers conducted a traffic stop on a vehicle for a violation. The driver exited the vehicle and was uncooperative with the officer's commands. When officers attempted to detain the driver they began to physically resist officers. Additional units responded and assisted in taking the driver into custody. There were no reported injuries. The driver was transported to jail and booked on related charges."
+  },
+  {
+    "cmd": "East Command",
+    "id": "23-338744",
+    "code": "Shooting Investigation",
+    "location": "2900 Block of 35th Street",
+    "date": "2023-12-04",
+    "time": "1841",
+    "text": "Officers responded to reports of a shooting. Upon arrival, officers located evidence of a shooting. There was no property damage and no victims were located. A report was generated. This remains an active investigation."
   }
 ]
