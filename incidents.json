@@ -9997,5 +9997,41 @@
     "date": "2023-12-04",
     "time": "1841",
     "text": "Officers responded to reports of a shooting. Upon arrival, officers located evidence of a shooting. There was no property damage and no victims were located. A report was generated. This remains an active investigation."
+  },
+  {
+    "cmd": "South Command",
+    "id": "23-339642",
+    "code": "Resisting Arrest",
+    "location": "7TH AVE / 19TH ST",
+    "date": "2023-12-05",
+    "time": "1622",
+    "text": "Officers responded to several reports of an individual aggressively harassing community members in the area. Officers located the individual who was found to be wanted for failing to follow the registration requirements as a registered sex offender. The suspect was detained but began to physically resist officers when they attempted to place him in a patrol car. There were no reported injuries. The suspect was later booked at jail on related charges."
+  },
+  {
+    "cmd": "Central Command",
+    "id": "23-339667",
+    "code": "Stolen Property - Arrest",
+    "location": "400 Block K Street",
+    "date": "2023-12-05",
+    "time": "1652",
+    "text": "Officers responded to reports of a stolen bicycle. Officers located the suspect riding the stolen bicycle and safely detained them. The suspect was arrested for related charges."
+  },
+  {
+    "cmd": "North Command",
+    "id": "23-339694",
+    "code": "Firearm - Arrest",
+    "location": "400 Block of Arcade Blvd",
+    "date": "2023-12-05",
+    "time": "1712",
+    "text": "Officers in the area conducted a stop on a vehicle. During the stop, a rear passenger exited and fled on foot. The other two occupants in the vehicle were detained without incident.  A loaded handgun was located during the search of the vehicle. Both occupants were arrested on firearm-related charges.  A search for the individual who fled was conducted with negative results."
+  },
+  {
+    "cmd": "North Command",
+    "id": "23-339868",
+    "code": "Shooting - Investigation",
+    "location": "300 block of Anderson Ct",
+    "date": "2023-12-05",
+    "time": "2120",
+    "text": "Officers responded to reports of a shooting. Responding officers located evidence of a shooting. No injuries were reported. Officers conducted an investigation and a report was generated."
   }
 ]
