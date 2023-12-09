@@ -10033,5 +10033,32 @@
     "date": "2023-12-05",
     "time": "2120",
     "text": "Officers responded to reports of a shooting. Responding officers located evidence of a shooting. No injuries were reported. Officers conducted an investigation and a report was generated."
+  },
+  {
+    "cmd": "South Command",
+    "id": "23-340101",
+    "code": "Shooting - Investigation",
+    "location": "400 block of Tailoff Ln",
+    "date": "2023-12-06",
+    "time": "0715",
+    "text": "Officers responded to reports of a shooting. Responding officers located evidence of a shooting. No injuries were reported. Officers conducted an investigation and a report was generated."
+  },
+  {
+    "cmd": "South Command",
+    "id": "23-340825",
+    "code": "Shooting - Investigation",
+    "location": "7800 block of Center Pkwy",
+    "date": "2023-12-06",
+    "time": "1958",
+    "text": "Officers responded to reports of a shooting. Responding officers located evidence of a shooting. No injuries were reported. Officers conducted an investigation and a report was generated."
+  },
+  {
+    "cmd": "South Command",
+    "id": "23-340922",
+    "code": "Stolen Vehicle - Arrest",
+    "location": "Center Pkwy / Mack Rd",
+    "date": "2023-12-06",
+    "time": "2215",
+    "text": "Officers located an occupied stolen vehicle. The driver fled on foot, but was quickly detained and found to be 17-years old. The suspect was arrested for related charges and transported to Juvenile Hall."
   }
 ]
