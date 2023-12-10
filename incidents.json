@@ -10060,5 +10060,32 @@
     "date": "2023-12-06",
     "time": "2215",
     "text": "Officers located an occupied stolen vehicle. The driver fled on foot, but was quickly detained and found to be 17-years old. The suspect was arrested for related charges and transported to Juvenile Hall."
+  },
+  {
+    "cmd": "North Command",
+    "id": "23-341345",
+    "code": "Hit-and-run - Investigation",
+    "location": "N Bend Dr / Natomas Blvd",
+    "date": "2023-12-07",
+    "time": "1134",
+    "text": "Officers responded to reports of a vehicle vs. bicyclist collision. The cyclist was transported to an area hospital with significant injuries. The vehicle fled the scene prior to police arrival. Officers conducted an investigation and a report was generated. "
+  },
+  {
+    "cmd": "South Command",
+    "id": "23-341427",
+    "code": "Homicide - Investigation",
+    "location": "6100 block of Riverside Blvd",
+    "date": "2023-12-07",
+    "time": "1251",
+    "text": "Please see the following press release: Homicide Investigation - 6100 Block of Riverside Blvd"
+  },
+  {
+    "cmd": "North Command",
+    "id": "23-341915",
+    "code": "Traffic Stop - Arrest",
+    "location": "Raley Blvd / Macarthur St",
+    "date": "2023-12-07",
+    "time": "2249",
+    "text": "Officers conducted a traffic stop and recognized the passenger to be the suspect of a shooting from December 1. During their investigation, officers located narcotics in the vehicle. The driver was arrested on narcotic related charges and the passenger was arrested for the previous shooting. "
   }
 ]
