@@ -10114,5 +10114,41 @@
     "date": "2023-12-08",
     "time": "1753",
     "text": "Officers located an occupied stolen vehicle. The driver was detained and arrested for related charges."
+  },
+  {
+    "cmd": "North Command",
+    "id": "23-342948",
+    "code": "Stolen Vehicle - Arrest",
+    "location": "Arden Wy / Heritage Ln",
+    "date": "2023-12-09",
+    "time": "0142",
+    "text": "Officers located an occupied stolen vehicle. The driver was detained and arrested for related charges."
+  },
+  {
+    "cmd": "Central Command",
+    "id": "23-342984",
+    "code": "Felony Assault - Investigation",
+    "location": "19th St / S St",
+    "date": "2023-12-09",
+    "time": "0259",
+    "text": "Officers responded to the intersection of 19th St and S St for reports of a stabbing. Responding officers located an adult male with at least one stab wound. Officers provided medical aid and the victim was transported to an area hospital for non-life-threatening injuries. Officers conducted an investigation, canvassed the area, and a report was generated."
+  },
+  {
+    "cmd": "East Command",
+    "id": "23-343565",
+    "code": "Traffic Stop - Gun Arrest",
+    "location": "4000 block of 11th Ave",
+    "date": "2023-12-09",
+    "time": "2028",
+    "text": "Officers conducted a traffic stop. The suspect fled from officers, but was eventually detained. During the investigation, officers located narcotics and an illegally possessed firearm. The suspect was arrested for related charges."
+  },
+  {
+    "cmd": "Central Command",
+    "id": "23-343685",
+    "code": "Shooting - Arrest",
+    "location": "600 block of J St",
+    "date": "2023-12-09",
+    "time": "2241",
+    "text": "Officers responded to reports of a shooting. No injuries were reported, however responding officers located evidence of a shooting. Officers were able to quickly respond and determined the suspect was in a parking garage nearby. The suspect was safely detained and arrested for related charges. "
   }
 ]
