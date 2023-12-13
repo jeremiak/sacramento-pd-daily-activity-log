@@ -10150,5 +10150,32 @@
     "date": "2023-12-09",
     "time": "2241",
     "text": "Officers responded to reports of a shooting. No injuries were reported, however responding officers located evidence of a shooting. Officers were able to quickly respond and determined the suspect was in a parking garage nearby. The suspect was safely detained and arrested for related charges. "
+  },
+  {
+    "cmd": "Central Command",
+    "id": "23-343775",
+    "code": "Collision - DUI Arrest",
+    "location": "1200 block of 7th St",
+    "date": "2023-12-10",
+    "time": "0155",
+    "text": "Officers observed a vehicle doing donuts. Before officers could conduct a traffic stop, they observed the vehicle strike a pole. Officers conducted a stop and observed objective signs of intoxication. A DUI evaluation was conducted and the driver was arrested for related charges."
+  },
+  {
+    "cmd": "South Command",
+    "id": "23-344425",
+    "code": "Pursuit - Arrest",
+    "location": "2500 Block of 49th Ave",
+    "date": "2023-12-10",
+    "time": "2147",
+    "text": "Officers observed a vehicle with several equipment violations. Officers attempted to conduct an enforcement stop in the area of Florin Road/ 24th St. The vehicle failed to yield, and a pursuit ensued. Officers pursued the vehicle to the 2500 Block of 49th Ave, where the vehicle pulled over and the driver attempted to flee on foot. Responding units quickly established a perimeter and located the driver hiding in a yard. A records check revealed that the vehicle was stolen. The driver was arrested and booked at the Sacramento County Main Jail on related charges. "
+  },
+  {
+    "cmd": "North Command",
+    "id": "23-344493",
+    "code": "Firearm/Pursuit - Arrest",
+    "location": "E COMMERCE WAY / BENEFIT WAY",
+    "date": "2023-12-10",
+    "time": "2348",
+    "text": "Officers attempted to conduct an enforcement stop on a vehicle. The vehicle failed to yield, and a pursuit ensued. After a short distance, the driver yielded, on his own. Officers detained the driver and sole occupant of the vehicle. During the investigation, officers located two loaded and unserialized firearms in the vehicle. The driver was arrested on related charges."
   }
 ]
