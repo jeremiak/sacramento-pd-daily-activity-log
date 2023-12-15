@@ -10195,5 +10195,32 @@
     "date": "2023-12-11",
     "time": "1708",
     "text": "Officers responded to reports of a male adult possibly armed with a firearm and yelling at individuals in a threatening manner. Upon arrival, officers located the suspect and safely detained him. During the investigation, officers did not locate a firearm but found that the suspect was in possession of several concealed knives. The suspect was arrested for criminal threats and weapons-related charges."
+  },
+  {
+    "cmd": "North Command",
+    "id": "23-345355",
+    "code": "Firearm - Arrest",
+    "location": "NORCROSS DR / HAGGIN AVE",
+    "date": "2023-12-12",
+    "time": "0036",
+    "text": "Officers conducted a traffic stop on a vehicle. During the investigation, officers located a handgun on one of the passengers and an additional loaded firearm inside the vehicle. The passenger was arrested and booked on firearms-related charges."
+  },
+  {
+    "cmd": "Central Command",
+    "id": "23-346062",
+    "code": "Theft - Arrest",
+    "location": "400 Block of K Street",
+    "date": "2023-12-12",
+    "time": "1938",
+    "text": "Officers responded to reports of an individual attempting to steal merchandise from a retail establishment. The suspect used force to get past the store's loss prevention staff in an attempt to flee. The suspect was detained. Officers transported the suspect to jail, where they were booked for robbery-related charges."
+  },
+  {
+    "cmd": "Central Command",
+    "id": "23-346124",
+    "code": "DUI - Arrest",
+    "location": "7TH ST / Q ST",
+    "date": "2023-12-12",
+    "time": "2049",
+    "text": "A supervisor stopped a vehicle that was traveling the wrong way, on a one-way street. During the investigation,  Officers observed objective signs of intoxication. A DUI evaluation was conducted and the driver was arrested for related charges."
   }
 ]
