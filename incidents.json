@@ -10222,5 +10222,50 @@
     "date": "2023-12-12",
     "time": "2049",
     "text": "A supervisor stopped a vehicle that was traveling the wrong way, on a one-way street. During the investigation,  Officers observed objective signs of intoxication. A DUI evaluation was conducted and the driver was arrested for related charges."
+  },
+  {
+    "cmd": "North Command",
+    "id": "23-346809",
+    "code": "Stolen Vehicle - Arrest",
+    "location": "EL CAMINO AVE / DEL PASO BLVD",
+    "date": "2023-12-13",
+    "time": "1601",
+    "text": "Officers in the area located a stolen vehicle. Additional units responded, and a stop was conducted. The driver was arrested on related charges."
+  },
+  {
+    "cmd": "North Command",
+    "id": "23-346891",
+    "code": "Stolen Vehicle - Arrest",
+    "location": "SAN JUAN RD / NORTHGATE BLVD",
+    "date": "2023-12-13",
+    "time": "1720",
+    "text": "Officers in the area located a stolen vehicle. Additional units responded, and a stop was conducted. The driver was arrested on related charges."
+  },
+  {
+    "cmd": "North Command",
+    "id": "23-346976",
+    "code": "Stolen Vehicle - Arrest",
+    "location": "MARYSVILLE BLVD / LOS ROBLES BLVD",
+    "date": "2023-12-13",
+    "time": "1853",
+    "text": "Officers in the area located a stolen vehicle. Additional units responded, and a stop was conducted. The driver was arrested on related charges."
+  },
+  {
+    "cmd": "East Command",
+    "id": "23-347100",
+    "code": "Stolen Vehicle - Arrest",
+    "location": "ROOSEVELT AVE / STOCKTON BLVD",
+    "date": "2023-12-13",
+    "time": "2213",
+    "text": "Officers in the area located a stolen vehicle. Additional units responded, and a stop was conducted. The driver was arrested on related charges."
+  },
+  {
+    "cmd": "Central Command",
+    "id": "23-347132",
+    "code": "Warrant - Arrest",
+    "location": "N ST / 21ST ST",
+    "date": "2023-12-13",
+    "time": "2331",
+    "text": "A community member recognized an individual who had recently been featured on Sacramento Valley Crime Stoppers.  Officers responded and detained the individual, who did indeed have a warrant for their arrest.  They were arrested and later booked for their outstanding warrant"
   }
 ]
