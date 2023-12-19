@@ -10285,5 +10285,23 @@
     "date": "2023-12-14",
     "time": "1742",
     "text": "Officers responded to reports of a shoplifter who threatened a security. Responding officers located the suspect, who was arrested for related charges."
+  },
+  {
+    "cmd": "South Command",
+    "id": "23-348669",
+    "code": "Shooting Investigation",
+    "location": "600 Block of 1st Ave",
+    "date": "2023-12-15",
+    "time": "1623",
+    "text": "Officers responded to reports of a shooting. Upon arrival, officers located evidence of a shooting. There were no reported injuries, or damage. A report was generated."
+  },
+  {
+    "cmd": "South Command",
+    "id": "23-349302",
+    "code": "Assault - Arrest",
+    "location": "8100 Block of Phinney Dr",
+    "date": "2023-12-16",
+    "time": "1040",
+    "text": "Officers responded to reports of an assault. Upon arrival, officers located and detained the suspect. The victim sustained non-life-threatening injuries. The suspect was arrested on assault-related charges."
   }
 ]
