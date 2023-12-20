@@ -10303,5 +10303,23 @@
     "date": "2023-12-16",
     "time": "1040",
     "text": "Officers responded to reports of an assault. Upon arrival, officers located and detained the suspect. The victim sustained non-life-threatening injuries. The suspect was arrested on assault-related charges."
+  },
+  {
+    "cmd": "South Command",
+    "id": "23-350407",
+    "code": "Firearm - Arrest",
+    "location": "5700 block of Mack Road",
+    "date": "2023-12-17",
+    "time": "1349",
+    "text": "Officers responded to reports of a male who had brandished a firearm during a dispute. Upon arrival, officers located the suspect and safely detained him. During the investigation, officers located a firearm. The suspect was arrested on firearms-related charges."
+  },
+  {
+    "cmd": "North Command",
+    "id": "23-350847",
+    "code": "Pursuit - Arrest",
+    "location": "3600 Block of N Freeway Blvd",
+    "date": "2023-12-17",
+    "time": "2308",
+    "text": "Officers attempted to conduct a stop on a vehicle for a moving violation. The vehicle failed to yield, and a pursuit ensued. The driver eventually pulled over and was taken into custody. The suspect was arrested on pursuit-related charges."
   }
 ]
