@@ -10357,5 +10357,41 @@
     "date": "2023-12-19",
     "time": "1958",
     "text": "Officers located an occupied stolen vehicle. The suspect was detained and arrested for related charges."
+  },
+  {
+    "cmd": "East Command",
+    "id": "23-352874",
+    "code": "Shooting - Investigation",
+    "location": "7600 block of Maralee Way",
+    "date": "2023-12-20",
+    "time": "0502",
+    "text": "Officers responded to reports of shots fired. Responding officers located evidence of a shooting. No injuries were reported. Officers conducted an investigation and a report was generated."
+  },
+  {
+    "cmd": "East Command",
+    "id": "23-353075",
+    "code": "Stolen Vehicle - Arrest",
+    "location": "Fruitridge Rd / Stockton Blvd",
+    "date": "2023-12-20",
+    "time": "1014",
+    "text": "Officers located an occupied stolen vehicle. The driver was detained and arrested for related charges. "
+  },
+  {
+    "cmd": "North Command",
+    "id": "23-353514",
+    "code": "Collision - DUI Arrest",
+    "location": "El Camino Ave / Fairfield St",
+    "date": "2023-12-20",
+    "time": "1711",
+    "text": "Officers responded to reports of a collisions. During the investigation, officers determined one of the drivers was intoxicated. The driver was arrested on felony DUI charges. "
+  },
+  {
+    "cmd": "North Command",
+    "id": "23-353728",
+    "code": "Homicide - Investigation",
+    "location": "Truxel Rd / Waterwheel Dr",
+    "date": "2023-12-20",
+    "time": "2151",
+    "text": "Please see the following News Release: Homicide Investigation - Truxel Road & Waterwheel Drive"
   }
 ]
