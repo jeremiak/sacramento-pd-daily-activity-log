@@ -10393,5 +10393,23 @@
     "date": "2023-12-20",
     "time": "2151",
     "text": "Please see the following News Release: Homicide Investigation - Truxel Road & Waterwheel Drive"
+  },
+  {
+    "cmd": "South Command",
+    "id": "23-354668",
+    "code": "Homicide - Investigation",
+    "location": "7300 block of Meadowgate Drive",
+    "date": "2023-12-21",
+    "time": "2005",
+    "text": "Please see the following News Release: Homicide Investigation - 7300 Block of Meadowgate Drive"
+  },
+  {
+    "cmd": "South Command",
+    "id": "23-354815",
+    "code": "Shooting - Investigation",
+    "location": "Addison Way / Amanda Way",
+    "date": "2023-12-21",
+    "time": "2323",
+    "text": "Officers responded to reports of a shooting. No injuries were reported. Officers conducted an investigation and a report was generated."
   }
 ]
