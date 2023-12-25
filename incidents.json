@@ -10411,5 +10411,14 @@
     "date": "2023-12-21",
     "time": "2323",
     "text": "Officers responded to reports of a shooting. No injuries were reported. Officers conducted an investigation and a report was generated."
+  },
+  {
+    "cmd": "North Command",
+    "id": "23-355728",
+    "code": "Burglary/Pursuit - Arrest",
+    "location": "2400 Block of North Ave",
+    "date": "2023-12-22",
+    "time": "2048",
+    "text": "Officers responded to reports of a burglary in progress. Responding officers located the suspect vehicle and attempted to stop it. The suspect failed to yield and a pursuit ensued. The driver eventually fled from the vehicle on foot. The suspect was eventually caught and arrested for related charges."
   }
 ]
