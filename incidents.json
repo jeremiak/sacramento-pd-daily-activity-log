@@ -10420,5 +10420,50 @@
     "date": "2023-12-22",
     "time": "2048",
     "text": "Officers responded to reports of a burglary in progress. Responding officers located the suspect vehicle and attempted to stop it. The suspect failed to yield and a pursuit ensued. The driver eventually fled from the vehicle on foot. The suspect was eventually caught and arrested for related charges."
+  },
+  {
+    "cmd": "Central Command",
+    "id": "23-355901",
+    "code": "Pursuit/DUI - Arrest",
+    "location": "K St & 10th St",
+    "date": "2023-12-23",
+    "time": "0031",
+    "text": "Officers attempted to stop a vehicle driving wrong-way. The suspect failed to yield and a short slow speed pursuit ensued, before the suspect pulled over. The suspect displayed objective signs of intoxication. The suspect was arrested for pursuit and DUI charges. "
+  },
+  {
+    "cmd": "Central Command",
+    "id": "23-355912",
+    "code": "Firearms - Arrest",
+    "location": "2nd St & K St",
+    "date": "2023-12-23",
+    "time": "0056",
+    "text": "Officers contacted occupants of a vehicle who had open containers of alcohol inside. During the investigation, one occupant was detained and an illegally possessed firearm was recovered. Another occupant inside of the vehicle fled on foot but was later detained nearby and a second illegally possessed firearm was located. The suspects were arrested for related charges. "
+  },
+  {
+    "cmd": "East Command",
+    "id": "23-355928",
+    "code": "Shooting - Investigation",
+    "location": "7900 Block of Tierra Wood Way",
+    "date": "2023-12-23",
+    "time": "0121",
+    "text": "Officers responded to reports of a shooting. Responding officers located evidence of a shooting. No injuries were reported. Officers conducted an investigation and a report was generated. "
+  },
+  {
+    "cmd": "East Command",
+    "id": "23-355960",
+    "code": "Fatal Hit-And-Run Collision - Investigation",
+    "location": "15th Street & 60th Avenue",
+    "date": "2023-12-23",
+    "time": "0214",
+    "text": "Please see the following News Release: Fatal Hit-And-Run Collision - 15th Street & 60th Avenue"
+  },
+  {
+    "cmd": "South Command",
+    "id": "23-356109",
+    "code": "Stolen Vehicle - Arrest",
+    "location": "Mack Rd & Center Pkwy",
+    "date": "2023-12-23",
+    "time": "0814",
+    "text": "Officers located an occupied stolen vehicle. The driver was detained and arrested for related charges."
   }
 ]
