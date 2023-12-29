@@ -10483,5 +10483,41 @@
     "date": "2023-12-25",
     "time": "0048",
     "text": "Please see the following press release: https://apps.sacpd.org/Releases/liveview.aspx?reference=20231225-083"
+  },
+  {
+    "cmd": "North Command",
+    "id": "23-358393",
+    "code": "Firearm - Arrest",
+    "location": "2400 Block of Erickson Street",
+    "date": "2023-12-26",
+    "time": "0314",
+    "text": "Officers responded to reports of a disturbance. While officers were en route, another male had come out to confront the original individuals involved in the disturbance with a gun. Upon arrival, the suspect with the firearm took off running. Officers safely detained the suspect and located a firearm nearby. During the investigation, it was determined that the suspect with the firearm was also a convicted felon, and the firearm had been reported stolen. The suspect was arrested and booked on related charges."
+  },
+  {
+    "cmd": "East Command",
+    "id": "23-358508",
+    "code": "Stolen Vehicle - Arrest",
+    "location": "BROADWAY / STOCKTON BLVD",
+    "date": "2023-12-26",
+    "time": "0856",
+    "text": "Officers located a stolen vehicle, parked with the suspect standing in the doorway. Officers attempted to contact the suspect who instead took off running on foot. Officers quickly and safely detained the suspect. The suspect was later booked on related charges."
+  },
+  {
+    "cmd": "South Command",
+    "id": "23-358517",
+    "code": "Stolen Vehicle - Arrest",
+    "location": "BROADWAY / FRONT ST",
+    "date": "2023-12-26",
+    "time": "0916",
+    "text": "Officers located a stolen vehicle unoccupied in the area. While conducting their investigation, the suspect returned to the scene and was found to be in possession of keys to the vehicle. The suspect was arrested and later booked on related charges. "
+  },
+  {
+    "cmd": "East Command",
+    "id": "23-358986",
+    "code": "Stolen Vehicle - Arrest",
+    "location": "FRUITRIDGE RD / STOCKTON BLVD",
+    "date": "2023-12-26",
+    "time": "1954",
+    "text": "Officers located a stolen vehicle and conducted an enforcement stop. The suspect was arrested and booked on related charges."
   }
 ]
