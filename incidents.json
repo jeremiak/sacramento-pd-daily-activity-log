@@ -10546,5 +10546,50 @@
     "date": "2023-12-27",
     "time": "0823",
     "text": "Officers responded to reports of two suspects attempting to steal a vehicle. Upon arrival, officers located and arrested both suspects. They were later booked on related charges."
+  },
+  {
+    "cmd": "North Command",
+    "id": "23-360028",
+    "code": "Pursuit - Arrest",
+    "location": "SOUTH AVE / RIO LINDA BLVD",
+    "date": "2023-12-28",
+    "time": "0001",
+    "text": "Officers attempted to conduct an enforcement stop on a vehicle. The vehicle failed to yield, and a pursuit ensued. After a brief distance, the suspect pulled over and was safely detained. The suspect was arrested for an outstanding warrant and pursuit-related charges. "
+  },
+  {
+    "cmd": "South Command",
+    "id": "23-360033",
+    "code": "Warrant - Arrest",
+    "location": "FRANKLIN BLVD / 24TH AVE",
+    "date": "2023-12-28",
+    "time": "0014",
+    "text": "Officers conducted an enforcement stop on a vehicle. During the investigation, officers found that the driver had a no-bail warrant for his arrest. The driver was booked on their outstanding warrant."
+  },
+  {
+    "cmd": "North Command",
+    "id": "23-360052",
+    "code": "Stolen Vehicle - Arrest",
+    "location": "500 Block of Las Palmas Ave",
+    "date": "2023-12-28",
+    "time": "0100",
+    "text": "Officers located a stolen vehicle. A stop was conducted, and the driver was arrested and later booked on related charges."
+  },
+  {
+    "cmd": "North Command",
+    "id": "23-360904",
+    "code": "Shooting - Investigation",
+    "location": "Roanoke Ave / Kern St",
+    "date": "2023-12-28",
+    "time": "2042",
+    "text": "Officers responded to reports of a shooting. Responding officers located evidence of a shooting. No injuries were reported. Officers conducted an investigation and a report was generated."
+  },
+  {
+    "cmd": "South Command",
+    "id": "23-360943",
+    "code": "Stolen Vehicle - Arrest",
+    "location": "24th St / 24th St Bypass",
+    "date": "2023-12-28",
+    "time": "2143",
+    "text": "Officers located an occupied stolen vehicle. The driver was detained and arrested for related charges."
   }
 ]
