@@ -10600,5 +10600,41 @@
     "date": "2023-12-29",
     "time": "0108",
     "text": "Officers responded to reports of a shooting. Responding officers located evidence of a shooting. No injuries were reported. Officers conducted an investigation and a report was generated."
+  },
+  {
+    "cmd": "East Command",
+    "id": "23-362066",
+    "code": "Weapons - Arrest",
+    "location": "5000 Block of Stockton Blvd",
+    "date": "2023-12-30",
+    "time": "0844",
+    "text": "Officers responded to a call for a suspect brandishing a knife at a security guard. Upon arrival, officers located and detained the suspect. He was later booked at Sacramento County Main Jail on related charges."
+  },
+  {
+    "cmd": "East Command",
+    "id": "23-362604",
+    "code": "Robbery - Arrest",
+    "location": "65TH ST / BROADWAY",
+    "date": "2023-12-30",
+    "time": "2126",
+    "text": "Officers responded to a reported armed robbery of a person. Upon arrival, officers located and detained the suspect. The suspect was booked on related charges."
+  },
+  {
+    "cmd": "Central Command",
+    "id": "23-362669",
+    "code": "Assault - Arrest",
+    "location": "17TH ST / L ST",
+    "date": "2023-12-30",
+    "time": "2255",
+    "text": "Officers responded to a possible assault in progress. Upon arrival, officers located and detained the suspect.   The suspect was arrested on related charges and booked at the Sacramento County Main Jail."
+  },
+  {
+    "cmd": "South Command",
+    "id": "23-362687",
+    "code": "Burglary - Arrest",
+    "location": "7800 Block of Center Parkway",
+    "date": "2023-12-30",
+    "time": "2316",
+    "text": "Officers responded to reports of a burglary in progress. Upon arrival, officers located and detained two suspects. The two suspects were later booked at juvenile hall for burglary-related charges."
   }
 ]
