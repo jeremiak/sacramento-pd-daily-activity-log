@@ -10636,5 +10636,32 @@
     "date": "2023-12-30",
     "time": "2316",
     "text": "Officers responded to reports of a burglary in progress. Upon arrival, officers located and detained two suspects. The two suspects were later booked at juvenile hall for burglary-related charges."
+  },
+  {
+    "cmd": "Central Command",
+    "id": "23-362918",
+    "code": "Burglary - Arrest",
+    "location": "1000 Block of 2nd Street",
+    "date": "2023-12-31",
+    "time": "0648",
+    "text": "Officers responded to reports of an individual actively breaking a business window. Upon arrival, officers located and detained the suspect. The suspect was arrested on related charges."
+  },
+  {
+    "cmd": "East Command",
+    "id": "23-363229",
+    "code": "Firearm - Arrest",
+    "location": "5200 Block of Fruitridge Road",
+    "date": "2023-12-31",
+    "time": "1554",
+    "text": "Officers responded to reports of an individual waving around a firearm. Upon arrival, officers located the suspect and determined that the firearm was a replica and not functional. The suspect was arrested and booked at the Sacramento County Main jail on related charges."
+  },
+  {
+    "cmd": "South Command",
+    "id": "23-363697",
+    "code": "Firearm - Arrest",
+    "location": "6100 Block of Cushing Way",
+    "date": "2023-12-31",
+    "time": "2353",
+    "text": "Officers responded to reports of gunfire in the area. Upon arrival, officers located the suspect, who was still in possession of the firearm. After he was detained, it was determined that the suspect had fired multiple shots into his lawn.  He was arrested for the negligent discharge of a firearm and booked into the Sacramento County Main Jail."
   }
 ]
