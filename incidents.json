@@ -10663,5 +10663,32 @@
     "date": "2023-12-31",
     "time": "2353",
     "text": "Officers responded to reports of gunfire in the area. Upon arrival, officers located the suspect, who was still in possession of the firearm. After he was detained, it was determined that the suspect had fired multiple shots into his lawn.  He was arrested for the negligent discharge of a firearm and booked into the Sacramento County Main Jail."
+  },
+  {
+    "cmd": "North Command",
+    "id": "24-000029",
+    "code": "Firearm - Arrest",
+    "location": "1200 Block of South Ave",
+    "date": "2024-01-01",
+    "time": "0021",
+    "text": "Officers responded to reports of gunfire in the area. Upon arrival, officers contacted two individuals in the driveway of a residence.  As they approached the two individuals, officers heard a rifle being dropped by the suspect before being safely detained. During the investigation, it was determined that the suspect was a convicted felon and was prohibited from possessing firearms. The suspect was arrested on firearms-related charges. "
+  },
+  {
+    "cmd": "North Command",
+    "id": "24-000799",
+    "code": "Firearm - Arrest",
+    "location": "MARYSVILLE BLVD / HARRIS AVE",
+    "date": "2024-01-01",
+    "time": "2108",
+    "text": "Officers observed an individual on a bicycle commit a moving violation and conducted an enforcement stop. During the investigation, officers located a loaded firearm on the suspect. The suspect was arrested on firearms related charges."
+  },
+  {
+    "cmd": "North Command",
+    "id": "24-000836",
+    "code": "Stolen Vehicle - Arrest",
+    "location": "GATEWAY PARK BLVD / N FREEWAY BLVD",
+    "date": "2024-01-01",
+    "time": "2216",
+    "text": "Officers in the area located a stolen vehicle. An enforcement stop was conducted, and the driver was arrested on related charges."
   }
 ]
