@@ -10690,5 +10690,23 @@
     "date": "2024-01-01",
     "time": "2216",
     "text": "Officers in the area located a stolen vehicle. An enforcement stop was conducted, and the driver was arrested on related charges."
+  },
+  {
+    "cmd": "South Command",
+    "id": "24-001499",
+    "code": "Stolen Vehicle/Firearm - Arrest",
+    "location": "Marsh St / Kit Carson St",
+    "date": "2024-01-02",
+    "time": "1549",
+    "text": "Officers contacted occupants of a vehicle. Those occupants attempted to flee, but were quickly detained. The vehicle was found to be stolen out of Richmond, CA. An illegally possessed firearm was located on one of the suspects. The suspects were arrested for related charges."
+  },
+  {
+    "cmd": "North Command",
+    "id": "24-001770",
+    "code": "Shooting - Investigation",
+    "location": "3000 Block of Parody Way",
+    "date": "2024-01-02",
+    "time": "2254",
+    "text": "Officers responded to reports of a shooting. Responding officers located one adult male victim with a non-life-threatening gunshot wound. That victim was transported to an area hospital for treatment. Officers conducted an investigation and a report was generated. "
   }
 ]
