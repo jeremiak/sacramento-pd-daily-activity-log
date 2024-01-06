@@ -10708,5 +10708,23 @@
     "date": "2024-01-02",
     "time": "2254",
     "text": "Officers responded to reports of a shooting. Responding officers located one adult male victim with a non-life-threatening gunshot wound. That victim was transported to an area hospital for treatment. Officers conducted an investigation and a report was generated. "
+  },
+  {
+    "cmd": "East Command",
+    "id": "24-001958",
+    "code": "Robbery - Arrest",
+    "location": "6500 Block of 4th Ave",
+    "date": "2024-01-03",
+    "time": "0809",
+    "text": "Officers responded to a robbery by force to a business. Responding officers located the suspect nearby. The suspect was safely detained and arrested for related charges."
+  },
+  {
+    "cmd": "Central Command",
+    "id": "24-002680",
+    "code": "Felony Assault - Arrest",
+    "location": "2100 Block of 10th Street",
+    "date": "2024-01-03",
+    "time": "2103",
+    "text": "Officers responded to reports of a stabbing. Responding officers located an adult male victim with a non-life-threatening stab wound. That victim was transported to an area hospital for treatment. The suspect was arrested for related charges. "
   }
 ]
