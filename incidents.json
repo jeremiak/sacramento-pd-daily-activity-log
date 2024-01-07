@@ -10726,5 +10726,41 @@
     "date": "2024-01-03",
     "time": "2103",
     "text": "Officers responded to reports of a stabbing. Responding officers located an adult male victim with a non-life-threatening stab wound. That victim was transported to an area hospital for treatment. The suspect was arrested for related charges. "
+  },
+  {
+    "cmd": "East Command",
+    "id": "24-002823",
+    "code": "Shooting - Investigation",
+    "location": "3800 Block of 35th St",
+    "date": "2024-01-04",
+    "time": "0150",
+    "text": "Officers responded to reports of a shooting. A victim with a non-life-threatening gunshot wound was later located. Officers located evidence of a shooting. Officers conducted an investigation and a report was generated."
+  },
+  {
+    "cmd": "North Command",
+    "id": "24-003233",
+    "code": "Felony Assault - Investigation",
+    "location": "700 Block of Claire Ave",
+    "date": "2024-01-04",
+    "time": "1350",
+    "text": "Officers responded to reports of a stabbing. Responding officers located a male victim with at least one stab-wound. Officers provided medical aid to the victim, who was transported to an area hospital for treatment and was listed in stable condition. Officers conducted an investigation. No arrests have been made at this time. A report was generated. "
+  },
+  {
+    "cmd": "East Command",
+    "id": "24-003251",
+    "code": "Shooting - Investigation",
+    "location": "3900 Block of Power Inn Rd",
+    "date": "2024-01-04",
+    "time": "1415",
+    "text": "Officers responded to reports of a shooting. A round struck the victim’s vehicle, but no injuries were reported. Officers conducted an investigation and a report was generated. "
+  },
+  {
+    "cmd": "South Command",
+    "id": "24-003347",
+    "code": "Vehicle Collision - Investigation",
+    "location": "8700 Block of Center Pkwy",
+    "date": "2024-01-04",
+    "time": "1632",
+    "text": "Officers responded to reports of a vehicle into a building collision. Responding officers contacted the driver, who remained on scene. No injuries were reported. DUI was not believed to be a factor. Officers conducted an investigation and a collision report will be generated. "
   }
 ]
