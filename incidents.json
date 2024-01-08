@@ -10762,5 +10762,23 @@
     "date": "2024-01-04",
     "time": "1632",
     "text": "Officers responded to reports of a vehicle into a building collision. Responding officers contacted the driver, who remained on scene. No injuries were reported. DUI was not believed to be a factor. Officers conducted an investigation and a collision report will be generated. "
+  },
+  {
+    "cmd": "East Command",
+    "id": "24-003871",
+    "code": "7800 Block of Tierra Wood Way",
+    "location": "Shooting - Investigation",
+    "date": "2024-01-05",
+    "time": "0859",
+    "text": "Officers responded to reports of a shooting. Responding officers located evidence of a shooting. No injuries were reported. Officers conducted an investigation and a report was generated. "
+  },
+  {
+    "cmd": "Central Command",
+    "id": "24-004550",
+    "code": "Felony Assault - Investigation",
+    "location": "300 Block of Bercut Dr",
+    "date": "2024-01-05",
+    "time": "2307",
+    "text": "Officers responded to reports of a stabbing. Responding officers located one male victim with at least one non-life-threatening stab wound. The suspect(s) fled prior to police arrival. Officers conducted an investigation and a report was generated."
   }
 ]
