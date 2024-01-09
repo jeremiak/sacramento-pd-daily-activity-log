@@ -10780,5 +10780,23 @@
     "date": "2024-01-05",
     "time": "2307",
     "text": "Officers responded to reports of a stabbing. Responding officers located one male victim with at least one non-life-threatening stab wound. The suspect(s) fled prior to police arrival. Officers conducted an investigation and a report was generated."
+  },
+  {
+    "cmd": "North Command",
+    "id": "24-005247",
+    "code": "Stolen Vehicle - Arrest",
+    "location": "3600 Block of N. Freeway Blvd",
+    "date": "2024-01-06",
+    "time": "1908",
+    "text": "Officers located an occupied stolen vehicle. The driver was detained and arrested for related charges."
+  },
+  {
+    "cmd": "North Command",
+    "id": "24-005264",
+    "code": "Stolen Vehicle - Arrest",
+    "location": "2800 Block of Norwood Ave",
+    "date": "2024-01-06",
+    "time": "1927",
+    "text": "Officers located an occupied stolen vehicle. The driver was detained and arrested for related charges."
   }
 ]
