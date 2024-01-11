@@ -10816,5 +10816,23 @@
     "date": "2024-01-07",
     "time": "1904",
     "text": "Officers located an occupied stolen vehicle. The driver was detained and arrested for related charges. "
+  },
+  {
+    "cmd": "North Command",
+    "id": "24-006995",
+    "code": "Shooting - Investigation",
+    "location": "20 Block of Arcade Blvd",
+    "date": "2024-01-08",
+    "time": "2033",
+    "text": "Officers responded to reports of a shooting. Responding officers located one male adult with at least one gunshot wound. That victim was transported to an area hospital for treatment and is listed in stable condition. Officers conducted an investigation and a report was generated."
+  },
+  {
+    "cmd": "North Command",
+    "id": "24-007032",
+    "code": "Robbery - Investigation",
+    "location": "3500 Block of Del Paso Rd",
+    "date": "2024-01-08",
+    "time": "2154",
+    "text": "Officers responded to reports of a robbery to a business. The suspects fled prior to police arrival. No injuries were reported. Officers conducted an investigation and a report was generated."
   }
 ]
