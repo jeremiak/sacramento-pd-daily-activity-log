@@ -10834,5 +10834,50 @@
     "date": "2024-01-08",
     "time": "2154",
     "text": "Officers responded to reports of a robbery to a business. The suspects fled prior to police arrival. No injuries were reported. Officers conducted an investigation and a report was generated."
+  },
+  {
+    "cmd": "North Command",
+    "id": "24-007115",
+    "code": "Stolen Vehicle - Arrest",
+    "location": "Silver Eagle Rd / Norwood Ave",
+    "date": "2024-01-09",
+    "time": "0033",
+    "text": "Officers located an occupied stolen vehicle. The driver was detained and arrested for related charges."
+  },
+  {
+    "cmd": "Central Command",
+    "id": "24-007192",
+    "code": "Warrant - Arrest",
+    "location": "8TH ST / F ST",
+    "date": "2024-01-09",
+    "time": "0617",
+    "text": "Officers contacted an individual. During the investigation, it was determined that the individual had an outstanding no-bail warrant. They were arrested and booked on their outstanding warrant."
+  },
+  {
+    "cmd": "North Command",
+    "id": "24-007206",
+    "code": "Burglary - Arrest",
+    "location": "1300 Block of Exposition Blvd",
+    "date": "2024-01-09",
+    "time": "0702",
+    "text": "Officers responded to a reported burglary with the suspect possibly still inside. With the assistance of a police K-9, officers searched the business and located the suspect inside. The suspect was safely arrested and later booked on burglary-related charges. "
+  },
+  {
+    "cmd": "South Command",
+    "id": "24-007408",
+    "code": "Stolen Vehicle - Arrest",
+    "location": "FRANKLIN BLVD / CREEKS EDGE WAY",
+    "date": "2024-01-09",
+    "time": "1159",
+    "text": "Officers located a stolen vehicle. A stop was conducted, and the driver was arrested and later booked on related charges."
+  },
+  {
+    "cmd": "South Command",
+    "id": "24-007689",
+    "code": "Fatal Hit-And-Run Vehicle Collision",
+    "location": "FREEPORT BLVD / POTRERO WAY",
+    "date": "2024-01-09",
+    "time": "1755",
+    "text": "Link to News Release: https://apps.sacpd.org/Releases/liveview.aspx?reference=20240110-001"
   }
 ]
