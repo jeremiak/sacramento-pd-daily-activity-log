@@ -10879,5 +10879,32 @@
     "date": "2024-01-09",
     "time": "1755",
     "text": "Link to News Release: https://apps.sacpd.org/Releases/liveview.aspx?reference=20240110-001"
+  },
+  {
+    "cmd": "Central Command",
+    "id": "24-008326",
+    "code": "Vehicle Accident",
+    "location": "1900 Block of O Street",
+    "date": "2024-01-10",
+    "time": "1204",
+    "text": "Officers responded to reports of a vehicle that had collided into a building. When officers arrived, they located a vehicle that had temporarily been stuck on the tracks near the location. The driver lost control and wedged his vehicle between the building at a tree. Very minor damage to the building and minor injury to the driver of the vehicle. A report was generated."
+  },
+  {
+    "cmd": "East Command",
+    "id": "24-008332",
+    "code": "Resisting Arrest",
+    "location": "3900 Block of 12th Ave",
+    "date": "2024-01-10",
+    "time": "1206",
+    "text": "Officers responded to a reported disturbance. During the investigation, officers determined that the suspect had violated a court order and had an active warrant. Officers attempted to effect an arrest on the suspect, who began to physically resist and assault officers. The suspect was eventually taken into custody and did not sustain any injuries. The officers on scene sustained minor injuries. The suspect was later booked at the Sacramento County MAin Jail on their outstanding warrant and assault/resisting related charges."
+  },
+  {
+    "cmd": "South Command",
+    "id": "24-008506",
+    "code": "Robbery - Arrest",
+    "location": "4000 Block of South Land Park Drive",
+    "date": "2024-01-10",
+    "time": "1453",
+    "text": "Detectives were conducting follow-up on a robbery that had previously occurred. Officers located the suspect and were able to safely take them into custody. The suspect was later transported and booked at Sacramento County Main Jail on related charges. "
   }
 ]
