@@ -10906,5 +10906,23 @@
     "date": "2024-01-10",
     "time": "1453",
     "text": "Detectives were conducting follow-up on a robbery that had previously occurred. Officers located the suspect and were able to safely take them into custody. The suspect was later transported and booked at Sacramento County Main Jail on related charges. "
+  },
+  {
+    "cmd": "East Command",
+    "id": "24-008944",
+    "code": "Stolen Vehicle - Arrest",
+    "location": "BELVEDERE AVE / FLORIN PERKINS RD",
+    "date": "2024-01-11",
+    "time": "0146",
+    "text": "Officers located a stolen vehicle. As officers caught up to the vehicle, the suspect was observed exiting and attempting to walk away. Thanks to the quick response by additional officers, the suspect was arrested and later booked on related charges."
+  },
+  {
+    "cmd": "Central Command",
+    "id": "24-009881",
+    "code": "Pursuit - Arrest",
+    "location": "Richards Blvd / N. 5th St",
+    "date": "2024-01-11",
+    "time": "2328",
+    "text": "Officers attempted to conduct a traffic stop. The driver failed to yield and a pursuit was initiated. The driver eventually pulled over and was taken into custody. The driver was arrested for pursuit related charges."
   }
 ]
