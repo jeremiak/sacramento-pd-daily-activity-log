@@ -10969,5 +10969,32 @@
     "date": "2024-01-14",
     "time": "2302",
     "text": "Officers conducted an enforcement stop on an individual riding a bicycle. During the investigation, officers found that the individual had an outstanding felony warrant. The individual was arrested and later booked at Sacramento County Main Jail."
+  },
+  {
+    "cmd": "North Command",
+    "id": "24-012494",
+    "code": "Warrant - Arrest",
+    "location": "2400 block of Del Paso Blvd",
+    "date": "2024-01-15",
+    "time": "0001",
+    "text": "Officers were in the area when they observed an individual riding a bicycle with visible narcotic paraphernalia on their person. Officers contacted the individual who attempted to flee but was quickly detained. During the investigation, officers found that the individual had an outstanding felony warrant. The individual was later booked for their outstanding warrant."
+  },
+  {
+    "cmd": "East Command",
+    "id": "24-012678",
+    "code": "Stolen Vehicle - Pursuit Arrest",
+    "location": "Folsom Blvd / Watt Ave",
+    "date": "2024-01-15",
+    "time": "0828",
+    "text": "Officers located an occupied stolen vehicle. A pursuit ensued and terminated when the suspect vehicle collided into an uninvolved vehicle. The suspect, a 15 year-old, was arrested for related charges, as well as an outstanding warrant."
+  },
+  {
+    "cmd": "North Command",
+    "id": "24-012923",
+    "code": "Shooting - Investigation",
+    "location": "W. El Camino Ave / Northgate Blvd",
+    "date": "2024-01-15",
+    "time": "1359",
+    "text": "Officers responded to reports of a shooting. Responding officers located one adult male with at least one non-life-threatening gunshot wound. The victim was transported to an area hospital for treatment. The suspect fled prior to police arrival. An investigation was completed and a report was generated."
   }
 ]
