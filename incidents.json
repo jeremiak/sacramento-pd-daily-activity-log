@@ -10996,5 +10996,41 @@
     "date": "2024-01-15",
     "time": "1359",
     "text": "Officers responded to reports of a shooting. Responding officers located one adult male with at least one non-life-threatening gunshot wound. The victim was transported to an area hospital for treatment. The suspect fled prior to police arrival. An investigation was completed and a report was generated."
+  },
+  {
+    "cmd": "East Command",
+    "id": "24-013379",
+    "code": "Stolen Vehicle - Arrest",
+    "location": "14th Ave / Martin Luther King Jr. Blvd",
+    "date": "2024-01-16",
+    "time": "0119",
+    "text": "Officers located an occupied stolen vehicle. The driver was detained and arrested for related charges."
+  },
+  {
+    "cmd": "South Command",
+    "id": "24-013396",
+    "code": "Traffic Stop - Firearm Arrest",
+    "location": "Mack Rd / Hwy 99 NB",
+    "date": "2024-01-16",
+    "time": "0236",
+    "text": "Officers conducted a traffic stop for a vehicle code violation. During the investigation, officers located an illegally possessed loaded firearm inside of the vehicle. The passenger claimed responsibility and was arrested for related charges. "
+  },
+  {
+    "cmd": "Central Command",
+    "id": "24-013526",
+    "code": "Robbery - Arrest",
+    "location": "200 Block of Jibboom St",
+    "date": "2024-01-16",
+    "time": "0845",
+    "text": "Officers responded to a robbery to a business that just occurred. Responding officers located the suspect nearby and after an investigation, the suspect was arrested for robbery charges."
+  },
+  {
+    "cmd": "South Command",
+    "id": "24-014075",
+    "code": "Shooting - Investigation",
+    "location": "1900 Block of Broadway",
+    "date": "2024-01-16",
+    "time": "1719",
+    "text": "Officers responded to reports of a shooting. Responding officers located evidence of a shooting, however no injuries were reported and officers did not locate anything struck by gunfire. Officers conducted an investigation and a report was generated."
   }
 ]
