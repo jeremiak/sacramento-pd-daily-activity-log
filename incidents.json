@@ -11032,5 +11032,23 @@
     "date": "2024-01-16",
     "time": "1719",
     "text": "Officers responded to reports of a shooting. Responding officers located evidence of a shooting, however no injuries were reported and officers did not locate anything struck by gunfire. Officers conducted an investigation and a report was generated."
+  },
+  {
+    "cmd": "East Command",
+    "id": "24-014547",
+    "code": "Robbery - Arrest",
+    "location": "6900 Block of Folsom Blvd",
+    "date": "2024-01-17",
+    "time": "0912",
+    "text": "Officers responded to reports of an armed robbery to a business. Responding officers located the suspect and after a thorough investigation, the suspect was arrested for related charges."
+  },
+  {
+    "cmd": "South Command",
+    "id": "24-014826",
+    "code": "Firearm - Arrest",
+    "location": "40 Block of Brandywood Ct",
+    "date": "2024-01-17",
+    "time": "1418",
+    "text": "Officers responded to reports of a disturbance. During the investigation, officers located an illegally possessed firearm on one of the males. He was arrested for related charges."
   }
 ]
