@@ -11050,5 +11050,41 @@
     "date": "2024-01-17",
     "time": "1418",
     "text": "Officers responded to reports of a disturbance. During the investigation, officers located an illegally possessed firearm on one of the males. He was arrested for related charges."
+  },
+  {
+    "cmd": "North Command",
+    "id": "24-015320",
+    "code": "Stolen Vehicle - Arrest",
+    "location": "Northgate Blvd / San Juan Rd",
+    "date": "2024-01-18",
+    "time": "0001",
+    "text": "Officers located an occupied stolen vehicle. The driver attempted to flee from officers, but the vehicle became disabled. The driver was detained and arrested for related charges. "
+  },
+  {
+    "cmd": "East Command",
+    "id": "24-015461",
+    "code": "Pursuit - Arrest",
+    "location": "4200 Block of Stockton Blvd",
+    "date": "2024-01-18",
+    "time": "0717",
+    "text": "Officers attempted to conduct a traffic stop. The vehicle failed to yield and a short pursuit was initiated. The driver eventually stopped and was detained. The driver was arrested on related charges."
+  },
+  {
+    "cmd": "North Command",
+    "id": "24-015805",
+    "code": "Pursuit - Arrest",
+    "location": "Arcade Blvd / Del Paso Blvd",
+    "date": "2024-01-18",
+    "time": "1339",
+    "text": "Officers attempted to stop a reckless driver. The driver failed to yield and a pursuit was initiated. The pursuit was eventually terminated, but officers later located the suspect vehicle at a residence. After the investigation, the suspect, a 17-year old, was arrested on related charges."
+  },
+  {
+    "cmd": "Central Command",
+    "id": "24-016307",
+    "code": "Firearm - Arrest",
+    "location": "700 Block of K St",
+    "date": "2024-01-18",
+    "time": "2337",
+    "text": "Officers working high visibility in the downtown core area located an occupied vehicle. Officers observed narcotics in plain view and during the investigation, officers located an illegally possessed firearm. The suspect was arrested for related charges. "
   }
 ]
