@@ -11095,5 +11095,23 @@
     "date": "2024-01-19",
     "time": "0027",
     "text": "Officers responded to reports of a loud explosion in the area. Officers checked the area but did not locate any evidence of an explosion or damage. Our Explosive Ordinance Disposal (EOD) Unit has been advised and a report was generated. "
+  },
+  {
+    "cmd": "Central Command",
+    "id": "24-017338",
+    "code": "Pursuit/Stolen Vehicle - Arrest",
+    "location": "Azevedo Dr / San Juan Rd",
+    "date": "2024-01-20",
+    "time": "0106",
+    "text": "Officers attempted to stop a vehicle. The vehicle failed to yield and a pursuit was initiated. The suspect was eventually detained after the suspect exited the vehicle near the 2500 Block of O St. The vehicle was discovered to be stolen. The suspect was arrested for related charges."
+  },
+  {
+    "cmd": "East Command",
+    "id": "24-018098",
+    "code": "Shooting - Investigation",
+    "location": "5000 Block of Fruitridge Rd",
+    "date": "2024-01-20",
+    "time": "2244",
+    "text": "Officers responded to reports of a shooting. Responding officers located evidence of a shooting. No injuries were reported. Officers conducted an investigation and a report was generated."
   }
 ]
