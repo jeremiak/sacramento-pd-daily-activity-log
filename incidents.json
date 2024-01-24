@@ -11113,5 +11113,23 @@
     "date": "2024-01-20",
     "time": "2244",
     "text": "Officers responded to reports of a shooting. Responding officers located evidence of a shooting. No injuries were reported. Officers conducted an investigation and a report was generated."
+  },
+  {
+    "cmd": "North Command",
+    "id": "24-018162",
+    "code": "Shooting - Investigation",
+    "location": "1100 Block of Harris Ave",
+    "date": "2024-01-21",
+    "time": "0022",
+    "text": "Officers responded to reports of a shooting. Responding officers located evidence of a shooting. No injuries were reported. Officers conducted an investigation and a report was generated."
+  },
+  {
+    "cmd": "North Command",
+    "id": "24-018176",
+    "code": "Shooting - Investigation",
+    "location": "3800 Block of Cypress St",
+    "date": "2024-01-21",
+    "time": "0043",
+    "text": "Officers responded to reports of a shooting. Responding officers located evidence of a shooting. No injuries were reported. Officers conducted an investigation and a report was generated."
   }
 ]
