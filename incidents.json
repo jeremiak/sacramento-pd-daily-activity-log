@@ -11158,5 +11158,23 @@
     "date": "2024-01-24",
     "time": "2323",
     "text": "Officers responded located an occupied stolen vehicle. The driver was detained and arrested for related charges. "
+  },
+  {
+    "cmd": "East Command",
+    "id": "24-021932",
+    "code": "Stolen Vehicle - Arrest",
+    "location": "Stockton Blvd / 37th Ave",
+    "date": "2024-01-25",
+    "time": "0215",
+    "text": "Officers conducted a traffic stop for a vehicle code violation. The vehicle was determined to be a stolen vehicle. The driver was detained and arrested for related charges."
+  },
+  {
+    "cmd": "North Command",
+    "id": "24-022320",
+    "code": "Pursuit - Arrest",
+    "location": "Oakmont St / Arden Way",
+    "date": "2024-01-25",
+    "time": "1331",
+    "text": "Officers were in the area of Oakmont St and Arden Way on a planned operation, looking for a wanted suspect. That suspect was located in a vehicle. A vehicle stop was attempted by officers, but the suspect failed to stop, leading to a pursuit. The suspect fled from the vehicle on foot and was later located and safely detained. The suspect was arrested."
   }
 ]
