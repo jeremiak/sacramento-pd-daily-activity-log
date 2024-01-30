@@ -11194,5 +11194,32 @@
     "date": "2024-01-26",
     "time": "2017",
     "text": "Officers responded to reports of a vandalism. Officers arrived on scene and took the suspect into custody. The suspect was booked on related charges."
+  },
+  {
+    "cmd": "North Command",
+    "id": "24-024529",
+    "code": "Firearm - Arrest",
+    "location": "300 Block of El Camino Ave",
+    "date": "2024-01-27",
+    "time": "1616",
+    "text": "Officers conducted an enforcement stop on a vehicle. During the investigation, officers located a pistol and narcotics. The driver was arrested for related charges. "
+  },
+  {
+    "cmd": "South Command",
+    "id": "24-024568",
+    "code": "Stolen Vehicle - Arrest",
+    "location": "CENTER PKWY / MACK RD",
+    "date": "2024-01-27",
+    "time": "1659",
+    "text": "Officers located a stolen vehicle and conducted an enforcement stop. The driver was arrested and later booked on related charges."
+  },
+  {
+    "cmd": "Central Command",
+    "id": "24-024588",
+    "code": "Firearm - Arrest",
+    "location": "3rd St/I St",
+    "date": "2024-01-27",
+    "time": "1728",
+    "text": "Officers conducted an enforcement stop on a vehicle. During the investigation, officers located a pistol and narcotics. The driver was arrested for related charges. "
   }
 ]
