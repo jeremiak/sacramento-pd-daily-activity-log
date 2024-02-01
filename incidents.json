@@ -11230,5 +11230,23 @@
     "date": "2024-01-28",
     "time": "1735",
     "text": "Officers responded to reports of an individual brandishing a knife during an altercation. Upon arrival, officers located and safely arrested the suspect. The suspect was later booked on related charges."
+  },
+  {
+    "cmd": "North Command",
+    "id": "24-025849",
+    "code": "Shooting Investigation",
+    "location": "OAK HARBOUR DR / RIVER PLAZA DR",
+    "date": "2024-01-29",
+    "time": "0133",
+    "text": "Officers responded to reports of gunfire in the area. Upon arrival, officers located evidence of a shooting; however, no victims or damaged property were located. An investigation was conducted, and a report was generated. This remains an active investigation. "
+  },
+  {
+    "cmd": "Central Command",
+    "id": "24-026157",
+    "code": "Warrant - Arrest",
+    "location": "6TH ST / S ST",
+    "date": "2024-01-29",
+    "time": "1038",
+    "text": "Officers contacted a known suspect with multiple outstanding warrants. Officers attempted to detain the suspect, and they attempted to flee on foot. The suspect was quickly arrested and booked for their outstanding warrants and resisting arrest."
   }
 ]
