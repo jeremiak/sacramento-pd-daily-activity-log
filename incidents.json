@@ -11248,5 +11248,41 @@
     "date": "2024-01-29",
     "time": "1038",
     "text": "Officers contacted a known suspect with multiple outstanding warrants. Officers attempted to detain the suspect, and they attempted to flee on foot. The suspect was quickly arrested and booked for their outstanding warrants and resisting arrest."
+  },
+  {
+    "cmd": "East Command",
+    "id": "24-027233",
+    "code": "Stolen Vehicle - Arrest",
+    "location": "FRUITRIDGE RD / STOCKTON BLVD",
+    "date": "2024-01-30",
+    "time": "1108",
+    "text": "Officers located a stolen vehicle in the area. A stop was conducted, and the driver was arrested. The suspect was later booked on related charges."
+  },
+  {
+    "cmd": "North Command",
+    "id": "24-027629",
+    "code": "Stolen Vehicle - Arrest",
+    "location": "ARYSVILLE BLVD / LOS ROBLES BLVD",
+    "date": "2024-01-30",
+    "time": "1746",
+    "text": "Officers located a stolen vehicle in the area. A stop was conducted when sufficient units were on scene, and the driver was arrested. The suspect was later booked on related charges."
+  },
+  {
+    "cmd": "North Command",
+    "id": "24-027795",
+    "code": "Shooting Investigation",
+    "location": "800 block of Arcade Blvd",
+    "date": "2024-01-30",
+    "time": "2026",
+    "text": "Officers responded to reports of gunfire in the area. Officers located evidence of a shooting. No injuries or damage property were located. A report was generated. This remains an active investigation."
+  },
+  {
+    "cmd": "South Command",
+    "id": "24-027841",
+    "code": "Shooting Investigation",
+    "location": "600 block of Warner Street",
+    "date": "2024-01-30",
+    "time": "2131",
+    "text": "Officers responded to reports of gunfire in the area. Upon arrival, officers located evidence of a shooting; however, no victims or damaged property were located. An investigation was conducted, and a report was generated. This remains an active investigation. "
   }
 ]
