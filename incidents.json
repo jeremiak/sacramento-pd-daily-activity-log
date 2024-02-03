@@ -11284,5 +11284,23 @@
     "date": "2024-01-30",
     "time": "2131",
     "text": "Officers responded to reports of gunfire in the area. Upon arrival, officers located evidence of a shooting; however, no victims or damaged property were located. An investigation was conducted, and a report was generated. This remains an active investigation. "
+  },
+  {
+    "cmd": "North Command",
+    "id": "24-028284",
+    "code": "Warrant - Arrest",
+    "location": "1800 Block of Club Center Drive",
+    "date": "2024-01-31",
+    "time": "1028",
+    "text": "Officers responded and located a suspect with an outstanding felony warrant. The suspect was arrested and later booked at the Sacramento County Main Jail."
+  },
+  {
+    "cmd": "North Command",
+    "id": "24-028850",
+    "code": "DUI - Arrest",
+    "location": "W EL CAMINO AVE / NORTHGATE BLVD",
+    "date": "2024-01-31",
+    "time": "2215",
+    "text": "Officers responded to a vehicle collision. During the investigation, one of the involved drivers displayed objective signs of intoxication. The Driver was arrested and booked for DUI related charges."
   }
 ]
