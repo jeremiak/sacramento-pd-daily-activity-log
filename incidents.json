@@ -11311,5 +11311,14 @@
     "date": "2024-02-01",
     "time": "2235",
     "text": "Officers conducted a vehicle stop on a car with no license plates. After a record check of the VIN, officers discovered the vehicle was stolen. The suspect was arrested on stolen vehicle charges."
+  },
+  {
+    "cmd": "North Command",
+    "id": "24-030636",
+    "code": "Stolen Vehicle - Arrest",
+    "location": "Bell Ave / Beloit Dr",
+    "date": "2024-02-02",
+    "time": "1827",
+    "text": "Officers located an occupied stolen vehicle. The driver as detained and arrested for related charges."
   }
 ]
