@@ -11320,5 +11320,23 @@
     "date": "2024-02-02",
     "time": "1827",
     "text": "Officers located an occupied stolen vehicle. The driver as detained and arrested for related charges."
+  },
+  {
+    "cmd": "North Command",
+    "id": "24-030969",
+    "code": "Pursuit - Arrest",
+    "location": "Del Paso Blvd / Cantalier St",
+    "date": "2024-02-03",
+    "time": "0224",
+    "text": "Officers attempted to stop a vehicle, but the vehicle failed to yield and a pursuit ensued. The suspect vehicle struck a fence and the driver attempted to flee from the vehicle on foot, but was quickly detained. The suspect was arrested on related charges. "
+  },
+  {
+    "cmd": "East Command",
+    "id": "24-031040",
+    "code": "Shooting - Investigation",
+    "location": "7400 Block of 17th Ave",
+    "date": "2024-02-03",
+    "time": "0624",
+    "text": "Officers responded to reports of a shooting. Responding officers located evidence of a shooting. No injuries were reported. Officers conducted an investigation and a report was generated."
   }
 ]
