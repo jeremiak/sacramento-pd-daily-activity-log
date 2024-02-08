@@ -11338,5 +11338,50 @@
     "date": "2024-02-03",
     "time": "0624",
     "text": "Officers responded to reports of a shooting. Responding officers located evidence of a shooting. No injuries were reported. Officers conducted an investigation and a report was generated."
+  },
+  {
+    "cmd": "North Command",
+    "id": "24-031776",
+    "code": "Resisting Arrest",
+    "location": "2000 Block of Rio Linda Blvd",
+    "date": "2024-02-04",
+    "time": "0020",
+    "text": "Officers responded to a reported disturbance. Upon arrival, officers attempted to detain the suspect on scene, who was combative with officers. The suspect continued to resist officers and was eventually taken into custody. The suspect was transported and booked for related charges. "
+  },
+  {
+    "cmd": "North Command",
+    "id": "24-031863",
+    "code": "Burglary - Arrest",
+    "location": "1200 Block of Blumenfeld Drive",
+    "date": "2024-02-04",
+    "time": "0233",
+    "text": "Officers responded to reports of a warehouse burglary. Upon arrival, officers observed two suspects fleeing the scene. The initial responding officer was able to detain one suspect, and the second was detained by additional responding officers. The suspects were later booked on related charges."
+  },
+  {
+    "cmd": "East Command",
+    "id": "24-032969",
+    "code": "Stolen Vehicle - Arrest",
+    "location": "FOLSOM BLVD / NOTRE DAME DR",
+    "date": "2024-02-05",
+    "time": "0212",
+    "text": "Officers in the area located a stolen vehicle. An enforcement stop was conducted, and the driver was arrested and later booked on related charges."
+  },
+  {
+    "cmd": "North Command",
+    "id": "24-033435",
+    "code": "DUI - Arrest",
+    "location": "MILLCREEK DR / W EL CAMINO AVE",
+    "date": "2024-02-05",
+    "time": "1512",
+    "text": "Officers responded to reports of a two-car vehicle collision. Upon arrival, officers determined that one of the drivers was exhibiting signs of impairment. During the investigation, officers located narcotics inside of the impaired driver's vehicle. The impaired driver was arrested and later booked on related charges."
+  },
+  {
+    "cmd": "North Command",
+    "id": "24-033562",
+    "code": "Warrant - Arrest",
+    "location": "600 Block of Plaza Ave",
+    "date": "2024-02-05",
+    "time": "1759",
+    "text": "Officers attempted to locate a suspect with an active felony warrant. While on scene, the suspect exited the residence and attempted to flee. Thanks to the assistance of a police aircraft, the suspect was quickly taken into custody by perimeter units. The suspect was booked at Sacramento County Main Jail on their outstanding warrant."
   }
 ]
