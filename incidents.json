@@ -11383,5 +11383,23 @@
     "date": "2024-02-05",
     "time": "1759",
     "text": "Officers attempted to locate a suspect with an active felony warrant. While on scene, the suspect exited the residence and attempted to flee. Thanks to the assistance of a police aircraft, the suspect was quickly taken into custody by perimeter units. The suspect was booked at Sacramento County Main Jail on their outstanding warrant."
+  },
+  {
+    "cmd": "Central Command",
+    "id": "24-033803",
+    "code": "Stolen Vehicle - Arrest",
+    "location": "12TH ST / C ST",
+    "date": "2024-02-06",
+    "time": "0050",
+    "text": "Officers in the area located a stolen vehicle. An enforcement stop was conducted, and the driver was arrested. The driver was booked at the Sacramento County Main Jail on related charges."
+  },
+  {
+    "cmd": "North Command",
+    "id": "24-034378",
+    "code": "Vandalism - Arrest",
+    "location": "3000 Block of Auburn Blvd",
+    "date": "2024-02-06",
+    "time": "1604",
+    "text": "Officers responded to reports of a disturbance. During the investigation, officers determined that the suspect had caused a felonious amount of damage to the property. The suspect was taken into custody and later booked for related charges. "
   }
 ]
