@@ -11401,5 +11401,23 @@
     "date": "2024-02-06",
     "time": "1604",
     "text": "Officers responded to reports of a disturbance. During the investigation, officers determined that the suspect had caused a felonious amount of damage to the property. The suspect was taken into custody and later booked for related charges. "
+  },
+  {
+    "cmd": "Central Command",
+    "id": "24-034996",
+    "code": "Robbery - Arrest",
+    "location": "800 block of J Street",
+    "date": "2024-02-07",
+    "time": "0902",
+    "text": "Officers responded to reports of an attempted robbery. Officers arrived on scene and quickly detained the suspect. The suspect was arrested and booked on related charges"
+  },
+  {
+    "cmd": "North Command",
+    "id": "24-035651",
+    "code": "Warrant - Arrest",
+    "location": "RIO LINDA BLVD / ACACIA AVE",
+    "date": "2024-02-07",
+    "time": "2113",
+    "text": "Officers conducted an enforcement stop on a vehicle. The vehicle yielded, and the driver attempted to flee on foot. The driver was quickly detained. During the investigation, it was determined that the driver had an outstanding felony warrant. He was later booked on related charges."
   }
 ]
