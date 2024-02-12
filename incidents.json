@@ -11419,5 +11419,41 @@
     "date": "2024-02-07",
     "time": "2113",
     "text": "Officers conducted an enforcement stop on a vehicle. The vehicle yielded, and the driver attempted to flee on foot. The driver was quickly detained. During the investigation, it was determined that the driver had an outstanding felony warrant. He was later booked on related charges."
+  },
+  {
+    "cmd": "North Command",
+    "id": "24-036191",
+    "code": "Shooting - Arrest",
+    "location": "4200 Block of Englewood St",
+    "date": "2024-02-08",
+    "time": "1311",
+    "text": "Officers responded to reports of a shooting. Responding officers detained the suspect and a firearm was located. Officers conducted an investigation. Evidence of a shooting was located. No injuries were reported. The suspect was arrested for related charges."
+  },
+  {
+    "cmd": "East Command",
+    "id": "24-036720",
+    "code": "Shooting - Investigation",
+    "location": "4900 Block of 36th St",
+    "date": "2024-02-09",
+    "time": "0039",
+    "text": "Officers responded to reports of a shooting. Responding officers located evidence of a shooting. No injuries were reported. Officers conducted an investigation and a report was generated."
+  },
+  {
+    "cmd": "South Command",
+    "id": "24-037443",
+    "code": "Stolen Vehicle/Pursuit - Arrest",
+    "location": "Mack Rd / Franklin Blvd",
+    "date": "2024-02-09",
+    "time": "1927",
+    "text": "Officers located an occupied stolen vehicle. The suspect fled from officers and a pursuit ensued. The driver of the vehicle fled from the vehicle on foot and after a perimeter was set, the suspect was located and arrested for related charges. "
+  },
+  {
+    "cmd": "South Command",
+    "id": "24-037446",
+    "code": "Stolen Vehicle/Pursuit - Arrest",
+    "location": "Kemble St / Muir Way",
+    "date": "2024-02-09",
+    "time": "1934",
+    "text": "Officers located an occupied stolen vehicle. When officers got behind the vehicle, the suspect stopped and fled from the vehicle on foot. A perimeter was set and the suspect was detained. The suspect was arrested for related charges. "
   }
 ]
