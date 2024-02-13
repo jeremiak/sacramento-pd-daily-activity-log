@@ -11455,5 +11455,32 @@
     "date": "2024-02-09",
     "time": "1934",
     "text": "Officers located an occupied stolen vehicle. When officers got behind the vehicle, the suspect stopped and fled from the vehicle on foot. A perimeter was set and the suspect was detained. The suspect was arrested for related charges. "
+  },
+  {
+    "cmd": "North Command",
+    "id": "24-037859",
+    "code": "Pursuit - Arrest",
+    "location": "Lampasas Ave / Edgewater Rd",
+    "date": "2024-02-10",
+    "time": "0743",
+    "text": "Officers attempted to stop a vehicle for a vehicle code violation. The suspect vehicle failed to yield and a pursuit ensued. The suspect attempted to flee from the vehicle on foot but was quickly detained. The vehicle was determined to be stolen. The suspect was arrested for related charges. "
+  },
+  {
+    "cmd": "Central Command",
+    "id": "24-038552",
+    "code": "Shooting - Investigation",
+    "location": "1500 Block of N. C St",
+    "date": "2024-02-10",
+    "time": "2235",
+    "text": "Officers responded to reports of a shooting. Responding officers located evidence of a shooting. No injuries were reported. Officers conducted an investigation and a report was generated. "
+  },
+  {
+    "cmd": "South Command",
+    "id": "24-038594",
+    "code": "Stolen Vehicle - Arrest",
+    "location": "6400 Block of Village Centre Dr",
+    "date": "2024-02-10",
+    "time": "2322",
+    "text": "Officers located an occupied stolen vehicle. Officers detained and arrested the driver on related charges. "
   }
 ]
