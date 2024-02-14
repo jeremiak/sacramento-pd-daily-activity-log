@@ -11482,5 +11482,23 @@
     "date": "2024-02-10",
     "time": "2322",
     "text": "Officers located an occupied stolen vehicle. Officers detained and arrested the driver on related charges. "
+  },
+  {
+    "cmd": "East Command",
+    "id": "24-038782",
+    "code": "Homicide Investigation",
+    "location": "32ND ST / V ST W ST ALY",
+    "date": "2024-02-11",
+    "time": "0811",
+    "text": "Link to News Release: https://apps.sacpd.org/Releases/liveview.aspx?reference=20240212-006"
+  },
+  {
+    "cmd": "Central Command",
+    "id": "24-039220",
+    "code": "Narcotics - Arrest",
+    "location": "IMPROV ALY / 11TH ST",
+    "date": "2024-02-11",
+    "time": "2020",
+    "text": "Officers contacted an individual in the area. During the investigation, it was determined that the suspect was on probation. During the search, officers located a narcotics pipe and methamphetamine. The suspect was cited and released for possession of narcotics and narcotic paraphernalia."
   }
 ]
