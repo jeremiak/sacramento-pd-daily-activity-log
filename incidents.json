@@ -11500,5 +11500,32 @@
     "date": "2024-02-11",
     "time": "2020",
     "text": "Officers contacted an individual in the area. During the investigation, it was determined that the suspect was on probation. During the search, officers located a narcotics pipe and methamphetamine. The suspect was cited and released for possession of narcotics and narcotic paraphernalia."
+  },
+  {
+    "cmd": "North Command",
+    "id": "24-039916",
+    "code": "Shooting - Investigation",
+    "location": "1100 Block of Del Paso Blvd",
+    "date": "2024-02-12",
+    "time": "1526",
+    "text": "Officers responded to reports of a shooting. Responding officers located evidence of a shooting. No injuries were reported. Officers conducted an investigation and a report was generated."
+  },
+  {
+    "cmd": "East Command",
+    "id": "24-040046",
+    "code": "Shooting Investigation",
+    "location": "3600 block of 20th Ave",
+    "date": "2024-02-12",
+    "time": "1728",
+    "text": "Officers responded to reports of gunfire. Officers searched the area and did not locate any victims, damage, or evidence a shooting had occurred."
+  },
+  {
+    "cmd": "Central Command",
+    "id": "24-040223",
+    "code": "DUI - Arrest",
+    "location": "11TH ST / MINT CHIP LN",
+    "date": "2024-02-12",
+    "time": "2144",
+    "text": "Officers responded to reports of a single vehicle that had collided with two parked cars. Upon arrival, officers contacted the driver and observed objective signs of intoxication. The driver was arrested for DUI-related charges and booked at the Sacramento County Main Jail."
   }
 ]
