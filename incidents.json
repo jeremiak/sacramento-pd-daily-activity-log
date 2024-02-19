@@ -11617,5 +11617,32 @@
     "date": "2024-02-15",
     "time": "1604",
     "text": "Officers located an occupied stolen vehicle. The suspect was detained and arrested for related charges. "
+  },
+  {
+    "cmd": "Central Command",
+    "id": "24-043607",
+    "code": "Shooting - Investigation",
+    "location": "14th St / C St",
+    "date": "2024-02-16",
+    "time": "0751",
+    "text": "Officers responded to reports of a shooting. Responding officers located evidence of a shooting. No injuries were reported. Officers conducted an investigation and a report was generated. "
+  },
+  {
+    "cmd": "North Command",
+    "id": "24-044078",
+    "code": "Traffic Stop - Firearm Arrest",
+    "location": "Del Paso Blvd / Cantalier St",
+    "date": "2024-02-16",
+    "time": "1614",
+    "text": "Officers conducted a traffic stop for a vehicle code violation. During the course of the investigation, an illegally possessed firearm was located on the driver's person. The driver was detained and arrested for related charges."
+  },
+  {
+    "cmd": "South Command",
+    "id": "24-044364",
+    "code": "Shooting - Investigation",
+    "location": "800 Block of Revere St",
+    "date": "2024-02-16",
+    "time": "2210",
+    "text": "Officers responded to reports of a shooting. Responding officers located evidence of a shooting. No injuries were reported. Officers conducted an investigation and a report was generated. "
   }
 ]
