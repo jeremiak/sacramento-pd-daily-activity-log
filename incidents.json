@@ -11680,5 +11680,50 @@
     "date": "2024-02-17",
     "time": "1718",
     "text": "Officers located an occupied stolen vehicle. The driver was detained and arrested for related charges."
+  },
+  {
+    "cmd": "South Command",
+    "id": "24-045397",
+    "code": "Shooting - Investigation",
+    "location": "7400 Block of Loma Verde Wy",
+    "date": "2024-02-18",
+    "time": "0034",
+    "text": "Officers responded to reports of a shooting. Responding officers located evidence of a shooting. No injuries were reported. Officers conducted an investigation and a report was generated."
+  },
+  {
+    "cmd": "North Command",
+    "id": "24-045480",
+    "code": "Homicide Investigation",
+    "location": "2300 Block of Burberry Way",
+    "date": "2024-02-18",
+    "time": "0309",
+    "text": "Link to News Release: https://apps.sacpd.org/Releases/liveview.aspx?reference=20240218-010"
+  },
+  {
+    "cmd": "North Command",
+    "id": "24-045919",
+    "code": "Firearm - Arrest",
+    "location": "900 Block of Silvano court",
+    "date": "2024-02-18",
+    "time": "1524",
+    "text": "Officers contacted a male adult inside of a vehicle. During the investigation, officers located a un-serialized firearm in his possession. He was arrested and booked on firearms-related charges."
+  },
+  {
+    "cmd": "Central Command",
+    "id": "24-046079",
+    "code": "Theft - Arrest",
+    "location": "400 Block of K Street",
+    "date": "2024-02-18",
+    "time": "1851",
+    "text": "Officers responded to reports of an individual who had stolen a felony amount of merchandise from a retail establishment. Officers contacted the suspect, and located a methamphetamine pipe on their persons. The suspect was arrested and booked for related charges. "
+  },
+  {
+    "cmd": "South Command",
+    "id": "24-046191",
+    "code": "Stolen Vehicle - Arrest",
+    "location": "BROADWAY / 15TH ST",
+    "date": "2024-02-18",
+    "time": "2208",
+    "text": "Officers located a stolen vehicle. An enforcement stop was conducted. The driver was arrested and booked on related charges."
   }
 ]
