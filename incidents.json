@@ -11725,5 +11725,41 @@
     "date": "2024-02-18",
     "time": "2208",
     "text": "Officers located a stolen vehicle. An enforcement stop was conducted. The driver was arrested and booked on related charges."
+  },
+  {
+    "cmd": "Central Command",
+    "id": "24-046255",
+    "code": "DUI - Arrest",
+    "location": "900 Block of I Street",
+    "date": "2024-02-19",
+    "time": "0011",
+    "text": "Officers responded to reports of a possible intoxicated driver. Officers arrived on scene and observed possible signs of impairment. The driver was arrested and booked on related charges."
+  },
+  {
+    "cmd": "North Command",
+    "id": "24-046275",
+    "code": "Stolen Vehicle - Arrest",
+    "location": "NORTHFIELD DR / NORTHVIEW DR",
+    "date": "2024-02-19",
+    "time": "0045",
+    "text": "Officers located a stolen vehicle. An enforcement stop was conducted. The driver was arrested and booked on related charges."
+  },
+  {
+    "cmd": "South Command",
+    "id": "24-046383",
+    "code": "Stolen Vehicle - Arrest",
+    "location": "5600 Block of Freeport Blvd",
+    "date": "2024-02-19",
+    "time": "0736",
+    "text": "Officers located a stolen vehicle. Officers arrested the driver, who was later booked at the Sacramento County Main Jail on related charges."
+  },
+  {
+    "cmd": "South Command",
+    "id": "24-047001",
+    "code": "Firearm - Arrest",
+    "location": "5000 Block of Mack Road",
+    "date": "2024-02-19",
+    "time": "2146",
+    "text": "Officers responded to a weapons call and detained the suspect on scene. During the investigation, officers located a firearm. The suspect was arrested on related charges."
   }
 ]
