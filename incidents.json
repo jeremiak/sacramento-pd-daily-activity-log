@@ -11761,5 +11761,23 @@
     "date": "2024-02-19",
     "time": "2146",
     "text": "Officers responded to a weapons call and detained the suspect on scene. During the investigation, officers located a firearm. The suspect was arrested on related charges."
+  },
+  {
+    "cmd": "East Command",
+    "id": "24-047442",
+    "code": "Narcotics - Arrest",
+    "location": "3000 Block of K Street",
+    "date": "2024-02-20",
+    "time": "1115",
+    "text": "Officers responded to reports of an individual trespassing and smoking narcotics. Officers arrived on scene and detained the individual, locating narcotic paraphrenia on their person. The individual was arrested and booked at Sacramento County Main Jail on related charges."
+  },
+  {
+    "cmd": "East Command",
+    "id": "24-047486",
+    "code": "DUI - Arrest",
+    "location": "51ST ST / J ST",
+    "date": "2024-02-20",
+    "time": "1217",
+    "text": "Officers responded to reports of a two-vehicle collision near this intersection. During the investigation, officers observed objective signs of intoxication in one of the involved parties. The intoxicated driver was arrested and later booked at jail on related charges."
   }
 ]
