@@ -11806,5 +11806,32 @@
     "date": "2024-02-21",
     "time": "2158",
     "text": "Officers located a stolen vehicle and conducted an enforcement stop. The driver was arrested and booked on related charges. "
+  },
+  {
+    "cmd": "North Command",
+    "id": "24-049730",
+    "code": "Firearm - Arrest",
+    "location": "900 Block of Rivera Dr",
+    "date": "2024-02-22",
+    "time": "1743",
+    "text": "Officers contacted two individuals in a vehicle. Both the driver and passenger exited the vehicle, but both occupants were detained. During the investigation, an illegally possessed loaded firearm was located on the juvenile passenger. The suspect was arrested for related charges. "
+  },
+  {
+    "cmd": "East Command",
+    "id": "24-049831",
+    "code": "Felony Assault - Arrest",
+    "location": "2800 Block 65th St",
+    "date": "2024-02-22",
+    "time": "1945",
+    "text": "Officers responded to reports that a male pointed a firearm at a person. Responding officers located the suspect inside of a vehicle near the residence. The suspect refused to comply to officers’ command to exit the vehicle. Members from our Crisis Negotiations Team (CNT) responded and after hours of attempts to communicate with the suspect, he exited the vehicle and surrendered. A firearm was located inside of the vehicle. The suspect was arrested for related charges."
+  },
+  {
+    "cmd": "North Command",
+    "id": "24-049959",
+    "code": "Shooting - Investigation",
+    "location": "400 Block of W. Silver Eagle Rd",
+    "date": "2024-02-22",
+    "time": "2223",
+    "text": "Officers responded to reports of a shooting. Responding officers located evidence of a shooting. No injuries were reported. Officers conducted an investigation and a report was generated."
   }
 ]
