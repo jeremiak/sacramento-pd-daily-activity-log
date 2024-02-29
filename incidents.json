@@ -11878,5 +11878,23 @@
     "date": "2024-02-25",
     "time": "0224",
     "text": "Link to News Release: https://apps.sacpd.org/Releases/liveview.aspx?reference=20240225-012"
+  },
+  {
+    "cmd": "South Command",
+    "id": "24-053129",
+    "code": "Attempt Carjacking - Arrest",
+    "location": "6400 Block of Mack Rd",
+    "date": "2024-02-26",
+    "time": "1127",
+    "text": "Officers responded to reports of an attempted carjacking. Responding officers located the suspect walking away from the vehicle. The suspect was detained and arrested for related charges."
+  },
+  {
+    "cmd": "South Command",
+    "id": "24-053715",
+    "code": "Felony Assault - Arrest",
+    "location": "5900 Block of Bamford Dr",
+    "date": "2024-02-26",
+    "time": "2305",
+    "text": "Officers responded to reports of a stabbing. Responding officers located a victim with a non-life-threatening injury. During their investigation, officers located the suspect nearby. The suspect was arrested for related charges."
   }
 ]
