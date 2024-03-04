@@ -11923,5 +11923,50 @@
     "date": "2024-02-28",
     "time": "1926",
     "text": "Officers responded to reports of a stabbing. The victim was transported to an area hospital with non-life-threatening injuries. Officers conducted an investigation and a report was generated and no arrests have been made at this time. "
+  },
+  {
+    "cmd": "Central Command",
+    "id": "24-055908",
+    "code": "Robbery - Arrest",
+    "location": "800 Block of J St",
+    "date": "2024-02-29",
+    "time": "0407",
+    "text": "Officers responded to reports of a robbery by force to a business. Responding officers located the suspect and detained her. The suspect was arrested for related charges."
+  },
+  {
+    "cmd": "North Command",
+    "id": "24-056885",
+    "code": "Stolen Vehicle - Arrest",
+    "location": "Traction Ave / El Camino Ave",
+    "date": "2024-03-01",
+    "time": "0204",
+    "text": "Officers located an occupied stolen vehicle. The driver was detained and arrested for related charges."
+  },
+  {
+    "cmd": "East Command",
+    "id": "24-056886",
+    "code": "Stolen Vehicle - Arrest",
+    "location": "Alhambra Blvd / G St",
+    "date": "2024-03-01",
+    "time": "0208",
+    "text": "Officers located an occupied stolen vehicle. The vehicle pulled over and the occupants fled on foot. Eventually, the occupants were detained and the driver was arrested for related charges. "
+  },
+  {
+    "cmd": "North Command",
+    "id": "24-057416",
+    "code": "Firearm - Arrest",
+    "location": "3600 Block of Truxel Rd",
+    "date": "2024-03-01",
+    "time": "1602",
+    "text": "Officers responded to reports of a robbery. Officers located the suspect vehicle in the parking lot and detained the occupants. Officers determined that a robbery did not occur, but a petty theft did. During the investigation, an illegally possessed loaded firearm was located inside of the vehicle. The suspects were arrested for related charges. "
+  },
+  {
+    "cmd": "East Command",
+    "id": "24-057590",
+    "code": "Shooting - Investigation",
+    "location": "3800 Block of 47th St",
+    "date": "2024-03-01",
+    "time": "1940",
+    "text": "Officers responded to reports of a shooting. Responding officers located evidence of a shooting. No injuries were reported. Officers conducted an investigation and a report was generated. "
   }
 ]
