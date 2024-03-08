@@ -11986,5 +11986,41 @@
     "date": "2024-03-04",
     "time": "0219",
     "text": "Officers responded to reports of a shooting. Responding officers located evidence of a shooting. No injuries were reported. Officers conducted an investigation and a report was generated."
+  },
+  {
+    "cmd": "Central Command",
+    "id": "24-060447",
+    "code": "Warrant - Arrest",
+    "location": "800 Block of J St.",
+    "date": "2024-03-05",
+    "time": "0740",
+    "text": "Officers located an individual with an outstanding felony warrant. The individual was arrested and booked on their outstanding warrant at the main jail."
+  },
+  {
+    "cmd": "Central Command",
+    "id": "24-061077",
+    "code": "Narcotics - Arrest",
+    "location": "800 block of J Street",
+    "date": "2024-03-05",
+    "time": "1749",
+    "text": "Officers contacted an individual who was found to be in possession of narcotics and narcotic paraphernalia. The individual was arrested and booked at jail on narcotic possession and violation of parole related charges."
+  },
+  {
+    "cmd": "South Command",
+    "id": "24-061262",
+    "code": "Shooting Investigation",
+    "location": "1900 block of Richfield Way",
+    "date": "2024-03-05",
+    "time": "2158",
+    "text": "Officers responded to reports of gunshots in the area. Upon arrival, officers located evidence of a shooting. No victims or damage were located. A report was generated. This remains an active investigation."
+  },
+  {
+    "cmd": "East Command",
+    "id": "24-061303",
+    "code": "Shooting Investigation",
+    "location": "7000 block of 51st ave",
+    "date": "2024-03-05",
+    "time": "2242",
+    "text": "Officers responded to reports of gunshots in the area. Upon arrival, officers located evidence of a shooting. No victims or damage were located. A report was generated. This remains an active investigation."
   }
 ]
