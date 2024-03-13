@@ -12049,5 +12049,23 @@
     "date": "2024-03-09",
     "time": "2119",
     "text": "Link to News Release: https://apps.sacpd.org/Releases/liveview.aspx?reference=20240310-016"
+  },
+  {
+    "cmd": "North Command",
+    "id": "24-065382",
+    "code": "Stolen Vehicle - Arrest",
+    "location": "ARCADE BLVD / BELDEN ST",
+    "date": "2024-03-10",
+    "time": "0026",
+    "text": "Officers located a stolen vehicle and conducted an enforcement stop. The driver was arrested and booked on related charges."
+  },
+  {
+    "cmd": "East Command",
+    "id": "24-066089",
+    "code": "Pursuit - Arrest",
+    "location": "S ST / 30TH ST",
+    "date": "2024-03-10",
+    "time": "2150",
+    "text": "Officers attempted to stop a vehicle for a moving violation. The vehicle failed to yield, and a pursuit ensued. The pursuit was put into surveillance mode, and with the assistance of a police aircraft, officers were able to arrest the suspect when the car was parked. The suspect was arrested for pursuit-related charges, possession of narcotics, and an outstanding warrant."
   }
 ]
