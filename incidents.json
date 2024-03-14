@@ -12067,5 +12067,23 @@
     "date": "2024-03-10",
     "time": "2150",
     "text": "Officers attempted to stop a vehicle for a moving violation. The vehicle failed to yield, and a pursuit ensued. The pursuit was put into surveillance mode, and with the assistance of a police aircraft, officers were able to arrest the suspect when the car was parked. The suspect was arrested for pursuit-related charges, possession of narcotics, and an outstanding warrant."
+  },
+  {
+    "cmd": "Central Command",
+    "id": "24-066660",
+    "code": "Vandalism - Arrest",
+    "location": "11th St / I St",
+    "date": "2024-03-11",
+    "time": "1348",
+    "text": "Officers responded to reports of a person vandalizing vehicles. Responding officers located the suspect, who was arrested for related charges."
+  },
+  {
+    "cmd": "North Command",
+    "id": "24-067100",
+    "code": "Strong-Arm Robbery - Arrest",
+    "location": "3200 Block of Arena Blvd",
+    "date": "2024-03-11",
+    "time": "2242",
+    "text": "Officers responded to reports of a strong-arm robbery to a business. Responding officers located the suspects and detained them. Both suspects were arrested for related charges. "
   }
 ]
