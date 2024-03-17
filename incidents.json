@@ -12121,5 +12121,32 @@
     "date": "2024-03-13",
     "time": "1926",
     "text": "Officers located an occupied stolen vehicle. The driver was eventually detained and arrested for related charges. "
+  },
+  {
+    "cmd": "East Command",
+    "id": "24-069613",
+    "code": "Stolen Vehicle - Arrest",
+    "location": "3900 Block of Stockton Blvd",
+    "date": "2024-03-14",
+    "time": "1320",
+    "text": "Officers located an occupied stolen vehicle. The suspect was detained and arrested for related charges. "
+  },
+  {
+    "cmd": "Central Command",
+    "id": "24-069740",
+    "code": "Stolen Vehicle - Firearm Arrest",
+    "location": "2700 Block of Tomato Aly",
+    "date": "2024-03-14",
+    "time": "1522",
+    "text": "Officers responded to reports of a stolen vehicle. As officers located the vehicle, suspects began walking away from the vehicle. Additional officers arrived on scene and everyone was detained. During the investigation, officers located an illegally possessed privately manufactured firearm in the waistband of one of the suspects. The suspect who stole the car and the suspect with the firearm were both arrested. "
+  },
+  {
+    "cmd": "East Command",
+    "id": "24-070054",
+    "code": "Brandishing Against Officer - Arrest",
+    "location": "6500 Block of Q St",
+    "date": "2024-03-14",
+    "time": "2140",
+    "text": "Officers were on an unrelated call when they were approached by a suspect with a knife in his while screaming. Officers were eventually able to deescalate the incident and the suspect was arrested for related charges. "
   }
 ]
