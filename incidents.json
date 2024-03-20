@@ -12184,5 +12184,32 @@
     "date": "2024-03-16",
     "time": "2250",
     "text": "Officers responded to a solo vehicle collision into a tree. Upon contact with the driver, objective signs of intoxication were observed. During the investigation, officers located a stolen firearm in the vehicle. The driver was arrested and booked on related charges."
+  },
+  {
+    "cmd": "Central Command",
+    "id": "24-072615",
+    "code": "Warrant - Arrest",
+    "location": "2300 Block of L Street",
+    "date": "2024-03-17",
+    "time": "1724",
+    "text": "Officers responded to reports of an individual yelling and causing a disturbance. During the investigation, officers found that the individual had an outstanding felony warrant. The individual was arrested and booked at the Sacramento County Main Jail."
+  },
+  {
+    "cmd": "South Command",
+    "id": "24-072819",
+    "code": "Warrant - Arrest",
+    "location": "MACK RD / FRANKLIN BLVD",
+    "date": "2024-03-17",
+    "time": "2217",
+    "text": "Officers stopped a vehicle for a moving violation. During the investigation, officers found that the driver had two active felony warrants. The driver was arrested and later booked on their outstanding warrants."
+  },
+  {
+    "cmd": "North Command",
+    "id": "24-072880",
+    "code": "Burglary - Arrest",
+    "location": "3000 Block of Truxel Road",
+    "date": "2024-03-17",
+    "time": "2336",
+    "text": "Officers responded to a reported burglary at a closed business. Upon arrival, officers observed the suspect exiting the business with stolen merchandise. The suspect attempted to flee on foot but was quickly detained. The suspect was booked on burglary-related charges."
   }
 ]
