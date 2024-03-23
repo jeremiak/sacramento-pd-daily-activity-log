@@ -12211,5 +12211,32 @@
     "date": "2024-03-17",
     "time": "2336",
     "text": "Officers responded to a reported burglary at a closed business. Upon arrival, officers observed the suspect exiting the business with stolen merchandise. The suspect attempted to flee on foot but was quickly detained. The suspect was booked on burglary-related charges."
+  },
+  {
+    "cmd": "Central Command",
+    "id": "24-073220",
+    "code": "Unlawful Assembly Arrest",
+    "location": "900 Block of I St",
+    "date": "2024-03-18",
+    "time": "1033",
+    "text": "Link to News Release: https://apps.sacpd.org/Releases/liveview.aspx?reference=20240320-017"
+  },
+  {
+    "cmd": "North Command",
+    "id": "24-074522",
+    "code": "Firearm - Arrest",
+    "location": "TALENT ST / HARRIS AVE",
+    "date": "2024-03-19",
+    "time": "1600",
+    "text": "Officers responded to an individual walking around with a firearm. OFfciers arrived on scene and detained the individual. During their investigation, a firearm was recovered. The individual was arrested and booked on related charges."
+  },
+  {
+    "cmd": "East Command",
+    "id": "24-074941",
+    "code": "Firearm - Arrest",
+    "location": "2900 Block of 64th Street",
+    "date": "2024-03-20",
+    "time": "0110",
+    "text": "Officers conducted a traffic stop on a vehicle for an equipment violation. During the investigation, officers located a firearm, narcotics, burglary tools, and pieces of stolen mail. The occupants of the vehicle were arrested and booked on related charges. "
   }
 ]
