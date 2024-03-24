@@ -12238,5 +12238,23 @@
     "date": "2024-03-20",
     "time": "0110",
     "text": "Officers conducted a traffic stop on a vehicle for an equipment violation. During the investigation, officers located a firearm, narcotics, burglary tools, and pieces of stolen mail. The occupants of the vehicle were arrested and booked on related charges. "
+  },
+  {
+    "cmd": "East Command",
+    "id": "24-076647",
+    "code": "Homicide - Investigation",
+    "location": "6500 Block of Q Street",
+    "date": "2024-03-21",
+    "time": "1519",
+    "text": "Please see the following news release: Homicide Investigation - 6500 Block of Q Street"
+  },
+  {
+    "cmd": "South Command",
+    "id": "24-077039",
+    "code": "Stolen Bicycle Arrest",
+    "location": "1300 Block of Florin Road",
+    "date": "2024-03-21",
+    "time": "2311",
+    "text": "Officers responded to reports of a stolen bicycle. Officers located the suspect riding through a nearby neighborhood. The suspect was arrested and booked on related charges."
   }
 ]
