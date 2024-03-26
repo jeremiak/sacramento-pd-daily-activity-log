@@ -12274,5 +12274,32 @@
     "date": "2024-03-22",
     "time": "1947",
     "text": "Officers located an occupied stolen vehicle. The suspect was detained and arrested on related charges."
+  },
+  {
+    "cmd": "North Command",
+    "id": "24-078834",
+    "code": "Firearm - Arrest",
+    "location": "2800 Block of Rio Linda Blvd",
+    "date": "2024-03-23",
+    "time": "1926",
+    "text": "Officers located a vehicle driving on a bicycle trail. The driver exited the vehicle as officers attempted to make contact. The driver was detained and during the investigation, officers located an illegally possessed stolen handgun. The suspect was arrested for related charges."
+  },
+  {
+    "cmd": "South Command",
+    "id": "24-078838",
+    "code": "Stolen Vehicle - Arrest",
+    "location": "5500 Block of Mack Rd",
+    "date": "2024-03-23",
+    "time": "1927",
+    "text": "Officers located an occupied stolen vehicle. The driver was detained and arrested for related charges. "
+  },
+  {
+    "cmd": "East Command",
+    "id": "24-078922",
+    "code": "Pursuit - Arrest",
+    "location": "10 Block of Light Sky Ct",
+    "date": "2024-03-23",
+    "time": "2119",
+    "text": "Officers responded to a call of reckless driving. As officers arrived, they observed the vehicle leaving the area. As officers attempted to stop the vehicle, the driver failed to yield and a short pursuit followed. The driver eventually yielded and was arrested for related charges. "
   }
 ]
