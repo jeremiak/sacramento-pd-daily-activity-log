@@ -12319,5 +12319,32 @@
     "date": "2024-03-25",
     "time": "0932",
     "text": "Officers located a stolen vehicle, and a traffic stop was conducted. During the investigation, officers located a firearm and narcotics in the vehicle. The driver was arrested and booked on related charges. "
+  },
+  {
+    "cmd": "South Command",
+    "id": "24-080949",
+    "code": "Subject Stop - Firearm Arrest",
+    "location": "Fruitridge Rd / Freeport Blvd",
+    "date": "2024-03-26",
+    "time": "0209",
+    "text": "Officers contacted a subject on probation. As officers attempted to search the person, he fled on foot, but was quickly apprehended. During the investigation, officers located an illegally possessed loaded firearm and narcotics. The suspect was arrested for related charges."
+  },
+  {
+    "cmd": "Central Command",
+    "id": "24-081524",
+    "code": "Firearm - Arrest",
+    "location": "14th St / Improv Aly",
+    "date": "2024-03-26",
+    "time": "1611",
+    "text": "Officers responded to reports of a man with a gun. Responding officers located the suspect in an alley and safely detained him. Officers located a loaded handgun and the suspect was found to be a parolee. The suspect was arrested for related charges."
+  },
+  {
+    "cmd": "South Command",
+    "id": "24-081821",
+    "code": "Shooting - Investigation",
+    "location": "2600 Block of Kit Carson St",
+    "date": "2024-03-26",
+    "time": "2324",
+    "text": "Officers responded to reports of a shooting. Responding officers located one victim with at least one gunshot wound, who was in stable condition. Officers conducted an investigation and a report was generated and the case will be forwarded to investigations. "
   }
 ]
