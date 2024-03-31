@@ -12364,5 +12364,23 @@
     "date": "2024-03-27",
     "time": "1848",
     "text": "Officers located an occupied stolen vehicle. The juvenile driver was detained and arrested for related charges. "
+  },
+  {
+    "cmd": "Central Command",
+    "id": "24-083555",
+    "code": "Attempt Carjacking - Arrest",
+    "location": "9th St / P St",
+    "date": "2024-03-28",
+    "time": "1837",
+    "text": "Officers responded to reports of an attempted carjacking. Responding officers quickly located and detained the suspect. After an investigation, the suspect was arrested for related charges. "
+  },
+  {
+    "cmd": "North Command",
+    "id": "24-083666",
+    "code": "Shooting - Investigation",
+    "location": "2400 Block of Seamist Dr",
+    "date": "2024-03-28",
+    "time": "2049",
+    "text": "Officers responded to reports of a shooting.  No injuries were reported.  Officers conducted an investigation and a report was generated."
   }
 ]
