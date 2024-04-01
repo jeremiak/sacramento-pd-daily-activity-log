@@ -12382,5 +12382,23 @@
     "date": "2024-03-28",
     "time": "2049",
     "text": "Officers responded to reports of a shooting.  No injuries were reported.  Officers conducted an investigation and a report was generated."
+  },
+  {
+    "cmd": "East Command",
+    "id": "24-084735",
+    "code": "Shooting - Investigation",
+    "location": "3600 Block of 25th Ave",
+    "date": "2024-03-29",
+    "time": "2256",
+    "text": "Officers responded to reports of a shooting. Responding officers located evidence of a shooting. No injuries were reported while officers were on scene. Officers conducted an investigation and a report was generated."
+  },
+  {
+    "cmd": "Central Command",
+    "id": "24-084754",
+    "code": "Pursuit/DUI - Arrest",
+    "location": "3rd St / J St",
+    "date": "2024-03-29",
+    "time": "2315",
+    "text": "Officers observed a minor vehicle accident and attempted to stop a party that was involved. The suspect failed to yield to police and a short pursuit ensued. The suspect eventually yielded and was detained. During the investigation, officers determined that the suspect had objective signs of intoxication. The suspect was arrested for related charges. "
   }
 ]
