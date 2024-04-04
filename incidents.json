@@ -12409,5 +12409,14 @@
     "date": "2024-03-30",
     "time": "2047",
     "text": "Officers responded to reports of a vehicle into a building collision. The building sustained minor damage and responding officers conducted an investigation. A report will be generated."
+  },
+  {
+    "cmd": "East Command",
+    "id": "24-087227",
+    "code": "Warrant - Arrest",
+    "location": "6500 block of 4th ave",
+    "date": "2024-04-01",
+    "time": "1834",
+    "text": "Officers responded to reports of an individual trespassing inside a retail store. During the investigation, officers determined the individual had an active felony warrant. The individual was arrested and booked on their outstanding warrant."
   }
 ]
