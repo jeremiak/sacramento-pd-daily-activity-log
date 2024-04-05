@@ -12418,5 +12418,32 @@
     "date": "2024-04-01",
     "time": "1834",
     "text": "Officers responded to reports of an individual trespassing inside a retail store. During the investigation, officers determined the individual had an active felony warrant. The individual was arrested and booked on their outstanding warrant."
+  },
+  {
+    "cmd": "Central Command",
+    "id": "24-087444",
+    "code": "DUI - Arrest",
+    "location": "22ND ST / N ST",
+    "date": "2024-04-02",
+    "time": "0145",
+    "text": "Officers responded to a solo vehicle collision. Upon contact with the driver, officers observed objective signs of intoxication. The driver was arrested and later booked on DUI related charges."
+  },
+  {
+    "cmd": "North Command",
+    "id": "24-088298",
+    "code": "Stolen Bicycle Arrest",
+    "location": "LEITCH AVE / ALTOS AVE",
+    "date": "2024-04-02",
+    "time": "1910",
+    "text": "Officers responded to the area for reports of a stolen bicycle. They located the suspect and the stolen bicycle. The suspect was also found to have an active felony warrant. The suspect was arrested and booked on related charges."
+  },
+  {
+    "cmd": "North Command",
+    "id": "24-088450",
+    "code": "Stolen Vehicle - Arrest",
+    "location": "2400 block of Northgate Blvd",
+    "date": "2024-04-02",
+    "time": "2245",
+    "text": "Officers located a stolen vehicle. A stop was conducted, and the driver was taken into custody. They were later booked on related charges."
   }
 ]
