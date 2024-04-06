@@ -12445,5 +12445,14 @@
     "date": "2024-04-02",
     "time": "2245",
     "text": "Officers located a stolen vehicle. A stop was conducted, and the driver was taken into custody. They were later booked on related charges."
+  },
+  {
+    "cmd": "North Command",
+    "id": "24-088500",
+    "code": "Warrant - Arrest",
+    "location": "W EL CAMINO AVE / NORTHGATE BLVD",
+    "date": "2024-04-03",
+    "time": "0002",
+    "text": "Officers located a known individual who had an active felony warrant. During the investigation, officers located evidence of possible narcotic sales. The individual was booked on related charges."
   }
 ]
