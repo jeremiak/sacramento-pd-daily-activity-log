@@ -12454,5 +12454,32 @@
     "date": "2024-04-03",
     "time": "0002",
     "text": "Officers located a known individual who had an active felony warrant. During the investigation, officers located evidence of possible narcotic sales. The individual was booked on related charges."
+  },
+  {
+    "cmd": "Central Command",
+    "id": "24-089950",
+    "code": "Stolen Vehicle - Arrest",
+    "location": "Richards Blvd / N 7th St",
+    "date": "2024-04-04",
+    "time": "1234",
+    "text": "Officers located an occupied stolen vehicle. The driver was detained and arrested for related charges."
+  },
+  {
+    "cmd": "North Command",
+    "id": "24-090110",
+    "code": "Firearm - Arrest",
+    "location": "2900 Block of Connie Dr",
+    "date": "2024-04-04",
+    "time": "1552",
+    "text": "Officers responded to reports of a man with a gun. Responding officers located the subject and determined he had an illegally possessed loaded firearm. Through the investigation, it was learned that the suspect pointed the firearm in the direction of responding officers. The suspect was arrested for related charges. "
+  },
+  {
+    "cmd": "North Command",
+    "id": "24-090133",
+    "code": "Homicide - Investigation",
+    "location": "Colfax St / Traction Ave",
+    "date": "2024-04-04",
+    "time": "1621",
+    "text": "Please see the following News Release: Homicide Investigation – Traction Avenue / Colfax Street"
   }
 ]
