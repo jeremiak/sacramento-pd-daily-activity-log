@@ -12481,5 +12481,32 @@
     "date": "2024-04-04",
     "time": "1621",
     "text": "Please see the following News Release: Homicide Investigation – Traction Avenue / Colfax Street"
+  },
+  {
+    "cmd": "Central Command",
+    "id": "24-091387",
+    "code": "Warrant - Arrest",
+    "location": "10TH ST / K ST",
+    "date": "2024-04-06",
+    "time": "0013",
+    "text": "Officers observed a vehicle driving recklessly in the area and conducted an enforcement stop. During the investigation, officers found that the driver had an outstanding felony warrant. The driver was arrested and booked on their warrant. "
+  },
+  {
+    "cmd": "North Command",
+    "id": "24-091830",
+    "code": "Warrant - Arrest",
+    "location": "1000  Block of Las Palmas Avenue",
+    "date": "2024-04-06",
+    "time": "1523",
+    "text": "Patrol officers observed an individual known to have a felony warrant. An enforcement stop was conducted; however, the suspect fled on foot. Additional responding officers established a perimeter. The suspect was safely taken into custody and booked on their outstanding felony warrant. "
+  },
+  {
+    "cmd": "Central Command",
+    "id": "24-092023",
+    "code": "Warrant - Arrest",
+    "location": "2000 Block of Kayak Aly",
+    "date": "2024-04-06",
+    "time": "1907",
+    "text": "Officers responded to reports of an individual acting erratically in the area. Officers contacted the individual, who was found to have a felony warrant. The individual was arrested and booked for their warrant."
   }
 ]
