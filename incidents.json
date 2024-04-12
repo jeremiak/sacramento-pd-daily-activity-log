@@ -12526,5 +12526,32 @@
     "date": "2024-04-08",
     "time": "2203",
     "text": "Officers located an occupied stolen vehicle. The driver was detained and arrested for related charges. "
+  },
+  {
+    "cmd": "East Command",
+    "id": "24-094106",
+    "code": "Fatal Collision - Investigation",
+    "location": "Fruitridge Rd / Ethel Wy",
+    "date": "2024-04-09",
+    "time": "0432",
+    "text": "Officers responded to reports of a collision between a vehicle and two pedestrians. One pedestrian was pronounced deceased on scene. The other was transported to an area hospital for treatment. The driver remained on scene. Detectives from our Major Collision Investigation Unit responded and took over the investigation. "
+  },
+  {
+    "cmd": "North Command",
+    "id": "24-094146",
+    "code": "Stolen Vehicle - Arrest",
+    "location": "100 Block of Commerce Cir",
+    "date": "2024-04-09",
+    "time": "0645",
+    "text": "Officers located an occupied stolen vehicle. The suspect was detained and arrested for related charges. "
+  },
+  {
+    "cmd": "Central Command",
+    "id": "24-094359",
+    "code": "Firearm - Arrest",
+    "location": "Government Aly / 16th St",
+    "date": "2024-04-09",
+    "time": "1017",
+    "text": "Officers responded to reports of a person walking down the street with a rifle. Officers in our Real Time Information Center located the suspect on a police camera and guided our ground officers to him. The suspect was safely detained and an illegally possessed rifle was located on him. The suspect was arrested for various charges. "
   }
 ]
