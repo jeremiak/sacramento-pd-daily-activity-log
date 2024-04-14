@@ -12562,5 +12562,32 @@
     "date": "2024-04-10",
     "time": "0914",
     "text": "Officers responded to reports of a robbery by force. Responding officers located the suspect and arrested him for robbery related charges. "
+  },
+  {
+    "cmd": "East Command",
+    "id": "24-096802",
+    "code": "Carjacking - Investigation",
+    "location": "7800 Block of 50th Ave",
+    "date": "2024-04-11",
+    "time": "1558",
+    "text": "Officers responded to reports of a carjacking at gunpoint. The suspect fled prior to police arrival and the victim was not injured. Officers conducted a preliminary investigation and a report was generated. "
+  },
+  {
+    "cmd": "South Command",
+    "id": "24-097125",
+    "code": "Shooting - Investigation",
+    "location": "6000 Block of Saddleback Ct",
+    "date": "2024-04-11",
+    "time": "2146",
+    "text": "Officers were alerted to a shooting victim who walked into an area hospital. That victim was found to have at least one non-life-threatening gunshot wound. Through the course of the investigation, officers located a scene off Saddleback Ct and conducted their investigation. A report was generated. "
+  },
+  {
+    "cmd": "East Command",
+    "id": "24-097182",
+    "code": "Firearm - Arrest",
+    "location": "4200 Block of 34th St",
+    "date": "2024-04-11",
+    "time": "2315",
+    "text": "Officers responded to a call of a male with a ski mask attempting to break into a vehicle with a gun. Officers responded and located the suspect. The suspect was detained and during the course of the investigation, officers located an illegally possessed loaded firearm. The suspect was arrested for various charges. "
   }
 ]
