@@ -12598,5 +12598,32 @@
     "date": "2024-04-12",
     "time": "1218",
     "text": "Officers responded to reports of a robbery to a person. Responding officers located the suspect and detained him. The suspect was arrested for related charges. "
+  },
+  {
+    "cmd": "South Command",
+    "id": "24-098278",
+    "code": "Shooting - Investigation",
+    "location": "8400 Block of Tambor Wy",
+    "date": "2024-04-13",
+    "time": "0118",
+    "text": "Officers responded to reports of a shooting. Responding officers located evidence of a shooting. No injuries were reported. Officers conducted an investigation and a report was generated. "
+  },
+  {
+    "cmd": "East Command",
+    "id": "24-098407",
+    "code": "DUI/Firearm - Arrest",
+    "location": "7900 Block of College Town Dr",
+    "date": "2024-04-13",
+    "time": "0651",
+    "text": "Officers responded to reports of a possible DUI. During the investigation, officers located an illegally possessed firearm in the vehicle. The suspect was arrested for related charges. "
+  },
+  {
+    "cmd": "Central Command",
+    "id": "24-098866",
+    "code": "Stolen Vehicle - Arrest",
+    "location": "16th St / W St",
+    "date": "2024-04-13",
+    "time": "1902",
+    "text": "Officers located an occupied stolen vehicle. The driver was detained and arrested for related charges."
   }
 ]
