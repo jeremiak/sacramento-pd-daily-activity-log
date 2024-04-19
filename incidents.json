@@ -12634,5 +12634,32 @@
     "date": "2024-04-15",
     "time": "1243",
     "text": "Officers responded to reports of a robbery by threats. Responding officers located the suspect and detained him. He was arrested for related charges."
+  },
+  {
+    "cmd": "North Command",
+    "id": "24-100835",
+    "code": "Traffic Stop - Firearm Arrest",
+    "location": "Wilson Ave / Northglen St",
+    "date": "2024-04-16",
+    "time": "0028",
+    "text": "Officers conducted a traffic stop for a vehicle code violation. The driver was found to be on probation and ammunition was located in the vehicle. Officers conducted a probation search at the driver's house and located a ballistic vest, multiple high-capacity magazines, additional ammunition, and a stolen firearm. The suspect was arrested for related charges. "
+  },
+  {
+    "cmd": "South Command",
+    "id": "24-100838",
+    "code": "Shooting - Investigation",
+    "location": "2600 Block of Kit Carson St",
+    "date": "2024-04-16",
+    "time": "0031",
+    "text": "Officers responded to a sounds of shots fired call. Responding officers located evidence of a shooting. No injuries were reported on scene. Officers conducted an investigation and a report was generated. "
+  },
+  {
+    "cmd": "Central Command",
+    "id": "24-100942",
+    "code": "Stolen Vehicle - Arrest",
+    "location": "10th Street / J Street",
+    "date": "2024-04-16",
+    "time": "0610",
+    "text": "Officers located a stolen vehicle. An enforcement stop was conducted. The driver was arrested and later booked at the Main jail on related charges. "
   }
 ]
