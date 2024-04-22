@@ -12627,6 +12627,15 @@
     "text": "Officers located an occupied stolen vehicle. The driver was detained and arrested for related charges."
   },
   {
+    "cmd": "Central Command",
+    "id": "24-099822",
+    "code": "DUI - Arrest",
+    "location": "600 Block of I Street",
+    "date": "2024-04-14",
+    "time": "2043",
+    "text": "Officers responded to reports of an intoxicated driver. During the investigation, officers observed objective signs of intoxication. The driver was arrested and booked for DUI-related charges."
+  },
+  {
     "cmd": "East Command",
     "id": "24-100352",
     "code": "Robbery - Arrest",
@@ -12663,6 +12672,15 @@
     "text": "Officers located a stolen vehicle. An enforcement stop was conducted. The driver was arrested and later booked at the Main jail on related charges. "
   },
   {
+    "cmd": "North Command",
+    "id": "24-102576",
+    "code": "Theft - Arrest",
+    "location": "2000 Block of Club Center Drive",
+    "date": "2024-04-17",
+    "time": "1837",
+    "text": "Officers responded to reports of two individuals stealing items from a retail establishment. Responding officers located the individuals leaving the scene in a vehicle, and an enforcement stop was conducted. Both suspects were safely taken into custody, and over $3000 in merchandise was recovered. Both suspects were arrested and booked on outstanding warrants and related charges. "
+  },
+  {
     "cmd": "South Command",
     "id": "24-103230",
     "code": "Vehicle Collision - Investigation",
@@ -12670,5 +12688,23 @@
     "date": "2024-04-18",
     "time": "1122",
     "text": "Officers responded to a vehicle that collided with a building. There were no injuries reported and the structure was deemed safe by Sac Fire. Officers conducted their investigation and a report will be generated. "
+  },
+  {
+    "cmd": "South Command",
+    "id": "24-103956",
+    "code": "Stolen Vehicle/Pursuit - Arrest",
+    "location": "Mack Rd / Hwy 99 SB",
+    "date": "2024-04-19",
+    "time": "0053",
+    "text": "Officers located an occupied stolen vehicle. The vehicle failed to yield to police vehicles and a pursuit was initiated. The pursuit was ultimately handed off to CHP, who later advised that the vehicle was stopped and the driver was detained. Our officers responded to take custody of the driver, who was arrested for related charges. "
+  },
+  {
+    "cmd": "East Command",
+    "id": "24-104901",
+    "code": "Burglary Arrest",
+    "location": "5000 Block of Stockton Blvd.",
+    "date": "2024-04-19",
+    "time": "2248",
+    "text": "Officers responded to a reported glass break at a business. With the assistance of a Police helicopter, Officers contacted and arrested two subjects for burglary related charges. "
   }
 ]
