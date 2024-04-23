@@ -12706,5 +12706,23 @@
     "date": "2024-04-19",
     "time": "2248",
     "text": "Officers responded to a reported glass break at a business. With the assistance of a Police helicopter, Officers contacted and arrested two subjects for burglary related charges. "
+  },
+  {
+    "cmd": "South Command",
+    "id": "24-105705",
+    "code": "Warrant Arrest",
+    "location": "24th St Byp / S Manor Dr",
+    "date": "2024-04-20",
+    "time": "1924",
+    "text": "Officers conducted an enforcement stop on a vehicle. Through investigation, it was determined that the driver had an outstanding warrant for their arrest and was taken into custody. "
+  },
+  {
+    "cmd": "North Command",
+    "id": "24-105876",
+    "code": "Warrant Arrest",
+    "location": "2200 block of Grove Ave",
+    "date": "2024-04-20",
+    "time": "2236",
+    "text": "Officers conducted an enforcement stop on a bicyclist in the area. The subject was found to have an outstanding warrant for their arrest and was taken into custody. "
   }
 ]
