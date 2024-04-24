@@ -12724,5 +12724,23 @@
     "date": "2024-04-20",
     "time": "2236",
     "text": "Officers conducted an enforcement stop on a bicyclist in the area. The subject was found to have an outstanding warrant for their arrest and was taken into custody. "
+  },
+  {
+    "cmd": "North Command",
+    "id": "24-106019",
+    "code": "Drug sales Arrest",
+    "location": "Norwood Ave / Jessie Ave",
+    "date": "2024-04-21",
+    "time": "0051",
+    "text": "Officers conducted an enforcement stop on a vehicle. During the investigation, Officers located narcotics inside of the vehicle. The driver was taken into custody on charges related to narcotic sales. "
+  },
+  {
+    "cmd": "North Command",
+    "id": "24-106105",
+    "code": "Pursuit Arrest",
+    "location": "Norwood Ave / Bell Ave",
+    "date": "2024-04-21",
+    "time": "0259",
+    "text": "Patrol Officers observed a vehicle driving recklessly in the area and attempted to conduct an enforcement stop. A short vehicle pursuit ensued until the vehicle became disabled. The individual was safely taken into custody for pursuit related charges. "
   }
 ]
