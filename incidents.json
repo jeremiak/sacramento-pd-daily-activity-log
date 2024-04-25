@@ -12742,5 +12742,23 @@
     "date": "2024-04-21",
     "time": "0259",
     "text": "Patrol Officers observed a vehicle driving recklessly in the area and attempted to conduct an enforcement stop. A short vehicle pursuit ensued until the vehicle became disabled. The individual was safely taken into custody for pursuit related charges. "
+  },
+  {
+    "cmd": "North Command",
+    "id": "24-107786",
+    "code": "Shooting - Investigation",
+    "location": "1900 Block of Waterford Rd",
+    "date": "2024-04-22",
+    "time": "2024",
+    "text": "Officers responded to reports of a shooting. Officers located evidence of a shooting. No injuries were reported. Officers conducted an investigation and a report was generated. "
+  },
+  {
+    "cmd": "South Command",
+    "id": "24-107834",
+    "code": "Robbery - Arrest",
+    "location": "2400 Block of Fruitridge Rd",
+    "date": "2024-04-22",
+    "time": "2124",
+    "text": "Officers responded to reports of a robbery by force. Officers located the suspect and arrested them on robbery related charges. "
   }
 ]
