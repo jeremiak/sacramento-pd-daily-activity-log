@@ -12760,5 +12760,23 @@
     "date": "2024-04-22",
     "time": "2124",
     "text": "Officers responded to reports of a robbery by force. Officers located the suspect and arrested them on robbery related charges. "
+  },
+  {
+    "cmd": "North Command",
+    "id": "24-108625",
+    "code": "Narcotic Sales / Warrant - Arrest",
+    "location": "Rio Linda Blvd / Plaza Ave",
+    "date": "2024-04-23",
+    "time": "1733",
+    "text": "Officers conducted an enforcement stop on a vehicle on two subjects. Through investigation, it was learned that one subject had an outstanding arrest warrant and the other was in possession of narcotics. Both subjects were taken into custody for charges relating to narcotic sales and the outstanding warrant. "
+  },
+  {
+    "cmd": "South Command",
+    "id": "24-108630",
+    "code": "Stolen Vehicle / Pursuit - Arrest",
+    "location": "Meadowview Rd / Detroit Blvd",
+    "date": "2024-04-23",
+    "time": "1740",
+    "text": "Officers located an occupied stolen vehicle. The vehicle failed to yield to Police vehicles and a short vehicle pursuit ensued until the vehicle became disabled. The driver was safely taken into custody and arrested on pursuit and stolen vehicle related charges. "
   }
 ]
