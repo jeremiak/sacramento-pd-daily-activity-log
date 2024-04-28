@@ -12787,5 +12787,41 @@
     "date": "2024-04-24",
     "time": "2019",
     "text": "Officers located an occupied stolen vehicle. The vehicle was stopped and the driver was detained. During the investigation, officers located evidence of narcotic sales. The suspect was arrested for related charges."
+  },
+  {
+    "cmd": "East Command",
+    "id": "24-110480",
+    "code": "Firearm - Arrest",
+    "location": "7800 Block of 33rd Ave",
+    "date": "2024-04-25",
+    "time": "1358",
+    "text": "Officers received information that a 17 year-old was armed with a firearm. Officers safely detained the suspect and during the investigation, officers located an illegally possessed firearm. The suspect was arrested for related charges. "
+  },
+  {
+    "cmd": "South Command",
+    "id": "24-110504",
+    "code": "Stolen Vehicle - Arrest",
+    "location": "Meadowview Rd / Detroit Blvd",
+    "date": "2024-04-25",
+    "time": "1415",
+    "text": "Officers located an occupied stolen vehicle. The driver was detained and arrested for related charges. "
+  },
+  {
+    "cmd": "North Command",
+    "id": "24-110796",
+    "code": "Retail Theft - Arrest",
+    "location": "4700 block of Natomas Blvd",
+    "date": "2024-04-25",
+    "time": "2001",
+    "text": "Officers responded to reports of a grand theft. Problem Oriented Policing (POP) Officers responded and located the suspect vehicle. The suspects were detained and arrested for related charges. "
+  },
+  {
+    "cmd": "North Command",
+    "id": "24-110933",
+    "code": "Traffic Stop/Pursuit - Arrest",
+    "location": "3000 Block of Rio Linda Blvd",
+    "date": "2024-04-25",
+    "time": "2359",
+    "text": "Officers conducted a traffic stop on a vehicle. As officers made contact, officers observed a firearm inside the vehicle and attempted to detain the driver. The driver began to flee, striking a police vehicle and hitting an officer with the side mirror. A pursuit ensued and eventually, the suspect pulled over and was taken into custody without incident. The driver was arrested on related charges. "
   }
 ]
