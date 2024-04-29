@@ -12823,5 +12823,23 @@
     "date": "2024-04-25",
     "time": "2359",
     "text": "Officers conducted a traffic stop on a vehicle. As officers made contact, officers observed a firearm inside the vehicle and attempted to detain the driver. The driver began to flee, striking a police vehicle and hitting an officer with the side mirror. A pursuit ensued and eventually, the suspect pulled over and was taken into custody without incident. The driver was arrested on related charges. "
+  },
+  {
+    "cmd": "East Command",
+    "id": "24-111057",
+    "code": "Burglary - Arrest",
+    "location": "7700 Block of College Town Dr",
+    "date": "2024-04-26",
+    "time": "0548",
+    "text": "Officers responded to reports of a ringing alarm. Through the investigation, it was determined that a burglary occurred. Officers located the suspect nearby who was arrested for related charges. "
+  },
+  {
+    "cmd": "East Command",
+    "id": "24-111520",
+    "code": "Weapons Call - Arrest",
+    "location": "Stockton Blvd / 2nd Ave",
+    "date": "2024-04-26",
+    "time": "1544",
+    "text": "Officers responded to reports of a man with a knife. This incident turned into several hours of negotiating, as the suspect refused to drop the knife and surrender. Crisis Negotiators responded out and eventually, the suspect was detained and arrested for related charges. "
   }
 ]
