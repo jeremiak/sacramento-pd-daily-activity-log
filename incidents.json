@@ -12841,5 +12841,32 @@
     "date": "2024-04-26",
     "time": "1544",
     "text": "Officers responded to reports of a man with a knife. This incident turned into several hours of negotiating, as the suspect refused to drop the knife and surrender. Crisis Negotiators responded out and eventually, the suspect was detained and arrested for related charges. "
+  },
+  {
+    "cmd": "East Command",
+    "id": "24-111952",
+    "code": "Burglary - Arrest",
+    "location": "30 Block of Denwil Ct",
+    "date": "2024-04-27",
+    "time": "0015",
+    "text": "Officers responded to reports of a burglary. Responding officers located and detained the suspect. The suspect was arrested for related charges. "
+  },
+  {
+    "cmd": "North Command",
+    "id": "24-112293",
+    "code": "Robbery - Arrest",
+    "location": "3300 Block of W. El Camino Ave",
+    "date": "2024-04-27",
+    "time": "1232",
+    "text": "Officers responded to reports of a robbery to a person at knife point. Through the investigation, officers located the suspect, who was a juvenile, and he was detained. The suspect was arrested for robbery related charges and transported to Juvenile Hall. "
+  },
+  {
+    "cmd": "East Command",
+    "id": "24-112449",
+    "code": "Criminal Threats - Arrest",
+    "location": "5100 Block of Alcott Dr",
+    "date": "2024-04-27",
+    "time": "1553",
+    "text": "Officers responded to reports of a man threatening people while armed with a machete. Officers surrounded the house and eventually, the suspect exited and surrendered. The suspect was arrested for related charges. Officers eventually located the machete."
   }
 ]
