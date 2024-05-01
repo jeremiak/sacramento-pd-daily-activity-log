@@ -12868,5 +12868,32 @@
     "date": "2024-04-27",
     "time": "1553",
     "text": "Officers responded to reports of a man threatening people while armed with a machete. Officers surrounded the house and eventually, the suspect exited and surrendered. The suspect was arrested for related charges. Officers eventually located the machete."
+  },
+  {
+    "cmd": "North Command",
+    "id": "24-112923",
+    "code": "Shooting - Investigation",
+    "location": "3700 Block of Belden St",
+    "date": "2024-04-28",
+    "time": "0030",
+    "text": "Officers responded to reports of a shooting. Responding officers located evidence of a shooting. No injuries were reported. Officers conducted an investigation and a report was generated. "
+  },
+  {
+    "cmd": "North Command",
+    "id": "24-112950",
+    "code": "Shooting - Investigation",
+    "location": "700 Block of Lampasas Ave",
+    "date": "2024-04-28",
+    "time": "0114",
+    "text": "Officers responded to reports of a shooting. Responding officers located evidence of a shooting. No injuries were reported. Officers conducted an investigation and a report was generated. "
+  },
+  {
+    "cmd": "East Command",
+    "id": "24-113190",
+    "code": "Burglary - Arrest",
+    "location": "3300 Block of C St",
+    "date": "2024-04-28",
+    "time": "1021",
+    "text": "Officers responded to a report of a burglary in progress. The suspect was contacted nearby and detained without incident. The suspect was arrested on burglary related charges.  "
   }
 ]
