@@ -12895,5 +12895,23 @@
     "date": "2024-04-28",
     "time": "1021",
     "text": "Officers responded to a report of a burglary in progress. The suspect was contacted nearby and detained without incident. The suspect was arrested on burglary related charges.  "
+  },
+  {
+    "cmd": "South Command",
+    "id": "24-113937",
+    "code": "Homicide - Investigation",
+    "location": "900 Johnfer Way",
+    "date": "2024-04-29",
+    "time": "0240",
+    "text": "Link to news release: https:https://apps.sacpd.org/Releases/liveview.aspx?reference=20240429-021"
+  },
+  {
+    "cmd": "South Command",
+    "id": "24-114441",
+    "code": "Stolen Vehicle / Pursuit - Arrest",
+    "location": "Florin Rd / 24th St",
+    "date": "2024-04-29",
+    "time": "1520",
+    "text": "Officers located an occupied vehicle that had been reported stolen. The driver of the vehicle fled from Officers on foot when they attempted to make contact. The driver was safely detained after a brief foot pursuit. The driver was arrested on stolen vehicle and resisting charges.  "
   }
 ]
