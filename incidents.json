@@ -12931,5 +12931,23 @@
     "date": "2024-05-02",
     "time": "2248",
     "text": "Officers responded to reports that a vehicle fell off a jack onto a male. Responding officers attempted life saving measures until Sacramento Fire arrived on scene. Despite those efforts, the male was pronounced deceased on scene."
+  },
+  {
+    "cmd": "North Command",
+    "id": "24-118045",
+    "code": "Stolen Vehicle - Arrest",
+    "location": "Marconi Ave / Connie Dr",
+    "date": "2024-05-03",
+    "time": "0145",
+    "text": "Officers located an occupied stolen vehicle. The suspect attempted to walk away from the vehicle but was quickly detained. The suspect was arrested for related charges. "
+  },
+  {
+    "cmd": "North Command",
+    "id": "24-118055",
+    "code": "Suspicious Vehicle/Stolen Vehicle - Arrest",
+    "location": "Grove Ave / El Camino Ave",
+    "date": "2024-05-03",
+    "time": "0202",
+    "text": "Officers contacted a occupants inside of a vehicle. Officers determined the plates on the vehicle did not belong to the car and a record check of the VIN number showed the vehicle to be stolen. The suspect was arrested for related charges. "
   }
 ]
