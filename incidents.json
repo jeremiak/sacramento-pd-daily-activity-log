@@ -12994,5 +12994,23 @@
     "date": "2024-05-04",
     "time": "0329",
     "text": "Officers located a reported stolen vehicle in the area. An enforcement stop was conducted and the driver was detained without incident. The driver was arrested on stolen vehicle related charges. "
+  },
+  {
+    "cmd": "North Command",
+    "id": "24-119948",
+    "code": "Shooting - Investigation",
+    "location": "2600 Block of Fairfield St",
+    "date": "2024-05-05",
+    "time": "0005",
+    "text": "Officers responded to reports of shots fired. On scene, Officers located evidence of a shooting. No damaged property or victims were located. A crime report was generated. "
+  },
+  {
+    "cmd": "North Command",
+    "id": "24-119985",
+    "code": "Homicide - Investigation",
+    "location": "3100 Block of Buchman St",
+    "date": "2024-05-05",
+    "time": "0056",
+    "text": "Link to news release: http://spd-appws03/PioCenter/Releases/liveview.aspx?reference=20240505-022"
   }
 ]
