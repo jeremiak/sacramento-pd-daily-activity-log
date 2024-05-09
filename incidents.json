@@ -13012,5 +13012,23 @@
     "date": "2024-05-05",
     "time": "0056",
     "text": "Link to news release: http://spd-appws03/PioCenter/Releases/liveview.aspx?reference=20240505-022"
+  },
+  {
+    "cmd": "North Command",
+    "id": "24-121512",
+    "code": "Firearms - Arrest",
+    "location": "4500 Block of Gateway Park Blvd",
+    "date": "2024-05-06",
+    "time": "1401",
+    "text": "Officers responded to reports of a subject with a firearm. On arrival, Officers safely contacted the subject and through investigation, located two unlawfully possessed firearms. The subject was arrested on firearms related charges."
+  },
+  {
+    "cmd": "Central Command",
+    "id": "24-121665",
+    "code": "Warrant Arrest",
+    "location": "Jazz Aly / 17th St",
+    "date": "2024-05-06",
+    "time": "1703",
+    "text": "Officers conducted a pedestrian stop. Through investigation, the subject was found to have an outstanding arrest warrant. The subject was safely detained and placed under arrest for their outstanding warrant."
   }
 ]
