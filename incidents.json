@@ -13030,5 +13030,59 @@
     "date": "2024-05-06",
     "time": "1703",
     "text": "Officers conducted a pedestrian stop. Through investigation, the subject was found to have an outstanding arrest warrant. The subject was safely detained and placed under arrest for their outstanding warrant."
+  },
+  {
+    "cmd": "South Command",
+    "id": "24-122068",
+    "code": "Shooting - Investigation",
+    "location": "4800 Block of Franklin Blvd",
+    "date": "2024-05-07",
+    "time": "0646",
+    "text": "Officers responded to a reported shooting. On arrival, Officers located evidence of a shooting and a home that was struck by a bullet. No injuries were reported. A crime report was generated. "
+  },
+  {
+    "cmd": "South Command",
+    "id": "24-122087",
+    "code": "Shooting - Investigation",
+    "location": "300 Block of River Bend Cir",
+    "date": "2024-05-07",
+    "time": "0736",
+    "text": "Officers responded to reported shots fired into a unoccupied vehicle. On scene, Officers located evidence of a shooting and a damaged vehicle. Officers generated a crime report. "
+  },
+  {
+    "cmd": "South Command",
+    "id": "24-123795",
+    "code": "Stolen Vehicle / Pursuit - Arrest",
+    "location": "Center Pkwy / Mack Rd",
+    "date": "2024-05-08",
+    "time": "2002",
+    "text": "Officers located an occupied reported stolen vehicle. Officers conducted an enforcement stop on the vehicle and the driver failed to yield. A short vehicle pursuit ensued, and the suspect was taken into custody on stolen vehicle and pursuit related charges once the vehicle became inoperable.  "
+  },
+  {
+    "cmd": "North Command",
+    "id": "24-123982",
+    "code": "Shooting - Investigation",
+    "location": "5700 Block of Tres Piezas Dr",
+    "date": "2024-05-09",
+    "time": "0138",
+    "text": "Officers responded to a report of a shooting. On arrival, Officers located evidence of a shooting including an occupied vehicle and residence that had been struck. No injuries were reported. A crime report was generated.  "
+  },
+  {
+    "cmd": "South Command",
+    "id": "24-124917",
+    "code": "Pursuit / Warrant - Arrest",
+    "location": "1400 block of Meadowview Rd",
+    "date": "2024-05-10",
+    "time": "0015",
+    "text": "Officers located a vehicle occupied by a subject known to have an active arrest warrant. As Officers conducted an enforcement stop on the vehicle, the subject fled from Officers and a vehicle pursuit was initiated. The subjects vehicle became disabled and Officers were able to safely detain the subject. The subject was placed under arrest for their warrant and for pursuit related charges.  "
+  },
+  {
+    "cmd": "Central Command",
+    "id": "24-125531",
+    "code": "Assault - Arrest",
+    "location": "1600 block of Dreher St",
+    "date": "2024-05-10",
+    "time": "1614",
+    "text": "Officers responded to a reported assault. On arrival, Officers confirmed evidence that an assault had occurred. Officers located the suspect a short distance away and safely placed them under arrest for assault related charges.  "
   }
 ]
