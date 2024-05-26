@@ -13228,5 +13228,32 @@
     "date": "2024-05-21",
     "time": "0147",
     "text": "Officers observed a vehicle driving recklessly and conducted an enforcement stop. During the investigation, officers located two loaded firearms inside of the vehicle, one of which was reported stolen. Both occupants were arrested for related charges and booked at the main jail. The vehicle was towed for 30 days."
+  },
+  {
+    "cmd": "South Command",
+    "id": "24-138359",
+    "code": "Stolen Vehicle - Arrest",
+    "location": "Mack Rd / Center Pkwy",
+    "date": "2024-05-23",
+    "time": "0914",
+    "text": "Officers located an occupied stolen vehicle. The driver was detained and arrested for related charges."
+  },
+  {
+    "cmd": "Central Command",
+    "id": "24-139088",
+    "code": "Stolen Vehicle - Arrest",
+    "location": "Bercut Dr / Richards Blvd",
+    "date": "2024-05-23",
+    "time": "2159",
+    "text": "Officers located an occupied stolen vehicle. The driver was detained and arrested for related charges."
+  },
+  {
+    "cmd": "South Command",
+    "id": "24-139162",
+    "code": "Pursuit/Warrant - Arrest",
+    "location": "Mack Rd / Center Pkwy",
+    "date": "2024-05-23",
+    "time": "2343",
+    "text": "Officers attempted to stop a person on a bicycle. The suspect fled, leading officers on a short pursuit. The suspect was detained and found to have warrants. The suspect was arrested for related charges."
   }
 ]
