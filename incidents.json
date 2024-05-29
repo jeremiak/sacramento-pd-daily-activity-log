@@ -13222,12 +13222,30 @@
   },
   {
     "cmd": "North Command",
+    "id": "24-135982",
+    "code": "Firearm - Arrest",
+    "location": "NORWOOD AVE / SOUTH AVE",
+    "date": "2024-05-20",
+    "time": "2320",
+    "text": "Officers attempted to stop an individual on a bicycle for a vehicle code violation. The individual attempted to flee on foot but was quickly detained. During the investigation, officers located a loaded firearm and narcotics in the suspect's possession. He was arrested and booked on related charges."
+  },
+  {
+    "cmd": "North Command",
     "id": "24-136040",
     "code": "Firearm - Arrest",
     "location": "NEW MARKET DR / KOKOMO DR",
     "date": "2024-05-21",
     "time": "0147",
     "text": "Officers observed a vehicle driving recklessly and conducted an enforcement stop. During the investigation, officers located two loaded firearms inside of the vehicle, one of which was reported stolen. Both occupants were arrested for related charges and booked at the main jail. The vehicle was towed for 30 days."
+  },
+  {
+    "cmd": "North Command",
+    "id": "24-137089",
+    "code": "Burglary - Arrest",
+    "location": "1000 Block of Exposition Blvd",
+    "date": "2024-05-22",
+    "time": "0150",
+    "text": "Officers responded to a reported burglary in progress. Upon arrival, officers established a perimeter around the location. The suspect exited the building and was taken into custody. He was booked for burglary-related charges."
   },
   {
     "cmd": "South Command",
@@ -13255,5 +13273,32 @@
     "date": "2024-05-23",
     "time": "2343",
     "text": "Officers attempted to stop a person on a bicycle. The suspect fled, leading officers on a short pursuit. The suspect was detained and found to have warrants. The suspect was arrested for related charges."
+  },
+  {
+    "cmd": "South Command",
+    "id": "24-139885",
+    "code": "Stolen Property - Arrest",
+    "location": "2000 Block of Fruitridge Road",
+    "date": "2024-05-24",
+    "time": "1634",
+    "text": "Officers responded to reports of stolen property located in this area. Officers located the suspect in possession of the property. They were arrested for theft-related charges."
+  },
+  {
+    "cmd": "East Command",
+    "id": "24-140393",
+    "code": "Shooting Investigation",
+    "location": "3000 Block of 5th Ave",
+    "date": "2024-05-25",
+    "time": "0245",
+    "text": "Officers responded to reports of gunfire in the area. Officers located evidence of a shooting and two damaged vehicles. No victims were located. A reported was generated. "
+  },
+  {
+    "cmd": "East Command",
+    "id": "24-142069",
+    "code": "Theft - Arrest",
+    "location": "6500 Block of 4th Avenue",
+    "date": "2024-05-26",
+    "time": "2031",
+    "text": "Officers responded to a reported theft. While conducting their investigation, the suspect attempted to flee on foot. The suspect was quickly detained and arrested for theft-related charges."
   }
 ]
