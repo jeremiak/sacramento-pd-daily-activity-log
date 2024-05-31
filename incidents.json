@@ -13300,5 +13300,23 @@
     "date": "2024-05-26",
     "time": "2031",
     "text": "Officers responded to a reported theft. While conducting their investigation, the suspect attempted to flee on foot. The suspect was quickly detained and arrested for theft-related charges."
+  },
+  {
+    "cmd": "South Command",
+    "id": "24-143210",
+    "code": "Shooting Investigation",
+    "location": "1000 Block of Ferran Ave",
+    "date": "2024-05-28",
+    "time": "0101",
+    "text": "Officers responded to reports of gunshots in the area. During the investigation, officers located evidence of a shooting. No victims or damage were located. A report was generated."
+  },
+  {
+    "cmd": "South Command",
+    "id": "24-144101",
+    "code": "Shooting Investigation",
+    "location": "800 Block of Revere Street",
+    "date": "2024-05-28",
+    "time": "2036",
+    "text": "Officers responded to reports of gunshots in the area. Upon arrival, officers located evidence of a shooting. No victims or damage were located. A report was generated."
   }
 ]
