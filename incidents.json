@@ -13318,5 +13318,23 @@
     "date": "2024-05-28",
     "time": "2036",
     "text": "Officers responded to reports of gunshots in the area. Upon arrival, officers located evidence of a shooting. No victims or damage were located. A report was generated."
+  },
+  {
+    "cmd": "Central Command",
+    "id": "24-144726",
+    "code": "Stolen Vehicle - Arrest",
+    "location": "16TH ST / V ST",
+    "date": "2024-05-29",
+    "time": "1343",
+    "text": "Officers located a stolen vehicle. An enforcement stop was conducted. The driver was detained and later booked for related charges."
+  },
+  {
+    "cmd": "North Command",
+    "id": "24-145035",
+    "code": "Stolen Vehicle - Arrest",
+    "location": "ARDEN WAY / HERITAGE LN",
+    "date": "2024-05-29",
+    "time": "1849",
+    "text": "Officers located a stolen vehicle. An enforcement stop was conducted. The driver was detained and later booked for related charges."
   }
 ]
