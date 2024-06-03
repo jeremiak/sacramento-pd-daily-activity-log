@@ -13336,5 +13336,32 @@
     "date": "2024-05-29",
     "time": "1849",
     "text": "Officers located a stolen vehicle. An enforcement stop was conducted. The driver was detained and later booked for related charges."
+  },
+  {
+    "cmd": "East Command",
+    "id": "24-145708",
+    "code": "Stolen Vehicle - Arrest",
+    "location": "ELDER CREEK RD / FLORIN PERKINS RD",
+    "date": "2024-05-30",
+    "time": "1204",
+    "text": "Officers located a stolen vehicle in the area and conducted an enforcement stop. The driver was arrested and booked on related charges."
+  },
+  {
+    "cmd": "South Command",
+    "id": "24-145785",
+    "code": "Theft - Arrest",
+    "location": "7000 Block of Freeport Boulevard",
+    "date": "2024-05-30",
+    "time": "1333",
+    "text": "Officers responded to a reported a theft. Officers located the suspect and the stolen property. The suspect was arrested and booked on related charges."
+  },
+  {
+    "cmd": "East Command",
+    "id": "24-147331",
+    "code": "Stolen Vehicle - Arrest",
+    "location": "FOLSOM BLVD / NOTRE DAME DR",
+    "date": "2024-05-31",
+    "time": "2253",
+    "text": "Officers located a stolen vehicle and conducted an enforcement stop. The driver was arrested and booked for related charges."
   }
 ]
