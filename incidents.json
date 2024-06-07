@@ -13390,5 +13390,23 @@
     "date": "2024-06-03",
     "time": "1746",
     "text": "Officers attempted to stop a reckless driver. The driver failed to yield to officers and a pursuit ensued. The suspect eventually pulled over and was detained. After further investigation, it was determined that this vehicle was recently involved in an injury hit-and-run. The suspect was arrested for related charges. "
+  },
+  {
+    "cmd": "East Command",
+    "id": "24-150438",
+    "code": "Traffic St/Firearm - Arrest",
+    "location": "7800 Block of 37th Ave",
+    "date": "2024-06-04",
+    "time": "0019",
+    "text": "Officers conducted an enforcement stop on a vehicle. Officers determined the occupants were on probation and during the investigation, officers located two illegally possessed firearms. Both occupants were arrested for related charges."
+  },
+  {
+    "cmd": "North Command",
+    "id": "24-151509",
+    "code": "Traffic Stop - Firearm Arrest",
+    "location": "Balsam St / Bell Ave",
+    "date": "2024-06-04",
+    "time": "2245",
+    "text": "Officers conducted a vehicle stop on a motorcycle for a vehicle code violation. During the investigation, officers located an illegally possessed firearm. The suspect was arrested for related charges."
   }
 ]
