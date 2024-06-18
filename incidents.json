@@ -13543,5 +13543,41 @@
     "date": "2024-06-14",
     "time": "1347",
     "text": "Officers responded to a carjacking by force and quickly located the suspect in the victim’s vehicle. The vehicle was stopped and the suspect was detained and arrested for related charges. "
+  },
+  {
+    "cmd": "North Command",
+    "id": "24-162195",
+    "code": "DUI - Arrest",
+    "location": "W. El Camino Ave / Truxel Rd",
+    "date": "2024-06-15",
+    "time": "0052",
+    "text": "An officers was stopped at a red light when they were rear-ended by another vehicle. The suspect was found to be driving under the influence. The officer sustained minor injuries and the suspect was arrested for related charges. "
+  },
+  {
+    "cmd": "East Command",
+    "id": "24-162708",
+    "code": "Homicide - Investigation",
+    "location": "Bradford Dr / Marin Ave",
+    "date": "2024-06-15",
+    "time": "1447",
+    "text": "See News Release: Homicide Investigation - 7700 Block of Marin Ave"
+  },
+  {
+    "cmd": "Central Command",
+    "id": "24-162745",
+    "code": "Robbery - Arrest",
+    "location": "6th St / L St",
+    "date": "2024-06-15",
+    "time": "1543",
+    "text": "Officers were hailed regarding a robbery by knifepoint that just occurred. Officers located the suspect nearby and safely detained her. The suspect was arrested for related charges. "
+  },
+  {
+    "cmd": "East Command",
+    "id": "24-162766",
+    "code": "Burglary - Arrest",
+    "location": "3500 Block of D Streeet",
+    "date": "2024-06-15",
+    "time": "1606",
+    "text": "Officers responded to a burglary in progress. Officers arrived on scene and safely detained the suspect. The suspect was booked at the Sacramento County Main Jail on burglary-related charges."
   }
 ]
