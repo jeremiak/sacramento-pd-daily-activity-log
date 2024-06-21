@@ -13615,5 +13615,23 @@
     "date": "2024-06-17",
     "time": "1950",
     "text": "With the assistance of our Air Unit, officers located an occupied stolen vehicle. The driver was detained and arrested for related charges."
+  },
+  {
+    "cmd": "South Command",
+    "id": "24-165561",
+    "code": "Collision - Investigation",
+    "location": "Greenhaven Dr / Katz Ave",
+    "date": "2024-06-18",
+    "time": "1408",
+    "text": "Officers responded to reports of a vehicle into a building collision. There were no reported injuries and the fire department deemed the house safe. A report was written."
+  },
+  {
+    "cmd": "South Command",
+    "id": "24-165912",
+    "code": "Stolen Vehicle - Arrest",
+    "location": "Meadowgate Dr / Franklin Blvd",
+    "date": "2024-06-18",
+    "time": "2047",
+    "text": "Officers located an occupied stolen vehicle. The suspect was detained and arrested for related charges. "
   }
 ]
