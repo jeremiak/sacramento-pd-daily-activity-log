@@ -13633,5 +13633,23 @@
     "date": "2024-06-18",
     "time": "2047",
     "text": "Officers located an occupied stolen vehicle. The suspect was detained and arrested for related charges. "
+  },
+  {
+    "cmd": "East Command",
+    "id": "24-166084",
+    "code": "Shooting - Investigation",
+    "location": "3800 Block of 6th Ave",
+    "date": "2024-06-19",
+    "time": "0126",
+    "text": "Officers responded to reports of a shooting. Responding officers located evidence of a shooting. No injuries were reported. Officers conducted an investigation and a report was generated."
+  },
+  {
+    "cmd": "North Command",
+    "id": "24-166328",
+    "code": "Warrant - Arrest",
+    "location": "4400 Block of Dayton St",
+    "date": "2024-06-19",
+    "time": "0912",
+    "text": "Officers responded to reports of a person who brandished a knife. Responding officers utilized their crisis negotiation skills to safely detain the suspect. The victim did not want to press charges, however the suspect had active felony warrants and was arrested."
   }
 ]
