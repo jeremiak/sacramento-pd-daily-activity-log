@@ -13651,5 +13651,23 @@
     "date": "2024-06-19",
     "time": "0912",
     "text": "Officers responded to reports of a person who brandished a knife. Responding officers utilized their crisis negotiation skills to safely detain the suspect. The victim did not want to press charges, however the suspect had active felony warrants and was arrested."
+  },
+  {
+    "cmd": "North Command",
+    "id": "24-167528",
+    "code": "Shooting - Investigation",
+    "location": "2700 Block of Forrest Street",
+    "date": "2024-06-20",
+    "time": "1253",
+    "text": "Officers responded to reports of a shooting. No injuries were reported. Responding officers located evidence of a shooting. An investigation was completed and a report was generated."
+  },
+  {
+    "cmd": "East Command",
+    "id": "24-168749",
+    "code": "Homicide - Investigation",
+    "location": "8100 Block of Cucamonga Avenue",
+    "date": "2024-06-21",
+    "time": "1710",
+    "text": "Please see news release: Homicide Investigation - 8100 Block of Cucamonga Avenue"
   }
 ]
