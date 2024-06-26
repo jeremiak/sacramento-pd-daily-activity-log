@@ -13687,5 +13687,41 @@
     "date": "2024-06-22",
     "time": "1644",
     "text": "Officers located an occupied stolen vehicle. The driver was detained and arrested for related charges."
+  },
+  {
+    "cmd": "North Command",
+    "id": "24-170127",
+    "code": "Shooting - Investigation",
+    "location": "1300 Block of North Ave",
+    "date": "2024-06-23",
+    "time": "0003",
+    "text": "Officers responded to reports of a shooting. Responding officers located evidence of a shooting. No injuries were reported. An investigation was complete and a report was generated."
+  },
+  {
+    "cmd": "South Command",
+    "id": "24-170273",
+    "code": "Pursuit - Arrest",
+    "location": "24th St / Florin Rd",
+    "date": "2024-06-23",
+    "time": "0314",
+    "text": "Officers attempted to stop a Hyundai for a traffic violation. The vehicle fled and a pursuit ensued. The vehicle eventually pulled into an apartment complex and four occupants fled from the vehicle. All four were detained, who were between the ages of 13 and 15 years old. The driver was arrested for related charges. "
+  },
+  {
+    "cmd": "South Command",
+    "id": "24-170513",
+    "code": "Homicide - Investigation",
+    "location": "2700 Block of 5th St",
+    "date": "2024-06-23",
+    "time": "1150",
+    "text": "Please see News Release: Homicide Investigation - 2700 Block of 5th Street"
+  },
+  {
+    "cmd": "North Command",
+    "id": "24-170603",
+    "code": "Homicide - Investigation",
+    "location": "400 Block of Arden Way",
+    "date": "2024-06-23",
+    "time": "1403",
+    "text": "Please see News Release: Homicide Investigation - 400 Block of Arden Way"
   }
 ]
