@@ -13732,5 +13732,23 @@
     "date": "2024-06-24",
     "time": "1906",
     "text": "Officers received reports of a male brandishing a firearm near a business. Our Air Unit arrived on scene and located a suspect matching the description near a vehicle. Ground officers arrived on scene and safely detained the suspect. An illegally possessed firearm was located during the investigation and the suspect was arrested for related charges."
+  },
+  {
+    "cmd": "South Command",
+    "id": "24-172127",
+    "code": "Shooting - Investigation",
+    "location": "2600 Block of Kit Carson St",
+    "date": "2024-06-25",
+    "time": "0248",
+    "text": "Officers responded to reports of a shooting. Responding officers located a victim with a non-life-threatening gunshot wound. Crime Scene Investigators responded, an investigation was conducted, and a report was generated. "
+  },
+  {
+    "cmd": "South Command",
+    "id": "24-173004",
+    "code": "Shooting - Investigation",
+    "location": "6900 Block of 27th St",
+    "date": "2024-06-25",
+    "time": "2039",
+    "text": "Officers responded to reports of a shooting. Responding officers located evidence of a shooting. No injuries were reported. An investigation was conducted a report was generated. "
   }
 ]
