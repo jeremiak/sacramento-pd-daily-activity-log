@@ -13750,5 +13750,23 @@
     "date": "2024-06-25",
     "time": "2039",
     "text": "Officers responded to reports of a shooting. Responding officers located evidence of a shooting. No injuries were reported. An investigation was conducted a report was generated. "
+  },
+  {
+    "cmd": "South Command",
+    "id": "24-173407",
+    "code": "Operation - Homicide Suspects Arrested",
+    "location": "Fruitridge Rd / 28th St",
+    "date": "2024-06-26",
+    "time": "0933",
+    "text": "Officers located and arrested two suspects related to a homicide that occurred in the 400 Block of Arden Way."
+  },
+  {
+    "cmd": "North Command",
+    "id": "24-173468",
+    "code": "Shooting - Investigation",
+    "location": "3500 Block of Taylor St",
+    "date": "2024-06-26",
+    "time": "1041",
+    "text": "Officers responded to reports of a shooting. A victim self-transported to an area hospital with a non-life-threatening gunshot wound. Officers located a scene. An investigation was conducted and a report was generated."
   }
 ]
