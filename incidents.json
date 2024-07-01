@@ -13777,5 +13777,23 @@
     "date": "2024-06-27",
     "time": "1701",
     "text": "Officers located an occupied stolen vehicle. During the investigation, officers located an illegally possessed firearm, as well as narcotics. The driver was detained and arrested for related charges. "
+  },
+  {
+    "cmd": "South Command",
+    "id": "24-175903",
+    "code": "DUI/Collision - Arrest",
+    "location": "6600 Block of Valley Hi Dr",
+    "date": "2024-06-28",
+    "time": "1540",
+    "text": "Officers responded to reports of a vehicle that sideswiped a building. The building was determined to be structurally sound. The driver remained on scene and was found to be DUI. The driver was arrested."
+  },
+  {
+    "cmd": "North Command",
+    "id": "24-176032",
+    "code": "Stolen Vehicle -Arrest",
+    "location": "500 Block of Lampasas Ave",
+    "date": "2024-06-28",
+    "time": "1803",
+    "text": "With the assistance of the Sheriff’s Office helicopter, our units located an occupied stolen vehicle. The driver was arrested for related charges."
   }
 ]
