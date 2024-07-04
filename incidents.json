@@ -13831,5 +13831,32 @@
     "date": "2024-06-30",
     "time": "2113",
     "text": "Officers responded to reports of a two-vehicle collision with one striking a building. The building was deemed structurally sound. One of the driver’s displayed objective signs of intoxication and was arrested for DUI."
+  },
+  {
+    "cmd": "South Command",
+    "id": "24-178652",
+    "code": "Shooting - Investigation",
+    "location": "Kit Carson St / Revere St",
+    "date": "2024-07-01",
+    "time": "0942",
+    "text": "Officers responded to reports of a shooting. Responding officers located evidence of a shooting. No injuries were reported. Officers conducted an investigation and a report was generated."
+  },
+  {
+    "cmd": "North Command",
+    "id": "24-179048",
+    "code": "Stolen Vehicle - Arrest",
+    "location": "El Camino Ave / Grove Ave",
+    "date": "2024-07-01",
+    "time": "1541",
+    "text": "With the assistance of the Sacramento Sheriff’s Office helicopter, our officers located an occupied stolen vehicle. The driver was detained and arrested. "
+  },
+  {
+    "cmd": "North Command",
+    "id": "24-179065",
+    "code": "Shooting - Investigation",
+    "location": "4800 Block of Kokomo Dr",
+    "date": "2024-07-01",
+    "time": "1557",
+    "text": "Officers responded to reports of a shooting. Responding officers located evidence of a shooting. No injuries were reported. Officers conducted an investigation and a report was generated."
   }
 ]
