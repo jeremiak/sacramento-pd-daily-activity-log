@@ -13858,5 +13858,32 @@
     "date": "2024-07-01",
     "time": "1557",
     "text": "Officers responded to reports of a shooting. Responding officers located evidence of a shooting. No injuries were reported. Officers conducted an investigation and a report was generated."
+  },
+  {
+    "cmd": "South Command",
+    "id": "24-179544",
+    "code": "Reckless Driving - Firearm Arrest",
+    "location": "Deer Meadow Dr / Black Tail Dr",
+    "date": "2024-07-02",
+    "time": "0250",
+    "text": "Officers observed a vehicle driving recklessly. The officers conducted a stop and during the investigation, officers located an illegally possessed firearm and several pieces of illegal commercial fireworks. The suspect was arrested for related charges."
+  },
+  {
+    "cmd": "South Command",
+    "id": "24-180464",
+    "code": "Traffic Accident - DUI Arrest",
+    "location": "24th/25th Street",
+    "date": "2024-07-02",
+    "time": "2101",
+    "text": "Officers responded to reports of a two-vehicle collision. One party was transported to an area hospital with significant injuries. The other party remained on scene and displayed objective signs of intoxication. She was arrested for felony DUI charges and detectives from our Major Collision Investigation Unit (MCIU) responded to take over the investigation. "
+  },
+  {
+    "cmd": "East Command",
+    "id": "24-180495",
+    "code": "Carjacking",
+    "location": "Alpine Ave",
+    "date": "2024-07-02",
+    "time": "2132",
+    "text": "Officers responded to reports of a carjacking. The vehicle was located abandoned. The case has been forwarded to our detectives. "
   }
 ]
