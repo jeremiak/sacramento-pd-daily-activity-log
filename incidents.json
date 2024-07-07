@@ -13894,5 +13894,23 @@
     "date": "2024-07-03",
     "time": "0703",
     "text": "Officers located an occupied stolen vehicle. The driver was detained and arrested for related charges."
+  },
+  {
+    "cmd": "North Command",
+    "id": "24-181896",
+    "code": "Collision - DUI Arrest",
+    "location": "Auburn Blvd / Watt Ave",
+    "date": "2024-07-04",
+    "time": "0338",
+    "text": "Officers responded to reports of a vehicle vs. pedestrian collision. The pedestrian was transported to an area hospital with significant injuries. The driver was evaluated for DUI and later arrested on felony DUI charges."
+  },
+  {
+    "cmd": "North Command",
+    "id": "24-182242",
+    "code": "Stolen Vehicle - Arrest",
+    "location": "W. El Camino Ave / E. Levee Rd",
+    "date": "2024-07-04",
+    "time": "1325",
+    "text": "Officers located an occupied stolen vehicle. The driver was detained and arrested for related charges. "
   }
 ]
