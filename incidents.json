@@ -13939,5 +13939,32 @@
     "date": "2024-07-05",
     "time": "1933",
     "text": "Officers conducted a traffic stop for a vehicle code violation. During the investigation, officers located an illegally possessed firearm. The suspect was arrested for related charges."
+  },
+  {
+    "cmd": "East Command",
+    "id": "24-185553",
+    "code": "Shooting - Investigation",
+    "location": "4000 Block of Martin Luther King Jr. Blvd",
+    "date": "2024-07-07",
+    "time": "1522",
+    "text": "Officers responded to reports of a shooting. Responding officers located evidence of a shooting. No injuries were reported at the time of the incident. A report was generated."
+  },
+  {
+    "cmd": "South Command",
+    "id": "24-185689",
+    "code": "Shooting - Arrest",
+    "location": "7800 Block of Center Pkwy",
+    "date": "2024-07-07",
+    "time": "1828",
+    "text": "Officers responded to reports of a shooting. Eventually, responding officers were able to locate evidence of a shooting. No injuries were reported. One of the suspects, a juvenile, was arrested. "
+  },
+  {
+    "cmd": "South Command",
+    "id": "24-185925",
+    "code": "Shooting - Investigation",
+    "location": "7500 Block of Wainscott Wy",
+    "date": "2024-07-07",
+    "time": "2335",
+    "text": "Officers responded to reports of a shooting. Responding officers located evidence of a shooting. No injuries were reported. A report was generated. "
   }
 ]
