@@ -13966,5 +13966,41 @@
     "date": "2024-07-07",
     "time": "2335",
     "text": "Officers responded to reports of a shooting. Responding officers located evidence of a shooting. No injuries were reported. A report was generated. "
+  },
+  {
+    "cmd": "East Command",
+    "id": "24-185967",
+    "code": "Shooting - Investigation",
+    "location": "5200 Block of Martin Luther King Jr. Blvd",
+    "date": "2024-07-08",
+    "time": "0006",
+    "text": "Officers responded to reports of a shooting. Responding officers located evidence of a shooting. No injuries were reported. A report was generated."
+  },
+  {
+    "cmd": "North Command",
+    "id": "24-186306",
+    "code": "Homicide - Investigation",
+    "location": "3100 Block of Northstead Dr",
+    "date": "2024-07-08",
+    "time": "0956",
+    "text": "Please see news release: Homicide Investigation - 3100 Block of Northstead Drive"
+  },
+  {
+    "cmd": "Central Command",
+    "id": "24-186488",
+    "code": "Traffic Stop - Firearm Arrest",
+    "location": "17th St / J St",
+    "date": "2024-07-08",
+    "time": "1311",
+    "text": "Officers contacted a male inside of a vehicle. During the investigation, officers located an illegally possessed firearm on the suspect. He was arrested for related charges."
+  },
+  {
+    "cmd": "South Command",
+    "id": "24-186920",
+    "code": "Shooting - Investigation",
+    "location": "400 Block of Shining Star Dr",
+    "date": "2024-07-08",
+    "time": "2037",
+    "text": "Officers responded to reports of a shooting. Responding officers located evidence of a shooting. No injuries were reported. A report was generated."
   }
 ]
