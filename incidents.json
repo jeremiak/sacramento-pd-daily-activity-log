@@ -14047,5 +14047,23 @@
     "date": "2024-07-13",
     "time": "1836",
     "text": "Officers responded to reports of a robbery of a person by force. The suspect was detained by responding officers and ultimately arrested for related charges. "
+  },
+  {
+    "cmd": "North Command",
+    "id": "24-192329",
+    "code": "Homicide - Investigation",
+    "location": "3900 Block of High Street",
+    "date": "2024-07-14",
+    "time": "0403",
+    "text": "Please See News Release: Homicide Investigation - 3900 Block of High Street"
+  },
+  {
+    "cmd": "Central Command",
+    "id": "24-193003",
+    "code": "Firearm - Arrest",
+    "location": "400 Block of K St",
+    "date": "2024-07-14",
+    "time": "2153",
+    "text": "Officers responded to reports of a juvenile who brandished a firearm. When officers attempted to detain the suspect, he ran from officers on foot, but was detained. Officers located an illegally possessed firearm. The suspect was arrested. "
   }
 ]
