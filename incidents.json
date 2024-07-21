@@ -14092,5 +14092,32 @@
     "date": "2024-07-17",
     "time": "1903",
     "text": "A motor officer conducted a traffic stop for a vehicle code violation. The driver initially pulled over, but then took off, leading officers on a pursuit. The suspect was ultimately taken into custody after he crashed into a parked car. A records check showed that he had a felony warrant out of state."
+  },
+  {
+    "cmd": "Central Command",
+    "id": "24-196892",
+    "code": "Stolen Vehicle - Arrest",
+    "location": "16th St / J St",
+    "date": "2024-07-18",
+    "time": "1745",
+    "text": "Officers located a stolen vehicle and observed a subject walking away from the vehicle. The subject was detained and after an investigation, was arrested for stolen vehicle charges."
+  },
+  {
+    "cmd": "North Command",
+    "id": "24-196926",
+    "code": "Stolen Vehicle - Arrest",
+    "location": "Truxel Rd / W. El Camino Ave",
+    "date": "2024-07-18",
+    "time": "1818",
+    "text": "Officers located an occupied stolen vehicle. The driver was detained and arrested for related charges. "
+  },
+  {
+    "cmd": "North Command",
+    "id": "24-196966",
+    "code": "Stolen Vehicle - Arrest",
+    "location": "Northgate Blvd / Rio Tierra Ave",
+    "date": "2024-07-18",
+    "time": "1903",
+    "text": "Officers located an occupied stolen vehicle. The driver was detained and arrested for related charges. "
   }
 ]
