@@ -14128,5 +14128,32 @@
     "date": "2024-07-19",
     "time": "1959",
     "text": "Officers responded to reports of a shooting. Responding officers located a male adult with at least one gunshot wound. He was transported to an area hospital and was listed in stable condition. Officers conducted an investigation and a report was generated. "
+  },
+  {
+    "cmd": "Central Command",
+    "id": "24-198287",
+    "code": "Homicide - Investigation",
+    "location": "20th St / O St",
+    "date": "2024-07-20",
+    "time": "0112",
+    "text": "See News Release: Homicide Investigation - 20th Street and O Street"
+  },
+  {
+    "cmd": "Central Command",
+    "id": "24-198649",
+    "code": "Burglary - Arrest",
+    "location": "500 Block of Richards Blvd",
+    "date": "2024-07-20",
+    "time": "1216",
+    "text": "Officers responded to reports of a burglary. It was reported that the suspect armed himself with a metal pole and barricaded himself inside of a semi-truck. Officers and Crisis Negotiators responded and attempted to get the suspect to surrender peacefully. The suspect refused to exit the truck and pepperball rounds were eventually introduced into the truck. The suspect still refused to exit. Officers eventually were able to safely detain the suspect, who was arrested for related charges. "
+  },
+  {
+    "cmd": "North Command",
+    "id": "24-199184",
+    "code": "Pursuit - Arrest",
+    "location": "Norwood Ave / Lampasas Ave",
+    "date": "2024-07-20",
+    "time": "2325",
+    "text": "Officers attempted to stop a motorcycle for a vehicle code violation. The suspect failed to yield to officers and a pursuit ensued. Our Air Unit arrived on scene to assist and was instrumental in directing ground units to the suspect, who got off the motorcycle and attempted to hide. The motorcycle was found to be stolen. The suspect was arrested for related charges."
   }
 ]
