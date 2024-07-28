@@ -14209,5 +14209,23 @@
     "date": "2024-07-24",
     "time": "2312",
     "text": "Officers responded to reports of a shooting. Responding officers located one male adult with at-least one non-life-threatening gunshot wound. The victim was transported to an area hospital for treatment. Officers conducted an investigation and a report was generated."
+  },
+  {
+    "cmd": "South Command",
+    "id": "24-203320",
+    "code": "Shooting - Investigation",
+    "location": "7400 Block of Loma Verde Wy",
+    "date": "2024-07-25",
+    "time": "0319",
+    "text": "Officers responded to sounds of shots fired. Responding officers located evidence of a shooting. No injuries were reported. A report was taken."
+  },
+  {
+    "cmd": "North Command",
+    "id": "24-204224",
+    "code": "Reckless Driving - Pursuit/DUI Arrest",
+    "location": "Norwood Ave / Fairbanks Ave",
+    "date": "2024-07-25",
+    "time": "2348",
+    "text": "Officers attempted to stop a reckless driver. The driver failed to field and a short pursuit ensued. The driver eventually pulled over and displayed objective signs of intoxication. The driver was arrested for related charges."
   }
 ]
