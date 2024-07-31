@@ -14254,5 +14254,23 @@
     "date": "2024-07-27",
     "time": "1908",
     "text": "Officers located an occupied stolen vehicle and attempted to stop the vehicle. The driver failed to yield and a pursuit ensued. The suspect vehicle became disabled and the driver was arrested for related charges."
+  },
+  {
+    "cmd": "South Command",
+    "id": "24-206731",
+    "code": "Stolen Vehicle/Pursuit - Arrest",
+    "location": "Florin Rd / Franklin Blvd",
+    "date": "2024-07-28",
+    "time": "1703",
+    "text": "Officers located an occupied stolen vehicle. The suspect fled from officers before they attempted to stop it and a pursuit ensued until the suspect travelled down a road that came to a dead-end. Both the driver and passenger were safely detained and found to be juveniles. The driver was arrested for stolen vehicle/pursuit charges and the passenger was arrested for an outstanding warrant."
+  },
+  {
+    "cmd": "East Command",
+    "id": "24-206847",
+    "code": "Traffic Stop - Firearm Arrest",
+    "location": "5300 Block of Fruitridge Rd",
+    "date": "2024-07-28",
+    "time": "1907",
+    "text": "Officers conducted a stop of a vehicle code violation. During the investigation, officers located an illegally possessed loaded handgun. The driver was arrested for related charges."
   }
 ]
