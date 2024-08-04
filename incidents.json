@@ -14290,5 +14290,23 @@
     "date": "2024-07-30",
     "time": "0233",
     "text": "Officers located an occupied stolen vehicle. As the officer was preparing to enforce a stop on the vehicle, the suspect ran from the vehicle. Officers caught the suspect and he was safely taken into custody. The suspect was arrested for related charges."
+  },
+  {
+    "cmd": "Central Command",
+    "id": "24-210197",
+    "code": "Stolen Vehicle - Arrest",
+    "location": "1600 Block of Dreher St",
+    "date": "2024-08-01",
+    "time": "0235",
+    "text": "Officers located an illegally possessed stolen vehicle. The driver was detained and arrested for related charges. "
+  },
+  {
+    "cmd": "South Command",
+    "id": "24-210240",
+    "code": "Shooting - Arrest",
+    "location": "1800 Block of 60th Ave",
+    "date": "2024-08-01",
+    "time": "0600",
+    "text": "Officers responded to reports of a shooting. Responding officers located one victim with a non-life-threatening gunshot wound. The victim was transported to an area hospital for treatment. During the investigation, officers located the suspect, who was arrested for related charges."
   }
 ]
