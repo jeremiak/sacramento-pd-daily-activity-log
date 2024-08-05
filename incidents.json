@@ -14308,5 +14308,41 @@
     "date": "2024-08-01",
     "time": "0600",
     "text": "Officers responded to reports of a shooting. Responding officers located one victim with a non-life-threatening gunshot wound. The victim was transported to an area hospital for treatment. During the investigation, officers located the suspect, who was arrested for related charges."
+  },
+  {
+    "cmd": "South Command",
+    "id": "24-211201",
+    "code": "Carjacking - Arrest",
+    "location": "6100 Block of Freeport Blvd",
+    "date": "2024-08-02",
+    "time": "0021",
+    "text": "Officers responded to reports of a carjacking at knifepoint. Responding officers located the vehicle across the street and detained the suspect. Officers conducted an investigation and the suspect was arrested for related charges."
+  },
+  {
+    "cmd": "South Command",
+    "id": "24-211299",
+    "code": "Shooting - Investigation",
+    "location": "6900 Block of 27th St",
+    "date": "2024-08-02",
+    "time": "0426",
+    "text": "Officers responded to reports of a shooting. Responding officers located evidence of a shooting. No injuries were reported. Officers conducted an investigation and a report was generated."
+  },
+  {
+    "cmd": "North Command",
+    "id": "24-211911",
+    "code": "Homicide - Investigation",
+    "location": "2500 Block of Altos Ave",
+    "date": "2024-08-02",
+    "time": "1745",
+    "text": "See News Release: Homicide Investigation - 2500 Block of Altos Avenue"
+  },
+  {
+    "cmd": "Central Command",
+    "id": "24-212185",
+    "code": "Stolen Vehicle - Arrest",
+    "location": "16th St / J St",
+    "date": "2024-08-02",
+    "time": "2340",
+    "text": "Officers located an occupied stolen vehicle. The driver was detained and arrested for related charges."
   }
 ]
