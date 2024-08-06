@@ -14344,5 +14344,23 @@
     "date": "2024-08-02",
     "time": "2340",
     "text": "Officers located an occupied stolen vehicle. The driver was detained and arrested for related charges."
+  },
+  {
+    "cmd": "North Command",
+    "id": "24-212452",
+    "code": "Firearm - Arrest",
+    "location": "1800 Block of Grand Ave",
+    "date": "2024-08-03",
+    "time": "0905",
+    "text": "Officers responded to reports of a male attempting to enter a vacant residence. Responding officers detained the individual and found him to be on Post Release Community Supervision (PRCS). During the investigation, officers located an illegally possessed handgun. The suspect was arrested for related charges."
+  },
+  {
+    "cmd": "North Command",
+    "id": "24-212691",
+    "code": "Stolen Vehicle - Arrest",
+    "location": "3900 Block of E. Commerce Wy",
+    "date": "2024-08-03",
+    "time": "1349",
+    "text": "Officers located an occupied stolen vehicle. The driver was detained and arrested."
   }
 ]
