@@ -14389,5 +14389,23 @@
     "date": "2024-08-06",
     "time": "1106",
     "text": "Officers observed an individual ingesting narcotics and conducted an enforcement stop. The individual was arrested for possession of narcotics and narcotic paraphernalia. "
+  },
+  {
+    "cmd": "North Command",
+    "id": "24-217818",
+    "code": "Stolen Vehicle - Arrest",
+    "location": "Dixieanne Ave / Empress St",
+    "date": "2024-08-08",
+    "time": "1532",
+    "text": "Officers conducted a vehicle stop and learned that the vehicle was stolen. The driver was detained and arrested for related charges."
+  },
+  {
+    "cmd": "North Command",
+    "id": "24-217862",
+    "code": "Burglary - Arrest",
+    "location": "70 Block of Redwood Ave",
+    "date": "2024-08-08",
+    "time": "1613",
+    "text": "Officers responded to reports of a burglary. The suspect fled from responding officers but was quickly detained. After an investigation, the suspect was arrested for related charges."
   }
 ]
