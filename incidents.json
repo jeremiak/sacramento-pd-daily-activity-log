@@ -14407,5 +14407,32 @@
     "date": "2024-08-08",
     "time": "1613",
     "text": "Officers responded to reports of a burglary. The suspect fled from responding officers but was quickly detained. After an investigation, the suspect was arrested for related charges."
+  },
+  {
+    "cmd": "North Command",
+    "id": "24-218323",
+    "code": "Stolen Vehicle - Arrest",
+    "location": "Auburn Blvd / Glenrose Ave",
+    "date": "2024-08-09",
+    "time": "0327",
+    "text": "Officers located an occupied stolen vehicle. The driver was detained and arrested for related charges."
+  },
+  {
+    "cmd": "South Command",
+    "id": "24-218896",
+    "code": "Traffic Stop - Firearm Arrest",
+    "location": "14th St / Burnett Way",
+    "date": "2024-08-09",
+    "time": "1636",
+    "text": "Officers conducted a traffic stop. Two juveniles on probation were inside of the vehicle. During the investigation, officers located an illegally possessed firearm. Suspect was arrested for related charges."
+  },
+  {
+    "cmd": "North Command",
+    "id": "24-219032",
+    "code": "Stolen Vehicle - Arrest",
+    "location": "W. El Camino Ave / Dockside St",
+    "date": "2024-08-09",
+    "time": "1908",
+    "text": "Officers located an occupied stolen vehicle. The driver was detained and arrested for related charges."
   }
 ]
