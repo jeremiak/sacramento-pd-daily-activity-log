@@ -14434,5 +14434,23 @@
     "date": "2024-08-09",
     "time": "1908",
     "text": "Officers located an occupied stolen vehicle. The driver was detained and arrested for related charges."
+  },
+  {
+    "cmd": "Central Command",
+    "id": "24-219680",
+    "code": "Stolen Vehicle - Arrest",
+    "location": "11th St / L St",
+    "date": "2024-08-10",
+    "time": "1328",
+    "text": "A Community Service Officer observed a subject walk away from a stolen vehicle. The CSO maintained a visual on the subject and relayed that information to patrol officers. Responding officers detained and arrested the suspect for related charges."
+  },
+  {
+    "cmd": "East Command",
+    "id": "24-220092",
+    "code": "Shooting - Investigation",
+    "location": "3200 Block of 9th Ave",
+    "date": "2024-08-10",
+    "time": "2216",
+    "text": "Officers responded to reports of a shooting. Responding officers located evidence of a shooting. No injuries were reported. A report was taken."
   }
 ]
