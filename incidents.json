@@ -14452,5 +14452,41 @@
     "date": "2024-08-10",
     "time": "2216",
     "text": "Officers responded to reports of a shooting. Responding officers located evidence of a shooting. No injuries were reported. A report was taken."
+  },
+  {
+    "cmd": "North Command",
+    "id": "24-221218",
+    "code": "Stolen Vehicle - Arrest",
+    "location": "NORTHGATE BLVD / ROSIN CT",
+    "date": "2024-08-12",
+    "time": "0236",
+    "text": "Officers observed a vehicle driving recklessly in the area and attempted to conduct an enforcement stop. The driver failed to yield, and a pursuit ensued. The vehicle eventually stopped, and the occupants fled on foot. The driver, a juvenile male, was detained along with the passenger. During the investigation, it was determined that the vehicle was an unreported stolen vehicle. The juvenile was arrested and booked on pursuit and stolen vehicle-related charges."
+  },
+  {
+    "cmd": "East Command",
+    "id": "24-221352",
+    "code": "Stolen Vehicle - Arrest",
+    "location": "65th St / 21st Ave",
+    "date": "2024-08-12",
+    "time": "0813",
+    "text": "Officers located an occupied stolen vehicle. The driver was detained and arrested for related charges, as well as outstanding felony warrants."
+  },
+  {
+    "cmd": "East Command",
+    "id": "24-221856",
+    "code": "Homicide - Investigation & Arrest",
+    "location": "7800 Block of La Riviera Dr",
+    "date": "2024-08-12",
+    "time": "1712",
+    "text": "See News Release: Homicide Investigation & Arrest - 7800 Block of La Riviera Drive"
+  },
+  {
+    "cmd": "South Command",
+    "id": "24-222134",
+    "code": "Shooting - Investigation",
+    "location": "600 Block of Warner St",
+    "date": "2024-08-12",
+    "time": "2318",
+    "text": "Officers responded to reports of a shooting. One victim was located with at least one non-life-threatening gunshot wound. A second victim was self-transported to an area hospital with at least one gunshot wound. Both are expected to survive. Officers conducted an investigation and a report was generated."
   }
 ]
