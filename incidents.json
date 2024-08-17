@@ -14497,5 +14497,41 @@
     "date": "2024-08-13",
     "time": "1652",
     "text": "Officers responded to reports of a stabbing. Responding officers located a victim with significant, but non-life threatening injuries. The victim was transported to an area hospital for treatment. Officers did not locate any suspects on scene. Officers conducted an investigation and a report was generated."
+  },
+  {
+    "cmd": "North Command",
+    "id": "24-223349",
+    "code": "Stolen Vehicle-Arrest",
+    "location": "Raley Blvd / Santa Ana Ave",
+    "date": "2024-08-14",
+    "time": "0728",
+    "text": "Officers located an occupied stolen vehicle. The driver was detained and arrested for related charges. "
+  },
+  {
+    "cmd": "North Command",
+    "id": "24-223735",
+    "code": "Collision-Investigation/Firearm Arrest",
+    "location": "Norwood Ave / Eleanor Ave",
+    "date": "2024-08-14",
+    "time": "1322",
+    "text": "Officers on-viewed a vehicle collision and conducted an investigation where a loaded pistol was recovered along with various types of drugs. The driver was arrested for related charges. "
+  },
+  {
+    "cmd": "Central Command",
+    "id": "24-223779",
+    "code": "Robbery-Arrest",
+    "location": "29th St / H St",
+    "date": "2024-08-14",
+    "time": "1354",
+    "text": "Officers responded to a local business for reports of a robbery. Officers located the suspect on scene of the business where they were subsequently arrested for the related charges and outstanding warrants.   "
+  },
+  {
+    "cmd": "Central Command",
+    "id": "24-224237",
+    "code": "Burglary-Arrest",
+    "location": "13th St / F St",
+    "date": "2024-08-14",
+    "time": "2156",
+    "text": "Officers responded to a burglary alarm where they located a suspect on scene. The suspect fled from responding officers but was quickly detained. After an investigation, the suspect was arrested for related charges. "
   }
 ]
