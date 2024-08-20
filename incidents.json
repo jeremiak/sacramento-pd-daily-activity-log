@@ -14551,5 +14551,32 @@
     "date": "2024-08-16",
     "time": "0200",
     "text": "Officers attempted to stop a subject on a bicycle. The subject fled, but was apprehended a short time later. The subject was detained and found to have active warrants. The subject was arrested for related charges. "
+  },
+  {
+    "cmd": "North Command",
+    "id": "24-226435",
+    "code": "Foot Pursuit - Arrest",
+    "location": "Auburn Blvd / Frienza Ave",
+    "date": "2024-08-17",
+    "time": "0054",
+    "text": "Officers attempted an enforcement stop on a subject riding a bicycle.  The subject fled and was detained after a short pursuit. The suspect was arrested for their warrants and related charges."
+  },
+  {
+    "cmd": "North Command",
+    "id": "24-226702",
+    "code": "Traffic Stop - Warrant Arrest",
+    "location": "Norwood Ave / Morrison Ave",
+    "date": "2024-08-17",
+    "time": "0948",
+    "text": "Officers conducted a traffic stop. A passenger of the vehicle was identified as having an outstanding felony warrant. They were taken into custody."
+  },
+  {
+    "cmd": "North Command",
+    "id": "24-227111",
+    "code": "Firearm - Arrest",
+    "location": "300 Block of Barrette Ave",
+    "date": "2024-08-17",
+    "time": "1831",
+    "text": "Officers responded to a report of a male adult subject outside with a firearm. After a short pursuit, officers detained the subject and located a loaded firearm. It was determined the subject pointed the firearm at another person. The subject was also in possession of drugs. The subject was arrested for related charges."
   }
 ]
