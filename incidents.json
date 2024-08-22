@@ -14587,5 +14587,23 @@
     "date": "2024-08-18",
     "time": "1007",
     "text": "Officers located a stolen vehicle and conducted an enforcement stop. The driver was arrested and later booked on stolen vehicle-related charges."
+  },
+  {
+    "cmd": "North Command",
+    "id": "24-228506",
+    "code": "Assault - Investigation",
+    "location": "DEL PASO BLVD / NORTHGATE BLVD",
+    "date": "2024-08-19",
+    "time": "0637",
+    "text": "Officers responded to a report of a stabbing victim along the bike trail. Officers and the fire department responded, and the victim was transported to an area hospital, where they are expected to survive. An investigation was conducted, and a report was generated. "
+  },
+  {
+    "cmd": "North Command",
+    "id": "24-229001",
+    "code": "Firearm - Arrest",
+    "location": "900 Block of North Ave",
+    "date": "2024-08-19",
+    "time": "1636",
+    "text": "Officers responded to a report of multiple individuals with firearms in the area. Officers coordinated with the Air Unit detained the suspects and located their firearms. The suspects were arrested for related charges    "
   }
 ]
