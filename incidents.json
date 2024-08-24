@@ -14614,5 +14614,32 @@
     "date": "2024-08-20",
     "time": "1044",
     "text": "Officers were assisting the Department of Utilities with violations of critical infrastructure. While on scene, officers detained a subject who was found to have a firearm on their person. The suspect was arrested for related charges."
+  },
+  {
+    "cmd": "North Command",
+    "id": "24-230935",
+    "code": "Investigation - Firearms Arrest",
+    "location": "5000 Block Highport Drive",
+    "date": "2024-08-21",
+    "time": "1252",
+    "text": "Officers conducted a criminal investigation resulting in a search warrant service. Multiple units coordinated to serve the warrant, and four adults were detained. A search of the residence yielded a large quantity of processed marijuana, psilocybin mushrooms, cash, jewelry and firearms. Four adults were arrested for related charges. "
+  },
+  {
+    "cmd": "South Command",
+    "id": "24-231168",
+    "code": "Robbery",
+    "location": "1300 Block of Florin Road",
+    "date": "2024-08-21",
+    "time": "1656",
+    "text": "Officers responded to a robbery at a bank. The suspect entered the bank, threatened employees, and demanded cash. The suspect fled before officers arrived. No injuries were reported. A report was generated. This remains an active and ongoing investigation."
+  },
+  {
+    "cmd": "North Command",
+    "id": "24-231535",
+    "code": "Stolen Vehicle - Arrest",
+    "location": "MARYSVILLE BLVD / LOS ROBLES BLVD",
+    "date": "2024-08-21",
+    "time": "2342",
+    "text": "Officers located a stolen vehicle and conducted an enforcement stop. The driver was arrested and later booked for related charges."
   }
 ]
