@@ -14641,5 +14641,23 @@
     "date": "2024-08-21",
     "time": "2342",
     "text": "Officers located a stolen vehicle and conducted an enforcement stop. The driver was arrested and later booked for related charges."
+  },
+  {
+    "cmd": "East Command",
+    "id": "24-231661",
+    "code": "Burglary-Arrest",
+    "location": "2000 Block Fair Oaks Blvd",
+    "date": "2024-08-22",
+    "time": "0459",
+    "text": "Officers to reports of a  burglary. Upon entering the business, officers located the suspect and detained them. The suspect was arrested for related charges. "
+  },
+  {
+    "cmd": "South Command",
+    "id": "24-232135",
+    "code": "Shooting - Arrest",
+    "location": "5th Street/Broadway",
+    "date": "2024-08-22",
+    "time": "1518",
+    "text": "Officers were contacted by a subject who had been shot. The victim was transported to an area hospital with non-life threatening injuries. The suspect fled the scene. Within the following three hours, officers and detectives coordinated and located the suspect driving a vehicle. The suspect was detained and arrested for related charges. "
   }
 ]
