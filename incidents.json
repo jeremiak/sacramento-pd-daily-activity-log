@@ -14659,5 +14659,32 @@
     "date": "2024-08-22",
     "time": "1518",
     "text": "Officers were contacted by a subject who had been shot. The victim was transported to an area hospital with non-life threatening injuries. The suspect fled the scene. Within the following three hours, officers and detectives coordinated and located the suspect driving a vehicle. The suspect was detained and arrested for related charges. "
+  },
+  {
+    "cmd": "North Command",
+    "id": "24-232631",
+    "code": "Traffic Stop - Arrest",
+    "location": "4000 Block Fell Street",
+    "date": "2024-08-23",
+    "time": "0155",
+    "text": "Officers attempted to contact a suspicious vehicle in the area. As officers attempted to contact the driver out of the vehicle, a foot pursuit ensued. The suspect was safely detained and arrested for related charges including possession of narcotics and their outstanding felony warrant.  "
+  },
+  {
+    "cmd": "East Command",
+    "id": "24-232659",
+    "code": "Shooting - Investigation",
+    "location": "3200 Block of 8th Ave",
+    "date": "2024-08-23",
+    "time": "0419",
+    "text": "Officers responded to reports of a shooting. Responding officers located evidence of a shooting. No injuries were reported. A report was generated."
+  },
+  {
+    "cmd": "Central Command",
+    "id": "24-233421",
+    "code": "Shooting - Investigation",
+    "location": "1900 Block of Front St",
+    "date": "2024-08-23",
+    "time": "1925",
+    "text": "Officers responded to reports of a shooting. Responding officers located evidence of a shooting. No injuries were reported. A report was generated."
   }
 ]
