@@ -14686,5 +14686,32 @@
     "date": "2024-08-23",
     "time": "1925",
     "text": "Officers responded to reports of a shooting. Responding officers located evidence of a shooting. No injuries were reported. A report was generated."
+  },
+  {
+    "cmd": "North Command",
+    "id": "24-233688",
+    "code": "Traffic Stop - Firearm Arrest",
+    "location": "El Camino Ave / Empress St",
+    "date": "2024-08-24",
+    "time": "0117",
+    "text": "Officers conducted an enforcement on a vehicle driving wrong-way on the roadway. During the investigation, officers located an illegally possessed firearm and the passenger was arrested for several firearm related charges."
+  },
+  {
+    "cmd": "South Command",
+    "id": "24-233897",
+    "code": "Sideshow - Firearm Investigation",
+    "location": "7400 Block of Meadowgate Dr",
+    "date": "2024-08-24",
+    "time": "1045",
+    "text": "Officers responded to reports of a vehicle doing donuts in the nearby intersection with the driver holding a handgun out of the window. The vehicle fled prior to police arrival. Officers obtained footage of the incident and the vehicle was determined to be reported stolen. (See Daily Entry Below)"
+  },
+  {
+    "cmd": "North Command",
+    "id": "24-234095",
+    "code": "Carjacking - Arrest",
+    "location": "Connie Dr / Marconi Ave",
+    "date": "2024-08-24",
+    "time": "1533",
+    "text": "Officers located an occupied vehicle that had been carjacked. The driver was detained and ultimately arrested for related charges."
   }
 ]
