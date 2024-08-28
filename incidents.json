@@ -14713,5 +14713,23 @@
     "date": "2024-08-24",
     "time": "1533",
     "text": "Officers located an occupied vehicle that had been carjacked. The driver was detained and ultimately arrested for related charges."
+  },
+  {
+    "cmd": "Central Command",
+    "id": "24-234844",
+    "code": "Fatal Collision - Investigation",
+    "location": "24th St / J St",
+    "date": "2024-08-25",
+    "time": "1153",
+    "text": "Officers responded to reports of a vehicle vs. motorcycle collision. The motorcyclist was transported to an area hospital where unfortunately, he succumbed to his injuries. Officers conducted an initial investigation and detectives from our Major Collision Investigation Unit (MCIU) and Crime Scene Investigators responded to take over the investigation."
+  },
+  {
+    "cmd": "Central Command",
+    "id": "24-235417",
+    "code": "Stolen Vehicle - Arrest",
+    "location": "3rd St / Capitol Mall",
+    "date": "2024-08-25",
+    "time": "2312",
+    "text": "Officers located an occupied stolen vehicle. The driver was detained and arrested for related charges."
   }
 ]
