@@ -14731,5 +14731,32 @@
     "date": "2024-08-25",
     "time": "2312",
     "text": "Officers located an occupied stolen vehicle. The driver was detained and arrested for related charges."
+  },
+  {
+    "cmd": "North Command",
+    "id": "24-235578",
+    "code": "Stolen Vehicle - Arrest",
+    "location": "1300 Block of Claire Ave",
+    "date": "2024-08-26",
+    "time": "0629",
+    "text": "Officers were investigating a report of a stolen work truck worth approximately $175,000 with approximately $40,000 worth of materials inside. Officers located the vehicle in north Sacramento, detained three suspects, and located an additional stolen truck out of Yolo County. One of the suspects was arrested for a felony warrant and related charges."
+  },
+  {
+    "cmd": "Central Command",
+    "id": "24-236362",
+    "code": "Stolen Vehicle - Arrest",
+    "location": "Richards Blvd / Bercut Dr",
+    "date": "2024-08-26",
+    "time": "2147",
+    "text": "Officers observed a vehicle run a red light in front of the police station. As the officer got behind the vehicle, they discovered the vehicle was stolen. The driver was ultimately detained and arrested for related charges."
+  },
+  {
+    "cmd": "North Command",
+    "id": "24-236382",
+    "code": "Shooting - Investigation",
+    "location": "1900 Block of Railroad Dr",
+    "date": "2024-08-26",
+    "time": "2220",
+    "text": "Officers responded to reports of a shooting. Responding officers located one male adult with at least one gunshot wound. The victim was transported to an area hospital where he was later listed in stable condition. Officers conducted an initial investigation and a report was generated. Follow up continues."
   }
 ]
