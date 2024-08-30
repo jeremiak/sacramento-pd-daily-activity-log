@@ -14758,5 +14758,23 @@
     "date": "2024-08-26",
     "time": "2220",
     "text": "Officers responded to reports of a shooting. Responding officers located one male adult with at least one gunshot wound. The victim was transported to an area hospital where he was later listed in stable condition. Officers conducted an initial investigation and a report was generated. Follow up continues."
+  },
+  {
+    "cmd": "North Command",
+    "id": "24-237249",
+    "code": "Stolen Vehicle - Arrest",
+    "location": "Norwood Ave / Jessie Ave",
+    "date": "2024-08-27",
+    "time": "1703",
+    "text": "A motor officer located an occupied stolen vehicle. The driver was detained and arrested for related charges."
+  },
+  {
+    "cmd": "North Command",
+    "id": "24-237497",
+    "code": "Stolen Vehicle/Pursuit - Arrest",
+    "location": "Marconi Ave / Connie Dr",
+    "date": "2024-08-27",
+    "time": "2202",
+    "text": "Officers located an occupied stolen vehicle. A pursuit ensued and with the assistance of an outside agency, tactical strips were deployed and the vehicle became disabled. The driver was detained and arrested for related charges."
   }
 ]
