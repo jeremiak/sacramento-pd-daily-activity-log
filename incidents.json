@@ -14794,5 +14794,32 @@
     "date": "2024-08-29",
     "time": "1027",
     "text": "Officers responded to reports of a vehicle vs. pedestrian on a scooter collision. The pedestrian was pronounced deceased on scene by Fire Personnel. Due to the fatality, detectives from our Major Collision Investigation Unit and Crime Scene Investigators responded to take over the investigation. The other party remained on scene and was cooperative with investigators."
+  },
+  {
+    "cmd": "South Command",
+    "id": "24-239806",
+    "code": "Shooting - Investigation",
+    "location": "6200 Block of Garden View Wy",
+    "date": "2024-08-30",
+    "time": "0039",
+    "text": "Officers responded to reports of a shooting and located evidence of a shooting. No injuries were reported. A report was generated."
+  },
+  {
+    "cmd": "Central Command",
+    "id": "24-239916",
+    "code": "Burglary - Investigation",
+    "location": "1900 Block of S St",
+    "date": "2024-08-30",
+    "time": "0615",
+    "text": "Officers responded to reports of a burglary alarm. Officers were able to determine that a burglary did occur and officers conducted an investigation. A report was generated."
+  },
+  {
+    "cmd": "North Command",
+    "id": "24-240733",
+    "code": "Domestic Violence - Arrest",
+    "location": "1400 Block of Response Rd",
+    "date": "2024-08-30",
+    "time": "2235",
+    "text": "Officers responded to reports of a domestic violence. When officers arrived, they contacted the male suspect and detained him. During a search of the residence, the female victim was located unresponsive. The victim was transported to an area hospital in critical condition. The suspect was arrested for attempted murder and domestic violence related charges."
   }
 ]
