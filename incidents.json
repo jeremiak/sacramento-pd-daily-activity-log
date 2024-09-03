@@ -14821,5 +14821,23 @@
     "date": "2024-08-30",
     "time": "2235",
     "text": "Officers responded to reports of a domestic violence. When officers arrived, they contacted the male suspect and detained him. During a search of the residence, the female victim was located unresponsive. The victim was transported to an area hospital in critical condition. The suspect was arrested for attempted murder and domestic violence related charges."
+  },
+  {
+    "cmd": "South Command",
+    "id": "24-241467",
+    "code": "Hit-and-Run - Investigation",
+    "location": "Broadway / 28th St",
+    "date": "2024-08-31",
+    "time": "1826",
+    "text": "Officers responded to reports of a vehicle vs. pedestrian collision. The pedestrian, a 70-year-old female, was located on scene with moderate injuries and was transported to an area hospital for treatment. The suspect vehicle fled prior to police arrival. An investigation was conducted and a report was generated."
+  },
+  {
+    "cmd": "South Command",
+    "id": "24-241724",
+    "code": "Bicycle Stop - Warrant Arrest",
+    "location": "5200 Block of Mack Rd",
+    "date": "2024-08-31",
+    "time": "2243",
+    "text": "Officers attempted to stop a subject on a bicycle. The suspect failed to yield, led officers on a pursuit, and then fled into a neighboring apartment complex. The suspect was ultimately located and found to have an outstanding felony burglary warrant. The suspect was arrested for related charges."
   }
 ]
