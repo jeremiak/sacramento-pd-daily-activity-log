@@ -14839,5 +14839,41 @@
     "date": "2024-08-31",
     "time": "2243",
     "text": "Officers attempted to stop a subject on a bicycle. The suspect failed to yield, led officers on a pursuit, and then fled into a neighboring apartment complex. The suspect was ultimately located and found to have an outstanding felony burglary warrant. The suspect was arrested for related charges."
+  },
+  {
+    "cmd": "North Command",
+    "id": "24-241830",
+    "code": "Bicycle Stop - Warrant Arrest",
+    "location": "Rio Linda Blvd / Lampasas Ave",
+    "date": "2024-09-01",
+    "time": "0036",
+    "text": "Officers stopped a subject on bicycle. The suspect provided officers with a false name and once correctly identified, the suspect was found to have a felony warrant. The suspect attempted to flee from officers but was quickly detained. The suspect was arrested for related charges."
+  },
+  {
+    "cmd": "Central Command",
+    "id": "24-242534",
+    "code": "Subject Stop - Firearms Arrest",
+    "location": "Front St / L St",
+    "date": "2024-09-01",
+    "time": "1848",
+    "text": "Officers responded to a report of people sitting in a vehicle with firearms on one of the persons. Officers worked together and safely contacted the vehicle occupants where they located 2 loaded handguns with extended magazines. The suspects were detained and arrested for related charges. "
+  },
+  {
+    "cmd": "North Command",
+    "id": "24-242590",
+    "code": "Traffic Stop - Firearm & Drug Arrest",
+    "location": "Arden Way & Colfax St",
+    "date": "2024-09-01",
+    "time": "2023",
+    "text": "Officers conducted a traffic stop of an erratically moving vehicle. The driver stated that he had a firearm in the car and was safely detained. A search of the vehicle revealed the handgun, a ballistic vest, and marijuana. The driver was booked on related charges. "
+  },
+  {
+    "cmd": "South Command",
+    "id": "24-242637",
+    "code": "Stolen Vehicle - Arrest",
+    "location": "Florin Rd & 24th St",
+    "date": "2024-09-01",
+    "time": "2115",
+    "text": "Officers located a stolen vehicle. The driver was safely detained and arrested for related charges. "
   }
 ]
