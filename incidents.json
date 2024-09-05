@@ -14875,5 +14875,41 @@
     "date": "2024-09-01",
     "time": "2115",
     "text": "Officers located a stolen vehicle. The driver was safely detained and arrested for related charges. "
+  },
+  {
+    "cmd": "North Command",
+    "id": "24-242802",
+    "code": "Pursuit - Arrest",
+    "location": "Del Mar Wy & Arcade Blvd",
+    "date": "2024-09-02",
+    "time": "0051",
+    "text": "Officers responded to a vehicle sideshow and observed a vehicle actively engaging in reckless driving. Officers attempted to conduct a traffic stop and short pursuit ensued. The driver eventually pulled over and was detained. The driver was arrested on related charges and the vehicle was impounded. "
+  },
+  {
+    "cmd": "South Command",
+    "id": "24-242882",
+    "code": "Subject Stop - Firearm and Drug Arrest",
+    "location": "2700 Block 29th St",
+    "date": "2024-09-02",
+    "time": "0327",
+    "text": "Officers contacted a suspect in this area who was also known to have a felony warrant. The suspect was detained. During a search of the suspect, officers located a loaded firearm and narcotics. The suspect was arrested for related charges and their outstanding felony warrant.  "
+  },
+  {
+    "cmd": "North Command",
+    "id": "24-243607",
+    "code": "Robbery - Investigation",
+    "location": "5600 Block of Natomas Blvd",
+    "date": "2024-09-02",
+    "time": "2055",
+    "text": "Officers responded to a report of a robbery. Officers located three of the four suspects nearby. The located suspects were detained and arrested for related charges. An investigation was conducted, and report was generated. "
+  },
+  {
+    "cmd": "East Command",
+    "id": "24-243665",
+    "code": "Shooting - Investigation",
+    "location": "5700 Block of Wallace Ave",
+    "date": "2024-09-02",
+    "time": "2236",
+    "text": "Officers responded to reports of sounds of gun shots in the area. On scene, officers located casings in the street but nothing that appeared to be struck by gun fire. An investigation was conducted, and a report was generated.  "
   }
 ]
