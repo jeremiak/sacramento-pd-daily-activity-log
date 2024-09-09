@@ -14938,5 +14938,14 @@
     "date": "2024-09-05",
     "time": "2349",
     "text": "Officers located an occupied stolen vehicle. The driver was detained and arrested."
+  },
+  {
+    "cmd": "East Command",
+    "id": "24-247796",
+    "code": "Stolen Vehicle - Arrest",
+    "location": "8400 Block of Folsom Blvd",
+    "date": "2024-09-06",
+    "time": "1848",
+    "text": "Officers located an occupied stolen vehicle. The driver was detained and arrested for related charges."
   }
 ]
