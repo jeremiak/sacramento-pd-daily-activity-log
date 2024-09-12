@@ -14974,5 +14974,41 @@
     "date": "2024-09-08",
     "time": "0357",
     "text": "Officers responded to reports of a shooting. Officers located a victim with multiple non-life threatening gun shot wounds. Shortly after, the suspect called into police saying they wanted to surrender. Officers safely detained the suspect nearby and located a firearm. The suspect was arrested for related charges."
+  },
+  {
+    "cmd": "North Command",
+    "id": "24-249848",
+    "code": "Traffic Enforcement - Arrest",
+    "location": "N Market Blvd & Northgate Blvd",
+    "date": "2024-09-09",
+    "time": "0037",
+    "text": "Officers attempted to conduct a traffic stop of a vehicle they observed driving recklessly during a sideshow. The suspect failed to stop and a pursuit ensued. The suspect eventually pulled over and was safely detained. The suspect was arrested for related charges and the vehicle was towed."
+  },
+  {
+    "cmd": "South Command",
+    "id": "24-249882",
+    "code": "Traffic Enforcement - Arrest",
+    "location": "Fruitridge Rd & Stockton Blvd",
+    "date": "2024-09-09",
+    "time": "0151",
+    "text": "Officers attempted to conduct a traffic stop of a vehicle they observed driving recklessly during a sideshow. The suspect failed to stop and a pursuit ensued. Shortly after, the driver ran into a neighborhood. An air unit was overhead and surveilled the suspect until they were was detained. The suspect was arrested for related charges and the vehicle was towed."
+  },
+  {
+    "cmd": "South Command",
+    "id": "24-249937",
+    "code": "Traffic Enforcement - Arrest",
+    "location": "Franklin Blvd & Mack Rd",
+    "date": "2024-09-09",
+    "time": "0339",
+    "text": "Officers observed an all-terrain quad driving recklessly and attempted to conduct a traffic stop. The suspect failed to stop and a pursuit ensued. An air unit responded and surveilled the suspect for several more minutes until they collided into a parked vehicle at low to moderate speeds. Officers detained the suspect who was arrested for related charges."
+  },
+  {
+    "cmd": "North Command",
+    "id": "24-250071",
+    "code": "Fatal Collision - Investigation",
+    "location": "Banfield Dr / Club Center Dr",
+    "date": "2024-09-09",
+    "time": "0839",
+    "text": "Officers responded to reports of a vehicle vs. pedestrian collision. Responding officers located a male adult who was unfortunately pronounced deceased on scene. The vehicle involved was located on scene and the driver was cooperative with the investigation. DUI was not believed to be a factor. Detectives from our Major Collision Investigation Unit and Crime Scene Investigators were called out to take over the scene. This remains an active investigation."
   }
 ]
