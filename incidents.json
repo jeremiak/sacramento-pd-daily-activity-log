@@ -15019,5 +15019,23 @@
     "date": "2024-09-10",
     "time": "2147",
     "text": "Officers responded to reports of a shooting. On scene, officers located evidence of a potential shooting and a vehicle with recent collision damage. However, no victims or suspects were located and nothing appeared have been struck by gunfire. An investigation was conducted and a report was generated."
+  },
+  {
+    "cmd": "North Command",
+    "id": "24-252604",
+    "code": "Firearm - Arrest",
+    "location": "1100 Block of El Camino Ave",
+    "date": "2024-09-11",
+    "time": "1557",
+    "text": "Officers responded to reports of a suspect who brandished a firearm after being involved in a collision. Responding officers safely detained the suspect, the firearm was located, and the suspect was arrested for related charges."
+  },
+  {
+    "cmd": "Central Command",
+    "id": "24-252782",
+    "code": "Stolen Vehicle - Arrest",
+    "location": "Jibboom St / Richards Blvd",
+    "date": "2024-09-11",
+    "time": "1901",
+    "text": "Officers located an occupied stolen vehicle. The driver was detained and arrested for related charges."
   }
 ]
