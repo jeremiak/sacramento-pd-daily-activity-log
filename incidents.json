@@ -15037,5 +15037,23 @@
     "date": "2024-09-11",
     "time": "1901",
     "text": "Officers located an occupied stolen vehicle. The driver was detained and arrested for related charges."
+  },
+  {
+    "cmd": "Central Command",
+    "id": "24-253104",
+    "code": "Vandalism - Arrest",
+    "location": "1500 Block of 14th St",
+    "date": "2024-09-12",
+    "time": "0545",
+    "text": "Officers responded to reports of a male who threw a brick through a front door of a business. Officers quickly responded and located the suspect, who attempted to run from officers. The suspect was quickly and safely detained and was subsequently arrested for felony vandalism, resisting/interfering with an officer, and Post Release Community Supervision (PRCS) violation."
+  },
+  {
+    "cmd": "South Command",
+    "id": "24-253985",
+    "code": "Collision - Investigation",
+    "location": "Sutterville Rd / 21st St",
+    "date": "2024-09-12",
+    "time": "2101",
+    "text": "Officers responded to reports of a vehicle vs. pedestrian collision. Responding officers located a female adult in the roadway. The female was transported to an area hospital in critical condition. The driver remained on scene and cooperated with the investigation. Due to the significant injuries, detectives from our Major Collision Investigation Unit (MCIU) and Crime Scene Investigators (CSI) responded out to take over the investigation."
   }
 ]
