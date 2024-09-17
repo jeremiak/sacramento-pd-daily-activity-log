@@ -15082,5 +15082,32 @@
     "date": "2024-09-13",
     "time": "2340",
     "text": "Officers attempted to conduct a traffic stop of a vehicle.  The vehicle failed to yield and a short pursuit ensued.  The driver was detained and cited and the vehicle was towed."
+  },
+  {
+    "cmd": "North Command",
+    "id": "24-255363",
+    "code": "Assault Investigation - Arrest",
+    "location": "3700 Block Truxel Rd",
+    "date": "2024-09-14",
+    "time": "0541",
+    "text": "Officers responded to numerous calls of a subject causing disturbances at multiple businesses in the area and that he physically assaulted a person. Officers detained the suspect who was found to be on parole. The suspect was arrested for related charges"
+  },
+  {
+    "cmd": "North Command",
+    "id": "24-256131",
+    "code": "Probation Search – Firearm & Drug Arrest",
+    "location": "Frienza Ave & Lexington St",
+    "date": "2024-09-14",
+    "time": "2232",
+    "text": "Officers were hailed regarding a disturbance related to a van at this location.  Officers contacted the driver who provided a fake name. Officers determined the driver’s actual name, conducted a probation search of the van, and located a loaded handgun and narcotics. The driver was arrested for related charges."
+  },
+  {
+    "cmd": "East Command",
+    "id": "24-256148",
+    "code": "Assault Investigation – Firearm Arrest",
+    "location": "3000 Block Redding Ave",
+    "date": "2024-09-14",
+    "time": "2243",
+    "text": "Officers responded to reports of a large party with fighting and a victim that was hit by a fleeing vehicle.  An air unit located the vehicle, the occupants fled from the vehicle upon police contact. The air unit followed the occupants where they were detained by officers. A loaded firearm was located in the vehicle.  The suspects were arrested for related charges"
   }
 ]
