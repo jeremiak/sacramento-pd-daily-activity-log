@@ -15109,5 +15109,32 @@
     "date": "2024-09-14",
     "time": "2243",
     "text": "Officers responded to reports of a large party with fighting and a victim that was hit by a fleeing vehicle.  An air unit located the vehicle, the occupants fled from the vehicle upon police contact. The air unit followed the occupants where they were detained by officers. A loaded firearm was located in the vehicle.  The suspects were arrested for related charges"
+  },
+  {
+    "cmd": "South Command",
+    "id": "24-256363",
+    "code": "Pursuit - Arrest",
+    "location": "X St & 8th St",
+    "date": "2024-09-15",
+    "time": "0341",
+    "text": "Officers attempted to conduct a traffic stop of a wrong-way driver. The driver failed to fully stop before yielding a short distance away. Officers detained the driver who was arrested for related charges."
+  },
+  {
+    "cmd": "North Command",
+    "id": "24-256709",
+    "code": "Stolen Vehicle - Arrest",
+    "location": "Del Paso Blvd & El Camino Ave",
+    "date": "2024-09-15",
+    "time": "1446",
+    "text": "Officers located a stolen vehicle in the area. Officers detained the driver who was arrested for related charges."
+  },
+  {
+    "cmd": "North Command",
+    "id": "24-256755",
+    "code": "Pursuit - Arrest",
+    "location": "BUS 80 & Exposition Blvd",
+    "date": "2024-09-15",
+    "time": "1538",
+    "text": "Officers conducted a traffic stop of a vehicle that was driving with no tire on one of its rims.  The driver initially complied and pulled over. During the stop, the driver fled from the Officers and a short pursuit ensued.  The driver eventually pulled over and was detained. The driver was arrested for related charges."
   }
 ]
