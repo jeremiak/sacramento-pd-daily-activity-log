@@ -15163,5 +15163,23 @@
     "date": "2024-09-17",
     "time": "0914",
     "text": "Officers located a stolen vehicle in the area. Officers detained the driver. The driver was arrested for related charges."
+  },
+  {
+    "cmd": "North Command",
+    "id": "24-259889",
+    "code": "Investigation - Firearm Arrest",
+    "location": "Rio Linda Blvd & Santiago Ave",
+    "date": "2024-09-18",
+    "time": "1242",
+    "text": "Officers conducted a follow up investigation of a suspect. Officers located the suspect and detained him during a traffic stop. During a search, the suspect’s firearm was located. The suspect was arrested for related charges.  "
+  },
+  {
+    "cmd": "South Command",
+    "id": "24-260265",
+    "code": "Hit & Run Vehicle - Arrest",
+    "location": "Florin Rd & 24th St",
+    "date": "2024-09-18",
+    "time": "1920",
+    "text": "Officers located a felony hit and run vehicle in the area. Officers detained the driver. The driver was arrested for related charges."
   }
 ]
