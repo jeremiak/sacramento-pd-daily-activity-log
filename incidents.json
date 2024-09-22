@@ -15181,5 +15181,32 @@
     "date": "2024-09-18",
     "time": "1920",
     "text": "Officers located a felony hit and run vehicle in the area. Officers detained the driver. The driver was arrested for related charges."
+  },
+  {
+    "cmd": "North Command",
+    "id": "24-260509",
+    "code": "Pursuit - Arrest",
+    "location": "Northgate Blvd & Haggin Ave",
+    "date": "2024-09-19",
+    "time": "0234",
+    "text": "Officers observed a vehicle commit a traffic violation and attempted to conducted a traffic stop. The driver did not stop and a short pursuit ensued until the driver pulled over in a parking lot. The driver was detained and arrested for related charges."
+  },
+  {
+    "cmd": "East Command",
+    "id": "24-260925",
+    "code": "Pursuit - Arrest",
+    "location": "Alhambra Blvd / E St",
+    "date": "2024-09-19",
+    "time": "1236",
+    "text": "Officers attempted to stop a vehicle. The driver failed to yield and a pursuit ensued. The driver eventually pulled over near Cal Expo and was safely detained. The driver was arrested for related charges."
+  },
+  {
+    "cmd": "East Command",
+    "id": "24-261448",
+    "code": "Collision - Investigation",
+    "location": "Florin Perkins Rd / Jackson Rd",
+    "date": "2024-09-19",
+    "time": "2104",
+    "text": "Officers responded to reports of a vehicle vs. pedestrian collision. The pedestrian was transported to an area hospital where they are now listed in critical but stable condition. The driver remained on scene and was cooperative. The cause of the collision remains under investigation."
   }
 ]
