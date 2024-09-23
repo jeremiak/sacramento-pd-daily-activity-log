@@ -15208,5 +15208,32 @@
     "date": "2024-09-19",
     "time": "2104",
     "text": "Officers responded to reports of a vehicle vs. pedestrian collision. The pedestrian was transported to an area hospital where they are now listed in critical but stable condition. The driver remained on scene and was cooperative. The cause of the collision remains under investigation."
+  },
+  {
+    "cmd": "North Command",
+    "id": "24-261702",
+    "code": "Investigation - Arrest",
+    "location": "4200 Block Norwood Ave",
+    "date": "2024-09-20",
+    "time": "0652",
+    "text": "Officers followed up on an investigation of a subject with two outstanding felony warrants. Officers contacted the subject who was detained and arrested for their warrants."
+  },
+  {
+    "cmd": "North Command",
+    "id": "24-261806",
+    "code": "Outside Agency Assist - Arrest",
+    "location": "2100 Block American Ave",
+    "date": "2024-09-20",
+    "time": "0845",
+    "text": "Officers and a K-9 unit assisted an outside agency with a vehicle stop in the area for a subject with an outstand felony warrant. The subject was detained and taken into custody for their warrant."
+  },
+  {
+    "cmd": "East Command",
+    "id": "24-262574",
+    "code": "Shooting - Investigation",
+    "location": "6100 Block Dias Ave",
+    "date": "2024-09-20",
+    "time": "2216",
+    "text": "Officers responded to several reports of the sound of shots being fired. Officers arrived and located several casings on the ground. No injuries or property damage was reported or located. An investigation was conducted, and a report generated."
   }
 ]
