@@ -15244,5 +15244,32 @@
     "date": "2024-09-21",
     "time": "0619",
     "text": "Officers responded to reports of an alarm. Officers determined a burglary occurred. Officers located the suspect nearby and he was detained. The suspect was arrested for related charges and an outstanding warrant."
+  },
+  {
+    "cmd": "South Command",
+    "id": "24-264311",
+    "code": "Investigation - Firearm Arrest",
+    "location": "7200 Block Jacinto Ave",
+    "date": "2024-09-22",
+    "time": "1523",
+    "text": "Officers responded to a report of multiple subjects in a car with masks on and a gun in the driver’s hand.  Officers located the vehicle and detained the suspects. Inside the vehicle, Officers located a mask and firearm. The driver was arrested for related charges."
+  },
+  {
+    "cmd": "South Command",
+    "id": "24-264330",
+    "code": "Shooting Investigation",
+    "location": "5800 Block Bamford Dr",
+    "date": "2024-09-22",
+    "time": "1550",
+    "text": "Officers responded to reports of shots being fired.  Officers located several spent casings on the ground and an unoccupied vehicle that appeared to have been struck. No injuries or victims were reported. An investigation was conducted and a report generated."
+  },
+  {
+    "cmd": "Central Command",
+    "id": "24-264654",
+    "code": "Stolen Vehicle - Arrest",
+    "location": "Richards Blvd & Bercut",
+    "date": "2024-09-22",
+    "time": "2129",
+    "text": "Officers located a stolen vehicle in the area. Officers detained the driver of the vehicle. The driver was arrested for related charges."
   }
 ]
