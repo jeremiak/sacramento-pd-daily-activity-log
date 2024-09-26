@@ -15271,5 +15271,23 @@
     "date": "2024-09-22",
     "time": "2129",
     "text": "Officers located a stolen vehicle in the area. Officers detained the driver of the vehicle. The driver was arrested for related charges."
+  },
+  {
+    "cmd": "North Command",
+    "id": "24-265672",
+    "code": "Stolen Vehicle - Arrest",
+    "location": "Del Paso Blvd / El Camino Ave",
+    "date": "2024-09-23",
+    "time": "1828",
+    "text": "Officers located an occupied stolen vehicle. The suspect was detained and arrested for related charges."
+  },
+  {
+    "cmd": "Central Command",
+    "id": "24-265840",
+    "code": "Stolen Vehicle - Arrest",
+    "location": "2200 Block of 16th St",
+    "date": "2024-09-23",
+    "time": "2237",
+    "text": "Officers located an occupied stolen vehicle. The driver was detained and arrested for related charges."
   }
 ]
