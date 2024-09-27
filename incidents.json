@@ -15289,5 +15289,23 @@
     "date": "2024-09-23",
     "time": "2237",
     "text": "Officers located an occupied stolen vehicle. The driver was detained and arrested for related charges."
+  },
+  {
+    "cmd": "North Command",
+    "id": "24-265941",
+    "code": "Carjacking - Investigation",
+    "location": "300 Block of Chennault Ct",
+    "date": "2024-09-24",
+    "time": "0120",
+    "text": "Officers responded to reports of a carjacking by gunpoint. Responding officers conducted an investigation and a report was generated."
+  },
+  {
+    "cmd": "Central Command",
+    "id": "24-266418",
+    "code": "Burglary - Arrest",
+    "location": "1300 Block of 18th St",
+    "date": "2024-09-24",
+    "time": "1231",
+    "text": "Officers responded to reports of a burglary in progress. The suspect was located and detained. The suspect was also found to have a felony warrant. The suspect was arrested for related charges."
   }
 ]
