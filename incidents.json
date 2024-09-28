@@ -15307,5 +15307,32 @@
     "date": "2024-09-24",
     "time": "1231",
     "text": "Officers responded to reports of a burglary in progress. The suspect was located and detained. The suspect was also found to have a felony warrant. The suspect was arrested for related charges."
+  },
+  {
+    "cmd": "North Command",
+    "id": "24-267091",
+    "code": "Shooting - Investigation",
+    "location": "1300 Block of Diamond Ave",
+    "date": "2024-09-25",
+    "time": "0152",
+    "text": "Officers responded to reports of a shooting. Responding officers located evidence of a shooting. No injuries were reported. A report was generated."
+  },
+  {
+    "cmd": "Central Command",
+    "id": "24-267348",
+    "code": "Stolen Vehicle - Arrest",
+    "location": "2600 Block of J St",
+    "date": "2024-09-25",
+    "time": "0923",
+    "text": "Officers located an occupied stolen vehicle. The occupants were detained. During the investigation, officers located additional stolen property and a stolen handgun inside of the vehicle. The suspect was arrested for related charges."
+  },
+  {
+    "cmd": "North Command",
+    "id": "24-267923",
+    "code": "Stolen Vehicle/Pursuit - Arrest",
+    "location": "Canterbury Rd / Woodlake Dr",
+    "date": "2024-09-25",
+    "time": "1921",
+    "text": "Officers located an occupied stolen vehicle. The driver fled from officers and a pursuit ensued. The driver fled from the vehicle on foot and thanks to the help of our K-9 officers, the suspect was located in a nearby field and taken into custody. The suspect was arrested for related charges."
   }
 ]
