@@ -15334,5 +15334,32 @@
     "date": "2024-09-25",
     "time": "1921",
     "text": "Officers located an occupied stolen vehicle. The driver fled from officers and a pursuit ensued. The driver fled from the vehicle on foot and thanks to the help of our K-9 officers, the suspect was located in a nearby field and taken into custody. The suspect was arrested for related charges."
+  },
+  {
+    "cmd": "North Command",
+    "id": "24-269246",
+    "code": "Pursuit/Stolen Vehicle - Arrest",
+    "location": "El Camino Ave / Empress St",
+    "date": "2024-09-27",
+    "time": "0016",
+    "text": "Officers attempted to stop a motorcycle, who failed to yield and led officers on a pursuit. With the assistance of CHP’s air unit, the suspect was ultimately detained in San Joaquin County. The motorcycle was found to be stolen. The suspect was arrested for related charges."
+  },
+  {
+    "cmd": "North Command",
+    "id": "24-269306",
+    "code": "Pursuit - Arrest",
+    "location": "Chief Ct / River City Way",
+    "date": "2024-09-27",
+    "time": "0215",
+    "text": "Officers attempted to stop a vehicle. The driver failed to yield and a pursuit ensued. The suspect crashed near a levee, exited the vehicle and ran towards the water. With the assistance of our UAS and the Fire Department, the suspect was detained by our officers. The suspect was arrested for related charges."
+  },
+  {
+    "cmd": "East Command",
+    "id": "24-269352",
+    "code": "Stolen Vehicle - Arrest",
+    "location": "McKinley Village Wy / C St",
+    "date": "2024-09-27",
+    "time": "0417",
+    "text": "Officers located an occupied stolen vehicle. The driver was detained and arrested for related charges."
   }
 ]
