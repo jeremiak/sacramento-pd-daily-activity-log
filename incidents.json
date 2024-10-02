@@ -15370,5 +15370,23 @@
     "date": "2024-09-28",
     "time": "2212",
     "text": "Officers responded to reports of a shooting. Responding officers located evidence of a shooting. No injuries were reported. A report was generated."
+  },
+  {
+    "cmd": "North Command",
+    "id": "24-271542",
+    "code": "Shooting Investigation",
+    "location": "Edmonton Dr & Westward Way",
+    "date": "2024-09-29",
+    "time": "0428",
+    "text": "Officers responded to reports of a shooting. Responding officers located evidence of a shooting. No injuries were reported. A report was generated."
+  },
+  {
+    "cmd": "South Command",
+    "id": "24-271661",
+    "code": "Stolen Vehicle - Arrest",
+    "location": "47th Ave & Woodbine Ave",
+    "date": "2024-09-29",
+    "time": "0930",
+    "text": "Officers located an occupied stolen vehicle. The driver was detained and arrested for related charges."
   }
 ]
