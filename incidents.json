@@ -15397,5 +15397,23 @@
     "date": "2024-09-30",
     "time": "0439",
     "text": "Officers responded to reports of a business robbery at gunpoint. Responding officers located a suspect vehicle leaving the scene. A brief pursuit ensued until the suspect vehicle crashed. One occupant was quickly detained and two others fled on foot. During the investigation, officers located a firearm and evidence of the crime. The detained suspect was arrested for related charges."
+  },
+  {
+    "cmd": "North Command",
+    "id": "24-274201",
+    "code": "Stolen Vehicle - Arrest",
+    "location": "Marconi Ave / Connie Dr",
+    "date": "2024-10-01",
+    "time": "1737",
+    "text": "Officers located an occupied stolen vehicle. The driver was detained and arrested for related charges."
+  },
+  {
+    "cmd": "South Command",
+    "id": "24-274303",
+    "code": "Shooting - Investigation",
+    "location": "8000 Block of Detroit Blvd",
+    "date": "2024-10-01",
+    "time": "1932",
+    "text": "Officers responded to reports of a shooting. Responding officers located one male adult with at least one non-life-threatening gunshot wound. That victim was transported to an area hospital. No suspect(s) were located. Officers conducted an investigation and a report was generated."
   }
 ]
