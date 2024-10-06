@@ -15424,5 +15424,23 @@
     "date": "2024-10-02",
     "time": "0051",
     "text": "Officers stopped a vehicle for a vehicle code violation. During the investigation, officers located an illegally possessed firearm. The suspect was arrested for related charges."
+  },
+  {
+    "cmd": "East Command",
+    "id": "24-275642",
+    "code": "Shooting - Investigation",
+    "location": "5100 Block of Stockton Blvd",
+    "date": "2024-10-03",
+    "time": "0019",
+    "text": "Officers responded to reports of a shooting. Responding officers located a female adult with at least one non-life-threatening gunshot wound. The victim was transported to an area hospital. Officers are investigating what lead up to the shooting. "
+  },
+  {
+    "cmd": "Central Command",
+    "id": "24-276608",
+    "code": "Robbery - Arrest",
+    "location": "1200 Block of J Street",
+    "date": "2024-10-03",
+    "time": "2311",
+    "text": "Officers responded to reports of a robbery of a person by force. Responding bike officers located the suspect with the victim’s property. The suspect was arrested for related charges as well as outstanding warrants."
   }
 ]
