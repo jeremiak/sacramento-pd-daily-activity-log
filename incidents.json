@@ -15442,5 +15442,23 @@
     "date": "2024-10-03",
     "time": "2311",
     "text": "Officers responded to reports of a robbery of a person by force. Responding bike officers located the suspect with the victim’s property. The suspect was arrested for related charges as well as outstanding warrants."
+  },
+  {
+    "cmd": "Central Command",
+    "id": "24-277549",
+    "code": "Traffic Stop - Firearm Arrest",
+    "location": "1000 Block of 2nd St",
+    "date": "2024-10-04",
+    "time": "2125",
+    "text": "Officers conducted a traffic stop on a reckless driver. During the investigation, officers located an illegally possessed firearm. The suspect was arrested for related charges."
+  },
+  {
+    "cmd": "North Command",
+    "id": "24-277561",
+    "code": "Robbery - Arrest",
+    "location": "2700 Block of Grove Ave",
+    "date": "2024-10-04",
+    "time": "2133",
+    "text": "Officers responded to reports of an armed robbery of a person. Responding officers located two suspects, who happened to be 13 and 15 years old. Officers located a replica firearm on scene. Both juveniles were arrested and transported to Juvenile Hall on related charges."
   }
 ]
