@@ -15496,5 +15496,32 @@
     "date": "2024-10-07",
     "time": "1438",
     "text": "Officers responded to reports of a stolen vehicle. Security at this business assisted officers in locating the suspects, who happened to be two juveniles. Both were detained and arrested for related charges."
+  },
+  {
+    "cmd": "North Command",
+    "id": "24-281104",
+    "code": "Shooting - Investigation",
+    "location": "5300 Block of Cliff House Wy",
+    "date": "2024-10-08",
+    "time": "1122",
+    "text": "Officers responded to reports of a shooting. Responding officers located one male adult with at least one non-life-threatening gunshot wound. The victim was transported to an area hospital and a report was generated."
+  },
+  {
+    "cmd": "North Command",
+    "id": "24-281451",
+    "code": "Shooting - Investigation",
+    "location": "4300 Block of Truxel Rd",
+    "date": "2024-10-08",
+    "time": "1655",
+    "text": "Officers responded to reports of a shooting. The victim was transported to an area hospital for his non-life-threatening injuries. A report was generated."
+  },
+  {
+    "cmd": "East Command",
+    "id": "24-281631",
+    "code": "Stabbing - Investigation",
+    "location": "5800 Block of Stockton Blvd",
+    "date": "2024-10-08",
+    "time": "2041",
+    "text": "Officers responded to reports of a stabbing. Responding officers located a victim with apparent non-life-threatening stab wounds. The victim was transported to an area hospital. Officers conduced an investigation and a report was generated."
   }
 ]
