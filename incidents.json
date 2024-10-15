@@ -15550,5 +15550,23 @@
     "date": "2024-10-11",
     "time": "0810",
     "text": "Officers responded to reports of a robbery of a person by force. Responding officers located the suspect and detained him. After the investigation, the suspect was arrested for related charges."
+  },
+  {
+    "cmd": "Central Command",
+    "id": "24-284940",
+    "code": "Traffic Stop - Firearm Arrest",
+    "location": "Interstate 5 / Richards Blvd",
+    "date": "2024-10-12",
+    "time": "0003",
+    "text": "Officers conducted a traffic stop. During the investigation, officers located an illegally possessed firearm. The suspect was arrested for related charges."
+  },
+  {
+    "cmd": "North Command",
+    "id": "24-285926",
+    "code": "Fatal Hit-And Run Collision Arrest",
+    "location": "Marysville Blvd / Main Ave",
+    "date": "2024-10-12",
+    "time": "2329",
+    "text": "See news release: Fatal Hit-and-Run Collision Arrest - Marysville Boulevard & Main Avenue"
   }
 ]
