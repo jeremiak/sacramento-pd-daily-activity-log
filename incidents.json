@@ -15613,5 +15613,23 @@
     "date": "2024-10-15",
     "time": "1254",
     "text": "Officers located a robbery suspect in the area. Officers contacted the suspect inside of a vehicle where the suspect was detained. The suspect was arrested for related charges."
+  },
+  {
+    "cmd": "South Command",
+    "id": "24-289577",
+    "code": "Shooting Investigation",
+    "location": "7500 Block Franklin Blvd",
+    "date": "2024-10-16",
+    "time": "1739",
+    "text": "Officers responded to reports of a shooting in the gas station parking lot. Officers located a victim who was transported to an area hospital. Detectives responded and took over the scene and investigation."
+  },
+  {
+    "cmd": "South Command",
+    "id": "24-289744",
+    "code": "Sideshow Activity",
+    "location": "8100 Block Delta Shores Cir",
+    "date": "2024-10-16",
+    "time": "2102",
+    "text": "Officers responded to reports of a sideshow.  Officers stopped a suspect vehicle away from the area and the vehicle was cited and towed.  The air units made announcements and the parking lot cleared out."
   }
 ]
