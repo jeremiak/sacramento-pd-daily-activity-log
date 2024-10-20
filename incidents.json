@@ -15631,5 +15631,32 @@
     "date": "2024-10-16",
     "time": "2102",
     "text": "Officers responded to reports of a sideshow.  Officers stopped a suspect vehicle away from the area and the vehicle was cited and towed.  The air units made announcements and the parking lot cleared out."
+  },
+  {
+    "cmd": "Central Command",
+    "id": "24-289939",
+    "code": "Shooting Investigation",
+    "location": "21st St & Capitol Ave",
+    "date": "2024-10-17",
+    "time": "0535",
+    "text": "Officers responded to a report of vehicle being shot at. Officers located a single bullet hole in one of the vehicle doors, but no injuries to the victim. Officers conducted further investigation and a report was generated."
+  },
+  {
+    "cmd": "South Command",
+    "id": "24-290416",
+    "code": "Shooting Investigation",
+    "location": "2700 Block Florin Rd",
+    "date": "2024-10-17",
+    "time": "1448",
+    "text": "Officers responded to the area regarding reports of shots being fired. Officers did not locate any victims or property damage on scene. Officers did locate two spent casings. An investigation was conducted and report was generated."
+  },
+  {
+    "cmd": "East Command",
+    "id": "24-290597",
+    "code": "Shooting Investigation",
+    "location": "3500 Block 40th St",
+    "date": "2024-10-17",
+    "time": "1824",
+    "text": "Officers responded to a report of a shot being fired.  Officers did not locate any victims or property damage. Officers did locate one spent shell casing.  A report was generated. "
   }
 ]
