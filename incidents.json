@@ -15658,5 +15658,41 @@
     "date": "2024-10-17",
     "time": "1824",
     "text": "Officers responded to a report of a shot being fired.  Officers did not locate any victims or property damage. Officers did locate one spent shell casing.  A report was generated. "
+  },
+  {
+    "cmd": "East Command",
+    "id": "24-291420",
+    "code": "Stolen Vehicle - Arrest",
+    "location": "65th St Expy / Fruitridge Rd",
+    "date": "2024-10-18",
+    "time": "1613",
+    "text": "Officers located an occupied stolen vehicle. The driver was detained and arrested for related charges."
+  },
+  {
+    "cmd": "East Command",
+    "id": "24-291600",
+    "code": "Pursuit - Arrest",
+    "location": "Fruitridge Rd / 60th Ave",
+    "date": "2024-10-18",
+    "time": "1940",
+    "text": "Officers attempted to stop a vehicle and the driver failed to yield, leading officers on a pursuit. The suspect eventually pulled over and was detained. During the investigation, officers located an illegally possessed firearm. The suspect was arrested for related charges."
+  },
+  {
+    "cmd": "Central Command",
+    "id": "24-292150",
+    "code": "Burglary - Arrest",
+    "location": "2600 Block of H St",
+    "date": "2024-10-19",
+    "time": "1220",
+    "text": "Officers responded to reports of a burglary. On scene, officers located the suspect and detained her. She was arrested for related charges."
+  },
+  {
+    "cmd": "Central Command",
+    "id": "24-292696",
+    "code": "Firearm - Arrest",
+    "location": "Front St / Neasham Cir",
+    "date": "2024-10-19",
+    "time": "2304",
+    "text": "Officers were hailed regarding a person with a gun in his waistband. Officers located the suspect, who happened to be a juvenile, and safely detained him. A handgun was recovered and the suspect was arrested and transported to juvenile hall for related charges."
   }
 ]
