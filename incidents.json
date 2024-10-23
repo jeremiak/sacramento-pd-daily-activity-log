@@ -15694,5 +15694,41 @@
     "date": "2024-10-19",
     "time": "2304",
     "text": "Officers were hailed regarding a person with a gun in his waistband. Officers located the suspect, who happened to be a juvenile, and safely detained him. A handgun was recovered and the suspect was arrested and transported to juvenile hall for related charges."
+  },
+  {
+    "cmd": "North Command",
+    "id": "24-293004",
+    "code": "Stabbing Investigation",
+    "location": "Roseville Rd & I-80",
+    "date": "2024-10-20",
+    "time": "0740",
+    "text": "Officers responded to reports of a stabbing. Officers located a victim with a non-life-threatening stab wound. Officers conducted an extensive search of the area for a potential additional victim and suspect, but neither were located. A report was generated."
+  },
+  {
+    "cmd": "Central Command",
+    "id": "24-293137",
+    "code": "Pursuit - Arrest",
+    "location": "Richard Blvd & Bercut Dr",
+    "date": "2024-10-20",
+    "time": "1145",
+    "text": "Officers located a stolen vehicle in the area. The vehicle failed to yield, and pursuit ensued. The driver eventually pulled over and was detained. The driver was arrested for an outstanding felony warrant and related charges."
+  },
+  {
+    "cmd": "North Command",
+    "id": "24-293631",
+    "code": "Pursuit - Arrest",
+    "location": "Alamos Ave & Marysville Blvd",
+    "date": "2024-10-20",
+    "time": "2203",
+    "text": "Officers attempted to conduct a traffic stop of a vehicle with multiple equipment violations. The vehicle failed to yield and a short pursuit ensued. The driver was detained and arrested for related charges."
+  },
+  {
+    "cmd": "East Command",
+    "id": "24-293679",
+    "code": "Vehicle Collison",
+    "location": "5300 Block Martin Luther King Jr Blvd",
+    "date": "2024-10-20",
+    "time": "2316",
+    "text": "A single vehicle collided with a SMUD pole causing a large power outage in the area. The driver fled prior to officers’ arrival. A report was generated and SMUD/PG&E responded to the area restore power and to address a potential unrelated gas leak."
   }
 ]
