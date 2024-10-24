@@ -15730,5 +15730,23 @@
     "date": "2024-10-20",
     "time": "2316",
     "text": "A single vehicle collided with a SMUD pole causing a large power outage in the area. The driver fled prior to officers’ arrival. A report was generated and SMUD/PG&E responded to the area restore power and to address a potential unrelated gas leak."
+  },
+  {
+    "cmd": "East Command",
+    "id": "24-294205",
+    "code": "Shooting - Investigation",
+    "location": "6100 Block of Stockton Blvd",
+    "date": "2024-10-21",
+    "time": "1325",
+    "text": "Officers responded to reports of a shooting. Shortly after, a victim walked into a nearby hospital with a non-life-threatening gunshot wound. Officers conducted an investigation and a report was generated."
+  },
+  {
+    "cmd": "North Command",
+    "id": "24-294709",
+    "code": "Firearm - Arrest",
+    "location": "2200 Block of Northview Dr",
+    "date": "2024-10-21",
+    "time": "2311",
+    "text": "Officers responded to reports of a suspicious vehicle. When officers went to detain the driver of the vehicle, they located an illegally possessed firearm. The suspect was arrested for related charges."
   }
 ]
