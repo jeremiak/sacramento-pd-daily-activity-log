@@ -15748,5 +15748,23 @@
     "date": "2024-10-21",
     "time": "2311",
     "text": "Officers responded to reports of a suspicious vehicle. When officers went to detain the driver of the vehicle, they located an illegally possessed firearm. The suspect was arrested for related charges."
+  },
+  {
+    "cmd": "North Command",
+    "id": "24-295794",
+    "code": "Carjacking - Investigation",
+    "location": "2800 Block of Poquita St",
+    "date": "2024-10-23",
+    "time": "0255",
+    "text": "Officers responded to reports of a carjacking by gunpoint. The victim was not injured. Officers responded, completed an investigation, and a report was generated."
+  },
+  {
+    "cmd": "Central Command",
+    "id": "24-296326",
+    "code": "2800 Block of J St",
+    "location": "Robbery - Arrest",
+    "date": "2024-10-23",
+    "time": "1459",
+    "text": "Officers responded to reports of a robbery of a business by force. With the assistance of our Air Unit, ground officers located the suspect and safely detained him. He was ultimately arrested for related charges."
   }
 ]
