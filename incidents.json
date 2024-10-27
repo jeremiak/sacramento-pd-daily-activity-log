@@ -15766,5 +15766,23 @@
     "date": "2024-10-23",
     "time": "1459",
     "text": "Officers responded to reports of a robbery of a business by force. With the assistance of our Air Unit, ground officers located the suspect and safely detained him. He was ultimately arrested for related charges."
+  },
+  {
+    "cmd": "South Command",
+    "id": "24-296808",
+    "code": "Stolen Vehicle - Arrest",
+    "location": "24th St / Florin Rd",
+    "date": "2024-10-24",
+    "time": "0138",
+    "text": "Officers located an occupied stolen vehicle. The driver was detained and arrested for related charges."
+  },
+  {
+    "cmd": "South Command",
+    "id": "24-297385",
+    "code": "Robbery - Arrest",
+    "location": "2400 Block of Fruitridge Rd",
+    "date": "2024-10-24",
+    "time": "1540",
+    "text": "Officers responded to reports of a robbery to a business at knifepoint. Responding officers located the suspect nearby. The suspect was detained and arrested for related charges."
   }
 ]
