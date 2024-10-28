@@ -15784,5 +15784,23 @@
     "date": "2024-10-24",
     "time": "1540",
     "text": "Officers responded to reports of a robbery to a business at knifepoint. Responding officers located the suspect nearby. The suspect was detained and arrested for related charges."
+  },
+  {
+    "cmd": "Central Command",
+    "id": "24-298640",
+    "code": "Robbery - Arrest",
+    "location": "200 Block of K St",
+    "date": "2024-10-25",
+    "time": "1917",
+    "text": "Officers responded to reports of a robbery of a person by force. Officers located the suspects and they were arrested on robbery related charges."
+  },
+  {
+    "cmd": "East Command",
+    "id": "24-298837",
+    "code": "Shooting - Investigation",
+    "location": "7200 Block of Vandenberg Dr",
+    "date": "2024-10-25",
+    "time": "2313",
+    "text": "Officers responded to reports of a shooting. Responding officers located evidence of a shooting. No injuries were reported. A report was generated."
   }
 ]
