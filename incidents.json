@@ -15829,5 +15829,23 @@
     "date": "2024-10-28",
     "time": "1930",
     "text": "Officers located a stolen bicycle. Officers detained the suspect who was riding the bike at the time and said that he took the bike. The suspect was arrested for related charges."
+  },
+  {
+    "cmd": "Central Command",
+    "id": "24-301950",
+    "code": "Subject Stop - Arrest",
+    "location": "2600 Block N St",
+    "date": "2024-10-29",
+    "time": "0721",
+    "text": "Officers responded to a report of an unknown subject inside of the caller's vehicle. The suspect fled from the vehicle when officers arrived, and a brief foot pursuit ensued. The suspect was detained and arrested for related charges."
+  },
+  {
+    "cmd": "North Command",
+    "id": "24-301979",
+    "code": "Stolen Vehicle - Arrest",
+    "location": "Northgate Blvd & I-80",
+    "date": "2024-10-29",
+    "time": "0807",
+    "text": "Officers located a stolen vehicle and detained two suspects associated with the vehicle. Officers located stolen mail and a firearm within the vehicle, and narcotic paraphernalia in the suspects' hotel room. The suspects were arrested for related charges."
   }
 ]
