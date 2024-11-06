@@ -15874,5 +15874,23 @@
     "date": "2024-11-01",
     "time": "1251",
     "text": "Officers conducted an investigation of a known suspect.  The suspect was observed in the area and detained without incident.  Officers conducted a search and located a firearm. The suspect was arrested on related charges."
+  },
+  {
+    "cmd": "East Command",
+    "id": "24-306996",
+    "code": "Traffic Stop - Arrest",
+    "location": "Blue Sky Ct & Sky Creek Dr",
+    "date": "2024-11-03",
+    "time": "0759",
+    "text": "Officers observed a suspicious occupied vehicle parked in the area. Officers identified one of the occupants of the vehicle to have an outstanding felony warrant. The suspect was arrested for related charges. "
+  },
+  {
+    "cmd": "East Command",
+    "id": "24-307618",
+    "code": "Traffic Stop - Arrest",
+    "location": "Stockton Blvd & 17th Ave",
+    "date": "2024-11-03",
+    "time": "2335",
+    "text": "Officers located a vehicle associated with a home invasion. Officers detained the driver of the vehicle who was identified as the suspect in the home invasion. The suspect was arrested for related charges."
   }
 ]
