@@ -15892,5 +15892,23 @@
     "date": "2024-11-03",
     "time": "2335",
     "text": "Officers located a vehicle associated with a home invasion. Officers detained the driver of the vehicle who was identified as the suspect in the home invasion. The suspect was arrested for related charges."
+  },
+  {
+    "cmd": "East Command",
+    "id": "24-308046",
+    "code": "Traffic Investigation - Firearm Arrest",
+    "location": "Power Inn & Folsom Blvd",
+    "date": "2024-11-04",
+    "time": "1154",
+    "text": "Officers responded to reports of a vehicle collision. While providing medical aid to one of the drivers, officers located a firearm on their person. The driver transported to an area hospital, officers conducted a DUI investigation. The driver was arrested for related charges. "
+  },
+  {
+    "cmd": "North Command",
+    "id": "24-308330",
+    "code": "Stolen Vehicle - Arrest",
+    "location": "Gateway Park Blvd & N Freeway Blvd",
+    "date": "2024-11-04",
+    "time": "1703",
+    "text": "Officers located a stolen vehicle in the area. Officers detained the driver. The driver was arrested for related charges. "
   }
 ]
