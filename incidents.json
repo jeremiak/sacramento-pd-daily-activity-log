@@ -15982,5 +15982,41 @@
     "date": "2024-11-09",
     "time": "1150",
     "text": "Officers located a stolen vehicle. Officers detained the driver. The driver was arrested for related charges."
+  },
+  {
+    "cmd": "South Command",
+    "id": "24-313236",
+    "code": "Stolen Vehicle - Arrest",
+    "location": "Meadowview Rd & Amherst St",
+    "date": "2024-11-10",
+    "time": "0008",
+    "text": "Officers located a stolen vehicle. The officers attempted to stop the vehicle and a short pursuit ensued. The suspects fled on foot. Officers located some of the suspects and detained them. The suspects were arrested for related charges."
+  },
+  {
+    "cmd": "North Command",
+    "id": "24-313254",
+    "code": "Traffic Stop - Firearm Arrest",
+    "location": "Fairfield St & El Camino Ave",
+    "date": "2024-11-10",
+    "time": "0035",
+    "text": "Officers conducted a traffic stop. Officers conducted a search of the vehicle and located narcotics and firearm. The driver was arrested for related charges. "
+  },
+  {
+    "cmd": "East Command",
+    "id": "24-313396",
+    "code": "Investigation - Firearms Arrest",
+    "location": "3600 Block 18th Ave",
+    "date": "2024-11-10",
+    "time": "0742",
+    "text": "Officers responded to a report of a subject who pointed a firearm at the caller. Officers located the suspect with the firearm and detained her. The suspect was arrested for related charges."
+  },
+  {
+    "cmd": "North Command",
+    "id": "24-313590",
+    "code": "Stolen Vehicle - Firearm Arrest",
+    "location": "Norwood Ave & Jessie Ave",
+    "date": "2024-11-10",
+    "time": "1155",
+    "text": "Officers located a stolen vehicle. The driver of the vehicle was detained. Officers observed the driver to be in possession of a firearm. The driver was arrested for related charges."
   }
 ]
