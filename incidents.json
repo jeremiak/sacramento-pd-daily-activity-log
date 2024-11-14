@@ -16018,5 +16018,23 @@
     "date": "2024-11-10",
     "time": "1155",
     "text": "Officers located a stolen vehicle. The driver of the vehicle was detained. Officers observed the driver to be in possession of a firearm. The driver was arrested for related charges."
+  },
+  {
+    "cmd": "North Command",
+    "id": "24-314780",
+    "code": "Stolen Vehicle - Arrest",
+    "location": "2700 Block Ellen St",
+    "date": "2024-11-11",
+    "time": "1954",
+    "text": "Officers responded to reports of a vehicle that was stolen just prior to their arrival. Officers quickly located the stolen vehicle and conducted a traffic stop. Officers detained the driver and located narcotics and determined the driver to have an outstanding felony warrant. The driver was arrested for related charges."
+  },
+  {
+    "cmd": "East Command",
+    "id": "24-314862",
+    "code": "Investigation - Firearms Arrest",
+    "location": "Prickly Pear Ave & 54th St",
+    "date": "2024-11-11",
+    "time": "2209",
+    "text": "Officers responded to reports of a possible assault. Officers observed the suspect grab an object in the vehicle he and the female were seated in. Officers detained the male and located a loaded firearm under the seat of the vehicle. The suspect was arrested for related charges. "
   }
 ]
