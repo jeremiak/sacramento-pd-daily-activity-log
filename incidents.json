@@ -16045,5 +16045,23 @@
     "date": "2024-11-12",
     "time": "1929",
     "text": "Officers attempted to conduct a traffic stop. The vehicle failed to yield, and a vehicle pursuit ensued.  An occupant of the vehicle fled on foot. Officers detained the subject and upon a search, located a firearm with a magazine inside of it. The vehicle pursuit continued and a short distance away until the vehicle yielded, and the driver was detained. "
+  },
+  {
+    "cmd": "North Command",
+    "id": "24-316090",
+    "code": "Pursuit - Arrest",
+    "location": "W. El Camino Ave & Northgate Blvd",
+    "date": "2024-11-13",
+    "time": "0930",
+    "text": "Officers attempted to conduct a traffic stop of a vehicle. The vehicle failed to yield and a short pursuit ensued. The driver eventually stopped and was detained by officers. The driver was arrested for related charges. "
+  },
+  {
+    "cmd": "North Command",
+    "id": "24-316642",
+    "code": "Pursuit - Arrest",
+    "location": "W. El Camino Ave & Truxel Rd.",
+    "date": "2024-11-13",
+    "time": "1953",
+    "text": "Officers located a stolen vehicle in the area. Officers detained the driver of the vehicle. The driver was arrested for related charges. "
   }
 ]
