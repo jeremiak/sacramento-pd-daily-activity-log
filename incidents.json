@@ -16063,5 +16063,14 @@
     "date": "2024-11-13",
     "time": "1953",
     "text": "Officers located a stolen vehicle in the area. Officers detained the driver of the vehicle. The driver was arrested for related charges. "
+  },
+  {
+    "cmd": "East Command",
+    "id": "24-317701",
+    "code": "Pursuit - Arrest",
+    "location": "Stockton Blvd / 47th Ave",
+    "date": "2024-11-14",
+    "time": "2218",
+    "text": "Officers attempted to stop a vehicle for a vehicle code violation. The driver failed to yield and led officers on a pursuit. A Pursuit Immobilization Technique (PIT) maneuver was successfully executed and the suspect was safely detained. The suspect was arrested for related charges."
   }
 ]
