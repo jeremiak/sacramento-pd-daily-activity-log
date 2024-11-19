@@ -16099,5 +16099,32 @@
     "date": "2024-11-15",
     "time": "2354",
     "text": "Officers stopped a vehicle for a vehicle code violation. During the investigation, officers located an illegally possessed firearm. The passenger was arrested for firearm related charges."
+  },
+  {
+    "cmd": "North Command",
+    "id": "24-318735",
+    "code": "Firearm - Arrest",
+    "location": "Branch St / Alamos Ave",
+    "date": "2024-11-16",
+    "time": "0112",
+    "text": "Officers were preparing to stop a vehicle when the driver parked and fled from the car. With the assistance of our Unmanned Aerial System (drone), the suspect was located and safely detained. During the investigation, officers located an illegally possessed firearm. The suspect was arrested for related charges. "
+  },
+  {
+    "cmd": "East Command",
+    "id": "24-319412",
+    "code": "Shooting - Investigation",
+    "location": "3600 Block of 35th St",
+    "date": "2024-11-16",
+    "time": "2053",
+    "text": "Officers responded to reports of a shooting and located evidence of a shooting. No injuries were reported. Officers conducted an investigation and a report was generated. "
+  },
+  {
+    "cmd": "North Command",
+    "id": "24-319481",
+    "code": "Shooting - Investigation",
+    "location": "1000 Block of Frienza Ave",
+    "date": "2024-11-16",
+    "time": "2234",
+    "text": "Officers responded to reports of a shooting and located evidence of a shooting. No injuries were reported. Officers conducted an investigation and a report was generated. "
   }
 ]
