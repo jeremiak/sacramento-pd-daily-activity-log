@@ -16126,5 +16126,23 @@
     "date": "2024-11-16",
     "time": "2234",
     "text": "Officers responded to reports of a shooting and located evidence of a shooting. No injuries were reported. Officers conducted an investigation and a report was generated. "
+  },
+  {
+    "cmd": "Central Command",
+    "id": "24-320156",
+    "code": "Stolen Vehicle - Arrest",
+    "location": "J St & 11th St",
+    "date": "2024-11-17",
+    "time": "1734",
+    "text": "Officers located a stolen vehicle in the area. Officers detained the driver. The driver was arrested for related charges. "
+  },
+  {
+    "cmd": "Central Command",
+    "id": "24-320174",
+    "code": "Investigation - Firearms Arrest",
+    "location": "16th St & E St",
+    "date": "2024-11-17",
+    "time": "1803",
+    "text": "Officers responded to reports of a subject with a firearm. With the assistance of the air unit, officers located the subject and detained him. The firearm was located nearby. The subject was arrested for related charges. "
   }
 ]
