@@ -16162,5 +16162,23 @@
     "date": "2024-11-18",
     "time": "1808",
     "text": "Officers attempted to conduct a subject stop when the subject fled on foot. After a short foot pursuit, the subject was detained. The subject was found to have an outstanding felony warrant and was arrested for related charges."
+  },
+  {
+    "cmd": "North Command",
+    "id": "24-321850",
+    "code": "Subject Stop - Arrest",
+    "location": "700 Block of Dixieanne Ave",
+    "date": "2024-11-19",
+    "time": "1629",
+    "text": "Officers attempted to conduct a subject stop when the subject fled on foot into a vacant residence. Officers safely called the suspect out of the residence and detained him. The suspect was arrested for an outstanding felony warrant and related charges."
+  },
+  {
+    "cmd": "South Command",
+    "id": "24-322157",
+    "code": "Burglary-Arrest",
+    "location": "7300 Block of Franklin Blvd",
+    "date": "2024-11-19",
+    "time": "2358",
+    "text": "Officers responded to reports of a burglary. The suspect fled from the location and officers quickly established a perimeter. The suspect was detained and arrested for related charges and an outstanding felony warrant. "
   }
 ]
