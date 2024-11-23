@@ -16180,5 +16180,32 @@
     "date": "2024-11-19",
     "time": "2358",
     "text": "Officers responded to reports of a burglary. The suspect fled from the location and officers quickly established a perimeter. The suspect was detained and arrested for related charges and an outstanding felony warrant. "
+  },
+  {
+    "cmd": "North Command",
+    "id": "24-322176",
+    "code": "Pursuit - Arrest",
+    "location": "Truxel Rd & W El Camino Ave",
+    "date": "2024-11-20",
+    "time": "0052",
+    "text": "Officers located a stolen vehicle in the area. When officers attempted to conduct a traffic stop, the vehicle failed to yield and a short pursuit ensued. The driver then fled from the vehicle on foot. After a short foot pursuit, the driver was detained by officers and arrested for related charges. "
+  },
+  {
+    "cmd": "North Command",
+    "id": "24-322304",
+    "code": "Stolen Vehicle - Arrest",
+    "location": "East Commerce Wy & North Park Dr",
+    "date": "2024-11-20",
+    "time": "0742",
+    "text": "Officers located a stolen vehicle in the area. Officers detained the driver. The driver was arrested for related charges."
+  },
+  {
+    "cmd": "East Command",
+    "id": "24-322793",
+    "code": "Stolen Vehicle - Arrest",
+    "location": "Power Inn Rd & Folsom Blvd",
+    "date": "2024-11-20",
+    "time": "1728",
+    "text": "Officers located a stolen vehicle in the area. Officers detained the driver. The driver was arrested for related charges."
   }
 ]
