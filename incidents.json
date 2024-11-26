@@ -16225,5 +16225,23 @@
     "date": "2024-11-22",
     "time": "1926",
     "text": "Officers responded to reports of a shooting. Responding officers located evidence of a shooting. No injuries were reported. Officers conducted an investigation and a report was generated. "
+  },
+  {
+    "cmd": "South Command",
+    "id": "24-325509",
+    "code": "Theft/Foot Pursuit - Arrest",
+    "location": "2500 Block of Riverside Blvd",
+    "date": "2024-11-23",
+    "time": "1549",
+    "text": "Officers responded to reports of a theft at a business. Officers contacted the suspect and began a records check when he took off running from officers. The suspect was caught a short distance later and was detained. The suspect had a felony warrant and was arrested for related charges. "
+  },
+  {
+    "cmd": "South Command",
+    "id": "24-325606",
+    "code": "Firearm - Arrest",
+    "location": "Red Willow St / Candlewood Wy",
+    "date": "2024-11-23",
+    "time": "1800",
+    "text": "Officers responded to reports of multiple juveniles in the area with firearms. When officers arrived, several suspects took off running. One suspect attempted to hide. When officers attempted to contact him, he took off running as well. Officers eventually caught up to him and detained him. During the investigation, officers located two illegally possessed firearms on this suspect. He was arrested and transported to juvenile hall. "
   }
 ]
