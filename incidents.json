@@ -16252,5 +16252,23 @@
     "date": "2024-11-24",
     "time": "2200",
     "text": "Officers observed a vehicle driving erratically in the area. Officers attempted to conduct a traffic stop when the vehicle failed to yield, and a short pursuit ensued. The driver eventually stopped and was detained. The driver was arrested for related charges. "
+  },
+  {
+    "cmd": "North Command",
+    "id": "24-327631",
+    "code": "Robbery - Arrest",
+    "location": "New Market Dr & E Commerce Way",
+    "date": "2024-11-25",
+    "time": "2217",
+    "text": "Officers responded to the area for reports of a robbery. The suspect fled prior to officers arrival. Through expeditious investigation, the suspect's vehicle was located. Officers located the suspect in their vehicle and detained him. Officers located stolen property and a loaded firearm. The suspect was arrested for related charges. "
+  },
+  {
+    "cmd": "East Command",
+    "id": "24-327640",
+    "code": "Burglary - Arrest",
+    "location": "6000 Block Spoerriwood Ct",
+    "date": "2024-11-25",
+    "time": "2236",
+    "text": "Officers responded to the area regarding reports of a burglary. Through investigation it was determined the burglary was unfounded. A subject at the residence was found to have an outstanding felony warrant, narcotics, and a firearm. The subject was arrested for related charges."
   }
 ]
