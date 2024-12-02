@@ -16297,5 +16297,23 @@
     "date": "2024-11-28",
     "time": "2218",
     "text": "Officers responded to reports of a shooting. Responding officers located evidence of a shooting. No injuries were reported. Officers conducted an investigation and a report was generated. "
+  },
+  {
+    "cmd": "North Command",
+    "id": "24-330541",
+    "code": "Stolen Vehicle - Arrest",
+    "location": "4200 Block of Norwood Ave",
+    "date": "2024-11-29",
+    "time": "1116",
+    "text": "Officers located an occupied stolen vehicle. The driver was detained and arrested for related charges."
+  },
+  {
+    "cmd": "North Command",
+    "id": "24-330572",
+    "code": "Traffic Stop - Firearm Arrest",
+    "location": "1600 Block of Arden Wy",
+    "date": "2024-11-29",
+    "time": "1156",
+    "text": "Officers conducted a traffic stop. A parolee inside of the vehicle was detained and during the investigation, officers located an illegally possessed firearm inside of the vehicle. The suspect was arrested for related charges."
   }
 ]
