@@ -16324,5 +16324,23 @@
     "date": "2024-11-30",
     "time": "2146",
     "text": "Officers responded to reports of a shooting. Responding officers located evidence of a shooting. No injuries were reported. Officers conducted an investigation and a report was generated. "
+  },
+  {
+    "cmd": "Central Command",
+    "id": "24-332134",
+    "code": "Pursuit - Arrest",
+    "location": "Richards Blvd & I-5",
+    "date": "2024-12-01",
+    "time": "0751",
+    "text": "Officers observed a vehicle driving erratically and attempted to conduct a traffic stop. The suspect vehicle failed to yield, and a pursuit ensued. CHP eventually took over the pursuit and the suspect was eventually detained. The suspect was arrested for related charges."
+  },
+  {
+    "cmd": "North Command",
+    "id": "24-332496",
+    "code": "Shooting - Investigation",
+    "location": "2700 Block Oakmont St",
+    "date": "2024-12-01",
+    "time": "1826",
+    "text": "Officers responded to the area regarding sounds of shots being fired. Officers observed evidence of a shooting, but no injuries were reported. An investigation was conducted, and a report was generated. "
   }
 ]
