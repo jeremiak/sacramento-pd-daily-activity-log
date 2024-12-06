@@ -16351,5 +16351,23 @@
     "date": "2024-12-02",
     "time": "0947",
     "text": "Officers located an occupied stolen vehicle. The driver was detained and arrested for related charges."
+  },
+  {
+    "cmd": "North Command",
+    "id": "24-333657",
+    "code": "Stolen Vehicle - Firearm Arrest",
+    "location": "Mahogany St / Grand Ave",
+    "date": "2024-12-03",
+    "time": "0225",
+    "text": "Officers located an occupied stolen vehicle. The driver was detained. During the investigation, officers located an illegally possessed firearm and narcotics. The suspect as arrested for related charges."
+  },
+  {
+    "cmd": "East Command",
+    "id": "24-334412",
+    "code": "Carjacking - Investigation",
+    "location": "5300 Block of 47th Ave",
+    "date": "2024-12-03",
+    "time": "1819",
+    "text": "Officers responded to reports of a carjacking at gunpoint. Responding officers located the vehicle nearby and it was unoccupied. Crime Scene Investigators responded to process the vehicle and an investigation was conducted. The victim did not sustain any physical injuries during the carjacking."
   }
 ]
