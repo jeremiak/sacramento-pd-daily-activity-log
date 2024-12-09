@@ -16387,5 +16387,23 @@
     "date": "2024-12-05",
     "time": "1813",
     "text": "Officers responded to reports of a shooting. Responding officers located evidence of a shooting. No injuries were reported. A report was generated. "
+  },
+  {
+    "cmd": "North Command",
+    "id": "24-337185",
+    "code": "Traffic Stop - Firearm Arrest",
+    "location": "Grove Ave & El Camino Ave",
+    "date": "2024-12-06",
+    "time": "1435",
+    "text": "Officers conducted a traffic stop of a vehicle. The driver of the vehicle was found to be on probation. During a search, officers located an illegally possessed firearm in the vehicle. The driver was arrested for related charges. "
+  },
+  {
+    "cmd": "South Command",
+    "id": "24-337606",
+    "code": "Pursuit - Firearm Arrest",
+    "location": "2300 Block Florin Rd",
+    "date": "2024-12-06",
+    "time": "2234",
+    "text": "Officers located a suspect vehicle involved in a recent felony crime. Officers attempted to stop the vehicle; however it failed to yield to officers and a pursuit ensued. The vehicle eventually stopped, and the driver was detained. Officers located a firearm in the vehicle. The driver was arrested for related charges.  "
   }
 ]
