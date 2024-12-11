@@ -16405,5 +16405,32 @@
     "date": "2024-12-06",
     "time": "2234",
     "text": "Officers located a suspect vehicle involved in a recent felony crime. Officers attempted to stop the vehicle; however it failed to yield to officers and a pursuit ensued. The vehicle eventually stopped, and the driver was detained. Officers located a firearm in the vehicle. The driver was arrested for related charges.  "
+  },
+  {
+    "cmd": "North Command",
+    "id": "24-338597",
+    "code": "Traffic Stop - Firearm Arrest",
+    "location": "Grove Ave & Redwood Ave",
+    "date": "2024-12-08",
+    "time": "0107",
+    "text": "Officers conducted a traffic stop of a vehicle for reckless driving. During a search of the vehicle, officers located a loaded, stolen firearm and magazine. The driver was arrested for related charges. "
+  },
+  {
+    "cmd": "Central Command",
+    "id": "24-338851",
+    "code": "Assault - Arrest",
+    "location": "16th St & F St",
+    "date": "2024-12-08",
+    "time": "1055",
+    "text": "Officers responded to a report of a subject who brandished a knife. Officers located the suspect who chased an officer with the knife. Officers quickly set up a perimeter around the suspect. After lengthy negotiations, the suspect was taken into custody utilizing less lethal force. The suspect was arrested for related charges. "
+  },
+  {
+    "cmd": "North Command",
+    "id": "24-339345",
+    "code": "Shooting - Investigation",
+    "location": "3000 Block Crandall Ave",
+    "date": "2024-12-08",
+    "time": "2247",
+    "text": "Officers responded to a report of sounds of shots being fired. Officers located evidence of a shooting on scene but no reported victims. An investigation was conducted, and a report was generated. "
   }
 ]
