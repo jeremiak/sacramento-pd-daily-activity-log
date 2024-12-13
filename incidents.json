@@ -16441,5 +16441,32 @@
     "date": "2024-12-09",
     "time": "0000",
     "text": "Officers located a stolen vehicle in the area. Officers detained the driver. The driver was arrested for related charges. "
+  },
+  {
+    "cmd": "East Command",
+    "id": "24-340351",
+    "code": "Traffic Stop - Firearm Arrest",
+    "location": "Riza Ave & Stockton Blvd",
+    "date": "2024-12-10",
+    "time": "0041",
+    "text": "Officers conducted a traffic stop of a vehicle. As the vehicle was slowing, the passenger fled on foot from the vehicle. Officers were able to detain all occupants and the suspect that fled from the vehicle. The suspect and one of the occupants were found to have outstanding warrants and a stolen firearm. They were arrested for related charges. "
+  },
+  {
+    "cmd": "North Command",
+    "id": "24-340394",
+    "code": "Pursuit",
+    "location": "Regency Park & Natalino Cir",
+    "date": "2024-12-10",
+    "time": "0304",
+    "text": "Officers attempted to conduct a traffic stop of a vehicle they observed driving recklessly in the area. The vehicle failed to stop, and a brief pursuit ensued. Both occupants of the vehicle fled on foot. A perimeter was established; however, the suspects were not located. "
+  },
+  {
+    "cmd": "North Command",
+    "id": "24-341048",
+    "code": "Stolen Vehicle - Arrest",
+    "location": "Marysville & Los Robles Blvd",
+    "date": "2024-12-10",
+    "time": "1728",
+    "text": "Officers located a stolen vehicle in the area. Officers detained the driver. The driver was arrested for related charges. "
   }
 ]
