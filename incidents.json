@@ -16486,5 +16486,14 @@
     "date": "2024-12-12",
     "time": "1805",
     "text": "Officers observed a suspect manipulating a parking meter with scissors. Officers contacted the suspect, who admitted to breaking into several other parking meters previously. After a thorough investigation, the suspect was arrested for theft related charges. "
+  },
+  {
+    "cmd": "North Command",
+    "id": "24-343135",
+    "code": "Theft Investigation - Arrest",
+    "location": "Bell Ave & May St",
+    "date": "2024-12-13",
+    "time": "0508",
+    "text": "Officers responded to the area for reports of a subject stealing copper wire from an underground electrical box. Officers arrived, and detained the suspect. The suspect was found to be in possession of stolen copper wire. The suspect was arrested for related charges."
   }
 ]
