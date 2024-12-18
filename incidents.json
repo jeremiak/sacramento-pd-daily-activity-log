@@ -16495,5 +16495,32 @@
     "date": "2024-12-13",
     "time": "0508",
     "text": "Officers responded to the area for reports of a subject stealing copper wire from an underground electrical box. Officers arrived, and detained the suspect. The suspect was found to be in possession of stolen copper wire. The suspect was arrested for related charges."
+  },
+  {
+    "cmd": "South Command",
+    "id": "24-344898",
+    "code": "Shooting Investigation",
+    "location": "300 Block Highfield Cir",
+    "date": "2024-12-15",
+    "time": "0216",
+    "text": "Officers responded to reports of a shooting.  Officers investigated and located evidence of a shooting but no victims.  An investigation was conducted a report was taken."
+  },
+  {
+    "cmd": "North Command",
+    "id": "24-345143",
+    "code": "Brandishing Investigation - Arrest",
+    "location": "800 Block Arden Wy",
+    "date": "2024-12-15",
+    "time": "1023",
+    "text": "Officers responded to a report of a subject who brandished a firearm at them and went back into their apartment. After officers peacefully made contact with the subject, they discovered the caller actually made a false report to police. The caller was arrested for related charges. "
+  },
+  {
+    "cmd": "North Command",
+    "id": "24-345323",
+    "code": "Traffic Stop - Firearm Arrest",
+    "location": "Arena Blvd & Gateway Park Blvd",
+    "date": "2024-12-15",
+    "time": "1543",
+    "text": "Officers conducted a traffic stop in the area. One of the occupants advised of a firearm in the vehicle. Officers located two illegally possessed firearms. The subject was arrested for related charges. "
   }
 ]
