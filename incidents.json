@@ -16567,5 +16567,23 @@
     "date": "2024-12-18",
     "time": "2152",
     "text": "Officers responded to reports of carjacking. The vehicle was located at another location unoccupied. Officers conducted an investigation and a report was generated."
+  },
+  {
+    "cmd": "East Command",
+    "id": "24-348637",
+    "code": "Stolen Vehicle - Arrest",
+    "location": "Power Inn Rd / Fruitridge Rd",
+    "date": "2024-12-19",
+    "time": "1036",
+    "text": "Officers located an occupied stolen vehicle. The driver was detained and arrested for related charges."
+  },
+  {
+    "cmd": "North Command",
+    "id": "24-349026",
+    "code": "Shooting - Investigation",
+    "location": "2600 Block of Fairfield St",
+    "date": "2024-12-19",
+    "time": "1834",
+    "text": "Officers responded to reports of a shooting. Responding officers located a male adult with at least one gunshot wound. The victim was transported to an area hospital where he is currently in stable condition. Officers conducted an investigation and a report was generated. "
   }
 ]
