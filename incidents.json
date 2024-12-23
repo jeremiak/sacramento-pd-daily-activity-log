@@ -16585,5 +16585,23 @@
     "date": "2024-12-19",
     "time": "1834",
     "text": "Officers responded to reports of a shooting. Responding officers located a male adult with at least one gunshot wound. The victim was transported to an area hospital where he is currently in stable condition. Officers conducted an investigation and a report was generated. "
+  },
+  {
+    "cmd": "East Command",
+    "id": "24-349883",
+    "code": "Shooting - Investigation",
+    "location": "6400 Block of Stockton Blvd",
+    "date": "2024-12-20",
+    "time": "1714",
+    "text": "Officers responded to reports of a shooting. Responding officers located evidence of a shooting. No injuries were reported. Officers conducted an investigation and a report was generated."
+  },
+  {
+    "cmd": "South Command",
+    "id": "24-350091",
+    "code": "Burglary - Arrest",
+    "location": "5900 Block of 26th St",
+    "date": "2024-12-20",
+    "time": "2102",
+    "text": "Officers responded to a burglary in progress. Thanks to the assistance of one of our K-9 officers, the suspect was located inside of the building and arrested for burglary related charges."
   }
 ]
