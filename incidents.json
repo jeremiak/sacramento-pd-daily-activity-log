@@ -16612,5 +16612,32 @@
     "date": "2024-12-21",
     "time": "1603",
     "text": "Officers located an occupied stolen vehicle. The driver was detained and arrested for related charges."
+  },
+  {
+    "cmd": "South Command",
+    "id": "24-351063",
+    "code": "Shooting - Investigation",
+    "location": "7400 Block of 29th St",
+    "date": "2024-12-22",
+    "time": "0108",
+    "text": "Officers responded to reports of a shooting. Responding officers located evidence of a shooting. No injuries were reported. Officers conducted an investigation and a report was generated."
+  },
+  {
+    "cmd": "North Command",
+    "id": "24-351495",
+    "code": "Stolen Vehicle - Firearm Arrest",
+    "location": "2000 Block Gateway Dr",
+    "date": "2024-12-22",
+    "time": "1544",
+    "text": "Officers located a stolen vehicle in the area. Officers detained the driver and located an illegally possessed firearm in the vehicle. The driver was arrested for related charges. "
+  },
+  {
+    "cmd": "North Command",
+    "id": "24-351605",
+    "code": "Assault - Firearm Arrest",
+    "location": "300 Block Kelley Ct",
+    "date": "2024-12-22",
+    "time": "1749",
+    "text": "Officers responded to a report of an assault. The air unit responded with officers and observed the suspect hide a firearm in the backyard prior to officers detaining him. Officers located the firearm, and the suspect was arrested for related charges. "
   }
 ]
