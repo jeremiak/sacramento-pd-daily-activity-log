@@ -16666,5 +16666,23 @@
     "date": "2024-12-25",
     "time": "0319",
     "text": "Officers responded to the area for reports of sounds of shots being fired. Responding officers located evidence of a shooting, but no property damage or injuries were observed. A report was generated. "
+  },
+  {
+    "cmd": "East Command",
+    "id": "24-354494",
+    "code": "Firearm - Arrest",
+    "location": "3000 Block of 37th St",
+    "date": "2024-12-26",
+    "time": "1203",
+    "text": "Officers responded to reports of a man with a gun. Responding officers located the suspect, who attempted to flee from officers on foot, but was taken into custody. During the investigation, officers located an illegally possessed firearm that the suspect discarded. The suspect was arrested for related charges."
+  },
+  {
+    "cmd": "Central Command",
+    "id": "24-355014",
+    "code": "Pursuit/DUI - Arrest",
+    "location": "17th St / O St",
+    "date": "2024-12-26",
+    "time": "2251",
+    "text": "Officers responded to reports of a possible DUI driver. Officers attempted to stop the vehicle, but the suspect failed to yield and led officers on a slow-speed pursuit. The suspect was eventually detained and showed objective signs of intoxication. The suspect was arrested for related charges."
   }
 ]
