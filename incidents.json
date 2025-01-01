@@ -16711,5 +16711,32 @@
     "date": "2024-12-28",
     "time": "0124",
     "text": "Officers observed a stolen vehicle in the area. Officers detained the occupants of the vehicle. The driver was arrested for related charges. "
+  },
+  {
+    "cmd": "North Command",
+    "id": "24-356852",
+    "code": "Shooting - Firearm Arrest",
+    "location": "200 Block Arcade Blvd",
+    "date": "2024-12-29",
+    "time": "0053",
+    "text": "Officers responded to a report of sounds of shots fired in the area. No injuries were reported. Officers contacted a subject on scene and through investigation learned they were the suspect that fired a handgun. An illegally possessed firearm was located and seized, and the suspect was arrested for related charges."
+  },
+  {
+    "cmd": "South Command",
+    "id": "24-356898",
+    "code": "Investigation - Firearms Arrest",
+    "location": "8000 Block Sunnybrae Dr",
+    "date": "2024-12-29",
+    "time": "0201",
+    "text": "Officers responded to reports of possible domestic violence. During the investigation, officers located an illegally possessed rife, stolen handgun, magazines, and illicit drugs. The suspect was arrested for related charges."
+  },
+  {
+    "cmd": "North Command",
+    "id": "24-357098",
+    "code": "Subject Stop - Firearms Arrest",
+    "location": "Display Wy & Taylor St",
+    "date": "2024-12-29",
+    "time": "1124",
+    "text": "Officers conducted a subject stop of a known subject. The subject was detained and during a search, officers located an illegally possessed rifle. The subject was arrested for related charges."
   }
 ]
