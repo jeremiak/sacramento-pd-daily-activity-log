@@ -16738,5 +16738,41 @@
     "date": "2024-12-29",
     "time": "1124",
     "text": "Officers conducted a subject stop of a known subject. The subject was detained and during a search, officers located an illegally possessed rifle. The subject was arrested for related charges."
+  },
+  {
+    "cmd": "South Command",
+    "id": "24-359048",
+    "code": "Collision-Investigation",
+    "location": "2700 Block Marina View Drive",
+    "date": "2024-12-31",
+    "time": "1656",
+    "text": "Officers responded to reports of a vehicle in the river. Officers and the fire department responded to the scene and located the solo occupant and driver of the vehicle. The driver was safely brought to land with assistance of officers and transported to an area hospital."
+  },
+  {
+    "cmd": "Central Command",
+    "id": "24-359132",
+    "code": "Subject Stop - Arrest",
+    "location": "7th St & K St",
+    "date": "2024-12-31",
+    "time": "1900",
+    "text": "Officers stopped a subject believed to be a suspect of carjacking. While being arrested, the suspect fled from officers. A short foot pursuit ensued, and the suspect was arrested for related charges.  "
+  },
+  {
+    "cmd": "Central Command",
+    "id": "24-359196",
+    "code": "Subject Stop - Arrest",
+    "location": "5th St & I St",
+    "date": "2024-12-31",
+    "time": "2010",
+    "text": "Officers stopped a suspect who was actively breaking into parking meters. The suspect was combative with officers but was eventually detained. The suspect was arrested for related charges. "
+  },
+  {
+    "cmd": "East Command",
+    "id": "24-359283",
+    "code": "Shooting - Firearm Arrest",
+    "location": "3800 Block of 14th Ave",
+    "date": "2024-12-31",
+    "time": "2148",
+    "text": "Officers responded to reports of shots being fired. As officers arrived on scene, multiple subjects fled on foot and officers quickly set up a perimeter. Officers located a loaded handgun nearby as well as the suspects. No victims or property damage were reported. One of the suspects was arrested for related charges. "
   }
 ]
