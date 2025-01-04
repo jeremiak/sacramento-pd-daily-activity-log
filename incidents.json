@@ -16774,5 +16774,23 @@
     "date": "2024-12-31",
     "time": "2148",
     "text": "Officers responded to reports of shots being fired. As officers arrived on scene, multiple subjects fled on foot and officers quickly set up a perimeter. Officers located a loaded handgun nearby as well as the suspects. No victims or property damage were reported. One of the suspects was arrested for related charges. "
+  },
+  {
+    "cmd": "East Command",
+    "id": "25-000296",
+    "code": "Shooting - Investigation",
+    "location": "3300 Block of 7th Ave",
+    "date": "2025-01-01",
+    "time": "0830",
+    "text": "Officers responded to reports of a shooting. Responding officers located evidence of a shooting. No injuries were reported. A report was generated."
+  },
+  {
+    "cmd": "Central Command",
+    "id": "25-000742",
+    "code": "Robbery - Arrest",
+    "location": "600 Block of J St",
+    "date": "2025-01-01",
+    "time": "2026",
+    "text": "Officers were hailed regarding a robbery that just occurred. Officers located two juvenile suspects. The primary suspect was arrested and transported to juvenile hall for related charges."
   }
 ]
