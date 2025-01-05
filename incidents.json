@@ -16792,5 +16792,23 @@
     "date": "2025-01-01",
     "time": "2026",
     "text": "Officers were hailed regarding a robbery that just occurred. Officers located two juvenile suspects. The primary suspect was arrested and transported to juvenile hall for related charges."
+  },
+  {
+    "cmd": "South Command",
+    "id": "25-001748",
+    "code": "Firearm - Arrest",
+    "location": "7500 Block of Windbridge Dr",
+    "date": "2025-01-02",
+    "time": "2315",
+    "text": "Officers responded to reports of a male who pointed a rifle at a friend and provided officers with a suspect description. Responding officers located the suspect, who was a juvenile, and the rifle. The suspect was arrested for related charges and taken to Juvenile Hall. "
+  },
+  {
+    "cmd": "North Command",
+    "id": "25-001771",
+    "code": "Stolen Vehicle - Arrest",
+    "location": "4000 Block of Norwood Ave",
+    "date": "2025-01-02",
+    "time": "2355",
+    "text": "Officers located a suspect on a stolen motorcycle. The suspect was detained and arrested for related charges. "
   }
 ]
