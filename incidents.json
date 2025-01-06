@@ -16810,5 +16810,23 @@
     "date": "2025-01-02",
     "time": "2355",
     "text": "Officers located a suspect on a stolen motorcycle. The suspect was detained and arrested for related charges. "
+  },
+  {
+    "cmd": "South Command",
+    "id": "25-001891",
+    "code": "Shooting - Investigation",
+    "location": "8100 Block of Eddington Wy",
+    "date": "2025-01-03",
+    "time": "0629",
+    "text": "Officers responded to reports of a shooting. Responding officers located evidence of a shooting. No injuries were reported. Officers conducted an investigation and a report was generated."
+  },
+  {
+    "cmd": "East Command",
+    "id": "25-002526",
+    "code": "Shooting - Investigation",
+    "location": "3600 Block of 25th Ave",
+    "date": "2025-01-03",
+    "time": "2150",
+    "text": "Officers responded to reports of a shooting. Responding officers located over 54 expended casings. Fortunately, no injuries were reported. Officers processed the scene, conducted an investigation and a report was generated. "
   }
 ]
