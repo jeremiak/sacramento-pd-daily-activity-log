@@ -16828,5 +16828,32 @@
     "date": "2025-01-03",
     "time": "2150",
     "text": "Officers responded to reports of a shooting. Responding officers located over 54 expended casings. Fortunately, no injuries were reported. Officers processed the scene, conducted an investigation and a report was generated. "
+  },
+  {
+    "cmd": "North Command",
+    "id": "25-002711",
+    "code": "Stolen Vehicle - Arrest",
+    "location": "4100 Block of Northgate Blvd",
+    "date": "2025-01-04",
+    "time": "0407",
+    "text": "Officers located an occupied stolen vehicle. The driver was detained and arrested for related charges."
+  },
+  {
+    "cmd": "South Command",
+    "id": "25-002866",
+    "code": "Traffic Stop - Firearm Arrest",
+    "location": "0 Block of La Pera Ct",
+    "date": "2025-01-04",
+    "time": "1005",
+    "text": "Officers made a traffic stop. The driver was found to be a parolee and during the investigation, officers located an illegally possessed loaded firearm. The suspect was arrested for related charges."
+  },
+  {
+    "cmd": "South Command",
+    "id": "25-003369",
+    "code": "Firearm/Drug Sales - Arrest",
+    "location": "3800 Block of Florin Rd",
+    "date": "2025-01-04",
+    "time": "2158",
+    "text": "Officers contacted subjects inside of a vehicle. At least one was found to be on probation. During the investigation, officers located indicia of drug sales including approximately $4000 cash, methamphetamine, fentanyl, and an illegally possessed firearm. The suspect was arrested for related charges. "
   }
 ]
