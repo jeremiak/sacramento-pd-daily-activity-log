@@ -16873,5 +16873,32 @@
     "date": "2025-01-06",
     "time": "2036",
     "text": "Officers were hailed regarding an armed robbery to a business. Officers set up a perimeter around the area where the suspect was believed to be. The suspect refused to come out. Crisis Negotiators and an armored vehicle were brought out. Eventually, SWAT responded and the suspect surrendered. The suspect was arrested on numerous felony robbery and weapon charges. "
+  },
+  {
+    "cmd": "North Command",
+    "id": "25-005469",
+    "code": "Stolen Vehicle - Arrest",
+    "location": "Raley Blvd / Vinci Ave",
+    "date": "2025-01-07",
+    "time": "1130",
+    "text": "Officers located a stolen motorcycle. The suspect was detained and arrested for related charges."
+  },
+  {
+    "cmd": "South Command",
+    "id": "25-006026",
+    "code": "Shooting - Investigation",
+    "location": "60 Block of Seavey Cir",
+    "date": "2025-01-07",
+    "time": "2153",
+    "text": "Officers responded to reports of a shooting. Responding officers located a 26-year-old male and a 17-year-old male, both with at least one gunshot wound. Both victims were transported to an area hospital for treatment and are in stable condition. CSI responded to process the scene, officers conducted an investigation, and a report was generated."
+  },
+  {
+    "cmd": "North Command",
+    "id": "25-006082",
+    "code": "Shooting - Investigation",
+    "location": "1100 Block of South Ave",
+    "date": "2025-01-07",
+    "time": "2306",
+    "text": "Officers responded to reports of a shooting. Responding officers located an adult male with at least one gunshot wound. The victim was transported to an area hospital and is in stable condition. CSI processed the scene, officers conducted an investigation, and a report was generated."
   }
 ]
