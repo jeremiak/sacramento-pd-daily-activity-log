@@ -16900,5 +16900,23 @@
     "date": "2025-01-07",
     "time": "2306",
     "text": "Officers responded to reports of a shooting. Responding officers located an adult male with at least one gunshot wound. The victim was transported to an area hospital and is in stable condition. CSI processed the scene, officers conducted an investigation, and a report was generated."
+  },
+  {
+    "cmd": "South Command",
+    "id": "25-006215",
+    "code": "Burglary - Arrest",
+    "location": "4400 Block of 24th St",
+    "date": "2025-01-08",
+    "time": "0305",
+    "text": "Officers responded to an alarm activation at a closed business. Responding officers located a suspect inside and detained him. Through the investigation, officers arrested the suspect on burglary related charges."
+  },
+  {
+    "cmd": "South Command",
+    "id": "25-006820",
+    "code": "Traffic Stop - Firearm Arrest",
+    "location": "25th St / Florin Rd",
+    "date": "2025-01-08",
+    "time": "1654",
+    "text": "Officers stopped a vehicle for a vehicle code violation. The driver was found to be on parole and pre-trial supervision. During the investigation, officers located an illegally possessed loaded handgun. The suspect was arrested for related charges."
   }
 ]
