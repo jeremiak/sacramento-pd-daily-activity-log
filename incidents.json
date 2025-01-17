@@ -16981,5 +16981,23 @@
     "date": "2025-01-13",
     "time": "1608",
     "text": "Officers located an occupied stolen vehicle. The driver was detained and arrested."
+  },
+  {
+    "cmd": "North Command",
+    "id": "25-011674",
+    "code": "Fatal Collision - Investigation",
+    "location": "1600 Block of Auburn Blvd",
+    "date": "2025-01-14",
+    "time": "0608",
+    "text": "Officers responded to a single-vehicle collision involving a pedestrian. One adult female did succumb to her injuries from the collision. At this time, it appears the woman was in front of the vehicle, possibly working on the car, when it rolled forward and ran her over. Due to the circumstances, detectives from our Major Collision Investigation Unit (MCIU) and Crime Scene Investigators responded to take over the investigation. The Sacramento County Coroner’s Office will release the identity of the deceased after next-of-kin have been notified. "
+  },
+  {
+    "cmd": "South Command",
+    "id": "25-012283",
+    "code": "Firearm - Arrest",
+    "location": "2300 Block of 57th Ave",
+    "date": "2025-01-14",
+    "time": "1812",
+    "text": "Officers serviced a search warrant at a residence after a juvenile suspect posted images with firearms. Officers located one illegally possessed firearm and ammunition. The juvenile suspect was arrested for related charges. "
   }
 ]
