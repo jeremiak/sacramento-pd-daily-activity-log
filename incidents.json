@@ -17062,5 +17062,50 @@
     "date": "2025-01-18",
     "time": "1346",
     "text": "Officers responded to the area regarding reports of a stolen vehicle. Officers located the occupied stolen vehicle. The occupants were detained, and the driver was arrested for related charges."
+  },
+  {
+    "cmd": "North Command",
+    "id": "25-016189",
+    "code": "Traffic Stop - Arrest",
+    "location": "Elkhorn Blvd & Hwy 99",
+    "date": "2025-01-19",
+    "time": "0143",
+    "text": "During a sideshow, the air unit reported repeatedly having a laser pointed at it by the driver of a vehicle. The air unit directed ground units to the vehicle and a traffic stop was conducted. The laser device was located in the driver's possession. The driver was arrested for related charges."
+  },
+  {
+    "cmd": "North Command",
+    "id": "25-016228",
+    "code": "Suspicious Vehicle - Firearm Arrest",
+    "location": "2000 Block Mendel Wy",
+    "date": "2025-01-19",
+    "time": "0300",
+    "text": "Officers contacted multiple occupants of a suspicious vehicle. During a search of one of the juvenile occupants, officers located an illegally possessed loaded firearm. The suspect was arrested and booked at juvenile hall."
+  },
+  {
+    "cmd": "North Command",
+    "id": "25-016343",
+    "code": "Stolen Vehicle - Arrest",
+    "location": "W. El Camino Ave & Grasslands Dr",
+    "date": "2025-01-19",
+    "time": "0825",
+    "text": "Officers located a stolen vehicle in the area. Officers detained the driver and arrested him for related charges."
+  },
+  {
+    "cmd": "North Command",
+    "id": "25-016461",
+    "code": "Robbey-Arrest",
+    "location": "400 Block Harris Ave",
+    "date": "2025-01-19",
+    "time": "1121",
+    "text": "Officers responded to the area for reports of a robbery. When officers located the suspect, he fled on foot and a brief foot pursuit ensued. Officers detained the suspect, and he was arrested for related charges"
+  },
+  {
+    "cmd": "East Command",
+    "id": "25-016635",
+    "code": "Stolen Vehicle - Arrest",
+    "location": "65th St & Broadway",
+    "date": "2025-01-19",
+    "time": "1547",
+    "text": "Officer located a stolen vehicle. Officers detained the driver who was arrested for related charges."
   }
 ]
