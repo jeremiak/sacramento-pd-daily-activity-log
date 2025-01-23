@@ -17107,5 +17107,14 @@
     "date": "2025-01-19",
     "time": "1547",
     "text": "Officer located a stolen vehicle. Officers detained the driver who was arrested for related charges."
+  },
+  {
+    "cmd": "North Command",
+    "id": "25-017601",
+    "code": "Shooting - Investigation",
+    "location": "2200 Block Northview Dr",
+    "date": "2025-01-20",
+    "time": "2132",
+    "text": "Officers responded to reports of sounds of a shooting. Officers located evidence of a shooting. An investigation was conducted, and a report was generated."
   }
 ]
