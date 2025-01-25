@@ -17116,5 +17116,23 @@
     "date": "2025-01-20",
     "time": "2132",
     "text": "Officers responded to reports of sounds of a shooting. Officers located evidence of a shooting. An investigation was conducted, and a report was generated."
+  },
+  {
+    "cmd": "Central Command",
+    "id": "25-019000",
+    "code": "Investigation - Firearm & Drug Arrest",
+    "location": "300 Block U St",
+    "date": "2025-01-22",
+    "time": "1433",
+    "text": "Officers responded to a report of subjects trespassing at a vacant residence. Officers contacted several subjects on scene, and through their investigation located a stolen vehicle, narcotics, ammunition, and an illegally possessed firearm. Two suspects were arrested for related charges. "
+  },
+  {
+    "cmd": "Central Command",
+    "id": "25-019368",
+    "code": "Traffic Stop - Firearm & Drug arrest",
+    "location": "North D St & Dos Rios St",
+    "date": "2025-01-22",
+    "time": "2149",
+    "text": "Officers conducted a traffic stop for a vehicle code violation. Through investigation, the driver was found to be driving under the influence and on active parole. An illegally possessed firearm as well as narcotics were found in the driver's vehicle. The driver was arrested for related charges. "
   }
 ]
