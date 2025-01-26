@@ -17134,5 +17134,23 @@
     "date": "2025-01-22",
     "time": "2149",
     "text": "Officers conducted a traffic stop for a vehicle code violation. Through investigation, the driver was found to be driving under the influence and on active parole. An illegally possessed firearm as well as narcotics were found in the driver's vehicle. The driver was arrested for related charges. "
+  },
+  {
+    "cmd": "East Command",
+    "id": "25-019918",
+    "code": "Highway 99 / 12th Ave",
+    "location": "Traffic Stop - Firearm Arrest",
+    "date": "2025-01-23",
+    "time": "1404",
+    "text": "Officers conducted a traffic stop. During the investigation, officers located an illegally possessed firearm inside of the vehicle. The driver was arrested and booked into Juvenile Hall on related charges."
+  },
+  {
+    "cmd": "North Command",
+    "id": "25-020313",
+    "code": "Shooting - Investigation",
+    "location": "Taylor St / Fran Barker Ave",
+    "date": "2025-01-23",
+    "time": "2213",
+    "text": "Officers responded to reports of a shooting. Responding officers located one victim with a non-life-threatening gunshot wound. The victim was transported to an area hospital for treatment. Officers conducted an investigation and a report was generated."
   }
 ]
