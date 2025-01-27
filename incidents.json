@@ -17152,5 +17152,23 @@
     "date": "2025-01-23",
     "time": "2213",
     "text": "Officers responded to reports of a shooting. Responding officers located one victim with a non-life-threatening gunshot wound. The victim was transported to an area hospital for treatment. Officers conducted an investigation and a report was generated."
+  },
+  {
+    "cmd": "Central Command",
+    "id": "25-020639",
+    "code": "Theft - Arrest",
+    "location": "1400 Block of N St",
+    "date": "2025-01-24",
+    "time": "1000",
+    "text": "Officers responded to reports of a parking meter theft. Responding officers located the suspect, who was detained and arrested for related charges."
+  },
+  {
+    "cmd": "North Command",
+    "id": "25-021263",
+    "code": "Traffic Stop - Firearm Arrest",
+    "location": "Norwood Ave / Lampasas Ave",
+    "date": "2025-01-24",
+    "time": "2243",
+    "text": "Officers stopped a vehicle for a traffic violation. A passenger fled from the vehicle on foot and threw a firearm. The suspect was detained and the illegally possessed firearm was recovered. The suspect was arrested for related charges."
   }
 ]
