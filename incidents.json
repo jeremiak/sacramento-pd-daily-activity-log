@@ -17170,5 +17170,41 @@
     "date": "2025-01-24",
     "time": "2243",
     "text": "Officers stopped a vehicle for a traffic violation. A passenger fled from the vehicle on foot and threw a firearm. The suspect was detained and the illegally possessed firearm was recovered. The suspect was arrested for related charges."
+  },
+  {
+    "cmd": "North Command",
+    "id": "25-021338",
+    "code": "Pursuit - DUI Arrest",
+    "location": "Calvados Ave / Cantalier St",
+    "date": "2025-01-25",
+    "time": "0039",
+    "text": "Officers attempted to stop a speeding vehicle. The driver failed to yield and a short pursuit ensued. The driver was detained and displayed objective signs of intoxication. The driver was arrested for related charges. "
+  },
+  {
+    "cmd": "North Command",
+    "id": "25-021604",
+    "code": "Welfare Check - Drug Sales & Firearm Arrest",
+    "location": "4300 Block of Gateway Park Blvd",
+    "date": "2025-01-25",
+    "time": "0944",
+    "text": "Officers responded to a welfare check of a person slumped over in the driver seat of a vehicle. During the investigation, officers located narcotics, sales indicia, and an illegally possessed firearm. The suspect was detained and arrested for related charges."
+  },
+  {
+    "cmd": "North Command",
+    "id": "25-021987",
+    "code": "Stolen Vehicle - Arrest",
+    "location": "1700 Block of Helena Ave",
+    "date": "2025-01-25",
+    "time": "1806",
+    "text": "Officers located an occupied stolen vehicle. The driver fled from the vehicle and climbed up a tree. The suspect was eventually detained and arrested for related charges."
+  },
+  {
+    "cmd": "South Command",
+    "id": "25-022146",
+    "code": "Shooting - Investigation",
+    "location": "7600 Block of 23rd St",
+    "date": "2025-01-25",
+    "time": "2155",
+    "text": "Officers responded to reports of a shooting. Responding officers located evidence of a shooting. No injuries were reported. Officers conducted an investigation and a report was generated."
   }
 ]
