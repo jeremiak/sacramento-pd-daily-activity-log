@@ -17206,5 +17206,14 @@
     "date": "2025-01-25",
     "time": "2155",
     "text": "Officers responded to reports of a shooting. Responding officers located evidence of a shooting. No injuries were reported. Officers conducted an investigation and a report was generated."
+  },
+  {
+    "cmd": "North Command",
+    "id": "25-022643",
+    "code": "Pursuit - Arrest",
+    "location": "1500 Block West El Camino Ave",
+    "date": "2025-01-26",
+    "time": "1320",
+    "text": "Officers responded to the area for reports of a stolen vehicle. Officers attempted to stop the vehicle, but it failed to stop, and a pursuit ensued. Officers were eventually able to stop the vehicle, and the driver was safely detained. The driver was arrested for related charges."
   }
 ]
