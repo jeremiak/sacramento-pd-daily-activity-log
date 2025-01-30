@@ -17215,5 +17215,23 @@
     "date": "2025-01-26",
     "time": "1320",
     "text": "Officers responded to the area for reports of a stolen vehicle. Officers attempted to stop the vehicle, but it failed to stop, and a pursuit ensued. Officers were eventually able to stop the vehicle, and the driver was safely detained. The driver was arrested for related charges."
+  },
+  {
+    "cmd": "North Command",
+    "id": "25-023925",
+    "code": "Stolen Vehicle - Arrest",
+    "location": "Northgate Blvd / San Juan Rd",
+    "date": "2025-01-27",
+    "time": "2234",
+    "text": "Officers located an occupied stolen vehicle. The driver was detained and arrested for related charges."
+  },
+  {
+    "cmd": "South Command",
+    "id": "25-023958",
+    "code": "Shooting - Investigation",
+    "location": "50 Block of Kennelford Cir",
+    "date": "2025-01-27",
+    "time": "2338",
+    "text": "Officers responded to reports of a shooting. Responding officers located evidence of a shooting. No injuries were reported. Officers conducted an investigation and a report was generated."
   }
 ]
