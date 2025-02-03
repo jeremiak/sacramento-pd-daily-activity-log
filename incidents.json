@@ -17260,5 +17260,23 @@
     "date": "2025-01-30",
     "time": "1409",
     "text": "Officers responded to reports of an RT Train vs. pedestrian collision. The pedestrian sustained minor injuries. A report was generated."
+  },
+  {
+    "cmd": "Central Command",
+    "id": "25-027273",
+    "code": "Stolen Vehicle - Arrest",
+    "location": "12th St & C St",
+    "date": "2025-01-31",
+    "time": "1750",
+    "text": "Officers located a stolen vehicle in the area. Officers detained the occupants. Officers located narcotic paraphernalia in possession of the passenger, who was cited. The driver was arrested for related charges. "
+  },
+  {
+    "cmd": "South Command",
+    "id": "25-027446",
+    "code": "Pursuit - Firearm Arrest",
+    "location": "2300 Block Florin Rd",
+    "date": "2025-01-31",
+    "time": "2153",
+    "text": "Officers located a suspicious vehicle associated with a recent felony assault. The vehicle fled from the area at a high rate of speed and a pursuit ensued. The vehicle was involved in a collision and the occupants fled on foot. Officers located the occupants, detained them, and located a loaded firearm. The suspects were arrested for related charges. "
   }
 ]
