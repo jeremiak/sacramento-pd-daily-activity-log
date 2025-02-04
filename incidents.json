@@ -17278,5 +17278,23 @@
     "date": "2025-01-31",
     "time": "2153",
     "text": "Officers located a suspicious vehicle associated with a recent felony assault. The vehicle fled from the area at a high rate of speed and a pursuit ensued. The vehicle was involved in a collision and the occupants fled on foot. Officers located the occupants, detained them, and located a loaded firearm. The suspects were arrested for related charges. "
+  },
+  {
+    "cmd": "South Command",
+    "id": "25-027569",
+    "code": "Pursuit - Arrest",
+    "location": "Riverside Blvd & San Mateo Way",
+    "date": "2025-02-01",
+    "time": "0104",
+    "text": "Officers attempted to stop a bicyclist for multiple traffic violations. The bicyclist failed to stop. Officers followed the suspect until he was detained. Officers stopped the suspect and located narcotic paraphernalia in their possession. The suspect was arrested for related charges."
+  },
+  {
+    "cmd": "North Command",
+    "id": "25-028201",
+    "code": "Assault - Firearm Arrest",
+    "location": "3700 Block Astoria St",
+    "date": "2025-02-01",
+    "time": "2055",
+    "text": "Officers responded to reports of an assault involving a firearm being pointed at the victim. Officers located the suspect and the firearm they pointed at the victim. The suspect was arrested for related charges. "
   }
 ]
