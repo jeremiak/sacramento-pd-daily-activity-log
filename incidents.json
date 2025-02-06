@@ -17296,5 +17296,14 @@
     "date": "2025-02-01",
     "time": "2055",
     "text": "Officers responded to reports of an assault involving a firearm being pointed at the victim. Officers located the suspect and the firearm they pointed at the victim. The suspect was arrested for related charges. "
+  },
+  {
+    "cmd": "North Command",
+    "id": "25-029905",
+    "code": "Shooting - Investigation",
+    "location": "3900 Block Alder St",
+    "date": "2025-02-03",
+    "time": "1858",
+    "text": "Officers responded to reports of sounds of shots being fired. On scene, officers located evidence of a shooting, but no reported injuries. Officers conducted an investigation and a report was generated. "
   }
 ]
