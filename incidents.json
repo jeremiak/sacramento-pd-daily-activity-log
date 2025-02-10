@@ -17332,5 +17332,14 @@
     "date": "2025-02-05",
     "time": "2241",
     "text": "Officers responded to reports of sounds of shots being fired. Responding officers located evidence of a shooting, but no reported victims. An investigation was conducted, and a report was generated. "
+  },
+  {
+    "cmd": "Central Command",
+    "id": "25-033124",
+    "code": "Investigation - Arrest",
+    "location": "600 Block Cannery Ave",
+    "date": "2025-02-07",
+    "time": "1234",
+    "text": "Officers responded to reports of someone swinging a crowbar and making threats. The suspect fled from the scene prior to the officers’ arrival but was located in the area. The suspect was arrested for related charges. "
   }
 ]
