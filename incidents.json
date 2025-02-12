@@ -17350,5 +17350,23 @@
     "date": "2025-02-08",
     "time": "1706",
     "text": "Officers responded to reports of a subject with a handgun in the area. Responding officers located the suspect who was detained safely. Officers located an illegally possessed firearm. The suspect was arrested for related charges."
+  },
+  {
+    "cmd": "South Command",
+    "id": "25-034702",
+    "code": "Pursuit - Arrest",
+    "location": "Riverside Blvd & X St",
+    "date": "2025-02-09",
+    "time": "0209",
+    "text": "Officers attempted to conduct a traffic stop in the area. The vehicle did not stop, and a pursuit ensued. A passenger of the vehicle fled on foot. The driver and other passengers remained in the vehicle when it stopped. Officers were unable to locate the passenger that fled. The driver was arrested for related charges."
+  },
+  {
+    "cmd": "South Command",
+    "id": "25-035338",
+    "code": "Sideshow Activity",
+    "location": "24th St & 69th St",
+    "date": "2025-02-09",
+    "time": "2232",
+    "text": "Officers responded to reports of a sideshow. Responding officers arrived as CHP was dispersing the crowd. There were no additional sideshows reported."
   }
 ]
