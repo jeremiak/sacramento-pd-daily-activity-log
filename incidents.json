@@ -17368,5 +17368,23 @@
     "date": "2025-02-09",
     "time": "2232",
     "text": "Officers responded to reports of a sideshow. Responding officers arrived as CHP was dispersing the crowd. There were no additional sideshows reported."
+  },
+  {
+    "cmd": "East Command",
+    "id": "25-035583",
+    "code": "Vandalism - Arrest",
+    "location": "1000 Block 30th St",
+    "date": "2025-02-10",
+    "time": "0851",
+    "text": "Officers responded to a report of someone who shattered a glass door of a business. Responding officers arrived on scene and the suspect fled on foot from them. Officers safely detained the suspect, and they were arrested for related charges and outstanding warrants. "
+  },
+  {
+    "cmd": "Central Command",
+    "id": "25-035653",
+    "code": "Vandalism - Arrest",
+    "location": "J St & 25th St",
+    "date": "2025-02-10",
+    "time": "1026",
+    "text": "Officers observed a suspicious subject near broken parking meters. Officers located a significant amount of change on the suspect. The suspect was arrested for their outstanding warrants and related charges. "
   }
 ]
