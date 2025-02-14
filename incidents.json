@@ -17386,5 +17386,23 @@
     "date": "2025-02-10",
     "time": "1026",
     "text": "Officers observed a suspicious subject near broken parking meters. Officers located a significant amount of change on the suspect. The suspect was arrested for their outstanding warrants and related charges. "
+  },
+  {
+    "cmd": "South Command",
+    "id": "25-036801",
+    "code": "Stolen Vehicle - Arrest",
+    "location": "Valley Hi Dr & Mack Rd",
+    "date": "2025-02-11",
+    "time": "1836",
+    "text": "Officers located a stolen vehicle in the area. Officers conducted a vehicle stop and detained the driver. The driver was arrested for related charges. "
+  },
+  {
+    "cmd": "North Command",
+    "id": "25-036846",
+    "code": "Shooting - Investigation",
+    "location": "4800 Block Kokomo Dr",
+    "date": "2025-02-11",
+    "time": "1946",
+    "text": "Officers responded to reports of sounds of shots being fired. Officers located evidence of a shooting, but no reported injuries. An investigation was conducted, and report was generated."
   }
 ]
