@@ -17404,5 +17404,23 @@
     "date": "2025-02-11",
     "time": "1946",
     "text": "Officers responded to reports of sounds of shots being fired. Officers located evidence of a shooting, but no reported injuries. An investigation was conducted, and report was generated."
+  },
+  {
+    "cmd": "North Command",
+    "id": "25-037574",
+    "code": "Shooting - Investigation",
+    "location": "3700 Block Balsam St",
+    "date": "2025-02-12",
+    "time": "1754",
+    "text": "Officers responded to reports of sounds of shots being fired. Responding officers located evidence of a shooting, but no reported injured victims. An investigation was conducted and a report generated. "
+  },
+  {
+    "cmd": "North Command",
+    "id": "25-037721",
+    "code": "Shooting - Investigation",
+    "location": "3600 Block Clarkson Ct",
+    "date": "2025-02-12",
+    "time": "2144",
+    "text": "Officers responded to reports of sounds of shots being fired. Responding officers located evidence of a shooting, but no reported injured victims. An investigation was conducted and a report generated. "
   }
 ]
