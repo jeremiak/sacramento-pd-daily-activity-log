@@ -17431,5 +17431,32 @@
     "date": "2025-02-13",
     "time": "1753",
     "text": "Officers located an occupied stolen vehicle. The driver was detained and arrested for related charges. "
+  },
+  {
+    "cmd": "North Command",
+    "id": "25-038781",
+    "code": "Firearm - Arrest",
+    "location": "Northview Dr / W. El Camino Ave",
+    "date": "2025-02-14",
+    "time": "0051",
+    "text": "Officers contacted individuals inside of a vehicle, but the occupants fled from the vehicle on foot. One of the occupants discarded a firearm while fleeing. The firearm was recovered and was found to be loaded and was reported stolen. After a perimeter was set and with the assistance of our UAS and K-9 teams, the suspect was detained and arrested on related charges."
+  },
+  {
+    "cmd": "North Command",
+    "id": "25-039252",
+    "code": "Stolen Vehicle - Recovery",
+    "location": "900 Block of Del Paso Blvd",
+    "date": "2025-02-14",
+    "time": "1524",
+    "text": "Officers located an unoccupied stolen U-Haul truck. This truck was involved in a pursuit with an outside agency about an hour earlier, but managed to get away. Inside of the truck, officers located identity theft related evidence which was collected and booked as evidence. This investigation is ongoing."
+  },
+  {
+    "cmd": "North Command",
+    "id": "25-039678",
+    "code": "Pursuit - Arrest",
+    "location": "Silver Eagle Rd / Norwood Ave",
+    "date": "2025-02-14",
+    "time": "2316",
+    "text": "Officers attempted to stop a vehicle who drove past them at a high rate of speed. The driver failed to yield and led officers on a pursuit. The vehicle eventually stopped and the driver was detained and arrested for felony pursuit charges."
   }
 ]
