@@ -17458,5 +17458,32 @@
     "date": "2025-02-14",
     "time": "2316",
     "text": "Officers attempted to stop a vehicle who drove past them at a high rate of speed. The driver failed to yield and led officers on a pursuit. The vehicle eventually stopped and the driver was detained and arrested for felony pursuit charges."
+  },
+  {
+    "cmd": "North Command",
+    "id": "25-039909",
+    "code": "Shooting - Investigation",
+    "location": "1500 Block of North Ave",
+    "date": "2025-02-15",
+    "time": "0833",
+    "text": "Officers responded to reports of a shooting. Responding officers located evidence of a shooting. No injuries were reported. Officers conducted an investigation and a report was generated. "
+  },
+  {
+    "cmd": "North Command",
+    "id": "25-040208",
+    "code": "Robbery - Arrest",
+    "location": "200 Block of Hebron Cir",
+    "date": "2025-02-15",
+    "time": "1647",
+    "text": "Officers responded to reports of an adult son who robbed his elderly parents by force. The suspect was arrested on robbery and elder abuse related charges."
+  },
+  {
+    "cmd": "North Command",
+    "id": "25-040255",
+    "code": "Stolen Vehicle - Arrest",
+    "location": "3100 Block of Bridgeford Dr",
+    "date": "2025-02-15",
+    "time": "1737",
+    "text": "Officers located an occupied stolen vehicle. The driver, a juvenile, was detained and arrested for related charges. The suspect was booked into juvenile hall."
   }
 ]
