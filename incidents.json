@@ -17485,5 +17485,32 @@
     "date": "2025-02-15",
     "time": "1737",
     "text": "Officers located an occupied stolen vehicle. The driver, a juvenile, was detained and arrested for related charges. The suspect was booked into juvenile hall."
+  },
+  {
+    "cmd": "North Command",
+    "id": "25-040551",
+    "code": "Pursuit/Parolee-At-Large - Arrest",
+    "location": "Fairfield St / Santiago Ave",
+    "date": "2025-02-16",
+    "time": "0005",
+    "text": "Officers attempted to stop a vehicle for a vehicle code violation. The suspect failed to yield and led officers on a pursuit. With the assistance of an outside agency, the suspect was detained. The suspect was found to be a parolee-at-large and our officers booked him on related charges."
+  },
+  {
+    "cmd": "North Command",
+    "id": "25-040644",
+    "code": "Pursuit/Stolen Vehicle - Arrest",
+    "location": "Sonoma Ave / Fairfield St",
+    "date": "2025-02-16",
+    "time": "0253",
+    "text": "Officers attempted to stop a vehicle. The driver failed to yield and led officers on a pursuit. The driver couldn’t maneuver a turn and came to rest near a light pole. The driver was detained and a record check of the vehicle showed that it was just stolen a few minutes prior to our officers attempting to stop it. The suspect was arrested for related charges."
+  },
+  {
+    "cmd": "East Command",
+    "id": "25-041274",
+    "code": "Traffic Stop - Firearm & Drug arrest",
+    "location": "14th Ave and Power Inn Rd",
+    "date": "2025-02-16",
+    "time": "2203",
+    "text": "Officers conducted a traffic stop of a motorcycle for a vehicle code violation. During the stop officers learned the rider had an illegally possessed loaded firearm, narcotics, and an outstanding felony warrant. The suspect was arrested for related charges and their warrant."
   }
 ]
