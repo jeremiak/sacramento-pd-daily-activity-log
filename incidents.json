@@ -17512,5 +17512,23 @@
     "date": "2025-02-16",
     "time": "2203",
     "text": "Officers conducted a traffic stop of a motorcycle for a vehicle code violation. During the stop officers learned the rider had an illegally possessed loaded firearm, narcotics, and an outstanding felony warrant. The suspect was arrested for related charges and their warrant."
+  },
+  {
+    "cmd": "South Command",
+    "id": "25-041363",
+    "code": "Investigation - Firearms Arrest",
+    "location": "7600 Block Manorside Dr",
+    "date": "2025-02-17",
+    "time": "0001",
+    "text": "Officers responded to an incomplete call to 911 at this location. During the investigation, officers learned of firearms inside of a vehicle on scene.  Officers detained the suspects and located two illegally possessed loaded firearms inside of the vehicle.  The suspects were arrested for related charges.    "
+  },
+  {
+    "cmd": "Central Command",
+    "id": "25-041603",
+    "code": "Traffic Stop - Firearm Arrest",
+    "location": "T St & 9th St",
+    "date": "2025-02-17",
+    "time": "1018",
+    "text": "Officers conducted a traffic stop of a vehicle for traffic violations. During officer’s investigation, the driver became uncooperative, and an illegally possessed firearm was located in his possession. The driver was arrested for related charges."
   }
 ]
