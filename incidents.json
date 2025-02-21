@@ -17530,5 +17530,23 @@
     "date": "2025-02-17",
     "time": "1018",
     "text": "Officers conducted a traffic stop of a vehicle for traffic violations. During officer’s investigation, the driver became uncooperative, and an illegally possessed firearm was located in his possession. The driver was arrested for related charges."
+  },
+  {
+    "cmd": "South Command",
+    "id": "25-042751",
+    "code": "Felony Assault/Robbery - Arrest",
+    "location": "Valley Hi Dr / Center Pkwy",
+    "date": "2025-02-18",
+    "time": "1657",
+    "text": "An 8-year-old victim was riding his bicycle. A 13-year-old suspect approached the victim and pulled out a knife and stole the victim’s bicycle. Good Samaritans stepped in and assisted the victim, while others held onto the suspect until officers arrived. The suspect was arrested and booked into Juvenile Hall."
+  },
+  {
+    "cmd": "North Command",
+    "id": "25-043010",
+    "code": "Carjacking - Investigation",
+    "location": "3800 Block of Duckhorn Dr",
+    "date": "2025-02-18",
+    "time": "2252",
+    "text": "Officers responded to reports of a carjacking at gunpoint. The suspect(s) fled prior to police arrival. Responding officers conducted a thorough investigation. The victim was not injured during this incident. A report was generated."
   }
 ]
