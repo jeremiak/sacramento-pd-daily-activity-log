@@ -17548,5 +17548,23 @@
     "date": "2025-02-18",
     "time": "2252",
     "text": "Officers responded to reports of a carjacking at gunpoint. The suspect(s) fled prior to police arrival. Responding officers conducted a thorough investigation. The victim was not injured during this incident. A report was generated."
+  },
+  {
+    "cmd": "South Command",
+    "id": "25-043412",
+    "code": "Stolen Vehicle - Investigation",
+    "location": "7600 Block Pocket Rd",
+    "date": "2025-02-19",
+    "time": "1140",
+    "text": "Officers responded to the fire department's request to investigate an unoccupied vehicle in the water. The vehicle was found to be stolen. An investigation was conducted, and a report was generated.   "
+  },
+  {
+    "cmd": "North Command",
+    "id": "25-043556",
+    "code": "Investigation - Arrest",
+    "location": "3600 Block Fulton Ave",
+    "date": "2025-02-19",
+    "time": "1411",
+    "text": "Officers responded to a report of a vehicle that drove across Haggin Oaks Golf. The driver was found to be driving under the influence. Officers arrested the driver for related charges."
   }
 ]
