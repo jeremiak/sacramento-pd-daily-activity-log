@@ -17566,5 +17566,23 @@
     "date": "2025-02-19",
     "time": "1411",
     "text": "Officers responded to a report of a vehicle that drove across Haggin Oaks Golf. The driver was found to be driving under the influence. Officers arrested the driver for related charges."
+  },
+  {
+    "cmd": "Central Command",
+    "id": "25-044133",
+    "code": "Burglary - Arrest",
+    "location": "500 Block of Capitol Mall",
+    "date": "2025-02-20",
+    "time": "0647",
+    "text": "A Community Service Officer (CSO) responded to a reports of a burglary and conducted an investigation. The CSO observed a person matching the description of the suspect standing nearby. Patrol officers responded and detained the suspect, who was eventually arrested for burglary related charges. "
+  },
+  {
+    "cmd": "Central Command",
+    "id": "25-044992",
+    "code": "Pursuit - DUI Arrest",
+    "location": "5th St / G St",
+    "date": "2025-02-20",
+    "time": "2356",
+    "text": "Officers located a vehicle from another call. When officers attempted to stop it, the vehicle fled and led officers on a pursuit. The driver eventually yielded to officers and was taken into custody. The suspect displayed objective signs of intoxication and was arrested for pursuit and DUI related charges."
   }
 ]
