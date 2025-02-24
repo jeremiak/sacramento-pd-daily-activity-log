@@ -17584,5 +17584,32 @@
     "date": "2025-02-20",
     "time": "2356",
     "text": "Officers located a vehicle from another call. When officers attempted to stop it, the vehicle fled and led officers on a pursuit. The driver eventually yielded to officers and was taken into custody. The suspect displayed objective signs of intoxication and was arrested for pursuit and DUI related charges."
+  },
+  {
+    "cmd": "Central Command",
+    "id": "25-045253",
+    "code": "Robbery - Arrest",
+    "location": "1000 Block of 20th St",
+    "date": "2025-02-21",
+    "time": "0959",
+    "text": "Officers responded to reports of a robbery by physical force to a person. A nearby motor officer located the suspect in the area and detained him. After a thorough investigation, the suspect was arrested for robbery related charges."
+  },
+  {
+    "cmd": "South Command",
+    "id": "25-045811",
+    "code": "Stolen Vehicle - Arrest",
+    "location": "2400 Block of 15th St",
+    "date": "2025-02-21",
+    "time": "2011",
+    "text": "Officers located an occupied stolen vehicle. Thanks to the assistance of air support and K9, the suspect was apprehended and booked on related charges. "
+  },
+  {
+    "cmd": "Central Command",
+    "id": "25-045966",
+    "code": "Shooting - Arrest",
+    "location": "Jazz Alley / 22nd St",
+    "date": "2025-02-21",
+    "time": "2358",
+    "text": "A patrol sergeant heard sounds of shots fired and began to investigate. As he did so, a vehicle attempted to flee and a traffic stop was initiated. During the investigation, officers located an illegally possessed rifle inside of the vehicle and evidence of a shooting. The suspect had felony warrants and was booked on related charges."
   }
 ]
