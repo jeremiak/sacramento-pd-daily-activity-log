@@ -17611,5 +17611,23 @@
     "date": "2025-02-21",
     "time": "2358",
     "text": "A patrol sergeant heard sounds of shots fired and began to investigate. As he did so, a vehicle attempted to flee and a traffic stop was initiated. During the investigation, officers located an illegally possessed rifle inside of the vehicle and evidence of a shooting. The suspect had felony warrants and was booked on related charges."
+  },
+  {
+    "cmd": "South Command",
+    "id": "25-046525",
+    "code": "Firearm - Arrest",
+    "location": "2300 Block of Florin Rd",
+    "date": "2025-02-22",
+    "time": "1725",
+    "text": "Officers contacted a subject on probation who was inside of a vehicle. During the investigation, officers located an illegally possessed loaded firearm inside. The suspect was arrested on related charges. "
+  },
+  {
+    "cmd": "North Command",
+    "id": "25-046785",
+    "code": "Pursuit/Stolen Vehicle - Arrest",
+    "location": "Plaza Ave / Oakmont St",
+    "date": "2025-02-22",
+    "time": "2250",
+    "text": "Officers attempted to stop a vehicle for a vehicle code violation. The suspect failed to yield and led officers on a pursuit. The suspect collided into another vehicle and attempted to flee on foot, but was quickly apprehended. During the investigation, officers learned that the vehicle was stolen. The suspect was arrested for related charges."
   }
 ]
