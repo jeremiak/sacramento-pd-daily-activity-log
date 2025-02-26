@@ -17629,5 +17629,23 @@
     "date": "2025-02-22",
     "time": "2250",
     "text": "Officers attempted to stop a vehicle for a vehicle code violation. The suspect failed to yield and led officers on a pursuit. The suspect collided into another vehicle and attempted to flee on foot, but was quickly apprehended. During the investigation, officers learned that the vehicle was stolen. The suspect was arrested for related charges."
+  },
+  {
+    "cmd": "East Command",
+    "id": "25-047110",
+    "code": "Suspicious Object - Investigation",
+    "location": "65th St Expy & Jansen Dr",
+    "date": "2025-02-23",
+    "time": "0903",
+    "text": "Officers responded to reports of a suspicious object tied to a power pole. Our Explosive Ordinance Disposal (EOD) unit responded and determined the object to not be an explosive device and safely disposed of it."
+  },
+  {
+    "cmd": "South Command",
+    "id": "25-047367",
+    "code": "Shooting - Investigation",
+    "location": "7800 Block Kenelworth Wy",
+    "date": "2025-02-23",
+    "time": "1622",
+    "text": "Officers responded to reports of sounds of shots fired. Officers located evidence of a shooting but no reported injuries or property damage. An investigation was conducted and a report generated. "
   }
 ]
