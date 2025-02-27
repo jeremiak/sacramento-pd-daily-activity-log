@@ -17647,5 +17647,23 @@
     "date": "2025-02-23",
     "time": "1622",
     "text": "Officers responded to reports of sounds of shots fired. Officers located evidence of a shooting but no reported injuries or property damage. An investigation was conducted and a report generated. "
+  },
+  {
+    "cmd": "East Command",
+    "id": "25-048252",
+    "code": "Traffic Stop - Firearm Arrest",
+    "location": "MLK Jr. Blvd / 26th Ave",
+    "date": "2025-02-24",
+    "time": "1628",
+    "text": "Officers stopped a vehicle for a vehicle code violation. The driver attempted to flee but was quickly apprehended. During the investigation, officers located an illegally possessed firearm. The suspect was arrested for related charges."
+  },
+  {
+    "cmd": "South Command",
+    "id": "25-048522",
+    "code": "Firearm - Arrest",
+    "location": "Kit Carson St / Warner St",
+    "date": "2025-02-24",
+    "time": "2255",
+    "text": "Officers contacted two subjects and during the investigation, located an illegally possessed firearm and narcotics. The suspects were arrested for related charges."
   }
 ]
