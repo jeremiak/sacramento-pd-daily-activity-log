@@ -17683,5 +17683,32 @@
     "date": "2025-02-27",
     "time": "1647",
     "text": "Patrol officers observed a male subject exit and walk away from a vehicle as they were approaching. Officers ran the license plate of the vehicle and in plain view, observed narcotic paraphernalia. Officers began searching the area, located the subject who walked away from the vehicle, and detained him. Upon further investigation, officers located an illegally possessed loaded handgun, shotgun, ammunition, composite knuckles, and several 3D printed firearm parts inside of the vehicle. The suspect, who was a convicted felon, was arrested on related charges."
+  },
+  {
+    "cmd": "North Command",
+    "id": "25-051535",
+    "code": "Stolen Vehicle - Arrest",
+    "location": "Kern St / Grand Ave",
+    "date": "2025-02-28",
+    "time": "0634",
+    "text": "Officers located an occupied stolen vehicle. The driver was detained and arrested for related charges."
+  },
+  {
+    "cmd": "Central Command",
+    "id": "25-052102",
+    "code": "Stolen Vehicle - Arrest",
+    "location": "N. B St / N. 12th St",
+    "date": "2025-02-28",
+    "time": "1802",
+    "text": "Officers located an occupied stolen vehicle. The driver was detained and arrested for related charges."
+  },
+  {
+    "cmd": "North Command",
+    "id": "25-052324",
+    "code": "Pursuit - Arrest",
+    "location": "Altos Ave / Las Palmas Ave",
+    "date": "2025-02-28",
+    "time": "2214",
+    "text": "Officers attempted to stop a vehicle at this location. The driver failed to yield and led officers on a pursuit. The air unit was overhead and assisted ground units with the pursuit. The suspect eventually pulled over and surrendered near the 5900 block of Stockton Blvd. He was arrested on felony pursuit charges and a parole violation."
   }
 ]
