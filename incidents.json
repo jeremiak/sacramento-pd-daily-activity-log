@@ -17719,5 +17719,32 @@
     "date": "2025-03-01",
     "time": "2323",
     "text": "Officers conducted a vehicle stop and the driver and passenger were both found to be on probation. During the investigation, officers located live ammunition near the passenger, who was a prohibited from possessing ammunition. The passenger was arrested for ‘felon in possession of ammunition’ charges."
+  },
+  {
+    "cmd": "Central Command",
+    "id": "25-053491",
+    "code": "Shooting - Investigation",
+    "location": "300 Block of K St",
+    "date": "2025-03-02",
+    "time": "0302",
+    "text": "Officers responded to reports of a shooting. Officers from our agency, as well as CHP responded. Officers located two victims, one 17-year-old and one 18-year-old, both with at least one gunshot wound. Both victims were transported to area hospitals for treatment. The 17-year-old remains in critical condition, while the 18-year-old victim is listed in stable condition. Two suspects were located and have been arrested. This remains an active investigation."
+  },
+  {
+    "cmd": "East Command",
+    "id": "25-054085",
+    "code": "Foot Pursuit - Arrest",
+    "location": "6000 Block 88th St",
+    "date": "2025-03-02",
+    "time": "2202",
+    "text": "Officers conducted a traffic stop in the area. The driver fled from the vehicle on foot. Officers located the suspect nearby and detained him safely. The suspect was found to have outstanding warrants and was arrested for related charges."
+  },
+  {
+    "cmd": "North Command",
+    "id": "25-054156",
+    "code": "Assault - Arrest",
+    "location": "2500 Block Traction Ave",
+    "date": "2025-03-02",
+    "time": "2337",
+    "text": "Officers responded to reports of an assault involving a deadly weapon. Responding officers located the suspect retreating back into his residence and refusing to come out. After hours of negotiations between the suspect and Crisis Negotiation Team officers, the suspect peacefully surrendered and was taken into custody. The suspect was arrested for related charges."
   }
 ]
