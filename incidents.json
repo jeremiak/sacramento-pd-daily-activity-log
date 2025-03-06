@@ -17746,5 +17746,32 @@
     "date": "2025-03-02",
     "time": "2337",
     "text": "Officers responded to reports of an assault involving a deadly weapon. Responding officers located the suspect retreating back into his residence and refusing to come out. After hours of negotiations between the suspect and Crisis Negotiation Team officers, the suspect peacefully surrendered and was taken into custody. The suspect was arrested for related charges."
+  },
+  {
+    "cmd": "East Command",
+    "id": "25-054925",
+    "code": "Robbery - Arrest",
+    "location": "1400 Block of 30th St",
+    "date": "2025-03-03",
+    "time": "1957",
+    "text": "Officers responded to reports of a robbery to a person by force. Responding officers located the fleeing suspect and took him into custody. The suspect was arrested for related charges."
+  },
+  {
+    "cmd": "North Command",
+    "id": "25-054933",
+    "code": "Shooting - Arrest",
+    "location": "3800 Block of Rio Linda Blvd",
+    "date": "2025-03-03",
+    "time": "2027",
+    "text": "Officers responded to reports of a shooting. It was determined that the suspect was in the backyard of a residence. As officers set up a perimeter, the suspect surrendered and was safely detained. During the investigation, officers located the firearm. No injuries were reported. The suspect was arrested for related charges."
+  },
+  {
+    "cmd": "South Command",
+    "id": "25-055024",
+    "code": "Stolen Vehicle/Pursuit - Arrest",
+    "location": "2600 Block of Casa Linda Dr",
+    "date": "2025-03-03",
+    "time": "2248",
+    "text": "Officers responded to reports of a stolen vehicle in progress. Nearby officers located the occupied stolen vehicle and attempted to stop it. The driver failed to yield and led officers on a slow-speed pursuit. A Pursuit Immobilization Technique was successfully used and the suspect was arrested related charges."
   }
 ]
