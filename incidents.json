@@ -17773,5 +17773,41 @@
     "date": "2025-03-03",
     "time": "2248",
     "text": "Officers responded to reports of a stolen vehicle in progress. Nearby officers located the occupied stolen vehicle and attempted to stop it. The driver failed to yield and led officers on a slow-speed pursuit. A Pursuit Immobilization Technique was successfully used and the suspect was arrested related charges."
+  },
+  {
+    "cmd": "North Command",
+    "id": "25-055976",
+    "code": "Shooting - Investigation",
+    "location": "2800 Block of Janette Wy",
+    "date": "2025-03-05",
+    "time": "0309",
+    "text": "Officers responded to reports of a shooting. Responding officers located evidence of a shooting. No injuries were reported. Officers conducted an investigation and a report was generated."
+  },
+  {
+    "cmd": "North Command",
+    "id": "25-056512",
+    "code": "Robbery - Arrest",
+    "location": "1600 Block of Arden Wy",
+    "date": "2025-03-05",
+    "time": "1707",
+    "text": "Officers responded to the location for reports of several juveniles that were involved in a fight. Officers arrived on scene and through investigation established a robbery had occurred, with one victim who had sustained injuries from the incident. Our officers working in the Real Time Information Center (RTIC) had a fast response and were able to utilize cameras in the area, in order to locate the suspects that had fled the scene. Officers quickly  located, and detained the suspects involved in the robbery. The suspects were arrested and booked in Juvenile Hall for related charges."
+  },
+  {
+    "cmd": "South Command",
+    "id": "25-056563",
+    "code": "Shooting - Arrest",
+    "location": "5600 Block of Yvonne Wy",
+    "date": "2025-03-05",
+    "time": "1817",
+    "text": "Officers responded to the area for reports of a shooting. Air support was in the area and located a group of individuals walking away from the area. Officers responded to the group and detained them without incident. Officers located a loaded firearm, and the suspect was arrested for related charges. No injuries were reported. "
+  },
+  {
+    "cmd": "North Command",
+    "id": "25-056756",
+    "code": "Burglary/Stolen Vehicle - Arrest",
+    "location": "100 Block of Southgate Rd",
+    "date": "2025-03-05",
+    "time": "2346",
+    "text": "Officers were conducting proactive patrol within the area, when they observed a vehicle burglary in progress. Upon the arrival of officers, the suspects fled away from an associated vehicle, that was found to be reported stolen. Officers established a perimeter and a suspect was located nearby. The suspect was detained and booked for related charges. "
   }
 ]
