@@ -17809,5 +17809,23 @@
     "date": "2025-03-05",
     "time": "2346",
     "text": "Officers were conducting proactive patrol within the area, when they observed a vehicle burglary in progress. Upon the arrival of officers, the suspects fled away from an associated vehicle, that was found to be reported stolen. Officers established a perimeter and a suspect was located nearby. The suspect was detained and booked for related charges. "
+  },
+  {
+    "cmd": "South Command",
+    "id": "25-057338",
+    "code": "Robbery - Arrest",
+    "location": "4700 Block of Mack Rd",
+    "date": "2025-03-06",
+    "time": "1619",
+    "text": "Officers responded to the location for reports that a victim was assaulted and a robbery had occurred. The victim was able to provide responding officers with a vehicle and suspect descriptions. Officers were able to quickly locate the suspect vehicle at a nearby residence. Officers established a perimeter and were able to locate 2 suspects, along with the victims personal property. The suspects were arrested and booked on related charges."
+  },
+  {
+    "cmd": "North Command",
+    "id": "25-057520",
+    "code": "Shooting - Investigation",
+    "location": "4300 Block of Batt Dr",
+    "date": "2025-03-06",
+    "time": "1925",
+    "text": "Officers responded to the area for reports of a shooting. Upon arrival, officers located signs that a shooting had occurred. No victims were reported or located on scene. The investigation is pending at this time."
   }
 ]
