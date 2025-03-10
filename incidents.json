@@ -17827,5 +17827,32 @@
     "date": "2025-03-06",
     "time": "1925",
     "text": "Officers responded to the area for reports of a shooting. Upon arrival, officers located signs that a shooting had occurred. No victims were reported or located on scene. The investigation is pending at this time."
+  },
+  {
+    "cmd": "North Command",
+    "id": "25-058043",
+    "code": "Shooting - Firearm Arrest",
+    "location": "1900 Block Iris Ave",
+    "date": "2025-03-07",
+    "time": "1220",
+    "text": "Officers responded to reports of a shooting. Officers located a victim on scene and rendered medical aid. The victim was transported to an area hospital for non-life-threatening injuries. Officers also located the suspect and firearm used on scene. The suspect was arrested for related charges."
+  },
+  {
+    "cmd": "Central Command",
+    "id": "25-058620",
+    "code": "Subject Stop - Firearm Arrest",
+    "location": "7th St & L St",
+    "date": "2025-03-07",
+    "time": "2326",
+    "text": "Officers conducted a stop of a subject riding a bicycle. The suspect attempted to flee from officers but was quickly detained. Officers located an illegal firearm in the suspect's possession. The suspect was arrested for related charges."
+  },
+  {
+    "cmd": "Central Command",
+    "id": "25-058630",
+    "code": "Subject Stop - Firearm Arrest",
+    "location": "8th St & J St",
+    "date": "2025-03-07",
+    "time": "2343",
+    "text": "Officers conducted a stop of a group of individuals in the area. Officers located an illegally possessed firearm in one of the suspect's possessions. The suspect was arrested for related charges. "
   }
 ]
