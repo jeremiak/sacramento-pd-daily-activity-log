@@ -17854,5 +17854,50 @@
     "date": "2025-03-07",
     "time": "2343",
     "text": "Officers conducted a stop of a group of individuals in the area. Officers located an illegally possessed firearm in one of the suspect's possessions. The suspect was arrested for related charges. "
+  },
+  {
+    "cmd": "East Command",
+    "id": "25-058770",
+    "code": "Pursuit - Arrest",
+    "location": "14th Ave & 41st St",
+    "date": "2025-03-08",
+    "time": "0324",
+    "text": "Officers attempted to conduct a traffic stop of a vehicle, but it failed to stop. A short pursuit ensued until the suspect pulled the vehicle over. The suspect was safely detained. Officers arrested the suspect for an outstanding warrant and related charges. "
+  },
+  {
+    "cmd": "Central Command",
+    "id": "25-058853",
+    "code": "Vandalism - Arrest",
+    "location": "12th St & H St",
+    "date": "2025-03-08",
+    "time": "0828",
+    "text": "Officers responded to reports of subjects breaking into parking meters. Responding officers quickly detained one suspect. The second suspect attempted to flee on a bicycle but was located a short distance away and successfully detained. Both suspects were arrested for related charges. "
+  },
+  {
+    "cmd": "North Command",
+    "id": "25-058993",
+    "code": "Shooting - Investigation",
+    "location": "1700 Block Grand Ave",
+    "date": "2025-03-08",
+    "time": "1229",
+    "text": "Officers responded to reports of a shooting. Responding officers located evidence of a shooting but no reported injuries. A report was generated, and an investigation is pending at this time. "
+  },
+  {
+    "cmd": "East Command",
+    "id": "25-059108",
+    "code": "Sideshow Activity - Arrest",
+    "location": "Light Sky Ct & Younger Creek Dr",
+    "date": "2025-03-08",
+    "time": "1546",
+    "text": "Officers responded to the area for reports of a vehicle sideshow. Officers conducted a traffic stop of one of the primary vehicles involved and detained the driver. The driver was arrested for related charges."
+  },
+  {
+    "cmd": "South Command",
+    "id": "25-059164",
+    "code": "Traffic Stop - Firearm Arrest",
+    "location": "Florin Rd & Franklin Blvd",
+    "date": "2025-03-08",
+    "time": "1700",
+    "text": "Officers conducted a traffic stop in the area. During their investigation, officers located an illegally possessed firearm. The driver of the vehicle was arrested for related charges. "
   }
 ]
