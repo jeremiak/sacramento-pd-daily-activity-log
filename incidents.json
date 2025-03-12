@@ -17899,5 +17899,32 @@
     "date": "2025-03-08",
     "time": "1700",
     "text": "Officers conducted a traffic stop in the area. During their investigation, officers located an illegally possessed firearm. The driver of the vehicle was arrested for related charges. "
+  },
+  {
+    "cmd": "North Command",
+    "id": "25-059585",
+    "code": "Shooting - Investigation",
+    "location": "Los Robles Blvd & High St",
+    "date": "2025-03-09",
+    "time": "0355",
+    "text": "Officers responded to sounds of possible shots being fired in the area. Responding officers located evidence of a shooting but no reported injuries. A report was generated, and an investigation is pending at this time. "
+  },
+  {
+    "cmd": "East Command",
+    "id": "25-059967",
+    "code": "Stolen Vehicle - Arrest",
+    "location": "Power Inn Rd & Folsom Blvd",
+    "date": "2025-03-09",
+    "time": "1540",
+    "text": "Officers located a stolen vehicle in the area. Officers detained the driver of the vehicle. The driver was arrested for related charges. "
+  },
+  {
+    "cmd": "South Command",
+    "id": "25-060275",
+    "code": "Traffic Stop - Firearm Arrest",
+    "location": "22nd Ave & Curtis Ave",
+    "date": "2025-03-09",
+    "time": "2211",
+    "text": "Officers conducted a traffic stop in the area. During the investigation, officers located an illegal firearm and ammunition in the driver's possession. The driver was arrested for related charges."
   }
 ]
