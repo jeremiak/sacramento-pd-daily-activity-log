@@ -17989,5 +17989,23 @@
     "date": "2025-03-12",
     "time": "1640",
     "text": "Officers located an occupied stolen vehicle. The driver fled form the vehicle, but wasn’t faster than one of our officers. The suspect was detained and arrested for related charges."
+  },
+  {
+    "cmd": "South Command",
+    "id": "25-063303",
+    "code": "Attempted Robbery Suspect Arrested",
+    "location": "24th St / 24th St Bypass",
+    "date": "2025-03-13",
+    "time": "1541",
+    "text": "Patrol Officers working in the area observed a vehicle occupied by a subject wanted in relation to an attempted armed robbery and assault with a deadly weapon. The officers requested additional resources including a K9 and an Air unit.  While resources were arriving the suspect began to drive away.  Officers conducted a vehicle stop on the suspect and he was and arrested on related charges."
+  },
+  {
+    "cmd": "South Command",
+    "id": "25-063534",
+    "code": "Shooting - Investigation",
+    "location": "3800 Block of Cottontail Wy",
+    "date": "2025-03-13",
+    "time": "2030",
+    "text": "Officers responded to the area for reports of a shooting. Upon arrival, officers located evidence that a shooting had occurred. No injuries were reported for this incident. This is an active investigation.  "
   }
 ]
