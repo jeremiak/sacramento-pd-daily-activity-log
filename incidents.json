@@ -18007,5 +18007,32 @@
     "date": "2025-03-13",
     "time": "2030",
     "text": "Officers responded to the area for reports of a shooting. Upon arrival, officers located evidence that a shooting had occurred. No injuries were reported for this incident. This is an active investigation.  "
+  },
+  {
+    "cmd": "South Command",
+    "id": "25-063680",
+    "code": "Brandishing - Arrest",
+    "location": "3500 Block of Meadowview Rd",
+    "date": "2025-03-14",
+    "time": "0006",
+    "text": "Officers responded to reports that a suspect brandished a knife to a Regional Transit employee. Officers responded to the station and contacted the involved suspect and detained him without incident. The suspect was arrested and booked for related charges."
+  },
+  {
+    "cmd": "North Command",
+    "id": "25-064325",
+    "code": "Stabbing - Arrest",
+    "location": "3700 Block of Northgate Blvd",
+    "date": "2025-03-14",
+    "time": "1927",
+    "text": "Officers responded to reports of a stabbing. Responding officers located an adult victim with at least one non-life-threatening stab wound. The suspect was located and arrested for related charges."
+  },
+  {
+    "cmd": "East Command",
+    "id": "25-064337",
+    "code": "Stabbing - Arrest",
+    "location": "8500 Block of Folsom Blvd",
+    "date": "2025-03-14",
+    "time": "1945",
+    "text": "Officers responded to reports of a stabbing. Responding officers located an adult male victim with at least one stab wound. The victim was transported to an area hospital and was in critical condition. Officers were diligent and located two suspects and both were arrested for related charges."
   }
 ]
