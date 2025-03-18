@@ -18034,5 +18034,59 @@
     "date": "2025-03-14",
     "time": "1945",
     "text": "Officers responded to reports of a stabbing. Responding officers located an adult male victim with at least one stab wound. The victim was transported to an area hospital and was in critical condition. Officers were diligent and located two suspects and both were arrested for related charges."
+  },
+  {
+    "cmd": "East Command",
+    "id": "25-064895",
+    "code": "Shooting - Investigation",
+    "location": "3000 Block of Martin Luther King, Jr. Blvd",
+    "date": "2025-03-15",
+    "time": "1346",
+    "text": "Officers responded to the area for reports of a shooting. Officers arrived on scene and observed signs of a shooting. All involved parties had fled the scene. There were no reported injuries, and this is an active investigation."
+  },
+  {
+    "cmd": "North Command",
+    "id": "25-064905",
+    "code": "Stolen Vehicle - Arrest",
+    "location": "Howe Ave / Rainbow Ave",
+    "date": "2025-03-15",
+    "time": "1357",
+    "text": "Officers located an occupied stolen vehicle. The occupants were detained. The driver was arrested for related charges."
+  },
+  {
+    "cmd": "South Command",
+    "id": "25-065012",
+    "code": "Firearm/Narcotics - Arrest",
+    "location": "2900 Block of S. Meadows Pl",
+    "date": "2025-03-15",
+    "time": "1612",
+    "text": "Officers responded to reports of about 5 subjects in an apartment complex with ski-masks. An air unit responded first and the subjects began fleeing. Ground officers were able to detain all the subjects and during the investigation, officers located several illegally possessed firearms and narcotics. The suspects were arrested for related charges."
+  },
+  {
+    "cmd": "East Command",
+    "id": "25-065020",
+    "code": "Stolen Vehicle - Arrest",
+    "location": "Stockton Blvd / McMahon Dr",
+    "date": "2025-03-15",
+    "time": "1620",
+    "text": "Officers located an occupied stolen vehicle. The driver was detained and arrested for related charges."
+  },
+  {
+    "cmd": "South Command",
+    "id": "25-065104",
+    "code": "Shooting - Investigation",
+    "location": "1st Ave / 5th St",
+    "date": "2025-03-15",
+    "time": "1820",
+    "text": "Officers responded the area for reports of a shooting. Officers conducted an investigation and observed signs that a shooting had occurred. No injuries were reported. This is an active investigation. "
+  },
+  {
+    "cmd": "East Command",
+    "id": "25-065293",
+    "code": "Traffic Stop - Firearm/Narcotics Arrest",
+    "location": "4900 Block of Priscilla Ln",
+    "date": "2025-03-15",
+    "time": "2308",
+    "text": "Officers stopped a vehicle for a vehicle code violation. During the investigation, officers located an illegally possessed stolen vehicle and narcotics. The suspect was arrested for related charges."
   }
 ]
