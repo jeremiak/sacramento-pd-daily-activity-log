@@ -18088,5 +18088,32 @@
     "date": "2025-03-15",
     "time": "2308",
     "text": "Officers stopped a vehicle for a vehicle code violation. During the investigation, officers located an illegally possessed stolen vehicle and narcotics. The suspect was arrested for related charges."
+  },
+  {
+    "cmd": "North Command",
+    "id": "25-066142",
+    "code": "Shooting - Investigation",
+    "location": "700 Block Darina Ave",
+    "date": "2025-03-17",
+    "time": "0102",
+    "text": "Officers responded to reports of sounds of shots being fired. Responding officers located evidence of a shooting but no reported injuries. A report was generated, this is an active investigation. "
+  },
+  {
+    "cmd": "East Command",
+    "id": "25-066337",
+    "code": "Robbery-Arrest",
+    "location": "3000 Block K St",
+    "date": "2025-03-17",
+    "time": "0945",
+    "text": "Officers responded to reports of a robbery with a weapon. There were no reported injuries, however, officers were able to quickly locate the suspect in the area and detain him. The suspect was arrested for related charges. "
+  },
+  {
+    "cmd": "South Command",
+    "id": "25-066946",
+    "code": "Burglary-Arrest",
+    "location": "600 Block Broadway",
+    "date": "2025-03-17",
+    "time": "2335",
+    "text": "Officers responded to the area for an alarm activation at a business with video footage of a subject inside. Responding officers arrived, located the suspect and detained him. The suspect was arrested for related charges. "
   }
 ]
