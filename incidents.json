@@ -18115,5 +18115,32 @@
     "date": "2025-03-17",
     "time": "2335",
     "text": "Officers responded to the area for an alarm activation at a business with video footage of a subject inside. Responding officers arrived, located the suspect and detained him. The suspect was arrested for related charges. "
+  },
+  {
+    "cmd": "East Command",
+    "id": "25-067335",
+    "code": "Shooting - Firearm Arrest",
+    "location": "3500 Block 12th Ave",
+    "date": "2025-03-18",
+    "time": "1259",
+    "text": "Officers responded to the area for reports of a shooting. The victim was able to safely exit the residence and officers detained the suspect. Officers located an illegal firearm, and the suspect was arrested for related charges. "
+  },
+  {
+    "cmd": "East Command",
+    "id": "25-067484",
+    "code": "Traffic Stop - Firearm Arrest",
+    "location": "Power Inn Rd & Elder Creek Rd",
+    "date": "2025-03-18",
+    "time": "1555",
+    "text": "Officers conducted a traffic stop in the area. During the investigation, officers located two illegally possessed firearms. The suspect was arrested for related charges. "
+  },
+  {
+    "cmd": "South Command",
+    "id": "25-067552",
+    "code": "Traffic Stop - Firearm Arrest",
+    "location": "Mack Rd & Summersdale Dr",
+    "date": "2025-03-18",
+    "time": "1722",
+    "text": "Officers conducted a traffic stop in the area. During the investigation, officers located an illegally possessed firearm. The suspect was arrested for related charges. "
   }
 ]
