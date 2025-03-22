@@ -18142,5 +18142,23 @@
     "date": "2025-03-18",
     "time": "1722",
     "text": "Officers conducted a traffic stop in the area. During the investigation, officers located an illegally possessed firearm. The suspect was arrested for related charges. "
+  },
+  {
+    "cmd": "South Command",
+    "id": "25-067821",
+    "code": "Shooting - Firearm Arrest",
+    "location": "2900 Block 26th Ave",
+    "date": "2025-03-19",
+    "time": "0015",
+    "text": "Officers responded to reports of a shooting.  No injuries were reported. Responding officers located multiple subjects and an associated vehicle in the area. Through investigation, officers located two discarded firearms near the vehicle. The associated suspects were arrested for related charges. "
+  },
+  {
+    "cmd": "South Command",
+    "id": "25-068551",
+    "code": "Assault Investigation-Firearm Arrest",
+    "location": "900 Block 43rd Ave",
+    "date": "2025-03-19",
+    "time": "1849",
+    "text": "Officers responded to a report of a subject with a firearm in a parking lot. Through investigation, officers determined two suspects, one armed with a firearm, assaulted two victims. No serious injuries were reported. The suspects were detained and arrested for related charges. "
   }
 ]
