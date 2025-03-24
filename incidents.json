@@ -18160,5 +18160,50 @@
     "date": "2025-03-19",
     "time": "1849",
     "text": "Officers responded to a report of a subject with a firearm in a parking lot. Through investigation, officers determined two suspects, one armed with a firearm, assaulted two victims. No serious injuries were reported. The suspects were detained and arrested for related charges. "
+  },
+  {
+    "cmd": "Central Command",
+    "id": "25-069692",
+    "code": "Battery - Arrest",
+    "location": "2700 Block of J St",
+    "date": "2025-03-21",
+    "time": "0009",
+    "text": "Officers observed a fight in front of a bar. Officers observed a suspect punch a security guard in the face. When officers went in to detain the suspect, a second suspect punched the officer in the face. Both suspects were arrested on battery charges."
+  },
+  {
+    "cmd": "East Command",
+    "id": "25-070495",
+    "code": "Shooting - Investigation",
+    "location": "36th St & 25th Ave",
+    "date": "2025-03-21",
+    "time": "2117",
+    "text": "Officers responded to reports of a shooting. Officers located evidence of a shooting. No injuries were reported. An investigation was conducted and report generated."
+  },
+  {
+    "cmd": "Central Command",
+    "id": "25-070516",
+    "code": "Robbery-Arrest",
+    "location": "7th St & Capitol Mall",
+    "date": "2025-03-21",
+    "time": "2141",
+    "text": "Officers responded to reports of a robbery. Officers quickly arrived on scene and detained several individuals. Utilizing cameras from the Public Safety Camera Network, officers identified the suspect and arrested them for related charges."
+  },
+  {
+    "cmd": "North Command",
+    "id": "25-070518",
+    "code": "Subject Stop - Arrest",
+    "location": "Empress St & El Camino Ave",
+    "date": "2025-03-21",
+    "time": "2146",
+    "text": "Officers were in the area and attempted to contact a subject who was on foot. The suspect fled and officers detained them a short distance away. The suspect was arrested for their outstanding warrants and related charges."
+  },
+  {
+    "cmd": "Central Command",
+    "id": "25-070621",
+    "code": "Firearm - Arrest",
+    "location": "1100 Block 2nd St",
+    "date": "2025-03-21",
+    "time": "2344",
+    "text": "Officers were in the area when they were contacted about someone with a firearm. During their investigation, officers learned the suspect with the firearm was disarmed by another subject who provided officers with the illegally possessed firearm. Officers located the suspect, and they were arrested for related charges. "
   }
 ]
