@@ -18214,5 +18214,41 @@
     "date": "2025-03-22",
     "time": "1410",
     "text": "Officers located a stolen vehicle in the area. Officers detained the driver. The driver was arrested for related charges. "
+  },
+  {
+    "cmd": "Central Command",
+    "id": "25-071727",
+    "code": "Traffic Stop - Firearm Arrest",
+    "location": "2800 Block J St",
+    "date": "2025-03-23",
+    "time": "0158",
+    "text": "Officers were patrolling the area when they observed a vehicle commit a traffic violation. Officers conducted a traffic stop. Officers observed objective signs of intoxication in the driver. During their investigation, officers also located an illegally possessed firearm. The driver was arrested for related charges. "
+  },
+  {
+    "cmd": "South Command",
+    "id": "25-071943",
+    "code": "Stolen Vehicle - Arrest",
+    "location": "Broadway & Riverside Blvd",
+    "date": "2025-03-23",
+    "time": "0854",
+    "text": "Officers located a stolen vehicle in the area. Responding officers located the suspect driver who attempted to flee on foot but was quickly detained. The suspect was arrested for related charges. "
+  },
+  {
+    "cmd": "North Command",
+    "id": "25-072237",
+    "code": "Pursuit - Arrest",
+    "location": "Forrest St & Las Palmas Ave",
+    "date": "2025-03-23",
+    "time": "1623",
+    "text": "Officers attempted to stop an ATV for traffic violations. The driver of the ATV did not stop and a pursuit ensued. The suspect eventually stopped. The ATV was found to be stolen. The suspect was arrested for related charges. "
+  },
+  {
+    "cmd": "East Command",
+    "id": "25-072482",
+    "code": "Collision-Investigation",
+    "location": "Alhambra Blvd & Folsom Blvd",
+    "date": "2025-03-23",
+    "time": "2113",
+    "text": "Officers responded to reports of a vehicle collision in the area. Responding officers determined this was a hit and run collision with occupants of the suspect vehicle fleeing the scene prior to officers’ arrival. No serious injuries were reported. Traffic was impacted while officers investigated and processed the scene. A report was generated. "
   }
 ]
