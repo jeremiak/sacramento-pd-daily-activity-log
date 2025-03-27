@@ -18250,5 +18250,23 @@
     "date": "2025-03-23",
     "time": "2113",
     "text": "Officers responded to reports of a vehicle collision in the area. Responding officers determined this was a hit and run collision with occupants of the suspect vehicle fleeing the scene prior to officers’ arrival. No serious injuries were reported. Traffic was impacted while officers investigated and processed the scene. A report was generated. "
+  },
+  {
+    "cmd": "North Command",
+    "id": "25-073231",
+    "code": "Stolen Vehicle - Arrest",
+    "location": "Rio Linda Blvd / Eleanor Ave",
+    "date": "2025-03-24",
+    "time": "1627",
+    "text": "Officers located an occupied stolen vehicle. The driver was detained and arrested on related charges."
+  },
+  {
+    "cmd": "East Command",
+    "id": "25-073305",
+    "code": "Foot Pursuit - Arrest",
+    "location": "Folsom Blvd / Bamboo Tree Mhp",
+    "date": "2025-03-24",
+    "time": "1748",
+    "text": "Officers observed a suspect wanted from a robbery. When officers attempted to detain the suspect, the suspect attempted to flee on foot. Officers detained and arrested the suspect for related charges."
   }
 ]
