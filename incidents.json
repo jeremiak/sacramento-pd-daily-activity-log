@@ -18295,5 +18295,23 @@
     "date": "2025-03-26",
     "time": "1809",
     "text": "Officers responded to reports of a carjacking by physical force. The victim sustained non-life-threatening injuries. Officers conducted an investigation and a report was generated."
+  },
+  {
+    "cmd": "South Command",
+    "id": "25-076017",
+    "code": "Firearm - Arrest",
+    "location": "6200 Block of 14th St",
+    "date": "2025-03-27",
+    "time": "1436",
+    "text": "Officers responded to reports of potentially armed individuals. Responding officers located the suspects and detained them. While doing so, officers located an illegally possessed stolen handgun in the waistband of one of the suspects. That suspect was a juvenile, and was arrested and booked into Juvenile Hall for related charges."
+  },
+  {
+    "cmd": "East Command",
+    "id": "25-076243",
+    "code": "Burglary - Arrest",
+    "location": "400 Block of Howe Ave",
+    "date": "2025-03-27",
+    "time": "1831",
+    "text": "Officers observed a suspect that was involved in a previous burglary. The suspect was detained and arrested for burglary related charges, as well a PRCS hold."
   }
 ]
