@@ -18322,5 +18322,23 @@
     "date": "2025-03-28",
     "time": "2210",
     "text": "Officers conducted a traffic stop in the area. Officers located illegally possessed firearms in the possession of both occupants of the vehicle. Both suspects were arrested for related charges."
+  },
+  {
+    "cmd": "South Command",
+    "id": "25-077445",
+    "code": "Assault Investigation-Firearm Arrest",
+    "location": "2500 Block Kit Carson St",
+    "date": "2025-03-29",
+    "time": "0002",
+    "text": "Officers responded to the area for reports of an assault. Responding officers located the suspect attempting to flee from the backdoor of the victim’s residence. Officers detained the suspect and located an illegally possessed firearm in the suspect’s possession. The suspect was arrested for related charges."
+  },
+  {
+    "cmd": "South Command",
+    "id": "25-078002",
+    "code": "Shooting - Investigation",
+    "location": "2800 Block 67th Ave",
+    "date": "2025-03-29",
+    "time": "1713",
+    "text": "Officers responded to reports of sounds of shots being fired. Responding officers located evidence of a shooting but no reported victims. Officers conducted an investigation on scene and a report was generated. "
   }
 ]
