@@ -18340,5 +18340,23 @@
     "date": "2025-03-29",
     "time": "1713",
     "text": "Officers responded to reports of sounds of shots being fired. Responding officers located evidence of a shooting but no reported victims. Officers conducted an investigation on scene and a report was generated. "
+  },
+  {
+    "cmd": "East Command",
+    "id": "25-078860",
+    "code": "Sideshow Activity",
+    "location": "6200 Block Florin Perkins Rd",
+    "date": "2025-03-30",
+    "time": "1728",
+    "text": "Officers located a sideshow in the area and organized a coordinated response to address it. Officers on scene made numerous traffic stops, towed a vehicle, and issued several citations. Two suspects on scene were also arrested for their outstanding warrants."
+  },
+  {
+    "cmd": "North Command",
+    "id": "25-079048",
+    "code": "Pursuit - Arrest",
+    "location": "Juliessa Ave & Academy Way",
+    "date": "2025-03-30",
+    "time": "2149",
+    "text": "Officers responded to the area for a possible sideshow. Responding officers located several vehicles in the area that dispersed upon their arrival. Officers attempted to conduct a traffic stop of one of the vehicles. The vehicle did not stop, and a short pursuit ensued. The vehicle eventually stopped on its own and the driver was taken into custody."
   }
 ]
