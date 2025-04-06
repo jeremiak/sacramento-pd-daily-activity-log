@@ -18403,5 +18403,32 @@
     "date": "2025-04-02",
     "time": "1329",
     "text": "Officers responded to reports of a subject who was stabbed. Responding officers located a victim with non-life-threatening stab wounds, on scene. A short time later, the suspect who stabbed the victim was reported to be back on scene. Officers responded back to the scene, located the suspect and arrested the suspect for related charges. "
+  },
+  {
+    "cmd": "North Command",
+    "id": "25-081728",
+    "code": "Shooting - Investigation",
+    "location": "1300 Block of Grand Ave",
+    "date": "2025-04-03",
+    "time": "0339",
+    "text": "Officers responded to reports of a shooting. Responding officers located evidence of a shooting. No injuries were reported. Officers conducted an investigation and a report was generated."
+  },
+  {
+    "cmd": "East Command",
+    "id": "25-082507",
+    "code": "Traffic Stop - Drug Arrest",
+    "location": "Fruitridge Rd / Martin Luther King Kr. Blvd",
+    "date": "2025-04-03",
+    "time": "2249",
+    "text": "Officers stopped a vehicle. A probation search was conducted and during the investigation, officers located cash and several baggies of narcotics. The driver was arrested on drug charges and the passenger was arrested for a felony warrant."
+  },
+  {
+    "cmd": "East Command",
+    "id": "25-082546",
+    "code": "Pursuit - Arrest",
+    "location": "Elder Creek Rd / 65th St Expy",
+    "date": "2025-04-03",
+    "time": "2335",
+    "text": "Officers attempted to stop a vehicle for a vehicle code violation. The driver failed to yield and led officers on a pursuit. The driver and passenger eventually fled from the vehicle on foot. Officers set up a perimeter and with the assistance of our K-9 unit, the driver was located and detained. The driver, a 16-year-old male, was arrested for related charges."
   }
 ]
