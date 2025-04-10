@@ -18457,5 +18457,23 @@
     "date": "2025-04-06",
     "time": "0015",
     "text": "Officers responded to reports of a shooting. Responding officers located evidence of a shooting. No injuries were reported. Officers conducted an investigation and a report was generated."
+  },
+  {
+    "cmd": "South Command",
+    "id": "25-085318",
+    "code": "Pursuit - Firearm Arrest",
+    "location": "Valley Hi Dr & Center Pkwy",
+    "date": "2025-04-07",
+    "time": "0005",
+    "text": "Officers responded to reports of a sideshow in the area. Officers attempted to conduct a traffic stop of one of the vehicles involved in the sideshow. The vehicle did not stop, and a pursuit ensued. The driver eventually stopped and was found to be in possession of an illegally possessed firearm. The driver was arrested for related charges."
+  },
+  {
+    "cmd": "Central Command",
+    "id": "25-085877",
+    "code": "Stabbing - Arrest",
+    "location": "6th St / G St",
+    "date": "2025-04-07",
+    "time": "1451",
+    "text": "Officers responded to reports of a stabbing. The victim sustained a non-life-threatening injury. The suspect was located and arrested for felony assault charges."
   }
 ]
