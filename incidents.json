@@ -18475,5 +18475,23 @@
     "date": "2025-04-07",
     "time": "1451",
     "text": "Officers responded to reports of a stabbing. The victim sustained a non-life-threatening injury. The suspect was located and arrested for felony assault charges."
+  },
+  {
+    "cmd": "South Command",
+    "id": "25-086570",
+    "code": "Firearm - Arrest",
+    "location": "4900 Block of Mack Rd",
+    "date": "2025-04-08",
+    "time": "1058",
+    "text": "Officers responded to reports of a man sleeping outside with a gun on him. Responding officers located the suspect and safely detained him. The suspect was prohibited from possessing firearms and was arrested for related charges."
+  },
+  {
+    "cmd": "North Command",
+    "id": "25-086872",
+    "code": "Shooting - Investigation",
+    "location": "900 Block of W. El Camino Ave",
+    "date": "2025-04-08",
+    "time": "1653",
+    "text": "Officers responded to reports of a shooting. Responding officers located two adult males with at least one gunshot wound each. Both were transported to area hospitals where they are listed in stable condition. A police helicopter arrived and located a suspect vehicle leaving the scene. Officers eventually detained the suspect and this investigation is ongoing. "
   }
 ]
