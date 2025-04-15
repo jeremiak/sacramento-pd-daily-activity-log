@@ -18529,5 +18529,32 @@
     "date": "2025-04-11",
     "time": "1356",
     "text": "Officers responded to reports of a shooting. Responding officers located evidence of a shooting. No gunshot victims were located. Officers conducted an investigation and a report was generated."
+  },
+  {
+    "cmd": "North Command",
+    "id": "25-090277",
+    "code": "Burglary - Arrest",
+    "location": "800 Block of El Camino Ave",
+    "date": "2025-04-12",
+    "time": "0637",
+    "text": "Officers responded to reports of a burglary in progress. Officers set up a perimeter around the business and while making announcements, the suspect attempted to flee out the back door. The suspect was arrested and booked on related charges."
+  },
+  {
+    "cmd": "South Command",
+    "id": "25-090638",
+    "code": "Stolen Vehicle - Arrest",
+    "location": "3800 Block of Florin Rd",
+    "date": "2025-04-12",
+    "time": "1555",
+    "text": "Officers located an occupied stolen vehicle. The driver was detained and arrested for related charges."
+  },
+  {
+    "cmd": "Central Command",
+    "id": "25-090972",
+    "code": "Shooting - Investigation",
+    "location": "200 Block of K St",
+    "date": "2025-04-12",
+    "time": "2211",
+    "text": "Officers responded to reports of a shooting. Responding officers located two victims, both with non-life-threatening gunshot wounds. Both victims were bystanders and went to area hospitals for treatment. Officers conducted an investigation and a report was generated. "
   }
 ]
