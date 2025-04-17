@@ -18583,5 +18583,32 @@
     "date": "2025-04-13",
     "time": "2157",
     "text": "Officers observed a vehicle driving recklessly and attempted to conduct a traffic stop. The driver did not stop and fled at a high rate of speed.  After a short vehicle pursuit, the suspect vehicle pulled over. The suspect driver was arrested for related charges. "
+  },
+  {
+    "cmd": "South Command",
+    "id": "25-092548",
+    "code": "Theft-Arrest",
+    "location": "3700 Block Franklin Blvd",
+    "date": "2025-04-14",
+    "time": "1556",
+    "text": "Officers responded to a report of a suspect who had stolen from a business. Responding officers located the suspect and attempted to detain him. The suspect was uncooperative and additional officers responded to assist. Officers safely detained the suspect who was arrested for related charges. "
+  },
+  {
+    "cmd": "Central Command",
+    "id": "25-092660",
+    "code": "Subject Stop - Arrest",
+    "location": "500 Block J St",
+    "date": "2025-04-14",
+    "time": "1806",
+    "text": "Officers attempted to stop a subject smoking marijuana in the area. The subject became uncooperative and resisted officers but was safely detained. The subject was arrested for related charges. "
+  },
+  {
+    "cmd": "Central Command",
+    "id": "25-092701",
+    "code": "Subject Stop - Arrest",
+    "location": "400 Block K St",
+    "date": "2025-04-14",
+    "time": "1855",
+    "text": "Officers responded to reports of a subject refusing to leave a business. Upon officers' arrival, the suspect exited the store and attempted to take one of the officers’ bikes. Officers detained the suspect who was intoxicated. The suspect was arrested for related charges. "
   }
 ]
