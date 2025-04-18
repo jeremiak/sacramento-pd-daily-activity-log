@@ -18610,5 +18610,23 @@
     "date": "2025-04-14",
     "time": "1855",
     "text": "Officers responded to reports of a subject refusing to leave a business. Upon officers' arrival, the suspect exited the store and attempted to take one of the officers’ bikes. Officers detained the suspect who was intoxicated. The suspect was arrested for related charges. "
+  },
+  {
+    "cmd": "South Command",
+    "id": "25-093210",
+    "code": "Brandishing Investigation - Arrest",
+    "location": "2800 Block 19th Ave",
+    "date": "2025-04-15",
+    "time": "1113",
+    "text": "Officers responded to a call of a subject who brandished a handgun at a victim. Although officers were unable to locate a firearm, they contacted multiple witnesses who advised of the brandishing. The suspect was arrested for related charges."
+  },
+  {
+    "cmd": "South Command",
+    "id": "25-093780",
+    "code": "Pursuit - Arrest",
+    "location": "Fruitridge Rd & Franklin Blvd",
+    "date": "2025-04-15",
+    "time": "2138",
+    "text": "Officers attempted to conduct a bicycle stop. The suspect did not stop and fled on the bike onto the freeway where he eventually stopped. Officers detained the suspect who was arrested for related charges and an outstanding warrant."
   }
 ]
