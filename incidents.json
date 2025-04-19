@@ -18628,5 +18628,23 @@
     "date": "2025-04-15",
     "time": "2138",
     "text": "Officers attempted to conduct a bicycle stop. The suspect did not stop and fled on the bike onto the freeway where he eventually stopped. Officers detained the suspect who was arrested for related charges and an outstanding warrant."
+  },
+  {
+    "cmd": "Central Command",
+    "id": "25-094718",
+    "code": "Subject Stop - Firearms Arrest",
+    "location": "600 Block J St",
+    "date": "2025-04-16",
+    "time": "1925",
+    "text": "Officers observed a robbery suspect in the area and attempted to detain him. The suspect attempted to flee but was quickly detained. Officers located an illegally possessed loaded firearm on the suspect. An additional person that accompanied the suspect was also a suspect of the robbery. Both suspects were transported to juvenile hall."
+  },
+  {
+    "cmd": "South Command",
+    "id": "25-094895",
+    "code": "Traffic Stop - Firearm Arrest",
+    "location": "Mack Rd & Brookfield Dr",
+    "date": "2025-04-16",
+    "time": "2323",
+    "text": "Officers conducted a traffic stop. During the officers’ search an illegally possessed firearm was located in possession of one of the occupants of the vehicle. The suspect was arrested for related charges."
   }
 ]
