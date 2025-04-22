@@ -18664,5 +18664,23 @@
     "date": "2025-04-18",
     "time": "2328",
     "text": "Officers responded to reports of a shooting. Responding officers located evidence of a shooting but no report injuries. An investigation was conducted and a report was generated. "
+  },
+  {
+    "cmd": "Central Command",
+    "id": "25-097522",
+    "code": "Robbery-Arrest",
+    "location": "L St & 5th St",
+    "date": "2025-04-19",
+    "time": "1850",
+    "text": "Officers investigated a robbery between juveniles in the area. Officers located the suspect who attempted to flee on foot, sustaining a minor injury. Officers safely detained the suspect who will be transported to juvenile hall after being medically cleared from the hospital."
+  },
+  {
+    "cmd": "Central Command",
+    "id": "25-097605",
+    "code": "Traffic Stop - Firearm Arrest",
+    "location": "Front St & L St",
+    "date": "2025-04-19",
+    "time": "2019",
+    "text": "Officers conducted a traffic stop of a vehicle in the area. During a search, officers located an illegally possessed firearm. The suspect with the firearm was arrested for related charges."
   }
 ]
