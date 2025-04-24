@@ -18691,5 +18691,32 @@
     "date": "2025-04-20",
     "time": "2246",
     "text": "Officers attempted to conduct a bicycle stop on the area. The cyclist did not stop and a short bike and then subsequent foot pursuit ensued. Officers were able to safely detain the suspect. The suspect was arrested for related charges. "
+  },
+  {
+    "cmd": "South Command",
+    "id": "25-098690",
+    "code": "Bicycle Stop - Arrest",
+    "location": "Broadway & Freeport Blvd",
+    "date": "2025-04-21",
+    "time": "0112",
+    "text": "Officers attempted to conduct a bicycle stop in the area. The cyclist initially stopped but then decided to flee on their bike. A short pursuit ensued until the suspect was safely detained. Officers found the suspect to be on PRCS and to be in possession of narcotics. The suspect was arrested for related charges. "
+  },
+  {
+    "cmd": "North Command",
+    "id": "25-098703",
+    "code": "Subject Stop - Arrest",
+    "location": "Boxwood St & El Camino Ave",
+    "date": "2025-04-21",
+    "time": "0137",
+    "text": "Officers attempted to stop a subject on an e-scooter. The suspect did not stop on fled on the scooter. Officers located the suspect a shot distance away with the help of the Air Unit. The suspect was safely detained and arrested for his outstanding warrants and related charges. "
+  },
+  {
+    "cmd": "South Command",
+    "id": "25-099278",
+    "code": "Robbery - Arrest",
+    "location": "7700 Block of Laramore Wy",
+    "date": "2025-04-21",
+    "time": "1705",
+    "text": "Officers responded to reports of an armed robbery of a person. Detectives in our Real Time Information Center (RTIC) worked alongside patrol officers to help locate the suspect vehicle. The vehicle was stopped and the occupants of the vehicle were detained. During the investigation, officers located two illegally possessed firearms. The suspects were arrested on related charges. "
   }
 ]
