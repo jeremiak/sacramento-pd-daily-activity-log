@@ -18718,5 +18718,23 @@
     "date": "2025-04-21",
     "time": "1705",
     "text": "Officers responded to reports of an armed robbery of a person. Detectives in our Real Time Information Center (RTIC) worked alongside patrol officers to help locate the suspect vehicle. The vehicle was stopped and the occupants of the vehicle were detained. During the investigation, officers located two illegally possessed firearms. The suspects were arrested on related charges. "
+  },
+  {
+    "cmd": "South Command",
+    "id": "25-099939",
+    "code": "Stolen Vehicle - Arrest",
+    "location": "Meadowview Rd / Amherst St",
+    "date": "2025-04-22",
+    "time": "1316",
+    "text": "Officers located an occupied stolen vehicle. The driver was detained and arrested for related charges."
+  },
+  {
+    "cmd": "North Command",
+    "id": "25-100293",
+    "code": "Fatal Collision - Investigation",
+    "location": "4900 Block of Marysville Blvd",
+    "date": "2025-04-22",
+    "time": "1948",
+    "text": "Officers responded to a vehicle vs. motorcycle collision. The motorcyclist was pronounced deceased on the way to the hospital. The driver remained on scene and cooperated with the investigation. Detectives from our Major Collision Investigation Unit and Crime Scene Investigators responded to take over the investigation. "
   }
 ]
