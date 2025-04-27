@@ -18745,5 +18745,23 @@
     "date": "2025-04-23",
     "time": "0954",
     "text": "Officers responded to reports of a man with a gun. Responding officers located the suspect and detained him. He was found to be on probation and was prohibited from possessing a firearm. During the investigation, officers located an illegally possessed firearm. The suspect was arrested for related charges."
+  },
+  {
+    "cmd": "North Command",
+    "id": "25-101594",
+    "code": "Firearm - Arrest",
+    "location": "Norbert Wy / W. El Camino Ave",
+    "date": "2025-04-24",
+    "time": "0938",
+    "text": "Officers contacted a probationer in a vehicle. During the investigation, officers located an illegally possessed sawed-off shotgun. The suspect was arrested for related charges."
+  },
+  {
+    "cmd": "North Command",
+    "id": "25-102176",
+    "code": "Shooting - Investigation",
+    "location": "3200 Block of Marysville Blvd",
+    "date": "2025-04-24",
+    "time": "2047",
+    "text": "Officers responded to reports of a shooting. Responding officers located evidence of a shooting. A victim with a non-life-threatening injury self-transported to an area hospital and was contacted by police. An investigation was conducted and a report generated."
   }
 ]
