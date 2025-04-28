@@ -18763,5 +18763,23 @@
     "date": "2025-04-24",
     "time": "2047",
     "text": "Officers responded to reports of a shooting. Responding officers located evidence of a shooting. A victim with a non-life-threatening injury self-transported to an area hospital and was contacted by police. An investigation was conducted and a report generated."
+  },
+  {
+    "cmd": "East Command",
+    "id": "25-102951",
+    "code": "Traffic Stop - Firearm Arrest",
+    "location": "53rd St / Fruitridge Rd",
+    "date": "2025-04-25",
+    "time": "1709",
+    "text": "Officers stopped a vehicle. Two occupants fled from the vehicle on foot. One of the occupants attempted to discard a firearm. One of the suspects was located near the firearm and was detained. The other suspect was not located. The suspect detained was arrested for resisting and firearm related charges."
+  },
+  {
+    "cmd": "South Command",
+    "id": "25-103193",
+    "code": "Shooting - Investigation",
+    "location": "90 Block of Nedra Ct",
+    "date": "2025-04-25",
+    "time": "2202",
+    "text": "Officers responded to reports of a shooting. Responding officers located evidence of a shooting. No injuries were reported. Officers conducted an investigation and a report was generated. "
   }
 ]
