@@ -18790,5 +18790,23 @@
     "date": "2025-04-26",
     "time": "1109",
     "text": "Officers responded to reports of a shooting. One adult male was located on scene with at least one gunshot wound. He was transported to an area hospital and is in stable condition. The suspect returned to the scene and was detained by officers. During the investigation, officers located a handgun. The suspect was arrested on attempted murder charges."
+  },
+  {
+    "cmd": "East Command",
+    "id": "25-104411",
+    "code": "Shooting - Investigation",
+    "location": "5000 Block of Perry Ave",
+    "date": "2025-04-27",
+    "time": "0303",
+    "text": "Officers responded to reports of a shooting. Responding officers located evidence of a shooting. No injuries were reported. Officers conducted an investigation and a report was generated. "
+  },
+  {
+    "cmd": "North Command",
+    "id": "25-104639",
+    "code": "Stolen Vehicle - Arrest",
+    "location": "Rio Linda Blvd & Eleanor Ave",
+    "date": "2025-04-27",
+    "time": "1307",
+    "text": "Officers located a stolen vehicle in the area. The driver fled on foot from the vehicle when officers located it. Officers were quickly able to establish a perimeter and locate the suspect. He was arrested for relate charges."
   }
 ]
