@@ -18808,5 +18808,23 @@
     "date": "2025-04-27",
     "time": "1307",
     "text": "Officers located a stolen vehicle in the area. The driver fled on foot from the vehicle when officers located it. Officers were quickly able to establish a perimeter and locate the suspect. He was arrested for relate charges."
+  },
+  {
+    "cmd": "East Command",
+    "id": "25-105704",
+    "code": "Theft - Investigation",
+    "location": "7000 Block 21st Ave",
+    "date": "2025-04-28",
+    "time": "1648",
+    "text": "Officers responded to a report of a person who fell victim to a telephone scam leading him to provide suspects with a large sum of money. Officers conducted an investigation and a report was generated."
+  },
+  {
+    "cmd": "South Command",
+    "id": "25-105818",
+    "code": "Missing Person",
+    "location": "2000 Block 20th Ave",
+    "date": "2025-04-28",
+    "time": "1955",
+    "text": "Officers responded to a missing person report. A social media blast was posted online. The missing person has been safely located. "
   }
 ]
