@@ -18844,5 +18844,23 @@
     "date": "2025-04-30",
     "time": "1618",
     "text": "Officers responded to reports of a shooting. Responding officers located evidence of a shooting and a victim with a non-life-threatening gunshot wound to his hand. That victim was transported to an area hospital. Later in the evening, a second victim with a non-life-threatening gunshot wound showed up at an area hospital and was treated. Based on the investigation, officers believe the victim was shot at this scene. Officers conducted an investigation and a report was generated. "
+  },
+  {
+    "cmd": "North Command",
+    "id": "25-108427",
+    "code": "Firearm - Arrest",
+    "location": "1600 Block of Arden Wy",
+    "date": "2025-05-01",
+    "time": "1735",
+    "text": "Officers responded to reports of a man who brandished a firearm. With the assistance of onsite security, officers responded, located the suspect, and detained him. During the investigation, officers located an illegally possessed firearm. The suspect was arrested for related charges."
+  },
+  {
+    "cmd": "South Command",
+    "id": "25-108636",
+    "code": "Shooting - Investigation",
+    "location": "7500 Block of Franklin Blvd",
+    "date": "2025-05-01",
+    "time": "2123",
+    "text": "Officers responded to reports of a shooting. Responding officers located evidence of a shooting. No injuries were reported. A report was generated. "
   }
 ]
