@@ -18862,5 +18862,23 @@
     "date": "2025-05-01",
     "time": "2123",
     "text": "Officers responded to reports of a shooting. Responding officers located evidence of a shooting. No injuries were reported. A report was generated. "
+  },
+  {
+    "cmd": "East Command",
+    "id": "25-109997",
+    "code": "Disturbance - Arrest",
+    "location": "4000 Block of Martin Luther King, Jr. Blvd",
+    "date": "2025-05-03",
+    "time": "0755",
+    "text": "Officers responded to a report of a disturbance. When officers arrived, the suspect threw two glass bottles at officers and threatened to kill them. Less-lethal weapons were used to detain the suspect, who was arrested on numerous charges. "
+  },
+  {
+    "cmd": "South Command",
+    "id": "25-110575",
+    "code": "Traffic Stop - DUI Arrest",
+    "location": "Clover Hill Ct / Whisper Wood Wy",
+    "date": "2025-05-03",
+    "time": "2113",
+    "text": "Officers attempted to stop a vehicle for a vehicle code violation. The driver failed to yield and led officers on pursuit. The driver eventually pulled over, was detained, and displayed objective signs of intoxication. The suspect was arrested for related charges."
   }
 ]
