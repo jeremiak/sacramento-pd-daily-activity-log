@@ -18880,5 +18880,86 @@
     "date": "2025-05-03",
     "time": "2113",
     "text": "Officers attempted to stop a vehicle for a vehicle code violation. The driver failed to yield and led officers on pursuit. The driver eventually pulled over, was detained, and displayed objective signs of intoxication. The suspect was arrested for related charges."
+  },
+  {
+    "cmd": "East Command",
+    "id": "25-110824",
+    "code": "Shooting - Investigation",
+    "location": "3800 Block of 4th Ave",
+    "date": "2025-05-04",
+    "time": "0219",
+    "text": "Officers responded to reports of a shooting. Responding officers located evidence of a shooting. No injuries were reported on scene. An investigation was complete and officers wrote a report. "
+  },
+  {
+    "cmd": "South Command",
+    "id": "25-111459",
+    "code": "Shooting - Investigation",
+    "location": "5300 Block Scarborough Wy",
+    "date": "2025-05-04",
+    "time": "2012",
+    "text": "Officers responded to reports of a subject who negligently fired a firearm into the air. Officers learned the suspect who fired the gun was likely located in a nearby residence and established a perimeter. After hours of negotiating with the suspect to surrender, SWAT and additional negotiators arrived to the scene. The suspect peacefully surrendered a short time later and was arrested for his outstanding warrant and related charges. A search of the property yielded a firearm. "
+  },
+  {
+    "cmd": "South Command",
+    "id": "25-111464",
+    "code": "Domestic Violence - Arrest",
+    "location": "8100 Block Center Pkwy",
+    "date": "2025-05-04",
+    "time": "2016",
+    "text": "Officers responded for reports of domestic violence. Through investigation, officers determined the suspect to have committed felony domestic violence. As officers attempted to detain the suspect, he fled on foot. Officers quickly established a perimeter and located the suspect hiding in a nearby canal, and detained him peacefully. The suspect was arrested for related charges."
+  },
+  {
+    "cmd": "South Command",
+    "id": "25-111562",
+    "code": "Shooting - Investigation",
+    "location": "2700 Block 5th St",
+    "date": "2025-05-04",
+    "time": "2217",
+    "text": "Officers responded to reports of sounds of shots being fired on the area. Officers located evidence of a shooting but no reported victims. Officers conducted an investigation and a report was generated. "
+  },
+  {
+    "cmd": "North Command",
+    "id": "25-111581",
+    "code": "Stolen Vehicle - Investigation",
+    "location": "Rio Linda Blvd & El Camino Ave",
+    "date": "2025-05-04",
+    "time": "2236",
+    "text": "Officers located a stolen vehicle in the area. The vehicle immediately fled, eventually stopped, and all occupants fled the vehicle on foot. A loaded firearm was located on the ground near the vehicle. Despite a perimeter being established, the suspects were not located. A report was generated for follow up."
+  },
+  {
+    "cmd": "North Command",
+    "id": "25-111611",
+    "code": "Burglary-Arrest",
+    "location": "3700 Block Pell Cir",
+    "date": "2025-05-04",
+    "time": "2323",
+    "text": "Officers responded to a burglary alarm. Responding officers located evidence of a burglary. With the assistance of a partnering agency’s K9, officers located two suspects hiding inside the building. The suspects were detained and arrested for related charges.  "
+  },
+  {
+    "cmd": "South Command",
+    "id": "25-111857",
+    "code": "Collision Investigation-Arrest",
+    "location": "24th St & Fruitridge Rd",
+    "date": "2025-05-05",
+    "time": "0929",
+    "text": "Officers responded to a hit and run collision involving a vehicle and bicyclist. The bicyclist was transported to an area hospital in critical condition; the driver of the vehicle fled the scene prior to police arrival. Major Collision Investigation Unit detectives responded to take over the investigation. Through diligent and extensive follow up, detectives identified, located, and arrested the hit and run driver for related charges. "
+  },
+  {
+    "cmd": "North Command",
+    "id": "25-112186",
+    "code": "Pursuit - Investigation",
+    "location": "Fee Dr & Tribute Rd",
+    "date": "2025-05-05",
+    "time": "1542",
+    "text": "Officers attempted to conduct a traffic stop of a dirt bike. The rider of the dirt bike failed to stop, and a pursuit ensued. Officers eventually lost sight of the dirt bike and ended the pursuit. A report was generated. "
+  },
+  {
+    "cmd": "Central Command",
+    "id": "25-112257",
+    "code": "Subject Stop - Firearm Arrest",
+    "location": "600 Block J St",
+    "date": "2025-05-05",
+    "time": "1706",
+    "text": "Officers responded to reports of a subject with a firearm. Officers responded quickly to the area and located an individual matching the subject’s description and safely detained him. Officers located an illegally possessed firearm. The suspect was arrested for related charges. "
   }
 ]
