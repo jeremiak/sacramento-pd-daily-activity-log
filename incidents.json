@@ -18997,5 +18997,50 @@
     "date": "2025-05-08",
     "time": "1521",
     "text": "Officers responded to reports of a robbery of a person by physical force. Responding officers were able to locate and detain the suspects. The victim sustained minor injuries and the suspects were booked into jail on robbery related charges."
+  },
+  {
+    "cmd": "East Command",
+    "id": "25-115561",
+    "code": "Pursuit - Arrest",
+    "location": "14th Ave / Stockton Blvd",
+    "date": "2025-05-09",
+    "time": "0135",
+    "text": "Officers attempted to stop a reckless driver. The suspect failed to yield and led officers on a pursuit. Officers canceled the pursuit, but located the vehicle parked. The suspect was arrested for related charges. "
+  },
+  {
+    "cmd": "North Command",
+    "id": "25-116309",
+    "code": "Robbery - Investigation",
+    "location": "700 Block of Northfield Dr",
+    "date": "2025-05-09",
+    "time": "1939",
+    "text": "A 12-year-old victim was approached by two adult suspects who pointed a rifle at him and took his bulldog. The victim was not physically injured. Officers conducted an investigation and a report was generated."
+  },
+  {
+    "cmd": "East Command",
+    "id": "25-116343",
+    "code": "Shooting - Investigation",
+    "location": "3800 Block of 34th St",
+    "date": "2025-05-09",
+    "time": "2021",
+    "text": "Officers responded to reports of a shooting. Responding officers located evidence of a shooting. No injuries were reported. Officers conducted an investigation and a report was generated. "
+  },
+  {
+    "cmd": "North Command",
+    "id": "25-116352",
+    "code": "Shooting - Arrest",
+    "location": "1300 Block of Nogales St",
+    "date": "2025-05-09",
+    "time": "2028",
+    "text": "Officers responded to sounds of shots fired. Through their investigation, officers determined a kid’s swim party was taking place and a drunk male in attendance discharged a firearm as part of the party events. Officers seized the firearm and the suspect was arrested for discharging a firearm and child endangerment. "
+  },
+  {
+    "cmd": "South Command",
+    "id": "25-116356",
+    "code": "Stabbing - Investigation",
+    "location": "3900 Block of W. Pacific Ave",
+    "date": "2025-05-09",
+    "time": "2032",
+    "text": "Officers responded to reports of a stabbing. Two victims were located, one who was in critical condition. Both victims were transported to area hospitals and both have stabilized. Officers conducted an investigation and a report was generated."
   }
 ]
