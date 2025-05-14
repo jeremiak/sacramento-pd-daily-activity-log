@@ -19051,5 +19051,32 @@
     "date": "2025-05-10",
     "time": "1128",
     "text": "Officers responded to reports of a vehicle collision. One party was pronounced deceased on scene. The other party remained on scene and cooperated with law enforcement. DUI does not appear to be a factor. Detectives responded out to take over the investigation."
+  },
+  {
+    "cmd": "North Command",
+    "id": "25-117592",
+    "code": "Traffic Stop - Firearm Arrest",
+    "location": "Pell Cir / Pell Dr",
+    "date": "2025-05-11",
+    "time": "0325",
+    "text": "Officers initiated a traffic stop. One of the occupants was a convicted felon and was in possession of an illegally possessed handgun. The felon was arrested for related charges. "
+  },
+  {
+    "cmd": "South Command",
+    "id": "25-117850",
+    "code": "Suspicious Activity - Arrest",
+    "location": "4200 Block Lotus Ave",
+    "date": "2025-05-11",
+    "time": "1222",
+    "text": "Officers responded to reports of a subject trying to enter an apartment. Officers arrived on scene and quickly located the suspect. The suspect was resistive during officers' attempt to detain her; however, she was safely detained. The suspect was arrest for possession of narcotics and related charges."
+  },
+  {
+    "cmd": "East Command",
+    "id": "25-118047",
+    "code": "Sideshow Activity - Tow",
+    "location": "Light Sky Ct & Younger Creek Dr",
+    "date": "2025-05-11",
+    "time": "1719",
+    "text": "Officers responded to over 50 vehicles gathered for sideshow activity in the area. Officers conducted enforcement action including issuing citations and towing a vehicle. The remaining group of vehicles eventually dispersed and left the area. "
   }
 ]
