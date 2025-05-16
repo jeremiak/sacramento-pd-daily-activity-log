@@ -19078,5 +19078,68 @@
     "date": "2025-05-11",
     "time": "1719",
     "text": "Officers responded to over 50 vehicles gathered for sideshow activity in the area. Officers conducted enforcement action including issuing citations and towing a vehicle. The remaining group of vehicles eventually dispersed and left the area. "
+  },
+  {
+    "cmd": "Central Command",
+    "id": "25-118416",
+    "code": "Assault - Investigation",
+    "location": "200 Block Jiboom St",
+    "date": "2025-05-12",
+    "time": "0418",
+    "text": "Officers responded to reports of an assault involving a firearm. Responding officers located two victims, neither victim sustained gunshot wounds, however they did have non-life-threatening injuries. The victims were transported to an area hospital. Officers recovered a firearm from the scene. An investigation was conducted, and a report was generated. "
+  },
+  {
+    "cmd": "North Command",
+    "id": "25-118878",
+    "code": "Disturbance - Firearm Arrest",
+    "location": "1500 Block Strader Ave",
+    "date": "2025-05-12",
+    "time": "1528",
+    "text": "Officers responded to a disturbance involving a firearm at a residence. While officers were on scene, the suspect with the alleged firearm was located walking out of the residence and was detained by officers. A search yielded two illegally possessed firearms. The suspect was arrested for related charges. "
+  },
+  {
+    "cmd": "Central Command",
+    "id": "25-118934",
+    "code": "Disturbance - Arrest",
+    "location": "1000 Block K St",
+    "date": "2025-05-12",
+    "time": "1620",
+    "text": "Officers responded to reports of a subject exposing themselves and waiving a stick at people. Responding officers detained the suspect who was arrested for related charges. "
+  },
+  {
+    "cmd": "East Command",
+    "id": "25-119283",
+    "code": "Shooting - Investigation",
+    "location": "3900 Block 12th Ave",
+    "date": "2025-05-13",
+    "time": "0133",
+    "text": "Officers responded to reports of sounds of a shooting. Responding officers located evidence of a shooting but no reported injuries. An investigation was conducted and a report generated. "
+  },
+  {
+    "cmd": "North Command",
+    "id": "25-119916",
+    "code": "Suspicious Activity - Arrest",
+    "location": "Grove Ave & Eleanor Ave",
+    "date": "2025-05-13",
+    "time": "1839",
+    "text": "Officers responded to reports of a subject looking into vehicles with a knife in her hand. Responding officers located the suspect who was resistive and kicked one of the officers when they detained her. Officers identified the suspect who had an outstanding felony warrant. The suspect was arrested for related charges."
+  },
+  {
+    "cmd": "North Command",
+    "id": "25-119956",
+    "code": "Suspicious Activity - Firearm Arrest",
+    "location": "Cliff House Wy & Painted Ocean Pl",
+    "date": "2025-05-13",
+    "time": "1919",
+    "text": "Officers responded to a report of a subject who threatened to pistol whip the caller. Responding officers located the suspect who had an illegally possessed firearm. Officers safely detained the suspect and located illegal drugs in their possession as well. The suspect was arrested for related charges. "
+  },
+  {
+    "cmd": "North Command",
+    "id": "25-120048",
+    "code": "Traffic Stop - Firearm Arrest",
+    "location": "El Camino Ave & Grove Ave",
+    "date": "2025-05-13",
+    "time": "2145",
+    "text": "Officers responded to a suspicious subject who appeared to be preparing to rob a convenience store. Officers utilized FUSUS to assist in locating the suspect. Officers conducted a traffic stop of the suspect and located an illegally possessed firearm. The suspect was arrested for related charges. "
   }
 ]
