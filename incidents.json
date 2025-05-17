@@ -19141,5 +19141,32 @@
     "date": "2025-05-13",
     "time": "2145",
     "text": "Officers responded to a suspicious subject who appeared to be preparing to rob a convenience store. Officers utilized FUSUS to assist in locating the suspect. Officers conducted a traffic stop of the suspect and located an illegally possessed firearm. The suspect was arrested for related charges. "
+  },
+  {
+    "cmd": "South Command",
+    "id": "25-120438",
+    "code": "Missing Person",
+    "location": "8100 Block Center Pkwy",
+    "date": "2025-05-14",
+    "time": "1058",
+    "text": "Officers responded to reports of a missing 82-year-old woman with dementia who went missing around 3:00am on 5/14/2025. Officers conducted an investigation and generated a report. A media blast was published with the missing person information."
+  },
+  {
+    "cmd": "South Command",
+    "id": "25-120827",
+    "code": "Robbery - Investigation",
+    "location": "1100 Block 43rd Ave",
+    "date": "2025-05-14",
+    "time": "1748",
+    "text": "Officers responded to a report of a robbery where the suspect simulated having a weapon. The suspect stole a juvenile's backpack and belongings. The suspect was not located. An investigation was conducted and a report generated."
+  },
+  {
+    "cmd": "North Command",
+    "id": "25-120924",
+    "code": "Suspicious Activity - Firearms Arrest",
+    "location": "3200 Block Marysville Blvd",
+    "date": "2025-05-14",
+    "time": "1939",
+    "text": "Officers responded to reports of a large group of juveniles with guns in the area. The air unit and officers utilizing the Public Safety Camera Network assisted in the response and guided responding ground units to the group until they were able to detain suspects and investigate. Officers located multiple handguns and a rifle that had been discarded. Based on information from the air unit and officers utilizing the Public Safety Camera Network, officers were able to connect the illegally possessed firearms to the detained suspects. The suspects were arrested for related charges."
   }
 ]
