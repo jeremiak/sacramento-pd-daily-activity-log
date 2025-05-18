@@ -19168,5 +19168,23 @@
     "date": "2025-05-14",
     "time": "1939",
     "text": "Officers responded to reports of a large group of juveniles with guns in the area. The air unit and officers utilizing the Public Safety Camera Network assisted in the response and guided responding ground units to the group until they were able to detain suspects and investigate. Officers located multiple handguns and a rifle that had been discarded. Based on information from the air unit and officers utilizing the Public Safety Camera Network, officers were able to connect the illegally possessed firearms to the detained suspects. The suspects were arrested for related charges."
+  },
+  {
+    "cmd": "South Command",
+    "id": "25-122073",
+    "code": "Stolen Vehicle/Pursuit - Arrest",
+    "location": "E. Pacific Ave / Sutterville Rd",
+    "date": "2025-05-15",
+    "time": "2209",
+    "text": "Officers responded to reports of a stolen vehicle. Responding officers located the vehicle occupied and attempted to stop it. The suspect failed to yield and led officers on a pursuit to Business 80 and Exposition Blvd. All three occupants were juveniles. The driver was arrested for stolen vehicle charges and was booked into Juvenile Hall. The other two  juveniles were returned to the Children’s Home. "
+  },
+  {
+    "cmd": "East Command",
+    "id": "25-122138",
+    "code": "Stolen Vehicle - Arrest",
+    "location": "4300 Block of Stockton Blvd",
+    "date": "2025-05-15",
+    "time": "2354",
+    "text": "Officers located an occupied stolen vehicle. The driver was detained and arrested for related charges."
   }
 ]
