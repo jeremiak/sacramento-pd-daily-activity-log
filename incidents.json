@@ -19186,5 +19186,32 @@
     "date": "2025-05-15",
     "time": "2354",
     "text": "Officers located an occupied stolen vehicle. The driver was detained and arrested for related charges."
+  },
+  {
+    "cmd": "North Command",
+    "id": "25-122817",
+    "code": "Pursuit - Firearm Arrest",
+    "location": "Cypress St & Roanoke Ave",
+    "date": "2025-05-16",
+    "time": "1723",
+    "text": "Officers observed a suspect armed with a rifle get into a vehicle. Officers attempted to conduct a traffic stop of the vehicle. The vehicle did not stop, and a pursuit ensued. The vehicle pursuit ended, and the occupants fled on foot, attempting to discard the rifle. Officers located two of the occupants and recovered two illegally possessed firearms from the scene. The male suspect was booked into juvenile hall, and the female suspect was booked into jail on related charges."
+  },
+  {
+    "cmd": "North Command",
+    "id": "25-123061",
+    "code": "Traffic Stop - Firearm Arrest",
+    "location": "Dry Creed Rd @ Roanoke Ave",
+    "date": "2025-05-16",
+    "time": "2229",
+    "text": "Officers conducted a traffic stop of a vehicle. During the stop, the passenger fled but was apprehended a short distance away. Officers discovered three additional occupants also fled from the vehicle. A rifle and handgun were located in the vehicle. The passenger was booked at juvenile hall for related charges and outstanding felony warrants."
+  },
+  {
+    "cmd": "North Command",
+    "id": "25-123135",
+    "code": "Suspicious Vehicle - Firearm Arrest",
+    "location": "300 Block El Camino Ave",
+    "date": "2025-05-16",
+    "time": "2358",
+    "text": "Officers contacted the driver of a suspicious vehicle. During the encounter, the driver became uncooperative and was detained. Officers located an illegal firearm in the vehicle. The suspect was arrested for related charges."
   }
 ]
