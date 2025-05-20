@@ -19213,5 +19213,32 @@
     "date": "2025-05-16",
     "time": "2358",
     "text": "Officers contacted the driver of a suspicious vehicle. During the encounter, the driver became uncooperative and was detained. Officers located an illegal firearm in the vehicle. The suspect was arrested for related charges."
+  },
+  {
+    "cmd": "South Command",
+    "id": "25-123492",
+    "code": "Domestic Violence - Firearm Arrest",
+    "location": "1000 Block Captains Table Rd",
+    "date": "2025-05-17",
+    "time": "1122",
+    "text": "Officers responded to a report of domestic violence where the suspect assaulted the victim and pointed a firearm at him. Responding officers created a perimeter around where the possibly armed suspect was believed to be. Officers located the suspect and safely detained him. Officers located a rifle nearby. The suspect was arrested for related charges."
+  },
+  {
+    "cmd": "North Command",
+    "id": "25-123627",
+    "code": "Traffic Stop - Firearm Arrest",
+    "location": "Morey Ave & Knightlinger St",
+    "date": "2025-05-17",
+    "time": "1424",
+    "text": "Officers conducted a traffic stop of a vehicle and located a stolen firearm. The driver who was on probation, was arrested for related charges."
+  },
+  {
+    "cmd": "South Command",
+    "id": "25-124112",
+    "code": "Shooting - Investigation",
+    "location": "8000 Block Sunbird Wy",
+    "date": "2025-05-17",
+    "time": "2344",
+    "text": "Officers responded for reports of a large house party and someone armed with a gun. As officers arrived on scene they heard multiple gunshots and observed people fleeing the area. Officers locate a male adult victim with at least one gunshot wound. The male was transported to an area hospital for non life threatening injuries. Officers located casings, two vehicles and two residences that were struck by gun fire. Officers conducted an investigation and a report was generated."
   }
 ]
