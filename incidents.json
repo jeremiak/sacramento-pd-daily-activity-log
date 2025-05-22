@@ -19240,5 +19240,23 @@
     "date": "2025-05-17",
     "time": "2344",
     "text": "Officers responded for reports of a large house party and someone armed with a gun. As officers arrived on scene they heard multiple gunshots and observed people fleeing the area. Officers locate a male adult victim with at least one gunshot wound. The male was transported to an area hospital for non life threatening injuries. Officers located casings, two vehicles and two residences that were struck by gun fire. Officers conducted an investigation and a report was generated."
+  },
+  {
+    "cmd": "Central Command",
+    "id": "25-125125",
+    "code": "Carjacking - Investigation",
+    "location": "22nd St / K St",
+    "date": "2025-05-19",
+    "time": "0419",
+    "text": "Officers responded to reports of a carjacking. The suspect entered the victim’s vehicle and pushed the victim out. The suspect fled in the victim’s vehicle. The vehicle was entered into the stolen vehicle system and a report was generated."
+  },
+  {
+    "cmd": "Central Command",
+    "id": "25-125672",
+    "code": "Firearm - Arrest",
+    "location": "1300 Block of 8th St",
+    "date": "2025-05-19",
+    "time": "1644",
+    "text": "Officers responded to reports of a man who pointed a gun at a victim on a Light Rail Train. Officers worked with our Real Time Information Center to coordinate a response and locate the suspect. The suspect was detained and a handgun was recovered. The suspect was arrested for related charges."
   }
 ]
