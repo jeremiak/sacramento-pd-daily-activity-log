@@ -19258,5 +19258,23 @@
     "date": "2025-05-19",
     "time": "1644",
     "text": "Officers responded to reports of a man who pointed a gun at a victim on a Light Rail Train. Officers worked with our Real Time Information Center to coordinate a response and locate the suspect. The suspect was detained and a handgun was recovered. The suspect was arrested for related charges."
+  },
+  {
+    "cmd": "North Command",
+    "id": "25-126480",
+    "code": "Shooting - Investigation",
+    "location": "4700 Block of Marysville Blvd",
+    "date": "2025-05-20",
+    "time": "1617",
+    "text": "Officers responded to reports of a shooting. Responding officers did not locate any evidence of a shooting and no injured people were located."
+  },
+  {
+    "cmd": "North Command",
+    "id": "25-126732",
+    "code": "Shooting - Investigation",
+    "location": "1500 Block of W. El Camino Ave",
+    "date": "2025-05-20",
+    "time": "2135",
+    "text": "Officers responded to reports of a shooting. Responding officers located a female adult with at least one gunshot wound. She was transported to an area hospital for treatment, where she remains in stable condition. There is no suspect information to release and officers completed a report."
   }
 ]
