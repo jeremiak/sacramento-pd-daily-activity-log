@@ -19303,5 +19303,23 @@
     "date": "2025-05-22",
     "time": "1558",
     "text": "Officers responded to reports of a burglary in progress. Responding officers located the suspect exiting the residence. The suspect was detained and transported to an area hospital for a pre-existing injury, before being booked into jail for burglary-related charges."
+  },
+  {
+    "cmd": "Central Command",
+    "id": "25-128864",
+    "code": "Shooting - Investigation",
+    "location": "1500 Block of C St",
+    "date": "2025-05-23",
+    "time": "0856",
+    "text": "Officers responded to reports of a shooting. Responding officers located one male adult victim with at least one gunshot wound. Officers rendered emergency medical aid to the victim, who was transported to an area hospital in stable condition. There is no suspect information to release at this time. Officers conducted an investigation and a report was generated."
+  },
+  {
+    "cmd": "Central Command",
+    "id": "25-129394",
+    "code": "Stabbing - Investigation",
+    "location": "12th St / F St",
+    "date": "2025-05-23",
+    "time": "1947",
+    "text": "Officers responded to reports of a stabbing. The victim was transported to an area hospital with non-life-threatening injuries. Officers conducted an investigation and a report was generated."
   }
 ]
