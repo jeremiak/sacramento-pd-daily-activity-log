@@ -19339,5 +19339,50 @@
     "date": "2025-05-25",
     "time": "0444",
     "text": "Officers responded to a report of a male suspect outside with a firearm. Officers arrived on scene and detained the suspect. Officers located an illegally possessed firearm on the suspect’s person. The suspect was arrested for related charges."
+  },
+  {
+    "cmd": "East Command",
+    "id": "25-131695",
+    "code": "Stolen Vehicle - Arrest",
+    "location": "5200 Block Prickly Pear Ave",
+    "date": "2025-05-26",
+    "time": "0744",
+    "text": "Officers located a stolen vehicle in the area. The vehicle immediately fled from officers and a pursuit ensued. The vehicle eventually stopped in an apartment complex and the drive fled on foot. Officers located the suspect, and he was arrested for related charges."
+  },
+  {
+    "cmd": "Central Command",
+    "id": "25-131796",
+    "code": "Assault - Arrest",
+    "location": "8th St & J St",
+    "date": "2025-05-26",
+    "time": "1022",
+    "text": "Officers responded to a victim who was stabbed. The victim sustained non life threatening injuries and was transported to an area hospital. Officers located the suspect nearby and he was arrested for related charges. "
+  },
+  {
+    "cmd": "East Command",
+    "id": "25-131858",
+    "code": "Arson - Arrest",
+    "location": "7300 Block Folsom Blvd",
+    "date": "2025-05-26",
+    "time": "1207",
+    "text": "Officers were advised of a possible arson suspect in the area. Officers observed the suspect and attempted to contact him. The suspect fled on foot but was eventually detained by officers. The suspect was identified as having multiple outstanding felony warrants. The suspect was arrested for his warrants and for fleeing from officers. Arson investigators responded and conducted an investigation. Additional charges may be added if applicable. "
+  },
+  {
+    "cmd": "East Command",
+    "id": "25-131932",
+    "code": "Shooting - Investigation",
+    "location": "3500 Block 5th Ave",
+    "date": "2025-05-26",
+    "time": "1328",
+    "text": "Officers responded to the area for reports of sounds of shots being fired. Responding officers located evidence of a shooting but no victims were reported. An investigation was conducted, and a report was generated. "
+  },
+  {
+    "cmd": "East Command",
+    "id": "25-132024",
+    "code": "Stolen Vehicle - Arrest",
+    "location": "Martin Luther King Jr Blvd & 26th Ave",
+    "date": "2025-05-26",
+    "time": "1510",
+    "text": "Officers were hailed by a victim who advised their vehicle was stolen. The victim was able to provide officers with updated locations of her vehicle. Officers broadcasted this information over the radio and additional officers were able to locate the vehicle and detain the suspect. The suspect was arrested for related charges.  "
   }
 ]
