@@ -19402,5 +19402,32 @@
     "date": "2025-05-28",
     "time": "1715",
     "text": "Officers responded to a report of a theft. The victim advised he consented to receiving a hug from two suspects who were not know to him. Eventually, the victim realized the suspects had stolen his gold necklace. An investigation was conducted and a report generated. "
+  },
+  {
+    "cmd": "North Command",
+    "id": "25-134269",
+    "code": "Assault - Arrest",
+    "location": "900 Block Arcade Blvd",
+    "date": "2025-05-29",
+    "time": "0111",
+    "text": "Officers responded to a report of someone who was stabbed. Responding officers located the suspect and victim on scene. The victim sustained non-life-threatening injuries and was transported to an area hospital. The suspect was arrested for related charges."
+  },
+  {
+    "cmd": "East Command",
+    "id": "25-134375",
+    "code": "Burglary - Arrest",
+    "location": "5100 Block of Folsom Blvd",
+    "date": "2025-05-29",
+    "time": "0711",
+    "text": "Officers responded to reports of a burglary. Responding officers located evidence of a burglary. Officers located the suspect nearby and as they attempted to detain, he briefly attempted to flee from officers on foot, but was taken into custody. The suspect was arrested for related charges."
+  },
+  {
+    "cmd": "South Command",
+    "id": "25-134756",
+    "code": "Shooting - Investigation",
+    "location": "300 Block of Highfield Cir",
+    "date": "2025-05-29",
+    "time": "1443",
+    "text": "Officers responded to reports of a shooting. Responding officers located evidence of a shooting. No injuries were reported and we do not have any suspect information to release at this time. A report was generated."
   }
 ]
