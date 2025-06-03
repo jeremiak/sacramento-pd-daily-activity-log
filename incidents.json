@@ -19438,5 +19438,23 @@
     "date": "2025-05-30",
     "time": "2229",
     "text": "Officers attempted to conduct a traffic stop of a vehicle. The vehicle did not stop and a short pursuit ensued. The occupants fled on foot and a large perimeter was established in the area. The driver and a passenger were located and detained. The driver was arrested for related charges."
+  },
+  {
+    "cmd": "North Command",
+    "id": "25-136247",
+    "code": "Pursuit - Arrest",
+    "location": "Norwood Ave & Ford Ave",
+    "date": "2025-05-31",
+    "time": "0141",
+    "text": "Officers attempted to conduct a traffic stop. The vehicle did not stop, and a pursuit ensued. The driver threw a large quantity of drugs out of the window and pulled the vehicle over shortly after. The driver and passenger of the vehicle were detained. The driver was arrested for pursuit related charges, and the passenger was arrested for an outstanding felony warrant."
+  },
+  {
+    "cmd": "South Command",
+    "id": "25-136621",
+    "code": "Robbery-Arrest",
+    "location": "3700 Block Franklin Blvd",
+    "date": "2025-05-31",
+    "time": "1203",
+    "text": "Officers responded to the area for a report of a suspect who stole merchandise and attacked the victim with a sign. Officers located the suspect and detained her. The suspect was arrested for robbery and vandalism related charges."
   }
 ]
