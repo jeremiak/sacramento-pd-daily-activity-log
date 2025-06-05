@@ -19456,5 +19456,23 @@
     "date": "2025-05-31",
     "time": "1203",
     "text": "Officers responded to the area for a report of a suspect who stole merchandise and attacked the victim with a sign. Officers located the suspect and detained her. The suspect was arrested for robbery and vandalism related charges."
+  },
+  {
+    "cmd": "North Command",
+    "id": "25-138242",
+    "code": "Pursuit - Investigation",
+    "location": "Raley Blvd & Bell Ave",
+    "date": "2025-06-02",
+    "time": "0134",
+    "text": "Officers attempted to conduct a traffic stop; however, the suspect vehicle did not stop, and the vehicle fled. Officers canceled their pursuit of the vehicle, but from a distance observed it crash. Once officers arrived at the scene of the collision, they found the suspect vehicle was empty and had caught on fire. One suspect was quickly detained nearby; however, two additional outstanding suspects who fled from the vehicle were not located after a search of the area. A report was generated."
+  },
+  {
+    "cmd": "South Command",
+    "id": "25-138323",
+    "code": "Robbery - Investigation",
+    "location": "8000 Block of Center Pkwy",
+    "date": "2025-06-02",
+    "time": "0537",
+    "text": "Officers responded to reports of a robbery of a person. The victim attempted to pursue the suspect, who turned around and pointed a firearm at him. A stolen firearm was located during the investigation, but the suspects were not. A report was generated."
   }
 ]
