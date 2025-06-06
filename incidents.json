@@ -19474,5 +19474,23 @@
     "date": "2025-06-02",
     "time": "0537",
     "text": "Officers responded to reports of a robbery of a person. The victim attempted to pursue the suspect, who turned around and pointed a firearm at him. A stolen firearm was located during the investigation, but the suspects were not. A report was generated."
+  },
+  {
+    "cmd": "North Command",
+    "id": "25-139479",
+    "code": "Stolen Vehicle - Arrest",
+    "location": "Rio Linda Blvd / Eleanor Ave",
+    "date": "2025-06-03",
+    "time": "1029",
+    "text": "Officers located an occupied stolen vehicle. The driver was detained and arrested for related charges."
+  },
+  {
+    "cmd": "South Command",
+    "id": "25-139990",
+    "code": "Grand Theft - Arrest",
+    "location": "8100 Block of Cosumnes River Blvd",
+    "date": "2025-06-03",
+    "time": "1929",
+    "text": "Officers responded to reports of a grand theft from a business. Responding officers located two of the suspects and were able to detain them. Suspects were arrested for related charges."
   }
 ]
