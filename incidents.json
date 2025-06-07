@@ -19492,5 +19492,32 @@
     "date": "2025-06-03",
     "time": "1929",
     "text": "Officers responded to reports of a grand theft from a business. Responding officers located two of the suspects and were able to detain them. Suspects were arrested for related charges."
+  },
+  {
+    "cmd": "North Command",
+    "id": "25-140160",
+    "code": "Shooting - Investigation",
+    "location": "2500 Block of Colfax St",
+    "date": "2025-06-04",
+    "time": "0017",
+    "text": "Officers responded to reports of a shooting. A male victim with at least one non-life-threatening gunshot wound was located. He was transported to an area hospital for treatment. Officers conducted an investigation and a report was generated."
+  },
+  {
+    "cmd": "North Command",
+    "id": "25-140187",
+    "code": "Shooting - Arrest",
+    "location": "3900 Block of High St",
+    "date": "2025-06-04",
+    "time": "0127",
+    "text": "Officers responded to reports of a shooting. CHP’s Airplane was overhead and assisted us in locating a fleeing suspect vehicle and ground units stopped the vehicle. During the investigation, 2 handguns and 2 rifles were located. Later, a victim arrived at an area hospital with at least one gunshot wound. That victim was taken into surgery for treatment. In total, 5 suspects were arrested."
+  },
+  {
+    "cmd": "North Command",
+    "id": "25-140209",
+    "code": "Shooting - Investigation",
+    "location": "900 Block of Arcade Blvd",
+    "date": "2025-06-04",
+    "time": "0200",
+    "text": "Officers responded to reports of a shooting. Responding officers located evidence of a shooting. Later, a male victim arrived at an area hospital with a non-life-threatening gunshot wound. Officers conducted an investigation and a report was generated."
   }
 ]
