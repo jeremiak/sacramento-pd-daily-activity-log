@@ -19528,5 +19528,32 @@
     "date": "2025-06-05",
     "time": "1457",
     "text": "Officers responded to reports of a shooting. Responding officers located a female adult with at least one non-life-threatening gunshot wound. The victim was transported to an area hospital for treatment. Officers conducted an investigation and a report was generated."
+  },
+  {
+    "cmd": "North Command",
+    "id": "25-142887",
+    "code": "Traffic Stop - Arrest",
+    "location": "Hayes Ave & Norwood Ave",
+    "date": "2025-06-06",
+    "time": "1645",
+    "text": "Officers located an unoccupied carjacking vehicle from the county. Officers conducted a high risk stop and detained the driver who was the carjacking suspect. During a search of the vehicle, an imitation firearm was located. Deputies took custody of the suspect. "
+  },
+  {
+    "cmd": "North Command",
+    "id": "25-142955",
+    "code": "Traffic Stop - Drug and Firearm Arrest",
+    "location": "1300 Block Arden Wy",
+    "date": "2025-06-06",
+    "time": "1749",
+    "text": "Officers conducted a traffic stop in the area. During a search, officers located drugs and an illegal firearm. Both occupants of the vehicle were arrested for related charges."
+  },
+  {
+    "cmd": "Central Command",
+    "id": "25-143328",
+    "code": "Subject Stop - Arrest",
+    "location": "L St &10th St",
+    "date": "2025-06-06",
+    "time": "2304",
+    "text": "Officers attempted to stop a subject on an electric scooter for a traffic offense. The subject on the scooter did not stop and officers pursued him. Officers were eventually able to detain the suspect, and he was arrested for related charges."
   }
 ]
