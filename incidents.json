@@ -19555,5 +19555,23 @@
     "date": "2025-06-06",
     "time": "2304",
     "text": "Officers attempted to stop a subject on an electric scooter for a traffic offense. The subject on the scooter did not stop and officers pursued him. Officers were eventually able to detain the suspect, and he was arrested for related charges."
+  },
+  {
+    "cmd": "North Command",
+    "id": "25-143553",
+    "code": "Shooting - Investigation",
+    "location": "3100 Block Western Ave",
+    "date": "2025-06-07",
+    "time": "0357",
+    "text": "Officers responded to reports of sounds of shots being fired in the area. Responding officers located evidence of a shooting, but no reported victims. Officers conducted an investigation and a report was generated."
+  },
+  {
+    "cmd": "South Command",
+    "id": "25-144446",
+    "code": "Stolen Vehicle - Arrest",
+    "location": "Florin Rd & Franklin Blvd",
+    "date": "2025-06-07",
+    "time": "2227",
+    "text": "Officers located a stolen vehicle in the area. Officers conducted a high-risk stop of the vehicle and detained the suspect driver. The driver was arrested for the stolen vehicle and his outstanding felony warrants."
   }
 ]
