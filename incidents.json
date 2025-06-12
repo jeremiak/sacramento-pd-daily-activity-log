@@ -19573,5 +19573,14 @@
     "date": "2025-06-07",
     "time": "2227",
     "text": "Officers located a stolen vehicle in the area. Officers conducted a high-risk stop of the vehicle and detained the suspect driver. The driver was arrested for the stolen vehicle and his outstanding felony warrants."
+  },
+  {
+    "cmd": "East Command",
+    "id": "25-145535",
+    "code": "Stolen Vehicle - Arrest",
+    "location": "Stockton Blvd & Elder Creek Rd",
+    "date": "2025-06-09",
+    "time": "0407",
+    "text": "Officers located a stolen vehicle related to a burglary. Officers safely detained the driver and he was arrested for related charges."
   }
 ]
