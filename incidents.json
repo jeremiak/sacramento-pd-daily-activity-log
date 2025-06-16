@@ -19645,5 +19645,23 @@
     "date": "2025-06-12",
     "time": "1753",
     "text": "Officers stopped a parolee. During the investigation, officers located an illegally possessed firearm and narcotics. The suspect was arrested for related charges."
+  },
+  {
+    "cmd": "South Command",
+    "id": "25-149526",
+    "code": "Hit-and-Run/Pursuit - Arrest",
+    "location": "16th St / X St",
+    "date": "2025-06-13",
+    "time": "1104",
+    "text": "Officers located a vehicle that was involved in an injury hit-and-run. Officers attempted to stop the vehicle, but the suspect failed to yield, leading officers on a pursuit. Eventually, officers utilized a Pursuit Immobilization Technique maneuver and brought the pursuit to an end. The suspect was arrested for related charges."
+  },
+  {
+    "cmd": "South Command",
+    "id": "25-150160",
+    "code": "Shooting - Investigation",
+    "location": "6600 Block of Valley Hi Dr",
+    "date": "2025-06-13",
+    "time": "2333",
+    "text": "Officers responded to reports of a shooting. Responding officers located evidence of a shooting. No injuries were reported. Officers conducted an investigation and a report was generated."
   }
 ]
