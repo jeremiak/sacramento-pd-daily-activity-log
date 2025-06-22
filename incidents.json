@@ -19708,5 +19708,32 @@
     "date": "2025-06-17",
     "time": "2320",
     "text": "Officers located a stolen vehicle in the area. Officers safely detained the driver. The driver was arrested for related charges."
+  },
+  {
+    "cmd": "North Command",
+    "id": "25-155159",
+    "code": "Subject Stop - Arrest",
+    "location": "1500 Block Waterwheel Dr",
+    "date": "2025-06-19",
+    "time": "0913",
+    "text": "Officers observed a suspect of a previous burglary in the area. When officers attempted to stop the suspect, he fled on his bicycle. The suspect was detained by officers and arrested for related charges."
+  },
+  {
+    "cmd": "North Command",
+    "id": "25-155278",
+    "code": "Theft-Arrest",
+    "location": "1800 Block Arden Wy",
+    "date": "2025-06-19",
+    "time": "1215",
+    "text": "Officers responded to a report of a theft. Officers located the suspect who was identified as being on PRCS. The suspect was arrested for related charges"
+  },
+  {
+    "cmd": "Central Command",
+    "id": "25-155651",
+    "code": "Traffic Stop - Firearm Arrest",
+    "location": "2nd St & K St",
+    "date": "2025-06-19",
+    "time": "1949",
+    "text": "Officers conducted a traffic stop of a vehicle. During their investigation, officers located an illegally possessed firearm with one of the occupants. The occupant was arrested for related charges."
   }
 ]
