@@ -19771,5 +19771,23 @@
     "date": "2025-06-26",
     "time": "1228",
     "text": "Officers responded to reports that a person lunged at a victim with a knife in their hand. Responding officers located the suspect and detained him. After a thorough investigation, the suspect was arrested for related charges."
+  },
+  {
+    "cmd": "North Command",
+    "id": "25-162304",
+    "code": "Shooting - Investigation",
+    "location": "900 Block of Grand Ave",
+    "date": "2025-06-27",
+    "time": "0230",
+    "text": "Officers responded to reports of a shooting. Responding officers located evidence of a shooting. No injuries were reported. Officers conducted an investigation and a report was generated."
+  },
+  {
+    "cmd": "South Command",
+    "id": "25-162991",
+    "code": "Pursuit",
+    "location": "Mack Rd / Deer Creek Dr",
+    "date": "2025-06-27",
+    "time": "2008",
+    "text": "Officers attempted to stop a vehicle for reckless driving. The driver failed to yield and drove off at low speeds. The vehicle eventually yielded and the driver was cited for misdemeanor pursuit charges."
   }
 ]
