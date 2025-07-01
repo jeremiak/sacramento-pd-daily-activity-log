@@ -19789,5 +19789,23 @@
     "date": "2025-06-27",
     "time": "2008",
     "text": "Officers attempted to stop a vehicle for reckless driving. The driver failed to yield and drove off at low speeds. The vehicle eventually yielded and the driver was cited for misdemeanor pursuit charges."
+  },
+  {
+    "cmd": "North Command",
+    "id": "25-163567",
+    "code": "Traffic Stop - Firearm Arrest",
+    "location": "Talent St / Grand Ave",
+    "date": "2025-06-28",
+    "time": "1116",
+    "text": "Officers stopped a vehicle. During the investigation, officers conducted probation search and an illegally possessed loaded firearm was located. The suspect was arrested for related charges."
+  },
+  {
+    "cmd": "North Command",
+    "id": "25-164113",
+    "code": "Subject Stop - Firearm Arrest",
+    "location": "Hawthorne St / El Camino Ave",
+    "date": "2025-06-28",
+    "time": "2246",
+    "text": "Officers conducted a subject stop on a male. During the investigation, officers located an illegally possessed loaded handgun and narcotics on the suspect. He was arrested for related charges."
   }
 ]
