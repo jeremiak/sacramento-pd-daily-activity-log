@@ -19807,5 +19807,32 @@
     "date": "2025-06-28",
     "time": "2246",
     "text": "Officers conducted a subject stop on a male. During the investigation, officers located an illegally possessed loaded handgun and narcotics on the suspect. He was arrested for related charges."
+  },
+  {
+    "cmd": "East Command",
+    "id": "25-164290",
+    "code": "Shooting - Investigation",
+    "location": "3500 Block of 23rd Ave",
+    "date": "2025-06-29",
+    "time": "0223",
+    "text": "Officers responded to reports of a shooting. Responding officers located evidence of a shooting. No injuries were reported. Officers conducted an investigation and a report was generated."
+  },
+  {
+    "cmd": "East Command",
+    "id": "25-164900",
+    "code": "Sideshow Activity",
+    "location": "Light Sky Court & Younger Creek Dr.",
+    "date": "2025-06-29",
+    "time": "1832",
+    "text": "Officers responded to reports of a sideshow gathering in the area. Officers were successful in dispersing the group and issued two traffic citations. "
+  },
+  {
+    "cmd": "Central Command",
+    "id": "25-164948",
+    "code": "Stolen Vehicle - Arrest",
+    "location": "Railyards Blvd & Jiboom St",
+    "date": "2025-06-29",
+    "time": "1934",
+    "text": "Officers located a stolen vehicle in the area. Officers stopped the vehicle and safely detained the driver. The driver was arrested for related charges. "
   }
 ]
