@@ -19843,5 +19843,23 @@
     "date": "2025-06-30",
     "time": "2126",
     "text": "Officers responded to reports of a hit-and-run and located an adult female unresponsive. Officers attempted lifesaving measures but despite those efforts, the pedestrian was pronounced deceased on scene. The vehicle involved fled prior to police arrival. This is an active investigation."
+  },
+  {
+    "cmd": "North Command",
+    "id": "25-166392",
+    "code": "Robbery - Arrest",
+    "location": "1500 Block of Del Paso Blvd",
+    "date": "2025-07-01",
+    "time": "0921",
+    "text": "Officers responded to a robbery at a business. Responding officers located the suspect, who fled from officers but was ultimately taken into custody by officers. No injuries were reported during the robbery and the suspect was arrested."
+  },
+  {
+    "cmd": "North Command",
+    "id": "25-166959",
+    "code": "Traffic Stop - Foot Pursuit Arrest",
+    "location": "Branch St / Eleanor Ave",
+    "date": "2025-07-01",
+    "time": "1904",
+    "text": "Officers attempted to stop a vehicle for reckless driving. The suspect fled from the vehicle on foot, but was caught by officers. The suspect was arrested for reckless driving, resisting arrest, and DUI related charges."
   }
 ]
