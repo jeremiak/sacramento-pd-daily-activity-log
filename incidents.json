@@ -19870,5 +19870,41 @@
     "date": "2025-07-02",
     "time": "1831",
     "text": "Officers located an occupied stolen vehicle that was stolen in Vallejo, CA. The driver was on parole. During the investigation, officers located heroin and an illegally possessed loaded firearm. The suspect was arrested for related charges."
+  },
+  {
+    "cmd": "East Command",
+    "id": "25-168776",
+    "code": "Shooting - Investigation",
+    "location": "4400 Block 11th Ave",
+    "date": "2025-07-03",
+    "time": "1701",
+    "text": "Officers responded to the area for a report of sounds of a shooting. Responding officers located evidence of a shooting but no reported victims. An investigation was conducted, and a report was generated."
+  },
+  {
+    "cmd": "South Command",
+    "id": "25-169448",
+    "code": "Shooting - Investigation",
+    "location": "Meadowview Rd & Brookfield Dr",
+    "date": "2025-07-04",
+    "time": "1300",
+    "text": "Officers responded to reports of two subjects who were shot. Both individuals are in stable condition. Officers generated a report and an investigation is ongoing.  "
+  },
+  {
+    "cmd": "East Command",
+    "id": "25-169530",
+    "code": "Domestic Violence - Arrest",
+    "location": "5300 Block Fruitridge Rd",
+    "date": "2025-07-04",
+    "time": "1454",
+    "text": "Officers responded to a report of domestic violence. When responding officers attempted to detain the suspect, he fled in his vehicle. A short, slow speed pursuit ensued until the suspect eventually pulled over and was detained. The suspect, who is on parole was arrested for related charges."
+  },
+  {
+    "cmd": "North Command",
+    "id": "25-169999",
+    "code": "Traffic Stop - Firearm & Drug arrest",
+    "location": "Northfield Dr & Northview Dr",
+    "date": "2025-07-04",
+    "time": "2318",
+    "text": "Officers responded to a report of a crowd of people and some subjects with guns. Officers conducted a traffic stop of a vehicle leaving the area of the crowd. Officers located an illegally possessed firearm, narcotics and a large sum of cash. The driver was arrested for related charges and the crowd safely dispersed."
   }
 ]
