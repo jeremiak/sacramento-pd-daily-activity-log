@@ -19924,5 +19924,32 @@
     "date": "2025-07-07",
     "time": "2303",
     "text": "Officers responded to the area for reports of several subjects with guns getting into two vehicles. Responding officers located the two vehicles described and conducted traffic stops on both of them. Officers located six illegally possessed firearms and five suspects were arrested for related charges."
+  },
+  {
+    "cmd": "East Command",
+    "id": "25-172996",
+    "code": "Shooting - Investigation",
+    "location": "3600 Block 24th Ave",
+    "date": "2025-07-08",
+    "time": "0141",
+    "text": "Officers responded to a report of sounds of shots being fired. Officers located two suspects on scene and one of them fled on foot. Officers were able to quickly apprehend the suspect and detain him. Officers located an imitation firearm and an illegally possessed firearm on one of the suspects. One suspect was cited, and the other was arrested for related charges. "
+  },
+  {
+    "cmd": "East Command",
+    "id": "25-173337",
+    "code": "Pursuit - Arrest",
+    "location": "34th St & 9th Ave",
+    "date": "2025-07-08",
+    "time": "1225",
+    "text": "Officers attempted to conduct a traffic stop of a vehicle that was driving recklessly. The driver did not stop, and a brief pursuit ensured. The driver was eventually detained and found to be driving under the influence. The driver was arrested for related charges."
+  },
+  {
+    "cmd": "North Command",
+    "id": "25-173496",
+    "code": "Foot Pursuit - Firearm Arrest",
+    "location": "5000 Block Sully St",
+    "date": "2025-07-08",
+    "time": "1514",
+    "text": "Officers conducted a traffic stop of a vehicle and two of the occupants fled on foot into a nearby house. Officers detained the other occupant and contained the residence within a perimeter. Officers located two illegally possessed firearms in the vehicle. Officers called the suspects out of the residence, and they were safely detained."
   }
 ]
