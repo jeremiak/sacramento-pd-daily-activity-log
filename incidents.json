@@ -19951,5 +19951,41 @@
     "date": "2025-07-08",
     "time": "1514",
     "text": "Officers conducted a traffic stop of a vehicle and two of the occupants fled on foot into a nearby house. Officers detained the other occupant and contained the residence within a perimeter. Officers located two illegally possessed firearms in the vehicle. Officers called the suspects out of the residence, and they were safely detained."
+  },
+  {
+    "cmd": "North Command",
+    "id": "25-173927",
+    "code": "Stolen Vehicle - Arrest",
+    "location": "I-80 & W El Camino Ave",
+    "date": "2025-07-09",
+    "time": "0050",
+    "text": "Officers located a stolen vehicle driving recklessly in the area and it immediately fled at a high rate of speed upon seeing the officer’s patrol car. A pursuit ensued, traveled onto the freeway and quickly returned to the city streets. The vehicle eventually became disabled, and the occupants were safely detained. They were arrested for related charges."
+  },
+  {
+    "cmd": "South Command",
+    "id": "25-173981",
+    "code": "Burglary-Firearm and Drug Arrest",
+    "location": "5100 Block Franklin Blvd",
+    "date": "2025-07-09",
+    "time": "0315",
+    "text": "Officers responded to a report of a possible burglary in progress. Responding officers located the suspects as well as an illegally possessed loaded firearm and narcotics on one of them. After investigating, there appeared to be no evidence of a burglary. The suspect was arrested for related charges."
+  },
+  {
+    "cmd": "North Command",
+    "id": "25-173995",
+    "code": "Pursuit - Arrest",
+    "location": "Mill Oak Wy & Truxel Rd",
+    "date": "2025-07-09",
+    "time": "0350",
+    "text": "Officers attempted to conduct a traffic stop of a vehicle in the area. The vehicle did not stop and a pursuit ensured. The pursuit eventually ended as the vehicle became disabled. Officers leaned the vehicle was an unreported stolen vehicle. The driver was arrested for related charges."
+  },
+  {
+    "cmd": "East Command",
+    "id": "25-174327",
+    "code": "Collision-Investigation",
+    "location": "5100 Block Stockton Blvd",
+    "date": "2025-07-09",
+    "time": "1241",
+    "text": "Officers responded to the area for a vehicle versus pedestrian collision. The pedestrian was transported to an area hospital where they ultimately scummed to their injuries. The driver was located on scene. Due to the circumstances, our Major Collision Investigation Unit and CSI responded to take over the investigation. "
   }
 ]
