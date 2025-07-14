@@ -20005,5 +20005,32 @@
     "date": "2025-07-10",
     "time": "1728",
     "text": "Officers located an occupied stolen vehicle. The driver was detained and arrested for related charges."
+  },
+  {
+    "cmd": "North Command",
+    "id": "25-176659",
+    "code": "Vandalism - Arrest",
+    "location": "500 Block Redwood Ave",
+    "date": "2025-07-11",
+    "time": "1911",
+    "text": "Officers responded to a report of a group of subjects doing drugs in the area. When responding officers located the subjects, one of them climbed onto the roof of a trailer. The suspect on the trailer became belligerent, throwing objects off of it and challenging officers. After hours of negotiation, officers got the suspect to surrender. He was arrested for related charges."
+  },
+  {
+    "cmd": "East Command",
+    "id": "25-176714",
+    "code": "Firearm - Arrest",
+    "location": "2000 Block 57th St",
+    "date": "2025-07-11",
+    "time": "2021",
+    "text": "Officers responded to a report of a man with a gun. The air unit arrived on scene and located the man with the gun. The suspect was eventually detained utilizing the K-9 and less lethal deployment. An illegal firearm was located on scene. The suspect was transported to an area hospital prior to being booked for related charges."
+  },
+  {
+    "cmd": "North Command",
+    "id": "25-176922",
+    "code": "Pursuit - Arrest",
+    "location": "Howe Ave & Edison Ave",
+    "date": "2025-07-11",
+    "time": "2333",
+    "text": "Officers were responding to a sideshow when they observed a vehicle driving recklessly. Officers attempted to stop the vehicle; however, it did not stop and a pursuit ensued. The vehicle eventually got trapped in a court, ending the pursuit. The driver was arrested for related charges, and the vehicle was towed."
   }
 ]
