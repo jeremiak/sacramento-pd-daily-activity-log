@@ -20032,5 +20032,32 @@
     "date": "2025-07-11",
     "time": "2333",
     "text": "Officers were responding to a sideshow when they observed a vehicle driving recklessly. Officers attempted to stop the vehicle; however, it did not stop and a pursuit ensued. The vehicle eventually got trapped in a court, ending the pursuit. The driver was arrested for related charges, and the vehicle was towed."
+  },
+  {
+    "cmd": "East Command",
+    "id": "25-177497",
+    "code": "Subject Stop - Arrest",
+    "location": "8800 Block Fruitridge Rd",
+    "date": "2025-07-12",
+    "time": "1635",
+    "text": "Officers responded to a report of a subject armed with a weapon. Responding officers located the suspect who was uncooperative. A less lethal tool was deployed and the suspect was detained. The suspect also had an outstanding felony warrant. The suspect was arrested for related charges and their warrant."
+  },
+  {
+    "cmd": "East Command",
+    "id": "25-177536",
+    "code": "Traffic Stop - Firearm Arrest",
+    "location": "3rd Ave & 34th St",
+    "date": "2025-07-12",
+    "time": "1707",
+    "text": "Officers conducted a traffic stop in the area. The driver was displaying suspicious behavior and confessed to having an illegally possessed firearm in the vehicle. The firearm was seized, and the driver was arrested for related charges."
+  },
+  {
+    "cmd": "East Command",
+    "id": "25-177547",
+    "code": "Pursuit - Arrest",
+    "location": "Lawrence Dr & McGlashan St",
+    "date": "2025-07-12",
+    "time": "1723",
+    "text": "Officers attempted to stop a vehicle in the area for driving recklessly. The suspect vehicle did not stop, and a pursuit ensued. The vehicle eventually pulled over and the driver was uncooperative with officers. With the assistance of additional officers, the suspect was taken into custody."
   }
 ]
