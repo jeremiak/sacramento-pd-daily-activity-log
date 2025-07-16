@@ -20059,5 +20059,23 @@
     "date": "2025-07-12",
     "time": "1723",
     "text": "Officers attempted to stop a vehicle in the area for driving recklessly. The suspect vehicle did not stop, and a pursuit ensued. The vehicle eventually pulled over and the driver was uncooperative with officers. With the assistance of additional officers, the suspect was taken into custody."
+  },
+  {
+    "cmd": "North Command",
+    "id": "25-178007",
+    "code": "Shooting - Investigation",
+    "location": "2600 Block Fairfield St",
+    "date": "2025-07-13",
+    "time": "0220",
+    "text": "Officers responded to sounds of shots being fired. Officers located evidence of a shooting, but no observed or reported property damage or victims. An investigation was conducted, and a report was generated."
+  },
+  {
+    "cmd": "North Command",
+    "id": "25-178393",
+    "code": "Shooting - Investigation",
+    "location": "2300 Block of Mossy Bank Dr",
+    "date": "2025-07-13",
+    "time": "1504",
+    "text": "Officers responded to reports of a shooting. Responding officers located evidence of a shooting. Fortunately, no victims were struck by gunfire. Officers conducted an investigation and a report was generated."
   }
 ]
