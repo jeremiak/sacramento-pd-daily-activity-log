@@ -20095,5 +20095,23 @@
     "date": "2025-07-14",
     "time": "2352",
     "text": "Officers responded to reports of a shooting. Responding officers located an adult male with a non-life-threatening gunshot wound. The victim was transported to an area hospital and officers conducted an investigation."
+  },
+  {
+    "cmd": "South Command",
+    "id": "25-180258",
+    "code": "Stolen Vehicle - Arrest",
+    "location": "Delta Shores Cir N / Cosumnes River Blvd",
+    "date": "2025-07-15",
+    "time": "1533",
+    "text": "Officers located an occupied stolen vehicle. The driver was detained and arrested for related charges."
+  },
+  {
+    "cmd": "South Command",
+    "id": "25-180367",
+    "code": "Stolen Vehicle - Arrest",
+    "location": "6200 Block of Freeport Blvd",
+    "date": "2025-07-15",
+    "time": "1744",
+    "text": "Officers in our Real Time Information Center (RTIC) guided ground officers to an occupied stolen vehicle. The driver was detained and arrested for related charges."
   }
 ]
