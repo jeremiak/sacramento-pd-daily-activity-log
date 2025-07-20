@@ -20122,5 +20122,23 @@
     "date": "2025-07-16",
     "time": "2308",
     "text": "Officers responded to reports of a robbery of a business by force. The victim sustained minor injuries and the suspects fled. Officers located one of the suspects and utilizing our Public Safety Camera Network, was able to positively identify that detained person as a suspect in the robbery. The suspect was booked on robbery related charges."
+  },
+  {
+    "cmd": "North Command",
+    "id": "25-181696",
+    "code": "Shooting - Investigation",
+    "location": "3400 Block of Mabel St",
+    "date": "2025-07-17",
+    "time": "0223",
+    "text": "Officers responded to reports of a shooting. Responding officers located evidence of a shooting. No injuries were reported. Officers conducted an investigation and a report was generated."
+  },
+  {
+    "cmd": "North Command",
+    "id": "25-182396",
+    "code": "Stolen Vehicle - Arrest",
+    "location": "Northgate Blvd / Interstate 80",
+    "date": "2025-07-17",
+    "time": "1821",
+    "text": "Officers located an occupied embezzled vehicle. The driver was detained and arrested for related charges."
   }
 ]
