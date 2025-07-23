@@ -20149,5 +20149,32 @@
     "date": "2025-07-19",
     "time": "2005",
     "text": "Officers observed a known Parolee-at-Large in the area. The suspect fled on foot from responding officers. The parolee was reportedly observed fleeing into an apartment complex. Officers extensively searched the area, but the suspect was not located."
+  },
+  {
+    "cmd": "North Command",
+    "id": "25-185534",
+    "code": "Shooting - Investigation",
+    "location": "3900 Block Palmetto St",
+    "date": "2025-07-20",
+    "time": "2020",
+    "text": "Officers responded to a report of sounds of shots being fired. Responding officers located evidence of a shooting, but no reported victims. An investigation was conducted, and a report was generated."
+  },
+  {
+    "cmd": "North Command",
+    "id": "25-185560",
+    "code": "Sideshow Activity",
+    "location": "4700 Block Natomas Blvd",
+    "date": "2025-07-20",
+    "time": "2044",
+    "text": "Officers responded to a vehicle sideshow in the area. Officers conducted enforcement action, and the group eventually dispersed."
+  },
+  {
+    "cmd": "North Command",
+    "id": "25-185649",
+    "code": "Pursuit - Investigation",
+    "location": "Del Paso Rd & Natomas Blvd",
+    "date": "2025-07-20",
+    "time": "2230",
+    "text": "Officers attempted to conduct a traffic stop of a vehicle involved in a sideshow. The vehicle did not stop and a pursuit ensued. The pursuit ended when the vehicle entered the freeway and officers lost sight of the vehicle."
   }
 ]
