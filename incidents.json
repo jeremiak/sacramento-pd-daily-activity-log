@@ -20176,5 +20176,68 @@
     "date": "2025-07-20",
     "time": "2230",
     "text": "Officers attempted to conduct a traffic stop of a vehicle involved in a sideshow. The vehicle did not stop and a pursuit ensued. The pursuit ended when the vehicle entered the freeway and officers lost sight of the vehicle."
+  },
+  {
+    "cmd": "South Command",
+    "id": "25-185870",
+    "code": "Pursuit",
+    "location": "100 Seavey Cir",
+    "date": "2025-07-21",
+    "time": "0722",
+    "text": "Officers attempted to conduct a traffic stop of a vehicle. The vehicle did not stop and a pursuit ensued. The occupants of the vehicle fled from the vehicle on foot. Officers established a perimeter and searched the area. The suspect was not located."
+  },
+  {
+    "cmd": "South Command",
+    "id": "25-185899",
+    "code": "Vandalism - Arrest",
+    "location": "1400 Block Meadowview Rd",
+    "date": "2025-07-21",
+    "time": "0814",
+    "text": "Officers responded to a report of a vandalism. Responding officers located the vandalism suspect on scene. The suspect was arrested for related charges."
+  },
+  {
+    "cmd": "North Command",
+    "id": "25-185907",
+    "code": "Stolen Vehicle - Arrest",
+    "location": "Norwood Ave & I 80",
+    "date": "2025-07-21",
+    "time": "0830",
+    "text": "Officers located a stolen vehicle in the area. The driver was detained while walking away from the stolen vehicle. The suspect was also determined to be a parolee at large. The suspect was arrested for related charges."
+  },
+  {
+    "cmd": "North Command",
+    "id": "25-185913",
+    "code": "Foot Pursuit - Arrest",
+    "location": "1400 Exposition Blvd",
+    "date": "2025-07-21",
+    "time": "0839",
+    "text": "Officers responded to a report of an altercation between two people. Responding officers located the male suspect who fled from officers on foot. The male suspect was eventually detained and determined to have a warrant. The suspect was arrested and booked at juvenile hall."
+  },
+  {
+    "cmd": "Central Command",
+    "id": "25-186167",
+    "code": "Collision-Investigation",
+    "location": "T St & 19th St",
+    "date": "2025-07-21",
+    "time": "1343",
+    "text": "Officers responded to a report of a collision involving a person on a scooter and light rail train. The scooterist was pronounce deceased on scene. Officers and detectives conducted an investigation and a report was generated."
+  },
+  {
+    "cmd": "North Command",
+    "id": "25-186425",
+    "code": "Pursuit - Arrest",
+    "location": "Norwood Ave & Jessie Ave",
+    "date": "2025-07-21",
+    "time": "1832",
+    "text": "Officers attempted to conduct a traffic stop. The vehicle did not stop and a pursuit ensued. The driver eventually pulled over and was detained. The driver was arrested for related charges and DUI."
+  },
+  {
+    "cmd": "East Command",
+    "id": "25-186511",
+    "code": "Pursuit",
+    "location": "12th Ave & 40th St",
+    "date": "2025-07-21",
+    "time": "2032",
+    "text": "Officers attempted to conduct a traffic stop of a motorcycle. The motorcycle did not stop and a pursuit ensued. The pursuit was cancelled when officers lost sight of the motorcycle."
   }
 ]
