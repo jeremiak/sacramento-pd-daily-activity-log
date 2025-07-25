@@ -20239,5 +20239,32 @@
     "date": "2025-07-21",
     "time": "2032",
     "text": "Officers attempted to conduct a traffic stop of a motorcycle. The motorcycle did not stop and a pursuit ensued. The pursuit was cancelled when officers lost sight of the motorcycle."
+  },
+  {
+    "cmd": "Central Command",
+    "id": "25-186728",
+    "code": "Foot Pursuit - Arrest",
+    "location": "1300 Block J St",
+    "date": "2025-07-22",
+    "time": "0635",
+    "text": "Officers responded to a report of a subject checking door handles. Responding officers located the suspect who fled from officers on foot. The suspect was eventually safely detained and arrested for related charges."
+  },
+  {
+    "cmd": "North Command",
+    "id": "25-187248",
+    "code": "Traffic Stop - Firearm Arrest",
+    "location": "Eleanor Ave & Beaumont St",
+    "date": "2025-07-22",
+    "time": "1613",
+    "text": "Officers conducted a traffic stop of a vehicle. During officers' investigation, they located an illegally possessed firearm on one of the occupants. The occupants were arrested for related charges."
+  },
+  {
+    "cmd": "Central Command",
+    "id": "25-187500",
+    "code": "Subject Stop - Firearm Arrest",
+    "location": "200 Block Jiboom St",
+    "date": "2025-07-22",
+    "time": "2059",
+    "text": "Officers conducted a subject stop. The suspect was found to have an illegally possessed, loaded firearm. The suspect was arrested for related charges."
   }
 ]
