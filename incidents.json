@@ -20266,5 +20266,32 @@
     "date": "2025-07-22",
     "time": "2059",
     "text": "Officers conducted a subject stop. The suspect was found to have an illegally possessed, loaded firearm. The suspect was arrested for related charges."
+  },
+  {
+    "cmd": "North Command",
+    "id": "25-187975",
+    "code": "Stolen Vehicle - Arrest",
+    "location": "3000 Block Northgate Blvd",
+    "date": "2025-07-23",
+    "time": "1120",
+    "text": "Officers located a stolen vehicle in the area. Officers conducted a traffic stop and the driver was detained safely. The driver was arrested for related charges.  "
+  },
+  {
+    "cmd": "North Command",
+    "id": "25-187976",
+    "code": "Traffic Stop - Arrest",
+    "location": "2200 Block Royale Rd",
+    "date": "2025-07-23",
+    "time": "1122",
+    "text": " Officers observed a vehicle driving recklessly in the area. Officers attempted to stop the vehicle when it collided with another vehicle, before the driver fled on foot. Officers were able to apprehend the suspect and detain him. The suspect was found to be on parole. He was arrested for related charges."
+  },
+  {
+    "cmd": "Central Command",
+    "id": "25-188466",
+    "code": "Bicycle Stop - Arrest",
+    "location": "Bercut Dr & Railyards Blvd",
+    "date": "2025-07-23",
+    "time": "2004",
+    "text": "Officers attempted to stop a subject on a bicycle. The suspect fled and was observed to have a large knife. Less lethal was deployed to detain the suspect. The suspect was found to be on parole and in possession of drugs. The suspect was medically cleared and booked into jail."
   }
 ]
