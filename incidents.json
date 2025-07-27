@@ -20293,5 +20293,41 @@
     "date": "2025-07-23",
     "time": "2004",
     "text": "Officers attempted to stop a subject on a bicycle. The suspect fled and was observed to have a large knife. Less lethal was deployed to detain the suspect. The suspect was found to be on parole and in possession of drugs. The suspect was medically cleared and booked into jail."
+  },
+  {
+    "cmd": "East Command",
+    "id": "25-189348",
+    "code": "Traffic Stop - Firearm Arrest",
+    "location": "3100 Block of Occidental Dr",
+    "date": "2025-07-24",
+    "time": "1904",
+    "text": "Officers stopped a vehicle. During the investigation, officers located two illegally possessed firearms. The driver was arrested for related charges."
+  },
+  {
+    "cmd": "East Command",
+    "id": "25-189357",
+    "code": "Shooting - Investigation",
+    "location": "3400 Block of 24th Ave",
+    "date": "2025-07-24",
+    "time": "1916",
+    "text": "Officers responded to reports of a shooting. Responding officers located evidence of a shooting. No injuries were reported. Officers conducted an investigation and a report was generated."
+  },
+  {
+    "cmd": "North Command",
+    "id": "25-189394",
+    "code": "Firearm - Arrest",
+    "location": "2000 Block of W. El Camino Ave",
+    "date": "2025-07-24",
+    "time": "1959",
+    "text": "Officers responded to reports of a group of individuals with one being armed with a handgun. Responding officers located a group matching the description given and the suspects attempted to flee. Three suspects were detained and illegally possessed firearms were located. All three were arrested on firearm related charges."
+  },
+  {
+    "cmd": "North Command",
+    "id": "25-189495",
+    "code": "Traffic Stop - Firearm Arrest",
+    "location": "Norwood Ave / Morey Ave",
+    "date": "2025-07-24",
+    "time": "2219",
+    "text": "Officers stopped a vehicle for a vehicle code violation. During the investigation, officers located an illegally possessed firearm. The driver was arrested for a warrant and firearm related charges."
   }
 ]
