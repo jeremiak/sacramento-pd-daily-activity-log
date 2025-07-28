@@ -20329,5 +20329,23 @@
     "date": "2025-07-24",
     "time": "2219",
     "text": "Officers stopped a vehicle for a vehicle code violation. During the investigation, officers located an illegally possessed firearm. The driver was arrested for a warrant and firearm related charges."
+  },
+  {
+    "cmd": "East Command",
+    "id": "25-189771",
+    "code": "Shooting - Investigation",
+    "location": "3200 Block of 19th Ave",
+    "date": "2025-07-25",
+    "time": "0904",
+    "text": "Officers responded to reports of a shooting. Responding officers located evidence of a shooting. No injuries were reported. Officers conducted an investigation and a report was generated."
+  },
+  {
+    "cmd": "Central Command",
+    "id": "25-190295",
+    "code": "Subject Stop - Firearm & Narcotic Sales Arrest",
+    "location": "200 Block of JIbboom St",
+    "date": "2025-07-25",
+    "time": "1903",
+    "text": "A patrol sergeant contacted a subject in the area. During the investigation, officers located narcotics for sale and a firearm. The suspect was arrested for related charges."
   }
 ]
