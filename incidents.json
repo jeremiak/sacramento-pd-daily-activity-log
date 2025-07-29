@@ -20347,5 +20347,23 @@
     "date": "2025-07-25",
     "time": "1903",
     "text": "A patrol sergeant contacted a subject in the area. During the investigation, officers located narcotics for sale and a firearm. The suspect was arrested for related charges."
+  },
+  {
+    "cmd": "North Command",
+    "id": "25-190657",
+    "code": "Traffic Stop - Firearm & Narcotics Arrest",
+    "location": "Del Paso Rd / E. Commerce Wy",
+    "date": "2025-07-26",
+    "time": "0133",
+    "text": "Officers stopped a vehicle. During a probation search, officers located drugs and a loaded shotgun. The suspect was arrested for related charges."
+  },
+  {
+    "cmd": "South Command",
+    "id": "25-190899",
+    "code": "Shooting - Investigation",
+    "location": "2100 Block of 51st Ave",
+    "date": "2025-07-26",
+    "time": "1056",
+    "text": "Officers responded to reports of a shooting. Responding officers located evidence of a shooting. No injuries were reported. Officers conducted an investigation and a report was generated."
   }
 ]
