@@ -20365,5 +20365,41 @@
     "date": "2025-07-26",
     "time": "1056",
     "text": "Officers responded to reports of a shooting. Responding officers located evidence of a shooting. No injuries were reported. Officers conducted an investigation and a report was generated."
+  },
+  {
+    "cmd": "Central Command",
+    "id": "25-191609",
+    "code": "Pursuit - Arrest",
+    "location": "Capitol Mall / Neasham Cir",
+    "date": "2025-07-27",
+    "time": "0230",
+    "text": "Officers attempted to stop a vehicle for reckless driving. The driver failed to yield and led officers on a pursuit. The pursuit terminated on the freeway and the suspect was arrested for related charges."
+  },
+  {
+    "cmd": "North Command",
+    "id": "25-192120",
+    "code": "Shooting - Investigation",
+    "location": "300 Block Peralta Ave",
+    "date": "2025-07-27",
+    "time": "1803",
+    "text": "Officers responded to reports of a shooting. Responding officers located a juvenile subject with at least one gunshot wound. The juvenile was transported to an area hospital where they are expected to survive. Officers conducted an extensive investigation and a report was generated"
+  },
+  {
+    "cmd": "North Command",
+    "id": "25-192354",
+    "code": "Shooting - Investigation",
+    "location": "4600 Block Natomas Blvd",
+    "date": "2025-07-27",
+    "time": "2310",
+    "text": "Officers responded to reports of a shooting. Responding officers located an adult female victim with at least one gunshot wound. The victim was transported to an area hospital. Officers searched the area extensively but were not able to locate a suspect."
+  },
+  {
+    "cmd": "East Command",
+    "id": "25-192352",
+    "code": "Pursuit - Arrest",
+    "location": "Alhambra Blvd & I St",
+    "date": "2025-07-27",
+    "time": "2316",
+    "text": "Officers attempted to stop a suspect on a bicycle for a traffic violation. The suspect did not stop and officers pursued him until he was safely detained. The suspect had an outstanding felony warrant and was arrested for related charges."
   }
 ]
