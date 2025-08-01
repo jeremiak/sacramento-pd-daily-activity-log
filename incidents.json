@@ -20410,5 +20410,23 @@
     "date": "2025-07-28",
     "time": "1025",
     "text": "Officers responded to reports of a person smoking narcotics outside. When officers arrived, the suspect attempted to walk away, leaving behind narcotic paraphernalia. The suspect was detained and upon records check, was found to have a felony no-bail warrant for burglary. The suspect was arrested."
+  },
+  {
+    "cmd": "South Command",
+    "id": "25-193559",
+    "code": "Traffic Stop - Firearm Arrest",
+    "location": "Calvine Rd / Suntrail Cir",
+    "date": "2025-07-29",
+    "time": "0944",
+    "text": "A motor officer stopped a vehicle for a vehicle code violation. The driver had a felony no-bail warrant for firearm possession. During the investigation, the passenger was found to be in possession of an illegally possessed firearm. Both were arrested."
+  },
+  {
+    "cmd": "South Command",
+    "id": "25-193740",
+    "code": "Shooting - Arrest",
+    "location": "10 Block of La Pera Ct",
+    "date": "2025-07-29",
+    "time": "1257",
+    "text": "Officers responded to reports of a shooting and brandishing incident. The suspect was inside of a residence and officers were able to negotiate with the suspect to come out peacefully. During the investigation, officers located a firearm. The suspect was taken into custody for related charges."
   }
 ]
