@@ -20428,5 +20428,32 @@
     "date": "2025-07-29",
     "time": "1257",
     "text": "Officers responded to reports of a shooting and brandishing incident. The suspect was inside of a residence and officers were able to negotiate with the suspect to come out peacefully. During the investigation, officers located a firearm. The suspect was taken into custody for related charges."
+  },
+  {
+    "cmd": "South Command",
+    "id": "25-194291",
+    "code": "Shooting - Investigation",
+    "location": "7700 Block of Laramore Wy",
+    "date": "2025-07-30",
+    "time": "0056",
+    "text": "Officers responded to reports of a shooting. Responding officers located evidence of a shooting. No injuries were reported. Officers conducted an investigation and a report was generated."
+  },
+  {
+    "cmd": "North Command",
+    "id": "25-194340",
+    "code": "Shooting - Investigation",
+    "location": "600 Block of Garden Hwy",
+    "date": "2025-07-30",
+    "time": "0243",
+    "text": "Officers responded to reports of a shooting. Responding officers located evidence of a shooting. No injuries were reported. Officers conducted an investigation and a report was generated."
+  },
+  {
+    "cmd": "South Command",
+    "id": "25-195223",
+    "code": "Shooting - Investigation",
+    "location": "La Pera Ct / La Fresa Ct",
+    "date": "2025-07-30",
+    "time": "2304",
+    "text": "Officers responded to reports of a shooting. Responding officers located evidence of a shooting. No injuries were reported. Officers conducted an investigation and a report was generated."
   }
 ]
