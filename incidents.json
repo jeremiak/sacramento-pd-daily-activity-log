@@ -20482,5 +20482,23 @@
     "date": "2025-08-01",
     "time": "1046",
     "text": "Officers responded to reports of a shooting. Responding officers located evidence of a shooting. No injuries were reported. Officers conducted an investigation and a report was generated."
+  },
+  {
+    "cmd": "East Command",
+    "id": "25-197539",
+    "code": "Shooting - Investigation",
+    "location": "3400 Block of 24th Ave",
+    "date": "2025-08-02",
+    "time": "1224",
+    "text": "Officers responded to reports of a shooting. Responding officers located evidence of a shooting. No injuries were reported. Officers conducted an investigation and a report was generated."
+  },
+  {
+    "cmd": "North Command",
+    "id": "25-198036",
+    "code": "Shooting - Investigation",
+    "location": "2500 Block of Seamist Dr",
+    "date": "2025-08-02",
+    "time": "2251",
+    "text": "Officers responded to reports of a shooting. Two victims were eventually located, both with non-life-threatening gunshot injuries. Officers conducted an investigation and a report was generated. There is no suspect information to release at this time."
   }
 ]
