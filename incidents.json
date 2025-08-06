@@ -20500,5 +20500,23 @@
     "date": "2025-08-02",
     "time": "2251",
     "text": "Officers responded to reports of a shooting. Two victims were eventually located, both with non-life-threatening gunshot injuries. Officers conducted an investigation and a report was generated. There is no suspect information to release at this time."
+  },
+  {
+    "cmd": "East Command",
+    "id": "25-198687",
+    "code": "Foot Pursuit - Arrest",
+    "location": "6000 Block 14th Ave",
+    "date": "2025-08-03",
+    "time": "1727",
+    "text": "Officers responded to a call of a subject causing a disturbance in front of a business. When responding officers attempted to the detain the suspect, he fled on foot and a pursuit ensued. Officers eventually detained the suspect, and he was found to have several outstanding warrants. He was arrested for his warrants and related charges."
+  },
+  {
+    "cmd": "North Command",
+    "id": "25-198905",
+    "code": "Shooting - Investigation",
+    "location": "1500 Block West El Camino Ave",
+    "date": "2025-08-03",
+    "time": "2143",
+    "text": "Officers responded to a report of a shooting. Responding officers located a male adult victim with at least one gunshot wound. The victim was transported to an area hospital where he is in stable condition. Officers did not locate a suspect on scene. The investigation is ongoing."
   }
 ]
