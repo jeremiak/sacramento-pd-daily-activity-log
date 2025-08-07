@@ -20518,5 +20518,32 @@
     "date": "2025-08-03",
     "time": "2143",
     "text": "Officers responded to a report of a shooting. Responding officers located a male adult victim with at least one gunshot wound. The victim was transported to an area hospital where he is in stable condition. Officers did not locate a suspect on scene. The investigation is ongoing."
+  },
+  {
+    "cmd": "North Command",
+    "id": "25-199079",
+    "code": "Shooting - Firearm Arrest",
+    "location": "800 Block Arden Wy",
+    "date": "2025-08-04",
+    "time": "0409",
+    "text": "Officers responded to a report of a shooting. Through a thorough investigation, officers learned the caller had actually fired an illegally possessed, stolen firearm in his own residence. The suspect was arrested for related charges. No injuries or victims were reported."
+  },
+  {
+    "cmd": "North Command",
+    "id": "25-199583",
+    "code": "Foot Pursuit - Arrest",
+    "location": "700 Block Darina Ave",
+    "date": "2025-08-04",
+    "time": "1638",
+    "text": "Officers observed a subject known to have a felony warrant. The suspect fled from officers on foot and they pursued him. The suspect was eventually safely detained and was arrested for related charges."
+  },
+  {
+    "cmd": "South Command",
+    "id": "25-199852",
+    "code": "Pursuit - Arrest",
+    "location": "US 50 & 59th St",
+    "date": "2025-08-04",
+    "time": "2314",
+    "text": "Officers attempted to conduct a traffic stop of a vehicle when it fled at a high rate of speed. A short distance later, the suspect vehicle pulled over and the driver was detained. The suspect was arrested for DUI and related charges."
   }
 ]
