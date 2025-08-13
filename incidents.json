@@ -20608,5 +20608,23 @@
     "date": "2025-08-09",
     "time": "0902",
     "text": "Officers responded to reports of a subject breaking windows. Responding officers located the suspect who fled on foot but was quickly detained. The suspect was arrested for related charges and their outstanding warrant."
+  },
+  {
+    "cmd": "North Command",
+    "id": "25-205331",
+    "code": "Pursuit - Arrest",
+    "location": "3100 Block Callecita St",
+    "date": "2025-08-10",
+    "time": "1619",
+    "text": "Officers attempted to conduct a traffic stop of a vehicle. The vehicle did not stop and a pursuit ensued. The passenger of the vehicle subsequently fled from the vehicle on foot. Officers established a perimeter and after searching residences in the area, located the fleeing suspect. Two subjects from the residence and the driver were arrested for felony related charges."
+  },
+  {
+    "cmd": "South Command",
+    "id": "25-205463",
+    "code": "Stabbing Investigation",
+    "location": "1300 Block Florin Rd",
+    "date": "2025-08-10",
+    "time": "1927",
+    "text": "Officers responded to reports of someone who was stabbed. Responding officers located the victim who sustained a non-life threatening stab wound and was transported to an area hospital. Officers conducted an investigation and a report was generated. "
   }
 ]
