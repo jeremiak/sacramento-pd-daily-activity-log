@@ -20653,5 +20653,32 @@
     "date": "2025-08-13",
     "time": "1005",
     "text": "Officers responded to a domestic violence related incident. The suspect was safely detained and during a search of the residence, a stolen firearm and brass knuckles were located by officers. The suspect was arrested for related charges."
+  },
+  {
+    "cmd": "South Command",
+    "id": "25-208654",
+    "code": "Shooting - Investigation",
+    "location": "4400 Block Shining Star Dr",
+    "date": "2025-08-14",
+    "time": "0134",
+    "text": "Officers responded to a report of sounds of shots being fired. Responding officers located evidence of a shooting but no reported victims. Officers conducted an investigation and a report was generated."
+  },
+  {
+    "cmd": "Central Command",
+    "id": "25-209283",
+    "code": "Felony Assault - Arrest",
+    "location": "400 Block of Bannon St",
+    "date": "2025-08-14",
+    "time": "1752",
+    "text": "Officers responded to reports of an assault involving a pipe. The victim sustained minor injuries to the head and the suspect was located a short distance away. The suspect was arrested for related charges."
+  },
+  {
+    "cmd": "East Command",
+    "id": "25-209512",
+    "code": "Shooting - Investigation",
+    "location": "4500 Block of 76th St",
+    "date": "2025-08-14",
+    "time": "2300",
+    "text": "Officers responded to reports of a shooting. Responding officers located evidence of a shooting. No injuries were reported. Officers conducted an investigation and a report was generated."
   }
 ]
