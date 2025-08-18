@@ -20680,5 +20680,32 @@
     "date": "2025-08-14",
     "time": "2300",
     "text": "Officers responded to reports of a shooting. Responding officers located evidence of a shooting. No injuries were reported. Officers conducted an investigation and a report was generated."
+  },
+  {
+    "cmd": "North Command",
+    "id": "25-209581",
+    "code": "Shooting - Investigation",
+    "location": "1700 Block of W. El Camino Ave",
+    "date": "2025-08-15",
+    "time": "0153",
+    "text": "Officers responded to reports of a shooting. A round struck an apartment, but nobody was injured. Officers conducted an investigation and a report was generated."
+  },
+  {
+    "cmd": "North Command",
+    "id": "25-210240",
+    "code": "Traffic Stop - Firearm & Drug Arrest",
+    "location": "Eleanor Ave & Berger Ave",
+    "date": "2025-08-15",
+    "time": "1755",
+    "text": "Officers conducted a traffic stop of a vehicle for vehicle violations. Officers observed a significant amount of marijuana in plain view inside of the vehicle. During a search of the vehicle, officers located an illegally possessed loaded firearm. The suspect was arrested for related charges."
+  },
+  {
+    "cmd": "Central Command",
+    "id": "25-210472",
+    "code": "Investigation - Firearms Arrest",
+    "location": "2200 Block 15th St",
+    "date": "2025-08-15",
+    "time": "2205",
+    "text": "Officers responded to an active house party in the area with significant safety concerns. Specialty units and officers from across the city organized to address the event. In total, seven suspects were arrested and three illegally possessed firearms were recovered."
   }
 ]
