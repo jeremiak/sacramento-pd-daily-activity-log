@@ -20716,5 +20716,23 @@
     "date": "2025-08-17",
     "time": "0254",
     "text": "Officers responded to a report of a stolen vehicle. Officers were able to quickly locate the stolen vehicle in the area. The suspect immediately fled from officers in the stolen vehicle and a pursuit ensued. The pursuit ended when the suspect vehicle was involved in a collision. The suspect was safely detained. He was transported to an area hospital for medical clearance prior to being booked into jail for related charges."
+  },
+  {
+    "cmd": "North Command",
+    "id": "25-212384",
+    "code": "Pursuit - Arrest",
+    "location": "Carroll Ave & Norwood Ave",
+    "date": "2025-08-18",
+    "time": "0003",
+    "text": "Officers attempted to conduct a traffic stop of vehicle. The vehicle did not stop, and a pursuit ensued. The suspect driver eventually fled from the vehicle on foot when the vehicle became disabled. Officers quickly detained the suspect. Through officers' investigation, they determined the vehicle to be stolen. The suspect was arrested for related charges."
+  },
+  {
+    "cmd": "North Command",
+    "id": "25-212428",
+    "code": "Shooting - Arrest",
+    "location": "2300 Block Beaumont St",
+    "date": "2025-08-18",
+    "time": "0130",
+    "text": "Officers responded to reports of a shooting. An assisting agency’s air unit happened to be overhead and observed the shooting from a vehicle. The air unit followed the suspect vehicle until ground units were able to conduct a traffic stop. The suspect was safely detained, and a firearm was located in the vehicle. The suspect was arrested for related charges."
   }
 ]
