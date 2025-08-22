@@ -20734,5 +20734,23 @@
     "date": "2025-08-18",
     "time": "0130",
     "text": "Officers responded to reports of a shooting. An assisting agency’s air unit happened to be overhead and observed the shooting from a vehicle. The air unit followed the suspect vehicle until ground units were able to conduct a traffic stop. The suspect was safely detained, and a firearm was located in the vehicle. The suspect was arrested for related charges."
+  },
+  {
+    "cmd": "South Command",
+    "id": "25-213469",
+    "code": "Stolen Vehicle - Arrest",
+    "location": "24th & Florin Rd",
+    "date": "2025-08-19",
+    "time": "0244",
+    "text": "Officers located a stolen vehicle in the area. The suspect driver pulled over, but the driver and passenger immediately fled on foot from the vehicle. Officers quickly apprehended the driver and located the passenger in a nearby apartment. The passenger was the suspect in an earlier robbery. Both the driver and passenger were arrested for related charges."
+  },
+  {
+    "cmd": "East Command",
+    "id": "25-213646",
+    "code": "Pursuit - Arrest",
+    "location": "5300 Block of 22nd Ave",
+    "date": "2025-08-19",
+    "time": "0927",
+    "text": "Officers responded to a residence regarding a restraining order violation. Responding officers located the suspect who fled on a scooter and officers pursued the suspect. The suspect was detained and arrested for related charges. "
   }
 ]
