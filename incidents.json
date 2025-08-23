@@ -20752,5 +20752,32 @@
     "date": "2025-08-19",
     "time": "0927",
     "text": "Officers responded to a residence regarding a restraining order violation. Responding officers located the suspect who fled on a scooter and officers pursued the suspect. The suspect was detained and arrested for related charges. "
+  },
+  {
+    "cmd": "Central Command",
+    "id": "25-214483",
+    "code": "Assault - Arrest",
+    "location": "1100 block of 9th St",
+    "date": "2025-08-20",
+    "time": "0232",
+    "text": "Officers responded to a report of an assault involving a knife. The suspect barricaded himself inside of his residence and Crisis Negotiators and SWAT Officers responded to the scene. The suspect was eventually safely detained and arrested for related charges. "
+  },
+  {
+    "cmd": "East Command",
+    "id": "25-215121",
+    "code": "Pursuit - Investigation",
+    "location": "4400 block of 12th Ave",
+    "date": "2025-08-20",
+    "time": "1635",
+    "text": "Officers attempted to stop a vehicle, the vehicle did not stop and a pursuit ensued. The suspect subsequently fled from the vehicle on foot and a perimeter was established. The suspect was not located at this time. A firearm was located in the suspect’s vehicle."
+  },
+  {
+    "cmd": "South Command",
+    "id": "25-215330",
+    "code": "Sideshow Activity - Tow",
+    "location": "6300 block of Mack Rd",
+    "date": "2025-08-20",
+    "time": "2015",
+    "text": "Officers located a vehicle sideshow in the area. Officers conducted traffic enforcement, with several citations written and 1 vehicle towed."
   }
 ]
