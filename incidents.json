@@ -20779,5 +20779,23 @@
     "date": "2025-08-20",
     "time": "2015",
     "text": "Officers located a vehicle sideshow in the area. Officers conducted traffic enforcement, with several citations written and 1 vehicle towed."
+  },
+  {
+    "cmd": "East Command",
+    "id": "25-216347",
+    "code": "Shooting - Arrest",
+    "location": "200 Block of Bicentennial Cir",
+    "date": "2025-08-21",
+    "time": "2053",
+    "text": "Officers responded to a report of a bullet hole in a wall between the caller's wall and a neighboring apartment. Responding officers contacted and detained the neighbor. During the investigation, officers determined that a round was fired into a wall. Officers recovered two firearms and the suspect was arrested for related charges."
+  },
+  {
+    "cmd": "North Command",
+    "id": "25-216383",
+    "code": "Shooting - Investigation",
+    "location": "Cognac Cir & Wyndview Dr",
+    "date": "2025-08-21",
+    "time": "2143",
+    "text": "Officers responded to reports of a shooting. Responding officers located evidence of a shooting, however no victims were located at that time. During the investigation, officers located a rifle on scene. Less than an hour later, a victim with a non-life-threatening gunshot wound arrived at an area hospital. Officers determined that the victim was related to this shooting. Officers conducted an investigation and a report was generated."
   }
 ]
