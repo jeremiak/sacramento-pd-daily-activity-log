@@ -20797,5 +20797,23 @@
     "date": "2025-08-21",
     "time": "2143",
     "text": "Officers responded to reports of a shooting. Responding officers located evidence of a shooting, however no victims were located at that time. During the investigation, officers located a rifle on scene. Less than an hour later, a victim with a non-life-threatening gunshot wound arrived at an area hospital. Officers determined that the victim was related to this shooting. Officers conducted an investigation and a report was generated."
+  },
+  {
+    "cmd": "South Command",
+    "id": "25-217441",
+    "code": "Robbery-Arrest",
+    "location": "5900 Block 24th St",
+    "date": "2025-08-22",
+    "time": "2157",
+    "text": "Officers responded to reports of a robbery. The victims sustained minor injuries from the suspect. Officers quickly located the suspect in the area and arrested him for related charges."
+  },
+  {
+    "cmd": "Central Command",
+    "id": "25-217478",
+    "code": "Pursuit - Arrest",
+    "location": "4th St & X St",
+    "date": "2025-08-22",
+    "time": "2241",
+    "text": "Officers were monitoring a car meet when they attempted to conduct a traffic stop of a vehicle for an equipment violation. The vehicle did not stop, and a lengthy pursuit ensued. An assisting agency located the vehicle and Sacramento Police officers responded to take custody of the suspect. The suspect’s vehicle was impounded, and the suspect was arrested for related charges."
   }
 ]
