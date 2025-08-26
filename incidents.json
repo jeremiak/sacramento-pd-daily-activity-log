@@ -20815,5 +20815,59 @@
     "date": "2025-08-22",
     "time": "2241",
     "text": "Officers were monitoring a car meet when they attempted to conduct a traffic stop of a vehicle for an equipment violation. The vehicle did not stop, and a lengthy pursuit ensued. An assisting agency located the vehicle and Sacramento Police officers responded to take custody of the suspect. The suspect’s vehicle was impounded, and the suspect was arrested for related charges."
+  },
+  {
+    "cmd": "South Command",
+    "id": "25-217721",
+    "code": "Subject Stop - Arrest",
+    "location": "6000 Block Mack Rd",
+    "date": "2025-08-23",
+    "time": "0725",
+    "text": "Officers contacted a suspect with an outstanding felony warrant. When officers attempted to detain the suspect, he became confrontational and a brief struggled ensued. The suspect was eventually detained. An officer sustained minor injuries. The suspect was arrested for his warrant and related charges."
+  },
+  {
+    "cmd": "North Command",
+    "id": "25-217731",
+    "code": "Traffic Stop - Drug arrest",
+    "location": "Las Palmas Ave & Branch St",
+    "date": "2025-08-23",
+    "time": "0744",
+    "text": "Officers conducted a traffic stop of a vehicle from a previous call for service, traveling at a high rate of speed. The driver was intoxicated and became confrontational with officers when they attempted to detain him. Officers detained the suspect and a substantial amount of narcotics were in his possession. The suspect was arrested for DUI, resisting arrest, and drug related charges."
+  },
+  {
+    "cmd": "South Command",
+    "id": "25-217888",
+    "code": "Traffic Stop - Firearm Arrest",
+    "location": "2900 Block Freeport Blvd",
+    "date": "2025-08-23",
+    "time": "1057",
+    "text": "Officers conducted a traffic stop of a vehicle. Officers observed a gun box in plain view in the vehicle. Officers located an illegally possessed firearm. The driver was arrested for related charges."
+  },
+  {
+    "cmd": "East Command",
+    "id": "25-218010",
+    "code": "Stabbing Investigation - Arrest",
+    "location": "Howe Ave & La Riviera Dr",
+    "date": "2025-08-23",
+    "time": "1332",
+    "text": "Officers responded to a report of a stabbing where the victim self-transported to an area hospital with non-life-threatening injuries. Officers obtained a detailed description of the suspect and weapon used. Officers located the suspect near the scene and arrested him for related charges."
+  },
+  {
+    "cmd": "Central Command",
+    "id": "25-218522",
+    "code": "Subject Stop - Firearm Arrest",
+    "location": "200 Block K St",
+    "date": "2025-08-23",
+    "time": "2305",
+    "text": "Officers contacted several individuals regarding potential curfew violations. During a pat down search, an illegal rifle was located on one of the suspect’s person. The suspect was arrested for related charges and transported to juvenile hall."
+  },
+  {
+    "cmd": "North Command",
+    "id": "25-218548",
+    "code": "Traffic Stop - Firearm Arrest",
+    "location": "Crandall Ave & Sonoma Ave",
+    "date": "2025-08-23",
+    "time": "2339",
+    "text": "Officers conducted a traffic stop of a vehicle. During the stop, officers learned there was a firearm in the vehicle. Officers located an illegally possessed, loaded firearm in the vehicle. The driver was arrested for related charges."
   }
 ]
