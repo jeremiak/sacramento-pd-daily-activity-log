@@ -20869,5 +20869,32 @@
     "date": "2025-08-23",
     "time": "2339",
     "text": "Officers conducted a traffic stop of a vehicle. During the stop, officers learned there was a firearm in the vehicle. Officers located an illegally possessed, loaded firearm in the vehicle. The driver was arrested for related charges."
+  },
+  {
+    "cmd": "East Command",
+    "id": "25-218905",
+    "code": "Stabbing Investigation - Arrest",
+    "location": "6400 Block Stockton Blvd",
+    "date": "2025-08-24",
+    "time": "1212",
+    "text": "Officers responded to a call regarding a stabbing. Officers located the victim, and he was transported to an area hospital with non-life-threatening injuries. The suspect was detained on scene and arrested for related charges."
+  },
+  {
+    "cmd": "Central Command",
+    "id": "25-218997",
+    "code": "Disturbance - Arrest",
+    "location": "300 Block I St",
+    "date": "2025-08-24",
+    "time": "1429",
+    "text": "Officers responded to a report of a subject on the I St Bridge. Crisis Negotiators and Marine Units responded to the scene. The subject eventually jumped off of the bridge and was recovered by Marine Units. No injuries were reported. Officers learned the subject had an outstanding felony warrant. He was arrested for his warrant."
+  },
+  {
+    "cmd": "North Command",
+    "id": "25-219116",
+    "code": "Pursuit - Arrest",
+    "location": "1600 Block Arden Way",
+    "date": "2025-08-24",
+    "time": "1717",
+    "text": "Officers attempted to conduct a traffic stop in the area. The vehicle did not stop, and a short pursuit ensued. The vehicle ultimately stopped, and all subjects were detained and arrested for arrested for related charges. "
   }
 ]
