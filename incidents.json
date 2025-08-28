@@ -20896,5 +20896,23 @@
     "date": "2025-08-24",
     "time": "1717",
     "text": "Officers attempted to conduct a traffic stop in the area. The vehicle did not stop, and a short pursuit ensued. The vehicle ultimately stopped, and all subjects were detained and arrested for arrested for related charges. "
+  },
+  {
+    "cmd": "South Command",
+    "id": "25-219607",
+    "code": "Pursuit - Arrest",
+    "location": "Franklin Blvd & Mack Rd",
+    "date": "2025-08-25",
+    "time": "0825",
+    "text": "Officers attempted to stop a vehicle, but the suspect vehicle did not stop, and a pursuit ensued. The driver eventually pulled over and was detained by officers. The driver was arrested on related charges."
+  },
+  {
+    "cmd": "North Command",
+    "id": "25-220306",
+    "code": "Carjacking - Arrest",
+    "location": "600 Block Bowles St",
+    "date": "2025-08-25",
+    "time": "2239",
+    "text": "Officers responded to a report of an armed carjacking. Responding officers observed the suspect driving the stolen vehicle. Officers attempted to stop the vehicle, but it did not stop, and a pursuit ensued. The suspect vehicle became disabled, ending the pursuit. The suspect was detained and arrested for related charges. "
   }
 ]
