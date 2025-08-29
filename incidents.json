@@ -20914,5 +20914,23 @@
     "date": "2025-08-25",
     "time": "2239",
     "text": "Officers responded to a report of an armed carjacking. Responding officers observed the suspect driving the stolen vehicle. Officers attempted to stop the vehicle, but it did not stop, and a pursuit ensued. The suspect vehicle became disabled, ending the pursuit. The suspect was detained and arrested for related charges. "
+  },
+  {
+    "cmd": "North Command",
+    "id": "25-221230",
+    "code": "Brandishing Investigation - Arrest",
+    "location": "3100 Block Marysville Blvd",
+    "date": "2025-08-26",
+    "time": "1908",
+    "text": "Officers responded to reports of a victim who had a firearm brandished at them. An SPD Air Unit responded to the scene and located the suspect leaving in a vehicle. Officers located the vehicle and detained the suspect. The suspect was arrested for related charges."
+  },
+  {
+    "cmd": "North Command",
+    "id": "25-221282",
+    "code": "Collision-Investigation",
+    "location": "3100 Block Northgate Blvd",
+    "date": "2025-08-26",
+    "time": "2011",
+    "text": "Officers responded to reports of a vehicle versus pedestrian collision. Responding officers located an adult male pedestrian with life threatening injuries. The pedestrian was transported to an area hospital for their injuries. The driver of the involved vehicle remained on scene and DUI does not appear to be a factor of the collision."
   }
 ]
