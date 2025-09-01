@@ -20959,5 +20959,23 @@
     "date": "2025-08-28",
     "time": "2058",
     "text": "Officers responded to reports of a vehicle collision into a building. There were no reported injuries. Officers conducted an investigation and determined the driver to be DUI. The driver was arrested for related charges. "
+  },
+  {
+    "cmd": "East Command",
+    "id": "25-224273",
+    "code": "Subject Stop - Firearm Arrest",
+    "location": "Alhambra Blvd / 1st Ave",
+    "date": "2025-08-29",
+    "time": "1718",
+    "text": "East Area Violent Crime Reduction officers attempted to stop a male, who fled from them with a gun in his hand. Officers were able to safely detain the suspect and recovered an illegally possessed firearm with a drum magazine. The suspect was arrested for related charges"
+  },
+  {
+    "cmd": "South Command",
+    "id": "25-224632",
+    "code": "Shooting - Investigation",
+    "location": "2400 Block of Meadowview Rd",
+    "date": "2025-08-29",
+    "time": "2253",
+    "text": "Officers responded to reports of a shooting. Responding officers located evidence of a shooting. No injuries were reported. Officers conducted an investigation and a report was generated."
   }
 ]
