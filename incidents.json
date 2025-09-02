@@ -20977,5 +20977,23 @@
     "date": "2025-08-29",
     "time": "2253",
     "text": "Officers responded to reports of a shooting. Responding officers located evidence of a shooting. No injuries were reported. Officers conducted an investigation and a report was generated."
+  },
+  {
+    "cmd": "East Command",
+    "id": "25-225281",
+    "code": "Stolen Vehicle - Arrest",
+    "location": "65th St / Broadway",
+    "date": "2025-08-30",
+    "time": "1550",
+    "text": "Officers located an occupied stolen vehicle. The driver was detained and arrested for related charges."
+  },
+  {
+    "cmd": "South Command",
+    "id": "25-225325",
+    "code": "Felony Assault - Arrest",
+    "location": "2700 Block of Ramp Wy",
+    "date": "2025-08-30",
+    "time": "1647",
+    "text": "Officers responded to reports of a female who broke a bottle after an argument and cut somebody. Responding officers located 3 victims, 2 adult males and 1 adult female with non-life threatening cuts. 2 were transported to area hospitals for treatment. Officers located the suspect, who was arrested for felony assault charges."
   }
 ]
