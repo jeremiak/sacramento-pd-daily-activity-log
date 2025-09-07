@@ -21031,5 +21031,32 @@
     "date": "2025-09-03",
     "time": "1637",
     "text": "Officers responded to assist a victim with locating her stolen property. The victim enabled GPS on her property and officers located the suspect. After briefly fleeing from officers, the suspect was detained and arrested for related charges."
+  },
+  {
+    "cmd": "Central Command",
+    "id": "25-230302",
+    "code": "Vandalism - Arrest",
+    "location": "27th St / J St",
+    "date": "2025-09-04",
+    "time": "1615",
+    "text": "Officers responded to reports of a suspect slashing tires with a knife. Responding officers located the suspect, who was arrested for for vandalism related charges."
+  },
+  {
+    "cmd": "South Command",
+    "id": "25-230314",
+    "code": "Traffic Stop - Narcotics and Firearms Arrest",
+    "location": "Cutter Way / Coleman Way",
+    "date": "2025-09-04",
+    "time": "1636",
+    "text": "Officers conducted a traffic stop on a vehicle. During the investigation, officers located narcotics and an illegally possessed stolen firearm. The driver was arrested for related charges."
+  },
+  {
+    "cmd": "North Command",
+    "id": "25-230639",
+    "code": "Pursuit - Arrest",
+    "location": "Azevedo Dr / Bannon Creek Dr",
+    "date": "2025-09-04",
+    "time": "2338",
+    "text": "Officers attempted to stop a vehicle. The driver failed to yield and led officers on a pursuit. The suspects eventually fled from the vehicle on foot, but officers were able to detain them. The driver was arrested for pursuit related charges and the passenger was arrested for resisting arrest charges."
   }
 ]
