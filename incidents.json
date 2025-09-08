@@ -21058,5 +21058,23 @@
     "date": "2025-09-04",
     "time": "2338",
     "text": "Officers attempted to stop a vehicle. The driver failed to yield and led officers on a pursuit. The suspects eventually fled from the vehicle on foot, but officers were able to detain them. The driver was arrested for pursuit related charges and the passenger was arrested for resisting arrest charges."
+  },
+  {
+    "cmd": "Central Command",
+    "id": "25-231032",
+    "code": "Disturbance - Arrest",
+    "location": "21st St & N St",
+    "date": "2025-09-05",
+    "time": "1204",
+    "text": "Officers responded to a Probation Officer’s reports of a disturbance. Officers detained the suspect involved who was determined to be a suspect in two robbery calls from earlier in the day. The suspect was arrested for related charges."
+  },
+  {
+    "cmd": "East Command",
+    "id": "25-231673",
+    "code": "Stolen Vehicle - Arrest",
+    "location": "3000 Block K St",
+    "date": "2025-09-05",
+    "time": "2347",
+    "text": "Officers located a stolen vehicle in the area. Officers safely detained the driver who was arrested for related charges and an outstanding warrant."
   }
 ]
