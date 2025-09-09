@@ -21076,5 +21076,23 @@
     "date": "2025-09-05",
     "time": "2347",
     "text": "Officers located a stolen vehicle in the area. Officers safely detained the driver who was arrested for related charges and an outstanding warrant."
+  },
+  {
+    "cmd": "North Command",
+    "id": "25-231880",
+    "code": "Stolen Vehicle - Arrest",
+    "location": "I 80 & Norwood Ave",
+    "date": "2025-09-06",
+    "time": "0809",
+    "text": "Officers located a stolen vehicle in the area. Officers detained the occupants and the suspect was arrested for related charges."
+  },
+  {
+    "cmd": "East Command",
+    "id": "25-232517",
+    "code": "Robbery-Arrest",
+    "location": "8000 Block Elder Creek Rd",
+    "date": "2025-09-06",
+    "time": "2227",
+    "text": "Officers responded for reports of a robbery. Responding officers located the suspect who attempted to flee on foot but was quickly detained. The suspect was arrested for related charges."
   }
 ]
