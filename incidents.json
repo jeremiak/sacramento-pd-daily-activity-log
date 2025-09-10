@@ -21094,5 +21094,41 @@
     "date": "2025-09-06",
     "time": "2227",
     "text": "Officers responded for reports of a robbery. Responding officers located the suspect who attempted to flee on foot but was quickly detained. The suspect was arrested for related charges."
+  },
+  {
+    "cmd": "Central Command",
+    "id": "25-232663",
+    "code": "Suspicious Activity - Arrest",
+    "location": "1600 Block I St",
+    "date": "2025-09-07",
+    "time": "0106",
+    "text": "Officers responded to reports of subjects attempting to gain access to a building by way of the roof. Building security attempted to detain the suspects. Responding officers located the suspects as well as their narcotics. The suspects were arrested for related charges."
+  },
+  {
+    "cmd": "South Command",
+    "id": "25-232798",
+    "code": "Robbery-Arrest",
+    "location": "8900 Block Pocket Rd",
+    "date": "2025-09-07",
+    "time": "0725",
+    "text": "Officers responded to a report of a robbery of a small amount of cash. Responding officers located the suspect near the scene and detained him. The suspect was arrested for related charges."
+  },
+  {
+    "cmd": "North Command",
+    "id": "25-233317",
+    "code": "Collision-Investigation",
+    "location": "Truxel Rd & San Juan Rd",
+    "date": "2025-09-07",
+    "time": "1911",
+    "text": "Officers responded to the area for a vehicle versus pedestrian collision. The pedestrian was transported to an area hospital with life threatening injuries. Due to the circumstances, Major Collison Investigation Unit (MCIU) detectives and Crime Scene Investigators (CSI) responded to the scene to take over the investigation. "
+  },
+  {
+    "cmd": "South Command",
+    "id": "25-233478",
+    "code": "Stolen Vehicle - Arrest",
+    "location": "Seamas Ave & I-5",
+    "date": "2025-09-07",
+    "time": "2155",
+    "text": "Officers located a stolen vehicle in the area. Officers detained the driver, and he was arrested for related charges."
   }
 ]
