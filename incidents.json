@@ -21130,5 +21130,23 @@
     "date": "2025-09-07",
     "time": "2155",
     "text": "Officers located a stolen vehicle in the area. Officers detained the driver, and he was arrested for related charges."
+  },
+  {
+    "cmd": "Central Command",
+    "id": "25-233717",
+    "code": "Assault - Arrest",
+    "location": "17th St/ L St",
+    "date": "2025-09-08",
+    "time": "0736",
+    "text": "Officers responded to reports of a suspect swinging a metal pole at a victim. The victim had no injuries, and the suspect was arrest for related charges."
+  },
+  {
+    "cmd": "South Command",
+    "id": "25-233793",
+    "code": "Shooting - Arrest",
+    "location": "Park Riviera Way / Riverside Blvd",
+    "date": "2025-09-08",
+    "time": "0921",
+    "text": "Officers responded to reports of a shooting. The suspect was quickly located in the area and taken into custody. Damage to a nearby residence was observed and no injured people were located. The suspect was arrested for related charges. "
   }
 ]
