@@ -21148,5 +21148,32 @@
     "date": "2025-09-08",
     "time": "0921",
     "text": "Officers responded to reports of a shooting. The suspect was quickly located in the area and taken into custody. Damage to a nearby residence was observed and no injured people were located. The suspect was arrested for related charges. "
+  },
+  {
+    "cmd": "North Command",
+    "id": "25-234586",
+    "code": "Pursuit - Arrest",
+    "location": "Mabel St/ Fairbanks Ave",
+    "date": "2025-09-09",
+    "time": "0400",
+    "text": "A vehicle fled from officers as they were conducting a traffic stop. A brief pursuit ensued and the suspect was ultimately taken into custody for related charges and a felony warrant. "
+  },
+  {
+    "cmd": "North Command",
+    "id": "25-235011",
+    "code": "Felony Assault - Arrest",
+    "location": "3200 Block of Marysville Blvd",
+    "date": "2025-09-09",
+    "time": "1348",
+    "text": "Officers responded to reports of a suspect assaulting a victim with a hammer. Officers located a victim with minor injuries and detained the suspect. The suspect was taken into custody for related charges and an outstanding warrant. "
+  },
+  {
+    "cmd": "South Command",
+    "id": "25-235063",
+    "code": "Vehicle Collision - Arrest",
+    "location": "2200 Block of Sutterville Rd",
+    "date": "2025-09-09",
+    "time": "1452",
+    "text": "Officers responded to reports of a vehicle into a building collision. Officers arrived on scene and after an investigation, took the driver into custody for DUI related charges. The building had minor damage."
   }
 ]
