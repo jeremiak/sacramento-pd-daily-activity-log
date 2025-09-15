@@ -21193,5 +21193,23 @@
     "date": "2025-09-11",
     "time": "2226",
     "text": "Officers conducted a traffic stop of a bicycle. The bicyclist fled from officers and was ultimately detained. The bicyclist was taken into custody for narcotic and other related charges."
+  },
+  {
+    "cmd": "North Command",
+    "id": "25-238288",
+    "code": "Shooting - Investigation",
+    "location": "2000 Block of W. El Camino Ave",
+    "date": "2025-09-12",
+    "time": "2009",
+    "text": "Officers responded to reports of a shooting. Responding officers located evidence of a shooting. No injuries were reported. Officers conducted an investigation and a report was generated."
+  },
+  {
+    "cmd": "North Command",
+    "id": "25-238444",
+    "code": "Shooting - Investigation",
+    "location": "600 Block of Harris Ave",
+    "date": "2025-09-12",
+    "time": "2313",
+    "text": "Officers responded to reports of a shooting. Responding officers located evidence of a shooting. No injuries were reported. Officers conducted an investigation and a report was generated."
   }
 ]
