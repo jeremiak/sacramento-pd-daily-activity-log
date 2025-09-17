@@ -21247,5 +21247,23 @@
     "date": "2025-09-13",
     "time": "2311",
     "text": "Officers contacted two subjects, who fled from them on foot and dropped two firearms. Both suspects were ultimately detained. One was 15 years old and the other was 16 years old. Both were booked into Juvenile Hall on various firearm charges."
+  },
+  {
+    "cmd": "North Command",
+    "id": "25-239786",
+    "code": "Traffic Stop - Firearm Arrest",
+    "location": "3800 Block Rosin Ct",
+    "date": "2025-09-14",
+    "time": "1157",
+    "text": "Officers conducted a traffic stop of a vehicle for a vehicle code violation. During a search of the vehicle, officers located a stolen firearm. The suspect driver was arrested for related charges. "
+  },
+  {
+    "cmd": "North Command",
+    "id": "25-239868",
+    "code": "Foot Pursuit - Arrest",
+    "location": "600 Block W. El Camino Ave",
+    "date": "2025-09-14",
+    "time": "1356",
+    "text": "Officers located a stolen vehicle that was involved in a pursuit earlier in the day. Responding officers located the driver who immediately fled on foot. Officers pursued the suspect and detained him. The suspect was arrested for related charges.  "
   }
 ]
