@@ -21283,5 +21283,23 @@
     "date": "2025-09-15",
     "time": "2152",
     "text": "Officers responded to a report of people fighting in the area. Responding officers attempted to detain the suspect who was not compliant. The suspect was eventually detained. After being medically cleared from the hospital, the suspect was booked at jail for related charges and an outstanding warrant."
+  },
+  {
+    "cmd": "Central Command",
+    "id": "25-241400",
+    "code": "Stabbing - Investigation",
+    "location": "8th St & J St",
+    "date": "2025-09-16",
+    "time": "0831",
+    "text": "Officers responded to the area for a report of someone who was stabbed. The victim was transported to an area hospital for non-life-threatening injuries. Officers conducted an investigation and generated a report. "
+  },
+  {
+    "cmd": "North Command",
+    "id": "25-242100",
+    "code": "Brandishing Investigation - Arrest",
+    "location": "800 Block Arcade Blvd",
+    "date": "2025-09-16",
+    "time": "1937",
+    "text": "Officers responded to a report of a brandishing of a firearm. Responding officers located the brandishing suspect and seized two illegally possessed firearms. The suspect was arrested for related charges."
   }
 ]
