@@ -21310,5 +21310,23 @@
     "date": "2025-09-17",
     "time": "1345",
     "text": "Officers observed a suspect with a felony warrant and attempted to contact him. As officers attempted to contact the suspect, he fled on foot but was quickly detained. The suspect was found to be in possession of a large sum of cash and narcotics. Officers located a loaded, stolen firearm as well. The suspect was arrested for related charges."
+  },
+  {
+    "cmd": "Central Command",
+    "id": "25-244080",
+    "code": "Subject Stop - Narcotic Arrest",
+    "location": "Richards Blvd / Bercut Dr",
+    "date": "2025-09-18",
+    "time": "1741",
+    "text": "Two suspects were taken into custody after an extensive investigation relating to narcotic sales in the area. Over 8,000 fentanyl pills were located and seized as evidence."
+  },
+  {
+    "cmd": "North Command",
+    "id": "25-244187",
+    "code": "Vehicle Collision Investigation",
+    "location": "Marysville Blvd & Los Robles Blvd",
+    "date": "2025-09-18",
+    "time": "1956",
+    "text": "Officers responded to a hit and run vehicle collision involving a pedestrian. The vehicle fled the scene of the collision prior to police arrival. The pedestrian was transported to an area hospital for serious injuries. Major Collision Investigation Unit detectives responded to the scene to take over the investigation. "
   }
 ]
