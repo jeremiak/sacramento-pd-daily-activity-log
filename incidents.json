@@ -21328,5 +21328,23 @@
     "date": "2025-09-18",
     "time": "1956",
     "text": "Officers responded to a hit and run vehicle collision involving a pedestrian. The vehicle fled the scene of the collision prior to police arrival. The pedestrian was transported to an area hospital for serious injuries. Major Collision Investigation Unit detectives responded to the scene to take over the investigation. "
+  },
+  {
+    "cmd": "North Command",
+    "id": "25-246117",
+    "code": "Foot Pursuit - Arrest",
+    "location": "Marysville Blvd & Grand Ave",
+    "date": "2025-09-20",
+    "time": "2142",
+    "text": "Officers were patrolling in the area and attempted to stop the operator of a motorized quad. The suspect fled on foot from the quad and officers pursued. The suspect was safely apprehended and arrested for related charges."
+  },
+  {
+    "cmd": "North Command",
+    "id": "25-246213",
+    "code": "Brandishing - Firearm and Drug Arrest",
+    "location": "400 Block Senator Ave",
+    "date": "2025-09-20",
+    "time": "2351",
+    "text": "Officers responded to a report of a victim who had a gun pointed at them. Responding officers located the suspect nearby. During the investigation, officers located an illegally possessed firearm as well as narcotics. The suspect was arrested for related charges."
   }
 ]
