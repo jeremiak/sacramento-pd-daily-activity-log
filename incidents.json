@@ -21346,5 +21346,23 @@
     "date": "2025-09-20",
     "time": "2351",
     "text": "Officers responded to a report of a victim who had a gun pointed at them. Responding officers located the suspect nearby. During the investigation, officers located an illegally possessed firearm as well as narcotics. The suspect was arrested for related charges."
+  },
+  {
+    "cmd": "North Command",
+    "id": "25-246587",
+    "code": "Bike Stop - Arrest",
+    "location": "Ford Rd & Rio Linda Blvd",
+    "date": "2025-09-21",
+    "time": "1057",
+    "text": "Officers attempted to conduct a bicycle stop when the suspect fled. A short pursuit ensued, and the suspect was safely detained. The suspect was found to have two outstanding warrants. The suspect was arrested for related charges."
+  },
+  {
+    "cmd": "East Command",
+    "id": "25-247086",
+    "code": "Shooting - Firearm Arrest",
+    "location": "Fowler Ave & Stockton Blvd",
+    "date": "2025-09-21",
+    "time": "2016",
+    "text": "Officers responded to a report of a person who was shot at. Responding officers located the suspect vehicle leaving the area and conducted a traffic stop. Officers located an illegally possessed firearm. The suspect was arrested for related charges."
   }
 ]
