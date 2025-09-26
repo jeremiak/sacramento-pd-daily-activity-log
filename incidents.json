@@ -21373,5 +21373,32 @@
     "date": "2025-09-22",
     "time": "2216",
     "text": "Officers responded to reports of an assault. The victim was struck with a metal pole, causing serious injuries. The suspect was located and arrested for related charges. "
+  },
+  {
+    "cmd": "North Command",
+    "id": "25-248466",
+    "code": "Stabbing - Arrest",
+    "location": "2000 Block of Del Paso Blvd",
+    "date": "2025-09-23",
+    "time": "0905",
+    "text": "Officers responded to reports of a stabbing. The victim sustained non-life-threatening injuries. The suspect was located and arrested for related charges."
+  },
+  {
+    "cmd": "North Command",
+    "id": "25-249030",
+    "code": "Stolen Vehicle - Pursuit Arrest",
+    "location": "Northborough Dr / Club Center Dr",
+    "date": "2025-09-23",
+    "time": "1941",
+    "text": "Officers located an occupied stolen vehicle. The suspect fled from officers, leading them on a pursuit. The suspect fled from the vehicle on foot, but our officers were able to quickly detain him. The suspect was arrested for related charges."
+  },
+  {
+    "cmd": "North Command",
+    "id": "25-249184",
+    "code": "Stolen Vehicle - Pursuit Arrest",
+    "location": "Kokomo Dr / Harbor Cove Wy",
+    "date": "2025-09-23",
+    "time": "2334",
+    "text": "Officers located an occupied stolen vehicle. The suspect led officers on a short pursuit, before pulling over and exiting the vehicle. The suspect was detained and arrested for related charges."
   }
 ]
