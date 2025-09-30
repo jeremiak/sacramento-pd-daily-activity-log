@@ -21418,5 +21418,32 @@
     "date": "2025-09-25",
     "time": "1139",
     "text": "Officers responded to reports of an assault.  A suspect with a knife hit one victim in the head with the side of the knife and attempted to stab another victim, but missed. The suspect was located and arrested for related charges. "
+  },
+  {
+    "cmd": "Central Command",
+    "id": "25-252543",
+    "code": "Battery/Resisting - Arrest",
+    "location": "J St / 20th St",
+    "date": "2025-09-27",
+    "time": "0216",
+    "text": "Officers observed a fight in the area. When attempting to intervene, the suspect fled from officers on foot. The suspect was eventually taken into custody a few blocks away and was arrested for related charges."
+  },
+  {
+    "cmd": "South Command",
+    "id": "25-252576",
+    "code": "Shooting - Investigation",
+    "location": "2100 Block of 65th Ave",
+    "date": "2025-09-27",
+    "time": "0356",
+    "text": "Officers responded to reports of a shooting. Responding officers located evidence of a shooting. No injured people were located. Officers conducted an investigation and a report was generated."
+  },
+  {
+    "cmd": "North Command",
+    "id": "25-253239",
+    "code": "Carjacking - Investigation",
+    "location": "4200 Block of Norwood Ave",
+    "date": "2025-09-27",
+    "time": "2014",
+    "text": "Officers responded to reports of a carjacking by physical force. The victim sustained minor injuries and was transported to an area hospital for treatment. Officers conducted an investigation and a report was generated."
   }
 ]
