@@ -21445,5 +21445,23 @@
     "date": "2025-09-27",
     "time": "2014",
     "text": "Officers responded to reports of a carjacking by physical force. The victim sustained minor injuries and was transported to an area hospital for treatment. Officers conducted an investigation and a report was generated."
+  },
+  {
+    "cmd": "South Command",
+    "id": "25-253600",
+    "code": "Vehicle Collision Investigation",
+    "location": "47th Ave & 24th St",
+    "date": "2025-09-28",
+    "time": "0808",
+    "text": "Officers responded to a vehicle versus pedestrian collision. The pedestrian was transported to an area hospital where they later succumbed to their injuries. Major Collision Investigation Unit detectives and Crime Scene Investigators responded to the scene to take over the investigation. "
+  },
+  {
+    "cmd": "North Command",
+    "id": "25-254261",
+    "code": "Shooting - Firearm Arrest",
+    "location": "600 Block Arcade Blvd",
+    "date": "2025-09-28",
+    "time": "2144",
+    "text": "Officers responded to sounds of shots being fired. Responding officers contacted a suspect armed with a firearm at their residence. The suspect then quickly retreated back into their house. Officers contained the house and were able to de-escalate the suspect into a peaceful surrender. Officers located an illegally possessed loaded firearm. The suspect was arrested for related charges. "
   }
 ]
