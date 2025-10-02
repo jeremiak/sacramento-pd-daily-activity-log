@@ -21463,5 +21463,32 @@
     "date": "2025-09-28",
     "time": "2144",
     "text": "Officers responded to sounds of shots being fired. Responding officers contacted a suspect armed with a firearm at their residence. The suspect then quickly retreated back into their house. Officers contained the house and were able to de-escalate the suspect into a peaceful surrender. Officers located an illegally possessed loaded firearm. The suspect was arrested for related charges. "
+  },
+  {
+    "cmd": "East Command",
+    "id": "25-254593",
+    "code": "Brandishing - Arrest",
+    "location": "8300 Block Folsom Blvd",
+    "date": "2025-09-29",
+    "time": "0933",
+    "text": "Officers responded to reports of a suspect that brandished a machete at a victim. Responding officers located the suspect who was detained and arrested for related charges. "
+  },
+  {
+    "cmd": "Central Command",
+    "id": "25-254641",
+    "code": "Assault - Arrest",
+    "location": "1100 Block H St",
+    "date": "2025-09-29",
+    "time": "1012",
+    "text": "Officers responded to reports of an assault. The victim sustained minor injuries from the assault. Responding officers located the suspect and he was arrested for related charges and an outstanding warrant. "
+  },
+  {
+    "cmd": "North Command",
+    "id": "25-255240",
+    "code": "Traffic Stop - Arrest",
+    "location": "Marysville Blvd & Los Robles Blvd",
+    "date": "2025-09-29",
+    "time": "2002",
+    "text": "Officers located a suspect vehicle involved in an assault. The driver of the vehicle was identified as the assault suspect. The diver was safely detained and arrested for related charges. "
   }
 ]
