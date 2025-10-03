@@ -21490,5 +21490,14 @@
     "date": "2025-09-29",
     "time": "2002",
     "text": "Officers located a suspect vehicle involved in an assault. The driver of the vehicle was identified as the assault suspect. The diver was safely detained and arrested for related charges. "
+  },
+  {
+    "cmd": "North Command",
+    "id": "25-255508",
+    "code": "Suspicious Vehicle - Firearm Arrest",
+    "location": "Cypress St & North Ave",
+    "date": "2025-09-30",
+    "time": "0716",
+    "text": "Officers located a vehicle belonging to an armed domestic violence suspect. Officers located an illegally possessed firearm with the suspect. The firearm was seized, and the suspect was arrested for related charges. "
   }
 ]
