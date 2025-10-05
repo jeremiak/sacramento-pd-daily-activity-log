@@ -21499,5 +21499,23 @@
     "date": "2025-09-30",
     "time": "0716",
     "text": "Officers located a vehicle belonging to an armed domestic violence suspect. Officers located an illegally possessed firearm with the suspect. The firearm was seized, and the suspect was arrested for related charges. "
+  },
+  {
+    "cmd": "Central Command",
+    "id": "25-257662",
+    "code": "Felony Assault - Arrest",
+    "location": "500 Block of Sequoia Pacific Blvd",
+    "date": "2025-10-02",
+    "time": "1216",
+    "text": "Officers responded to reports of an assault. After a road rage incident, the victim was cut with a knife during a fight.  The victim was transported to an area hospital with minor injuries. The suspect was located and arrested for related charges. "
+  },
+  {
+    "cmd": "Central Command",
+    "id": "25-258002",
+    "code": "Fatal Collision - Investigation",
+    "location": "2900 Block of K St",
+    "date": "2025-10-02",
+    "time": "1843",
+    "text": "Officers responded to reports of a vehicle vs pedestrian collision. The pedestrian was transported to a area hospital where they succumbed to their injuries. The driver remained on scene and DUI does not appear to be a factor. Major Collision Investigators and CSI responded to take over the investigation. "
   }
 ]
