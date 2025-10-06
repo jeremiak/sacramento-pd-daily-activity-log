@@ -21517,5 +21517,32 @@
     "date": "2025-10-02",
     "time": "1843",
     "text": "Officers responded to reports of a vehicle vs pedestrian collision. The pedestrian was transported to a area hospital where they succumbed to their injuries. The driver remained on scene and DUI does not appear to be a factor. Major Collision Investigators and CSI responded to take over the investigation. "
+  },
+  {
+    "cmd": "North Command",
+    "id": "25-258295",
+    "code": "Shooting - Investigation",
+    "location": "3500 Block Far Niente Wy",
+    "date": "2025-10-03",
+    "time": "0230",
+    "text": "Officers responded to reports of a shooting. Responding officers located evidence of a shooting but fortunately no injured victims were reported. Officers conducted an investigation and a report was generated."
+  },
+  {
+    "cmd": "Central Command",
+    "id": "25-258592",
+    "code": "Brandishing - Arrest",
+    "location": "900 Block 11th St",
+    "date": "2025-10-03",
+    "time": "1152",
+    "text": "Officers responded to a report of a subject brandishing a knife. Responding officers located the suspect and safely detained her. A knife as well as narcotics were located on the suspect. The suspect was arrested for related charges and an outstanding warrant.   "
+  },
+  {
+    "cmd": "South Command",
+    "id": "25-258916",
+    "code": "Bicycle Stop - Arrest",
+    "location": "Potrero Way & Freeport Blvd",
+    "date": "2025-10-03",
+    "time": "1811",
+    "text": "Officers attempted to conduct a bicycle stop. The suspect refused to stop his bike and officers pursued him. Officers were able to safely detain the suspect and located narcotics in his possession. The suspect was arrested for related charges."
   }
 ]
