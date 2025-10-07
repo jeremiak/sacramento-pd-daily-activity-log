@@ -21544,5 +21544,23 @@
     "date": "2025-10-03",
     "time": "1811",
     "text": "Officers attempted to conduct a bicycle stop. The suspect refused to stop his bike and officers pursued him. Officers were able to safely detain the suspect and located narcotics in his possession. The suspect was arrested for related charges."
+  },
+  {
+    "cmd": "South Command",
+    "id": "25-259265",
+    "code": "Pursuit - Arrest",
+    "location": "Matson Dr & Brownwood Way",
+    "date": "2025-10-04",
+    "time": "0135",
+    "text": "Officers attempted to conduct a vehicle stop of a vehicle driving recklessly. The vehicle did not stop, and a pursuit ensued. The vehicle eventually became disabled and stopped. The occupants of the vehicle were detained, and the vehicle was impounded. The driver of the vehicle was arrested for related charges."
+  },
+  {
+    "cmd": "East Command",
+    "id": "25-259632",
+    "code": "Folsom Blvd & Power Inn Rd",
+    "location": "Collision - Investigation",
+    "date": "2025-10-04",
+    "time": "1300",
+    "text": "Officers responded to a collision involving a vehicle and a pedestrian on a scooter. The scooterist sustained significant injures and was transported to an area hospital. Traffic in the area was impacted due to road closures related to the collision. Officers conducted a collision investigation, and a report was generated."
   }
 ]
