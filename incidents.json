@@ -21562,5 +21562,32 @@
     "date": "2025-10-04",
     "time": "1300",
     "text": "Officers responded to a collision involving a vehicle and a pedestrian on a scooter. The scooterist sustained significant injures and was transported to an area hospital. Traffic in the area was impacted due to road closures related to the collision. Officers conducted a collision investigation, and a report was generated."
+  },
+  {
+    "cmd": "Central Command",
+    "id": "25-260315",
+    "code": "2700 Block J St",
+    "location": "Shooting - Investigation",
+    "date": "2025-10-05",
+    "time": "0043",
+    "text": "Officers responded to reports of a shooting. Responding officers located three victims who sustained non-life threatening gunshot wounds. The victims were transported to area hospitals. Officers conducted an investigation and generated a report. The investigation is ongoing.  "
+  },
+  {
+    "cmd": "North Command",
+    "id": "25-260875",
+    "code": "Suspicious Vehicle - Firearm and Drug Arrest",
+    "location": "4100 Block Norwood Ave",
+    "date": "2025-10-05",
+    "time": "1549",
+    "text": "Officers contacted a suspicious vehicle and upon their investigative search located two illegally possessed firearms and narcotics. The suspect was arrested for related charges."
+  },
+  {
+    "cmd": "South Command",
+    "id": "25-261132",
+    "code": "Sideshow",
+    "location": "8300 Block Delta Shores Cir",
+    "date": "2025-10-05",
+    "time": "2051",
+    "text": "Officers responded to a large sideshow. Responding officers conducted several traffic stops, yielding one citation and a vehicle impound. The group eventually dispersed."
   }
 ]
