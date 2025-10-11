@@ -21598,5 +21598,41 @@
     "date": "2025-10-06",
     "time": "1844",
     "text": "Officers responded to reports of a subject with a firearm. Officers detained the subject, and an illegally possesed firearm was recovered. The suspect was prohibited from possessing a firearm and was arrested for related charges."
+  },
+  {
+    "cmd": "Central Command",
+    "id": "25-262170",
+    "code": "Burglary - Arrest",
+    "location": "1900 Block of S St",
+    "date": "2025-10-07",
+    "time": "0020",
+    "text": "Officers responded to reports of a burglary. When officers arrived, a suspect was loading approximately $20,000 of equipment into a truck. The suspect was arrested for related charges."
+  },
+  {
+    "cmd": "East Command",
+    "id": "25-262290",
+    "code": "Subject Stop - Arrest",
+    "location": "30th St & J St",
+    "date": "2025-10-07",
+    "time": "0656",
+    "text": "Officers located a suspect with an outstanding felony warrant. The suspect fled from officers on foot but was eventually detained. The suspect will be booked at jail after being medically cleared from the hospital. "
+  },
+  {
+    "cmd": "East Command",
+    "id": "25-263168",
+    "code": "Hit and Run Collison - Arrest",
+    "location": "Stockton Blvd and 14th Ave",
+    "date": "2025-10-08",
+    "time": "0212",
+    "text": "Officers observed a hit and run vehicle collision in the area. The suspect vehicle fled from the collision and led officers on a pursuit. The suspect vehicle hit another parked car before stopping. Officers detained the driver. The driver was arrested for suspicion of DUI and other related charges. "
+  },
+  {
+    "cmd": "South Command",
+    "id": "25-264015",
+    "code": "Shooting - Investigation",
+    "location": "700 Block Kemble St",
+    "date": "2025-10-08",
+    "time": "2010",
+    "text": "Officers responded to reports of a shooting. Responding officers located evidence of a shooting, but no injured victims were reported. Officers conducted an investigation, and a report was generated. "
   }
 ]
