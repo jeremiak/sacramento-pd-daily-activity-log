@@ -21634,5 +21634,23 @@
     "date": "2025-10-08",
     "time": "2010",
     "text": "Officers responded to reports of a shooting. Responding officers located evidence of a shooting, but no injured victims were reported. Officers conducted an investigation, and a report was generated. "
+  },
+  {
+    "cmd": "South Command",
+    "id": "25-264280",
+    "code": "Collision - Investigation",
+    "location": "68th Ave / Tamoshanter Wy",
+    "date": "2025-10-09",
+    "time": "0713",
+    "text": "Officers responded to reports of a vehicle that collided into the side of a school building. Ni children were injured. Two adult occupants of the vehicle were transported to area hospitals for non-life-threatening injuries. Officers conducted an investigation and a report was generated."
+  },
+  {
+    "cmd": "North Command",
+    "id": "25-264952",
+    "code": "Stabbing - Investigation",
+    "location": "2800 Block of Rio Linda Blvd",
+    "date": "2025-10-09",
+    "time": "1843",
+    "text": "Officers responded to reports of a stabbing. Responding officers located an adult male with at least one stab wound. Officers rendered emergency medical aid to the victim, who was transported to an area hospital with non-life-threatening injuries. Through the investigation, it was determined to occur in the homeless camp near this location. Officers conducted an investigation and report was generated. There is no suspect information to release at this time."
   }
 ]
