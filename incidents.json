@@ -21652,5 +21652,23 @@
     "date": "2025-10-09",
     "time": "1843",
     "text": "Officers responded to reports of a stabbing. Responding officers located an adult male with at least one stab wound. Officers rendered emergency medical aid to the victim, who was transported to an area hospital with non-life-threatening injuries. Through the investigation, it was determined to occur in the homeless camp near this location. Officers conducted an investigation and report was generated. There is no suspect information to release at this time."
+  },
+  {
+    "cmd": "South Command",
+    "id": "25-265478",
+    "code": "Parole Violation - Resisting Arrest",
+    "location": "6900 Block of S. Land Park Dr",
+    "date": "2025-10-10",
+    "time": "1010",
+    "text": "Officers responded to a disturbance. The suspect left prior to police arrival, but returned when officers were on scene. The suspect fled from officers again, hopping on roofs and going into neighbor’s backyards. The suspect was ultimately arrested for a parole violation and resisting arrest."
+  },
+  {
+    "cmd": "East Command",
+    "id": "25-266128",
+    "code": "Shooting - Investigation",
+    "location": "3800 17th Ave",
+    "date": "2025-10-10",
+    "time": "2159",
+    "text": "Officers responded to reports of a shooting. Responding officers located evidence of a shooting. No injuries were reported. Officers conducted an investigation and a report was generated."
   }
 ]
