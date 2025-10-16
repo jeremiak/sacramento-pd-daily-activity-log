@@ -21688,5 +21688,23 @@
     "date": "2025-10-12",
     "time": "1644",
     "text": "Officers responded to reports of a burglary at an apartment complex’s community center. Responding officers detained the suspect, who was ultimately arrested for burglary related charges."
+  },
+  {
+    "cmd": "North Command",
+    "id": "25-268388",
+    "code": "Subject Stop - Parolee-at-Large Arrested",
+    "location": "900 Block of Las Palmas Ave",
+    "date": "2025-10-13",
+    "time": "0857",
+    "text": "Officers contacted a subject near a homeless camp. While running his name, the suspect fled from officers on foot but was apprehended a short distance later. The suspect was found to be a parolee-at-large. The suspect was arrested for his warrant as well as resisting arrest charges."
+  },
+  {
+    "cmd": "East Command",
+    "id": "25-268991",
+    "code": "Shooting - Investigation",
+    "location": "6100 Block of Stockton Blvd",
+    "date": "2025-10-13",
+    "time": "2311",
+    "text": "A victim reported he was shot at by an unknown person. Officers located evidence of a shooting. The victim’s vehicle was struck by gunfire, but fortunately the victim was not injured. Officers conducted an investigation and a report was generated."
   }
 ]
