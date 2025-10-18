@@ -21715,5 +21715,32 @@
     "date": "2025-10-14",
     "time": "1946",
     "text": "Officers responded to reports of a vehicle that ran off the road onto a residential lawn. The driver attempted to flee, but our helicopter AIR1 arrived on scene and directed ground officers to the suspect. The suspect was detained and after an investigation, was arrested for driving under the influence."
+  },
+  {
+    "cmd": "North Command",
+    "id": "25-270037",
+    "code": "Stolen Vehicle - Arrest",
+    "location": "Arden Wy / Heritage Ln",
+    "date": "2025-10-15",
+    "time": "0942",
+    "text": "Officers located an occupied stolen vehicle. The driver was detained and arrested for related charges."
+  },
+  {
+    "cmd": "Central Command",
+    "id": "25-270544",
+    "code": "Stolen Vehicle - Arrest",
+    "location": "L St / 3rd St",
+    "date": "2025-10-15",
+    "time": "1829",
+    "text": "Ground officers, with the assistance of Sacramento Sheriff’s Office helicopter (STAR) located an occupied stolen vehicle. The driver was detained and arrested for related charges. A passenger was arrested for an outstanding felony warrant."
+  },
+  {
+    "cmd": "North Command",
+    "id": "25-270766",
+    "code": "Firearm - Arrest",
+    "location": "3200 Block of Marysville Blvd",
+    "date": "2025-10-15",
+    "time": "2331",
+    "text": "Our police helicopter, AIR1, was overhead when a brandishing call came out. The air unit located a possible suspect in a vehicle and directed ground officers to its location. Officers safely detained the suspect and during the investigation, located an illegally possessed firearm with its serial number obliterated. The suspect was arrested for related charges."
   }
 ]
