@@ -21814,5 +21814,23 @@
     "date": "2025-10-23",
     "time": "2318",
     "text": "Officers responded to reports of a shooting. Responding officers located evidence of a shooting. No injuries were reported. Officers conducted an investigation and a report was generated."
+  },
+  {
+    "cmd": "South Command",
+    "id": "25-278656",
+    "code": "Brandishing - Warrant Arrest",
+    "location": "24th St / Broadway",
+    "date": "2025-10-24",
+    "time": "1133",
+    "text": "Officers responded to reports that a male brandished a knife and threatened a victim. Responding officers located the suspect nearby, who was found to have a felony warrant. The suspect was arrested for related charges"
+  },
+  {
+    "cmd": "North Command",
+    "id": "25-278969",
+    "code": "Traffic Stop - Firearm Arrest",
+    "location": "Bowles St / Beaumont St",
+    "date": "2025-10-24",
+    "time": "1725",
+    "text": "Officers stopped a vehicle for a vehicle code violation. During a probation search, officers located an illegally possessed stolen handgun. The driver was arrested for related charges."
   }
 ]
