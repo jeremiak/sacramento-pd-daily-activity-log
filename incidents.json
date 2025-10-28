@@ -21832,5 +21832,14 @@
     "date": "2025-10-24",
     "time": "1725",
     "text": "Officers stopped a vehicle for a vehicle code violation. During a probation search, officers located an illegally possessed stolen handgun. The driver was arrested for related charges."
+  },
+  {
+    "cmd": "North Command",
+    "id": "25-279771",
+    "code": "Stolen Vehicle - Arrest",
+    "location": "Arden Wy / Heritage Ln",
+    "date": "2025-10-25",
+    "time": "1512",
+    "text": "Officers located an occupied stolen vehicle. The driver was detained and arrested for related charges."
   }
 ]
