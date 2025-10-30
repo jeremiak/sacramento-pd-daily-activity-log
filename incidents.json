@@ -21850,5 +21850,23 @@
     "date": "2025-10-26",
     "time": "1859",
     "text": "Officers responded to reports of a stabbing. Responding officers located a victim with a minor laceration. The suspect fled prior to police arrival. Officers conducted an investigation and a report was generated."
+  },
+  {
+    "cmd": "North Command",
+    "id": "25-281519",
+    "code": "Shooting - Investigation",
+    "location": "4700 Block of Marysville Blvd",
+    "date": "2025-10-27",
+    "time": "1425",
+    "text": "Officers responded to reports of a shooting. Responding officers located evidence of a shooting. No injuries were reported. Officers conducted an investigation and a report was generated."
+  },
+  {
+    "cmd": "East Command",
+    "id": "25-281567",
+    "code": "Burglary - Arrest",
+    "location": "5600 Block of Stockton Blvd",
+    "date": "2025-10-27",
+    "time": "1501",
+    "text": "Officers responded to reports of a burglary at a vacant business. Responding officers detained two suspects. Through the investigation, officers determined the suspects caused approximately $100,000 worth of damage to the building. The suspects were arrested for related charges."
   }
 ]
