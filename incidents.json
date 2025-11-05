@@ -21904,5 +21904,32 @@
     "date": "2025-11-01",
     "time": "0023",
     "text": "Officers responded to the area for reports of a shooting. Responding officers located two victims, each with at least one gunshot wound. Officers responded to an additional call in the 3200 block of Arena Blvd, regarding another victim from the initial shooting scene who sustained at least one gunshot wound. An additional call from an area hospital advised of a walk-in victim with at least one gunshot wound. The adult victims are expected to survive their injuries. A report was generated, and the investigation is ongoing."
+  },
+  {
+    "cmd": "Central Command",
+    "id": "25-287070",
+    "code": "Subject Stop - Arrest",
+    "location": "400 Block K St",
+    "date": "2025-11-02",
+    "time": "0058",
+    "text": "Officers conducted a subject stop of a female suspect drinking alcohol in public. While attempting to stop the suspect, a male suspect attempted to remove the female suspect from the officer’s custody. The male subject became resistive with officers but was eventually detained. The female suspect was cited for the alcohol, and the male suspect was arrested for related charges. "
+  },
+  {
+    "cmd": "Central Command",
+    "id": "25-287127",
+    "code": "Shooting - Investigation",
+    "location": "Kayak Alley & 8th St",
+    "date": "2025-11-02",
+    "time": "0105",
+    "text": "Officers responded to the area for a report of a shooting. Responding officers located a male adult victim with at least one gunshot wound. The victim was transported to an area hospital for non-life-threatening injuries. A report was generated, and an investigation is ongoing. "
+  },
+  {
+    "cmd": "North Command",
+    "id": "25-287538",
+    "code": "Robbery-Arrest",
+    "location": "2300 Block Northview Dr",
+    "date": "2025-11-02",
+    "time": "1450",
+    "text": "Officers responded to a report of a robbery involving a possible firearm. Through their investigation, officers were able to locate the suspect in an area he was known to be in. Officers detained the suspect and located property belonging to the robbery victim as well as a BB gun. "
   }
 ]
