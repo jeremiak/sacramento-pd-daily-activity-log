@@ -21976,5 +21976,32 @@
     "date": "2025-11-05",
     "time": "1745",
     "text": "Officers responded to reports of a robbery by threats. Responding officers located the suspect nearby and detained him. After a thorough investigation, the suspect was arrested for related charges."
+  },
+  {
+    "cmd": "South Command",
+    "id": "25-291167",
+    "code": "Brandishing - Arrest",
+    "location": "6100 Block of Mack Road",
+    "date": "2025-11-06",
+    "time": "1450",
+    "text": "Officers responded to reports of a male brandishing a firearm at a victim. Officers conducted follow up and were able to locate the 14 year old suspect, who was arrested for brandishing related charges. The suspect was booked into Juvenile Hall. "
+  },
+  {
+    "cmd": "North Command",
+    "id": "25-291207",
+    "code": "Traffic Stop - Drug and Firearm Arrest",
+    "location": "Rio Linda Blvd and Lampasas Ave",
+    "date": "2025-11-06",
+    "time": "1538",
+    "text": "Officers from the North Area Problem Oriented Policing team (NPOP) conducted a traffic stop in the area. Officers found one of the occupants of the vehicle to be in possession of illegal narcotics and an illegally possessed firearm. The suspect was arrested on related charges. "
+  },
+  {
+    "cmd": "North Command",
+    "id": "25-291469",
+    "code": "Robbery - Arrest",
+    "location": "1400 Block of South Ave",
+    "date": "2025-11-06",
+    "time": "2026",
+    "text": "Officers responded to reports of a robbery with a knife. Responding Officers located the female juvenile suspect nearby and detained her. After a thorough investigation, the suspect was arrested and transported to Juvenile Hall for related charges. "
   }
 ]
