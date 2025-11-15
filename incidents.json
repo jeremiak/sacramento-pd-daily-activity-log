@@ -22057,5 +22057,32 @@
     "date": "2025-11-10",
     "time": "1346",
     "text": "Officers responded to a report of a stolen classic car that was observed in the area. Officers quickly converged on the area and located the stolen vehicle as well as the suspects standing around it. Through their investigation, officers were able to determine the suspect of the stolen vehicle. The suspect was arrested for related charges."
+  },
+  {
+    "cmd": "North Command",
+    "id": "25-296196",
+    "code": "Assault-Arrest",
+    "location": "2300 Block Northview Dr",
+    "date": "2025-11-11",
+    "time": "2109",
+    "text": "Officers responded to a report of a domestic violence related assault. Responding officers located the victim who sustained non-life-threatening injuries. Officers located the suspect as well as handgun magazines, ammunition, and illegal narcotics. The suspect was safely detained and arrested on related charges. "
+  },
+  {
+    "cmd": "East Command",
+    "id": "25-296344",
+    "code": "Subject Stop - Arrest",
+    "location": "Folsom Blvd & Jackson Rd",
+    "date": "2025-11-12",
+    "time": "0236",
+    "text": "Officers conducted a bike enforcement stop. As officers were detaining the suspect, the suspect attempted to flee from Officers. The suspect was detained and found to be in possession of an illegally possessed firearm. The suspect was arrested on related charges. "
+  },
+  {
+    "cmd": "North Command",
+    "id": "25-296707",
+    "code": "Assault - Arrest",
+    "location": "Longview Dr & Watt Ave",
+    "date": "2025-11-12",
+    "time": "1201",
+    "text": "Officers responded regarding a subject that had been stabbed. Responding officers located a victim who sustained non-life-threatening injuries and was transported to an area hospital. After a thorough investigation, the suspect was located nearby and arrested for related charges."
   }
 ]
