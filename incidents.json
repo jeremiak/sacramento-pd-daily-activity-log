@@ -22084,5 +22084,32 @@
     "date": "2025-11-12",
     "time": "1201",
     "text": "Officers responded regarding a subject that had been stabbed. Responding officers located a victim who sustained non-life-threatening injuries and was transported to an area hospital. After a thorough investigation, the suspect was located nearby and arrested for related charges."
+  },
+  {
+    "cmd": "East Command",
+    "id": "25-298175",
+    "code": "Stolen Vehicle - Arrest",
+    "location": "Elvas Ave & Folsom Blvd",
+    "date": "2025-11-14",
+    "time": "0144",
+    "text": "Officers located a stolen vehicle with the suspect asleep inside of it. The suspect was safely detained and arrested for related charges."
+  },
+  {
+    "cmd": "Central Command",
+    "id": "25-298704",
+    "code": "Robbery - Arrest",
+    "location": "600 Block of David J Stern Walk",
+    "date": "2025-11-14",
+    "time": "1550",
+    "text": "Officers responded to reports of robbery by force of a person. Responding officers located the 17-year-old suspect, who was detained and booked into Juvenile hall on robbery related charges."
+  },
+  {
+    "cmd": "North Command",
+    "id": "25-298726",
+    "code": "Pursuit - Arrest",
+    "location": "El Camino Ave / Business 80",
+    "date": "2025-11-14",
+    "time": "1614",
+    "text": "Officers attempted to stop a vehicle for reckless driving. The driver failed to yield to officers and led them on pursuit. The suspect collided into a fence and was taken into custody. The suspect was booked on related charges."
   }
 ]
