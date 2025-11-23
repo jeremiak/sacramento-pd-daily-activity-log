@@ -22147,5 +22147,41 @@
     "date": "2025-11-19",
     "time": "2113",
     "text": "Officers responded for reports of a vehicle vs. pedestrian. Officers located a pedestrian who had been struck by a vehicle. The pedestrian was declared deceased on scene and the driver of the involved vehicle remained on scene. DUI is not believed to be a factor in the collision. Detectives from the Major Collision Investigation Unit and Crime Scene Investigators arrived and took over the investigation. "
+  },
+  {
+    "cmd": "North Command",
+    "id": "25-303510",
+    "code": "Pursuit - Arrest",
+    "location": "2400 Block of Del Paso Blvd",
+    "date": "2025-11-20",
+    "time": "0037",
+    "text": "Officers attempted to conduct an enforcement stop on a vehicle. The vehicle fled from officers and a pursuit ensued. The suspect vehicle eventually became disabled and officers detained the suspect. The suspect was arrested on related charges. "
+  },
+  {
+    "cmd": "North Command",
+    "id": "25-303565",
+    "code": "Burglary - Arrest",
+    "location": "2800 Block of Norwood Ave",
+    "date": "2025-11-20",
+    "time": "0356",
+    "text": "Officers responded to an alarm activation. Responding officers observed a suspect actively breaking into the business. The suspect was detained and arrested for related charges. "
+  },
+  {
+    "cmd": "North Command",
+    "id": "25-304016",
+    "code": "Stolen Vehicle - Pursuit Arrest",
+    "location": "3400 Block of Paseo Nuevo St",
+    "date": "2025-11-20",
+    "time": "1527",
+    "text": "Officers responded to reports of a stolen vehicle. When officers attempted to stop the vehicle, the driver failed to yield and led officers on a pursuit. The suspect fled from the vehicle on foot, but was detained and arrested for related charges."
+  },
+  {
+    "cmd": "Central Command",
+    "id": "25-304192",
+    "code": "Robbery - Arrest",
+    "location": "100 Block of K St",
+    "date": "2025-11-20",
+    "time": "1859",
+    "text": "Officers responded to reports of a robbery from a business by force. Responding officers located the juvenile suspect nearby. The suspect was arrested and booked into Juvenile Hall on related charges."
   }
 ]
