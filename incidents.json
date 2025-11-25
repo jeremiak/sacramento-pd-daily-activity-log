@@ -22192,5 +22192,23 @@
     "date": "2025-11-21",
     "time": "1921",
     "text": "Officers stopped a vehicle. The driver pulled over and during the investigation, officers located an illegally possessed loaded firearm. The suspect was arrested for related charges."
+  },
+  {
+    "cmd": "South Command",
+    "id": "25-306083",
+    "code": "Pursuit - Arrest",
+    "location": "Saint Lukes Wy / Center Pkwy",
+    "date": "2025-11-22",
+    "time": "1642",
+    "text": "Officers attempted to stop a dirt bike. The rider failed to yield and led officers on a pursuit. The suspect eventually stopped and was arrested for related charges."
+  },
+  {
+    "cmd": "Central Command",
+    "id": "25-306105",
+    "code": "Firearm - Arrest",
+    "location": "1100 Block of Front St",
+    "date": "2025-11-22",
+    "time": "1712",
+    "text": "Officers contacted a subject in a vehicle. During the investigation, officers located an illegally possessed loaded firearm. The suspect was a convicted felon and was arrested for related charges."
   }
 ]
