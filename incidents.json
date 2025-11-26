@@ -22210,5 +22210,23 @@
     "date": "2025-11-22",
     "time": "1712",
     "text": "Officers contacted a subject in a vehicle. During the investigation, officers located an illegally possessed loaded firearm. The suspect was a convicted felon and was arrested for related charges."
+  },
+  {
+    "cmd": "North Command",
+    "id": "25-307001",
+    "code": "Shooting - Investigation",
+    "location": "Amelia Earhart Ave & Samuelson Way",
+    "date": "2025-11-23",
+    "time": "1822",
+    "text": "Officers responded to a report of sounds of a possible shooting. Responding officers located evidence of a shooting, but no reported property damage or injuries while officers were on scene. Officers conducted an investigation, and a report was generated."
+  },
+  {
+    "cmd": "Central Command",
+    "id": "25-307038",
+    "code": "Foot Pursuit - Firearm Arrest",
+    "location": "400 Block K St",
+    "date": "2025-11-23",
+    "time": "1900",
+    "text": "Officers responded to reports of juveniles fighting with one juvenile reportedly brandishing a firearm. Responding officers located the suspect who fled on foot. Officers were able to safely detain the suspect who was found to have a loaded, stolen firearm. The suspect was arrested for related charges."
   }
 ]
