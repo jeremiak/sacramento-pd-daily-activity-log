@@ -22228,5 +22228,32 @@
     "date": "2025-11-23",
     "time": "1900",
     "text": "Officers responded to reports of juveniles fighting with one juvenile reportedly brandishing a firearm. Responding officers located the suspect who fled on foot. Officers were able to safely detain the suspect who was found to have a loaded, stolen firearm. The suspect was arrested for related charges."
+  },
+  {
+    "cmd": "East Command",
+    "id": "25-307471",
+    "code": "Disturbance-Arrest",
+    "location": "I St & Alhambra Blvd",
+    "date": "2025-11-24",
+    "time": "1014",
+    "text": "Officers responded to a report of a subject swinging a machete. Responding officers detained the suspect who was determined to be on parole. Drug paraphernalia was also located in the suspect’s possession. The suspect was also determined to be the suspect in a recent robbery. The suspect was arrested for related charges."
+  },
+  {
+    "cmd": "South Command",
+    "id": "25-307638",
+    "code": "Disturbance-Arrest",
+    "location": "8100 Block Cosumnes River Blvd",
+    "date": "2025-11-24",
+    "time": "1344",
+    "text": "Officers responded to a report of an intoxicated subject inside of a business, refusing to leave. Responding officers attempted to detain the suspect who became uncooperative. The suspect was eventually safely detained and arrested for related charges."
+  },
+  {
+    "cmd": "South Command",
+    "id": "25-307656",
+    "code": "Subject Stop-Arrest",
+    "location": "4600 Block Freeport Blvd",
+    "date": "2025-11-24",
+    "time": "1408",
+    "text": "Officers were investigating a burglary when they contacted two subjects. One suspect attempted to flee on foot from officers, but was quickly apprehended. The suspect was found to have narcotics in their possession. The suspect was arrested for related charges."
   }
 ]
