@@ -22255,5 +22255,14 @@
     "date": "2025-11-24",
     "time": "1408",
     "text": "Officers were investigating a burglary when they contacted two subjects. One suspect attempted to flee on foot from officers, but was quickly apprehended. The suspect was found to have narcotics in their possession. The suspect was arrested for related charges."
+  },
+  {
+    "cmd": "East Command",
+    "id": "25-308184",
+    "code": "Vehicle Collision Investigation",
+    "location": "Stockton Boulevard & 47th Avenue",
+    "date": "2025-11-25",
+    "time": "0543",
+    "text": "Officers responded to a single vehicle collision involving a cement truck. No injuries were reported. Traffic was impacted in the area. A collision report was generated."
   }
 ]
