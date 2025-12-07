@@ -22345,5 +22345,23 @@
     "date": "2025-12-03",
     "time": "1205",
     "text": "A Park Ranger unit located an occupied stolen vehicle. The driver attempted to flee on foot from the vehicle but was detained. The suspect was arrested for related charges."
+  },
+  {
+    "cmd": "South Command",
+    "id": "25-315847",
+    "code": "Warrant - Arrest",
+    "location": "Freeport Blvd / 23rd Ave",
+    "date": "2025-12-04",
+    "time": "1755",
+    "text": "Officers attempted to stop a person on a bicycle. That person attempted to flee from officers but eventually surrendered and was taken into custody. The suspect was found to have a felony warrant and was arrested."
+  },
+  {
+    "cmd": "North Command",
+    "id": "25-315848",
+    "code": "Firearm and Narcotic Sales - Arrest",
+    "location": "4000 Block of Norwood Ave",
+    "date": "2025-12-04",
+    "time": "1755",
+    "text": "Officers stopped a vehicle. During a probation search, officers located a loaded illegally possessed handgun and narcotics. The driver was a convicted felon and was arrested for related charges. The passenger was arrested for narcotic sales related charges."
   }
 ]
