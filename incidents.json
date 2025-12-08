@@ -22363,5 +22363,23 @@
     "date": "2025-12-04",
     "time": "1755",
     "text": "Officers stopped a vehicle. During a probation search, officers located a loaded illegally possessed handgun and narcotics. The driver was a convicted felon and was arrested for related charges. The passenger was arrested for narcotic sales related charges."
+  },
+  {
+    "cmd": "North Command",
+    "id": "25-316700",
+    "code": "Pursuit-Arrest",
+    "location": "Truxel Road & San Juan Road",
+    "date": "2025-12-05",
+    "time": "1621",
+    "text": "Officers attempted to conduct a traffic stop. The vehicle failed to yield and a brief pursuit ensued. The driver eventually pulled over and was detained with his passenger, by officers. The passenger was arrested for an outstanding felony warrant, and the driver was cited for pursuit related charges."
+  },
+  {
+    "cmd": "South Command",
+    "id": "25-317017",
+    "code": "24th St & Fruitridge Rd",
+    "location": "Pursuit-Arrest",
+    "date": "2025-12-05",
+    "time": "2204",
+    "text": "Officers attempted to conduct a traffic stop. The vehicle failed to yield and a pursuit ensued. The driver was eventually safely detained and cited for pursuit related charges."
   }
 ]
