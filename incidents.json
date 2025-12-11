@@ -22408,5 +22408,23 @@
     "date": "2025-12-07",
     "time": "0929",
     "text": "Officers responded to a report of a suspect attempting to break into an office. Responded officers located the suspect who was physically uncooperative. The suspect was eventually safely detained and arrested for burglary and assault related charges.  "
+  },
+  {
+    "cmd": "East Command",
+    "id": "25-318949",
+    "code": "Suspicious Person",
+    "location": "5600 block Stockton Blvd",
+    "date": "2025-12-08",
+    "time": "0847",
+    "text": "Officers conducted a stop of a suspicious person. The suspect attempted to flee from officers on foot but was quickly detained. Officers located narcotics that the suspect attempted to discard. The suspect was arrested for related charges."
+  },
+  {
+    "cmd": "North Command",
+    "id": "25-319184",
+    "code": "Foot Pursuit-Arrest",
+    "location": "700 Block Northfield Dr",
+    "date": "2025-12-08",
+    "time": "1401",
+    "text": "Officers responded to a report of vandalism. While on scene, responding officers observed an individual assault the victim of the vandalism. Officers attempted to detain the suspect who then fled on foot. Officers were able to quickly and safely apprehend the suspect. The suspect was transported to Juvenile Hall for related charges."
   }
 ]
