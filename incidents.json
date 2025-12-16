@@ -22453,5 +22453,32 @@
     "date": "2025-12-12",
     "time": "2323",
     "text": "Officers attempted to stop a cyclist, who fled from officers. Officers were able to detain the suspect, who was found to have an outstanding warrant. The suspect was arrested for the warrant and related charges."
+  },
+  {
+    "cmd": "North Command",
+    "id": "25-323484",
+    "code": "Shooting - Investigation",
+    "location": "3000 Block of Marysville Blvd",
+    "date": "2025-12-13",
+    "time": "0153",
+    "text": "Officers responded to reports of a shooting. Responding officers located evidence of a shooting. No injuries were reported. Officers conducted an investigation and a report was generated."
+  },
+  {
+    "cmd": "Central Command",
+    "id": "25-324069",
+    "code": "Proactive Narcotics and Firearm Arrest",
+    "location": "N. B St / Dos Rios St",
+    "date": "2025-12-13",
+    "time": "1838",
+    "text": "Officers contacted a person known from a recent drug sales arrest. During the investigation, officers located multiple bindles of narcotics and an illegally possessed loaded firearm. The suspect was arrested on related charges."
+  },
+  {
+    "cmd": "East Command",
+    "id": "25-324252",
+    "code": "Bicycle Stop - Arrest",
+    "location": "43rd St / 4th Ave",
+    "date": "2025-12-13",
+    "time": "2309",
+    "text": "Officers conducted bicycle stop on two individuals. Both were found to have felony warrants and were arrested."
   }
 ]
