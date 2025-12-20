@@ -22498,5 +22498,50 @@
     "date": "2025-12-15",
     "time": "0552",
     "text": "Officers responded to a room and board for reports of a stabbing. Two roommates were stabbed by the suspect. Both sustained non-life-threatening injuries. The suspect was arrested for felony assault."
+  },
+  {
+    "cmd": "Central Command",
+    "id": "25-326013",
+    "code": "Burglary - Arrest",
+    "location": "2300 Block of D St",
+    "date": "2025-12-16",
+    "time": "0401",
+    "text": "Officers responded to reports of a residential burglary. Responding officers arrested the suspect, who was booked on burglary-related charges."
+  },
+  {
+    "cmd": "East Command",
+    "id": "25-326074",
+    "code": "Robbery - Arrest",
+    "location": "1000 Block of Alhambra Blvd",
+    "date": "2025-12-16",
+    "time": "0718",
+    "text": "Officers responded to reports of a robbery of a business by force. Responding officers located and detained the suspect a few blocks away. The suspect was arrested on robbery-related charges."
+  },
+  {
+    "cmd": "North Command",
+    "id": "25-326847",
+    "code": "Shooting - Arrest",
+    "location": "1300 Block of Harris Ave",
+    "date": "2025-12-16",
+    "time": "2301",
+    "text": "Officers responded to reports of a shooting. Responding officers located the victim on scene with a non-life-threatening gunshot wound. The suspect, who was the victim’s neighbor, was detained on scene. A handgun was located and the suspect was prohibited from possessing firearms. The suspect was arrested for the shooting and possession of an illegal firearm charges."
+  },
+  {
+    "cmd": "North Command",
+    "id": "25-326890",
+    "code": "Burglary - Arrest",
+    "location": "3700 Block of E. Commerce Wy",
+    "date": "2025-12-17",
+    "time": "0103",
+    "text": "Officers responded to reports of a burglary. Responding officers located the suspect vehicle leaving the area and conducted a traffic stop. Two suspects were detained and arrested for burglary related charges after a thorough investigation."
+  },
+  {
+    "cmd": "North Command",
+    "id": "25-327622",
+    "code": "Fatal Collision - Investigation",
+    "location": "Natomas Blvd / N. Bend Dr",
+    "date": "2025-12-17",
+    "time": "1947",
+    "text": "Officers responded to a solo motorcycle collision. The rider was pronounced deceased on scene. Due to the circumstances, major collision investigators and crime scene investigators responded out to take over the investigation."
   }
 ]
