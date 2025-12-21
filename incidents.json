@@ -22543,5 +22543,23 @@
     "date": "2025-12-17",
     "time": "1947",
     "text": "Officers responded to a solo motorcycle collision. The rider was pronounced deceased on scene. Due to the circumstances, major collision investigators and crime scene investigators responded out to take over the investigation."
+  },
+  {
+    "cmd": "East Command",
+    "id": "25-328139",
+    "code": "Stolen Vehicle - Arrest",
+    "location": "14th Ave / Power Inn Rd",
+    "date": "2025-12-18",
+    "time": "1118",
+    "text": "Officers located an occupied stolen vehicle. The driver was detained and arrested for related charges."
+  },
+  {
+    "cmd": "South Command",
+    "id": "25-328455",
+    "code": "Stolen Vehicle - Arrest",
+    "location": "Florin Rd / 24th St",
+    "date": "2025-12-18",
+    "time": "1747",
+    "text": "Officers located an occupied stolen vehicle. The driver was detained and arrested for related charges."
   }
 ]
