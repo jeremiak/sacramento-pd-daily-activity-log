@@ -22570,5 +22570,23 @@
     "date": "2025-12-19",
     "time": "1253",
     "text": "Officers responded to reports of a suspect pointing a firearm at a victim over a parking space dispute. Responding officers located and detained the suspect. The firearm was recovered and the suspect was arrested for related charges."
+  },
+  {
+    "cmd": "Central Command",
+    "id": "25-329685",
+    "code": "Burglary - Arrest",
+    "location": "500 Block of 16th St",
+    "date": "2025-12-20",
+    "time": "0708",
+    "text": "Officers responded to reports of glass-break notification. Responding officers observed a broken window and during a search of the residence, the suspect was detained with the assistance of a police K-9. The suspect was arrested for related charges."
+  },
+  {
+    "cmd": "South Command",
+    "id": "25-329958",
+    "code": "Stolen Vehicle - Arrest",
+    "location": "4500 Block of Mack Rd",
+    "date": "2025-12-20",
+    "time": "1410",
+    "text": "Officers located an occupied stolen vehicle. The driver was detained and arrested for related charges."
   }
 ]
