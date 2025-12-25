@@ -22597,5 +22597,23 @@
     "date": "2025-12-21",
     "time": "1821",
     "text": "Officers conducted a proactive stop of a group of subjects in the area. On of the subjects became resistive but was eventually detained. The suspect was arrested for their outstanding felony warrant and related charges."
+  },
+  {
+    "cmd": "Central Command",
+    "id": "25-331674",
+    "code": "Collision-Investigation",
+    "location": "29th St & P St",
+    "date": "2025-12-22",
+    "time": "1412",
+    "text": "Officers responded to reports of a solo FedEx truck that collided with a utility pole. No injuries were reported. The damage from the collision caused an extended power outage in the area. Officers conducted an investigation, and a report was generated. "
+  },
+  {
+    "cmd": "South Command",
+    "id": "25-331952",
+    "code": "Theft Investigation - Arrest",
+    "location": "8200 Block Delta Shores Cir",
+    "date": "2025-12-22",
+    "time": "1855",
+    "text": "Officers responded to a report of individuals inside a business who had previously stolen merchandise from the store. Responding officers located the individuals and learned that additional suspects involved in prior thefts or active theft were also inside the business. Officers detained the suspects, and they were trespassed from the location. Two suspects were arrested for their outstanding theft-related warrants."
   }
 ]
