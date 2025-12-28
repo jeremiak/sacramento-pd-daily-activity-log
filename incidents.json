@@ -22624,5 +22624,23 @@
     "date": "2025-12-23",
     "time": "1520",
     "text": "Officers responded to reports of a firearm that was brandished. Responding officers quickly located the suspect and illegally possessed firearm. The suspect was arrested for multiple charges."
+  },
+  {
+    "cmd": "North Command",
+    "id": "25-334453",
+    "code": "Theft Investigation - Arrest",
+    "location": "3300 Block Smoke Tree Dr",
+    "date": "2025-12-25",
+    "time": "1727",
+    "text": "Officers responded to reports of suspects breaking into vehicles. Responding officers located two suspects and a vehicle that was tampered with. Both suspects were arrested for related charges and narcotics possession."
+  },
+  {
+    "cmd": "South Command",
+    "id": "25-334488",
+    "code": "Collision Investigation - DUI Arrest",
+    "location": "Bruceville Rd & Timberlake Wy",
+    "date": "2025-12-25",
+    "time": "1831",
+    "text": " Officers responded to a vehicle collision involving a private ambulance and a vehicle. Two parties involved sustained minor injuries. The driver of the vehicle was found to be DUI and after being medically cleared from the hospital was booked at jail for related charges.  "
   }
 ]
