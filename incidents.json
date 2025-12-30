@@ -22651,5 +22651,23 @@
     "date": "2025-12-26",
     "time": "2136",
     "text": "Officers responded to a report of a carjacking. Responding officers located the victim who sustained minor injuries from the incident. Officers conducted an investigation, and a report was generated."
+  },
+  {
+    "cmd": "South Command",
+    "id": "25-335995",
+    "code": "Assault Investigation - Arrest",
+    "location": "7700 Block W Stockton Blvd",
+    "date": "2025-12-27",
+    "time": "1549",
+    "text": "Officers responded to the area to locate a suspect wanted for an assault with a deadly weapon. Officers located the suspect in the area and safely detained him. The suspect was arrested for related charges. "
+  },
+  {
+    "cmd": "North Command",
+    "id": "25-336268",
+    "code": "Traffic Stop - Firearm Arrest",
+    "location": "2300 Block Cantalier St",
+    "date": "2025-12-27",
+    "time": "2234",
+    "text": "Officers conducted a traffic stop of a vehicle. During the stop, officers located an illegally possessed firearm inside of the vehicle. The suspect was arrested for related charges. "
   }
 ]
