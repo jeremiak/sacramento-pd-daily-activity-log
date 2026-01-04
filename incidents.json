@@ -22705,5 +22705,32 @@
     "date": "2025-12-31",
     "time": "2217",
     "text": "Officers responded to reports of a shooting. Responding officers located one victim with at least one non-life-threatening gunshot wound. The victim was transported to an area hospital in stable condition. The suspect fled prior to police arrival. Officers conducted an investigation and a report was generated."
+  },
+  {
+    "cmd": "North Command",
+    "id": "26-000256",
+    "code": "Shooting - Investigation",
+    "location": "50 Block of Ford Rd",
+    "date": "2026-01-01",
+    "time": "0510",
+    "text": "Officers responded to reports of a shooting. Responding officers located evidence of a shooting. No injuries were reported. Officers conducted an investigation and a report was generated."
+  },
+  {
+    "cmd": "North Command",
+    "id": "26-000681",
+    "code": "Pursuit - Firearm Arrest",
+    "location": "Eleanor Ave / Altos Ave",
+    "date": "2026-01-01",
+    "time": "1803",
+    "text": "A motorcycle officer attempted to stop a vehicle. The driver failed to yield and led officers on a pursuit. The vehicle eventually pulled over and the driver was detained. During the investigation, an illegally possessed firearm was located. The suspect was arrested for related charges."
+  },
+  {
+    "cmd": "North Command",
+    "id": "26-000798",
+    "code": "Shooting - Investigation",
+    "location": "4000 Block of Taylor St",
+    "date": "2026-01-01",
+    "time": "1957",
+    "text": "Officers responded to a shooting. Responding officers located a victim with a non-life-threatening gunshot wound. He was transported to an area hospital for treatment. There is no suspect information to release at this time. Officers conducted an investigation and a report was generated."
   }
 ]
