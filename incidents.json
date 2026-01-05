@@ -22732,5 +22732,23 @@
     "date": "2026-01-01",
     "time": "1957",
     "text": "Officers responded to a shooting. Responding officers located a victim with a non-life-threatening gunshot wound. He was transported to an area hospital for treatment. There is no suspect information to release at this time. Officers conducted an investigation and a report was generated."
+  },
+  {
+    "cmd": "South Command",
+    "id": "26-001069",
+    "code": "Stolen Vehicle - Arrest",
+    "location": "Riverside Blvd / Broadway",
+    "date": "2026-01-02",
+    "time": "0504",
+    "text": "Officers located an occupied stolen vehicle. The driver was detained and arrested for related charges."
+  },
+  {
+    "cmd": "South Command",
+    "id": "26-001284",
+    "code": "Stolen Vehicle - Arrest",
+    "location": "Meadowview Rd / Detroit Blvd",
+    "date": "2026-01-02",
+    "time": "1203",
+    "text": "Officers located an occupied stolen vehicle. The driver was detained and arrested for related charges."
   }
 ]
