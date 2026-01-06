@@ -22750,5 +22750,14 @@
     "date": "2026-01-02",
     "time": "1203",
     "text": "Officers located an occupied stolen vehicle. The driver was detained and arrested for related charges."
+  },
+  {
+    "cmd": "Central Command",
+    "id": "26-001972",
+    "code": "Shooting - Investigation",
+    "location": "2nd St / K St",
+    "date": "2026-01-03",
+    "time": "0141",
+    "text": "Officers responded to reports of a shooting. Responding officers located evidence of a shooting. No people were injured as a result of the shooting. Officers conducted an investigation and a report was generated."
   }
 ]
