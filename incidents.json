@@ -22777,5 +22777,41 @@
     "date": "2026-01-05",
     "time": "1424",
     "text": "Officers responded to a report of sounds of shots being fired. Responding officers located a suspect who fired off a firearm in the area. Officers located two illegally possessed firearms. There was no reported injuries or property damage. The suspect was arrested for related charges."
+  },
+  {
+    "cmd": "East Command",
+    "id": "26-004909",
+    "code": "Collision-Investigation",
+    "location": "Fruitridge Rd & 49th St",
+    "date": "2026-01-06",
+    "time": "1940",
+    "text": "Officers responded to reports of a vehicle versus pedestrian vehicle collision. The adult male pedestrian involved was transported to an area hospital where he succumbed to his injuries. Major Collision Investigation Unit detectives and CSI responded to the scene to take over the investigation."
+  },
+  {
+    "cmd": "Central Command",
+    "id": "26-005032",
+    "code": "Traffic Stop - Firearm Arrest",
+    "location": "20th St & P St",
+    "date": "2026-01-06",
+    "time": "2220",
+    "text": "Officers conducted a traffic stop of a vehicle for vehicle code violations. The vehicle was found to be involved in an outside agency investigation. The occupants were detained and during a search of the vehicle, officers located an illegally possessed firearm and drum style magazine. The driver was arrested for related charges. "
+  },
+  {
+    "cmd": "East Command",
+    "id": "26-005286",
+    "code": "Brandishing Investigation - Arrest",
+    "location": "1700 Block 59th St",
+    "date": "2026-01-07",
+    "time": "0917",
+    "text": "Officers responded to reports of a suspect who brandished a knife at a victim. Responding officers located the victim who was uninjured. The suspect was located in the area and arrested for related charges."
+  },
+  {
+    "cmd": "North Command",
+    "id": "26-005350",
+    "code": "Suspicious Vehicle - Firearm and Drug Arrest",
+    "location": "900 Block Eleanor Ave",
+    "date": "2026-01-07",
+    "time": "1021",
+    "text": "Officers contacted a suspicious subject in a vehicle. Officers learned the suspect had an outstanding felony warrant. During a search of the vehicle and suspect, officers located evidence of drug sales and an illegally possessed loaded firearm. The suspect was arrested for related charges."
   }
 ]
