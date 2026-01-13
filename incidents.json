@@ -22831,5 +22831,59 @@
     "date": "2026-01-09",
     "time": "2133",
     "text": "Officers responded to a single vehicle collision into a power pole. Officers provided traffic control until the pole was repaired. Roadways in the area were impacted during the collision. No injuries were reported."
+  },
+  {
+    "cmd": "South Command",
+    "id": "26-007901",
+    "code": "Vehicle Collison Investigation",
+    "location": "Florin Rd & Serenity Dr",
+    "date": "2026-01-10",
+    "time": "0155",
+    "text": "Officers responded to a single vehicle collision where a trailer with a boat on it, detached from the vehicle towing it and collided with a power pole causing significant damage. Officers stood by to provide traffic control. No injuries were reported."
+  },
+  {
+    "cmd": "North Command",
+    "id": "26-008098",
+    "code": "Assault Investigation- Arrest",
+    "location": "Natoma Wy & Roanoke Ave",
+    "date": "2026-01-10",
+    "time": "0950",
+    "text": "Officers responded to reports of an assault involving a shovel. Responding officers contacted the victim who advised they were assaulted with a knife and sustained minor injuries. Officers located the suspect who was arrested for related charges."
+  },
+  {
+    "cmd": "North Command",
+    "id": "26-008228",
+    "code": "Shooting - Firearm Arrest",
+    "location": "700 Block Lampasas Ave",
+    "date": "2026-01-10",
+    "time": "1258",
+    "text": "Officers responded to reports of someone shooting a gun into the air. Responding officers located the suspect. The suspect attempted to flee on foot from officers but was quickly detained. Officers located a firearm with an extended magazine. No injuries were reported. The suspect was arrested for related charges."
+  },
+  {
+    "cmd": "North Command",
+    "id": "26-008322",
+    "code": "Pursuit-Arrest",
+    "location": "Del Paso Blvd & Glenrose Ave",
+    "date": "2026-01-10",
+    "time": "1513",
+    "text": "Officers attempted to conduct a traffic stop of a vehicle for a vehicle code violation. The vehicle did not stop and a pursuit ensued. A short time later, the vehicle was involved in a single vehicle collision into a ditch. Both suspects in the vehicle fled on foot but were quickly detained. The vehicle was determined to be stolen. Officers also located a discarded loaded extended magazine. The passenger of the vehicle was found to have an outstanding felony warrant. Both suspects were arrested on related charges."
+  },
+  {
+    "cmd": "North Command",
+    "id": "26-008363",
+    "code": "Suspicious Circumstances - Arrest",
+    "location": "200 Block Wilson Ave",
+    "date": "2026-01-10",
+    "time": "1558",
+    "text": "Officers responded to reports of suspicious circumstances of subjects wearing ski masks in a vacant lot working on a U-Haul. Responding officers located the suspect who fled on foot but were detained a short distance away. Officers located a loaded firearm, burglary related tools, and evidence the U-Haul was tampered with. The two suspects were arrested for related charges."
+  },
+  {
+    "cmd": "South Command",
+    "id": "26-008511",
+    "code": "Traffic Stop - Arrest",
+    "location": "24th St & 33rd Ave",
+    "date": "2026-01-10",
+    "time": "1815",
+    "text": "Officers attempted to conduct a traffic stop of a vehicle for a vehicle code violation. The vehicle did not stop and a pursuit ensued. A short time later, the vehicle was abandoned by the suspect. With the assistance of an air unit, the suspect was located and safely detained by officers. The suspect was arrested for his outstanding felony warrant and related charges."
   }
 ]
