@@ -22921,5 +22921,23 @@
     "date": "2026-01-14",
     "time": "0039",
     "text": "Officers located an occupied stolen vehicle and attempted to stop it. The driver failed to yield and led officers on pursuit. The suspect eventually yielded and was taken into custody for stolen vehicle and pursuit charges. "
+  },
+  {
+    "cmd": "Central Command",
+    "id": "26-012612",
+    "code": "Collision - DUI/Firearm Arrest",
+    "location": "600 Block of 9th St",
+    "date": "2026-01-15",
+    "time": "0821",
+    "text": "Officers responded to reports of a man slumped over the wheel after crashing into a mailbox and a guard rail. During the investigation, officers found an illegally possessed loaded firearm. The suspect was a convicted felon and was arrested for DUI and firearm related charges."
+  },
+  {
+    "cmd": "North Command",
+    "id": "26-013248",
+    "code": "Pursuit - Firearm/Narcotics Arrest",
+    "location": "Shelden St / Ivy St",
+    "date": "2026-01-15",
+    "time": "2059",
+    "text": "Officers attempted to stop a vehicle for a vehicle code violation. The driver failed to yield and led officers on a pursuit. The driver and passenger fled from the vehicle on foot. The driver was quicky detained and the passenger was eventually detained with the assistance of our UAS. Two handguns were located and a large quantity of narcotics. Both suspects were arrested on related charges."
   }
 ]
