@@ -22948,5 +22948,23 @@
     "date": "2026-01-16",
     "time": "0740",
     "text": "Officers responded to reports of a man throwing rocks at passing vehicles. When officers arrived, the suspect threw a rock and the police car. The suspect was detained and arrested for related charges."
+  },
+  {
+    "cmd": "South Command",
+    "id": "26-014382",
+    "code": "Shooting - Investigation",
+    "location": "5000 Block of Scarborough Wy",
+    "date": "2026-01-17",
+    "time": "0117",
+    "text": "Officers responded to reports of a shooting. Responding officers located evidence of a shooting. No injuries were reported. Officers conducted an investigation and a report was generated."
+  },
+  {
+    "cmd": "South Command",
+    "id": "26-015088",
+    "code": "Suspicious Circumstance - Investigation",
+    "location": "8100 Block of Delta Shores Cir",
+    "date": "2026-01-17",
+    "time": "2119",
+    "text": "Officers responded to reports of sounds of shots fired. Responding officers did not locate any evidence of a shooting and were unable to confirm a shooting actually occurred. Officers checked the area and no injured persons were located."
   }
 ]
