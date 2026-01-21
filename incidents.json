@@ -22966,5 +22966,23 @@
     "date": "2026-01-17",
     "time": "2119",
     "text": "Officers responded to reports of sounds of shots fired. Responding officers did not locate any evidence of a shooting and were unable to confirm a shooting actually occurred. Officers checked the area and no injured persons were located."
+  },
+  {
+    "cmd": "North Command",
+    "id": "26-015735",
+    "code": "Shooting Investigation - Firearm Arrest",
+    "location": "3100 Block Rio Linda Blvd",
+    "date": "2026-01-18",
+    "time": "1647",
+    "text": "Officers responded to reports of sounds of shots being fired. Responding officers located two subjects in the area. Through a thorough investigation officers located an illegally possessed, loaded handgun on one of the suspects. The suspect was arrested for related charges."
+  },
+  {
+    "cmd": "North Command",
+    "id": "26-015862",
+    "code": "Traffic Stop - Firearm Arrest",
+    "location": "Brewerton Dr & Truxel Rd",
+    "date": "2026-01-18",
+    "time": "1930",
+    "text": "Officers conducted a traffic stop of a vehicle for a vehicle code violation. During a probationary search of the vehicle, officers located two illegally possessed firearms with extended magazines. The suspects were arrested for related charges."
   }
 ]
