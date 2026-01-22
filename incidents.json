@@ -22984,5 +22984,23 @@
     "date": "2026-01-18",
     "time": "1930",
     "text": "Officers conducted a traffic stop of a vehicle for a vehicle code violation. During a probationary search of the vehicle, officers located two illegally possessed firearms with extended magazines. The suspects were arrested for related charges."
+  },
+  {
+    "cmd": "North Command",
+    "id": "26-016082",
+    "code": "Traffic Stop - Arrest",
+    "location": "Garden Hwy & Natomas Park Dr",
+    "date": "2026-01-19",
+    "time": "0131",
+    "text": "Officers conducted a traffic stop of a vehicle for vehicle code violation. The passenger of the vehicle fled on foot but was quickly detained. The passenger was arrested for related charges, the vehicle was towed, and the driver was issued a citation. "
+  },
+  {
+    "cmd": "South Command",
+    "id": "26-016257",
+    "code": "Disturbance - Firearm Arrest",
+    "location": "1400 Block 68th Ave",
+    "date": "2026-01-19",
+    "time": "0937",
+    "text": "Officers responded to a report of a subject who armed himself with a firearm after a dispute. Responding officers safely called the suspect out of his residence and located the firearm that was found to be stolen. The suspect was booked for related charges."
   }
 ]
