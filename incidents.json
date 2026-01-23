@@ -23002,5 +23002,32 @@
     "date": "2026-01-19",
     "time": "0937",
     "text": "Officers responded to a report of a subject who armed himself with a firearm after a dispute. Responding officers safely called the suspect out of his residence and located the firearm that was found to be stolen. The suspect was booked for related charges."
+  },
+  {
+    "cmd": "South Command",
+    "id": "26-016850",
+    "code": "Theft-Arrest",
+    "location": "1600 Block Broadway",
+    "date": "2026-01-20",
+    "time": "0147",
+    "text": "Officers responded to reports of a stolen bicycle. Officers located the bike and the suspect who stole it. The suspect was arrested for related charges."
+  },
+  {
+    "cmd": "North Command",
+    "id": "26-016880",
+    "code": "Suspicious Circumstances",
+    "location": "600 Block Santiago Ave",
+    "date": "2026-01-20",
+    "time": "0409",
+    "text": "Officers responded to reports of a subject armed with a knife, putting it to their neck. Responding officers located the subject who was not compliant. Officers attempted to get the subject to put the knife down and peacefully surrender. The subject did not and eventually lit a trailer on fire. Eventually, the suspect was safely taken into custody after less lethal munitions were deployed. No other injuries were reported. "
+  },
+  {
+    "cmd": "South Command",
+    "id": "26-017677",
+    "code": "Subject Stop - Arrest",
+    "location": "Franklin Blvd & 10th Ave",
+    "date": "2026-01-20",
+    "time": "2314",
+    "text": "Officers conducted a stop of a subject on a bicycle. The subject was determined to be a suspect in an earlier robbery and also had outstanding warrants. Officers arrested the suspect for related charges.  "
   }
 ]
