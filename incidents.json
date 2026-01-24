@@ -23029,5 +23029,23 @@
     "date": "2026-01-20",
     "time": "2314",
     "text": "Officers conducted a stop of a subject on a bicycle. The subject was determined to be a suspect in an earlier robbery and also had outstanding warrants. Officers arrested the suspect for related charges.  "
+  },
+  {
+    "cmd": "South Command",
+    "id": "26-018472",
+    "code": "Shooting - Firearm Arrest",
+    "location": "6800 Cherrywood Cir",
+    "date": "2026-01-21",
+    "time": "2002",
+    "text": "Officers responded to reports of a subject in the street firing a handgun. Responding officers quickly located the suspect who was initially uncooperative and fled from officers on foot prior to surrendering. Officers located a handgun with an extended magazine. Officers located evidence of the shooting, but no injuries were reported. The suspect, a convicted felon, was taken into custody for related charges."
+  },
+  {
+    "cmd": "South Command",
+    "id": "26-018482",
+    "code": "Stabbing - Investigation",
+    "location": "4900 Block Mack Rd",
+    "date": "2026-01-21",
+    "time": "2006",
+    "text": "Officers responded to reports of a stabbing. The adult victim was transported to an area hospital via private party and is currently in stable condition. Officers conducted an investigation and a report was generated."
   }
 ]
