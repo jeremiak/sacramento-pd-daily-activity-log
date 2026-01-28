@@ -23074,5 +23074,32 @@
     "date": "2026-01-24",
     "time": "1725",
     "text": "Officers responded to a single vehicle collision. The vehicle struck a telephone pole, which caused traffic diversion in the area. The driver displayed objective signs of intoxication and was subsequently arrested for DUI related charges."
+  },
+  {
+    "cmd": "North Command",
+    "id": "26-021354",
+    "code": "Shooting - Investigation",
+    "location": "2000 Block of W. El Camino Ave",
+    "date": "2026-01-25",
+    "time": "0242",
+    "text": "Officers responded to reports of a shooting. Responding officers located evidence of a shooting. No injuries were reported. Officers conducted an investigation and a report was generated."
+  },
+  {
+    "cmd": "East Command",
+    "id": "26-021782",
+    "code": "Assault - Arrest",
+    "location": "5800 25th Ave",
+    "date": "2026-01-25",
+    "time": "1736",
+    "text": "Officers responded to reports of an assault involving a baseball bat. Responding officers located the suspect on scene. The suspect was arrested for related charges."
+  },
+  {
+    "cmd": "North Command",
+    "id": "26-021789",
+    "code": "Robbery-Arrest",
+    "location": "1900 Block Arden Wy",
+    "date": "2026-01-25",
+    "time": "1743",
+    "text": "Officers in the area located the suspect in a robbery at a business that occurred earlier in the day. The suspect was detained and arrested for related charges."
   }
 ]
