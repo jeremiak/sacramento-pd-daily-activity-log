@@ -23101,5 +23101,32 @@
     "date": "2026-01-25",
     "time": "1743",
     "text": "Officers in the area located the suspect in a robbery at a business that occurred earlier in the day. The suspect was detained and arrested for related charges."
+  },
+  {
+    "cmd": "South Command",
+    "id": "26-022042",
+    "code": "Stolen Vehicle - Arrest",
+    "location": "Meadowview Rd & Amherst St",
+    "date": "2026-01-26",
+    "time": "0026",
+    "text": " Officers located a stolen vehicle in the area. Officers safely detained the driver. The driver was arrested for related charges."
+  },
+  {
+    "cmd": "South Command",
+    "id": "26-022096",
+    "code": "Traffic Stop - Firearm Arrest",
+    "location": "Fruitridge Rd & Carmela Way",
+    "date": "2026-01-26",
+    "time": "0208",
+    "text": "Officers attempted to conduct a traffic stop of an electric bicycle. The bike did not yield and officers briefly pursued it, until it stopped. The suspect was safely detained by officers. Officers located an illegally possessed firearm on the suspect. The suspect was arrested for related charges."
+  },
+  {
+    "cmd": "North Command",
+    "id": "26-022841",
+    "code": "Firearm - Arrest",
+    "location": "South Ave / George Spillman St",
+    "date": "2026-01-26",
+    "time": "2216",
+    "text": "Officers attempted to stop a vehicle for reckless driving. As the officers approached the vehicle, the occupants were getting out of the car. The driver was detained and during the investigation, officers located an illegally possessed loaded handgun inside of the vehicle. The driver was arrested for related charges."
   }
 ]
