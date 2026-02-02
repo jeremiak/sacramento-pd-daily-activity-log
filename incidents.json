@@ -23146,5 +23146,23 @@
     "date": "2026-01-28",
     "time": "1016",
     "text": "Officers contacted a known suspect who set multiple trash can fires in the Old Sacramento area. The suspect also caused damage to a building in the aera. The suspect was detained and arrested for vandalism related charges."
+  },
+  {
+    "cmd": "Central Command",
+    "id": "26-025370",
+    "code": "Traffic Stop - Firearm Arrest",
+    "location": "700 Block of 29th St",
+    "date": "2026-01-30",
+    "time": "0053",
+    "text": "Officers stopped a vehicle for a vehicle code violation. During the investigation, one occupant was found to be on probation. During a probation search, officers located two illegally possessed handguns inside of the vehicle. The probationer was arrested on numerous gun charges, while a juvenile inside of the vehicle was arrested for an outstanding felony warrant."
+  },
+  {
+    "cmd": "South Command",
+    "id": "26-026284",
+    "code": "Foot Pursuit - Firearm Arrest",
+    "location": "39th Ave & 24th St",
+    "date": "2026-01-30",
+    "time": "2314",
+    "text": "Officers conducted a traffic stop of a vehicle for a vehicle code violation. The passenger of the vehicle immediately fled on foot from the vehicle, discarding an illegally possessed, loaded firearm with an extended magazine in the process. Officers quickly established a perimeter in the area and located the suspect. The suspect was arrested for related charges."
   }
 ]
