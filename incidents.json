@@ -23164,5 +23164,23 @@
     "date": "2026-01-30",
     "time": "2314",
     "text": "Officers conducted a traffic stop of a vehicle for a vehicle code violation. The passenger of the vehicle immediately fled on foot from the vehicle, discarding an illegally possessed, loaded firearm with an extended magazine in the process. Officers quickly established a perimeter in the area and located the suspect. The suspect was arrested for related charges."
+  },
+  {
+    "cmd": "North Command",
+    "id": "26-026436",
+    "code": "Shooting - Investigation",
+    "location": "20 Block Silver Eagle Rd",
+    "date": "2026-01-31",
+    "time": "0404",
+    "text": "Officers responded to reports of a shooting. Responding officers located evidence of a shooting but did not locate any victims on scene. Shortly after, a subject possibly related to the incident, arrived at an area hospital with a non-life threatening gunshot wound. Officers conducted an investigation and a report was generated."
+  },
+  {
+    "cmd": "Central Command",
+    "id": "26-026806",
+    "code": "Pursuit - Arrest",
+    "location": "3rd St & P St",
+    "date": "2026-01-31",
+    "time": "1535",
+    "text": "Officers attempted to conduct a traffic stop in the area. The vehicle did not stop and a pursuit ensued. Officers briefly lost sight of the vehicle, but it was located a short time later. The suspect was located and arrested for related charges."
   }
 ]
