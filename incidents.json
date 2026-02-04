@@ -23182,5 +23182,59 @@
     "date": "2026-01-31",
     "time": "1535",
     "text": "Officers attempted to conduct a traffic stop in the area. The vehicle did not stop and a pursuit ensued. Officers briefly lost sight of the vehicle, but it was located a short time later. The suspect was located and arrested for related charges."
+  },
+  {
+    "cmd": "South Command",
+    "id": "26-027695",
+    "code": "Pursuit-Arrest",
+    "location": "Kentwal Dr & Bandalin Way",
+    "date": "2026-02-01",
+    "time": "1547",
+    "text": "Officers attempted to conduct a traffic stop of a motorbike. The bike did not stop and a pursuit ensued. Due to the conditions, the pursuit was terminated. While searching the area a short time later, the suspect and the motorbike were located. The suspect sustained minor injuries from the pursuit. The suspect was arrested for related charges."
+  },
+  {
+    "cmd": "South Command",
+    "id": "26-027742",
+    "code": "Hit and Run Collison-Arrest",
+    "location": "Bruceville Rd & Calvine Rd",
+    "date": "2026-02-01",
+    "time": "1642",
+    "text": "Officers responded to reports of a hit and run collision where the suspect fled on foot from the scene. With the assistance of the Air unit, responding officers on the ground located and detained the suspect. The suspect displayed objective signs of intoxication. The suspect, a parolee was arrested for related charges."
+  },
+  {
+    "cmd": "East Command",
+    "id": "26-027795",
+    "code": "Theft Investigation-Arrest",
+    "location": "8000 Block Folsom Blvd",
+    "date": "2026-02-01",
+    "time": "1740",
+    "text": "Officers responded to reports of a theft involving a suspect who previously stole merchandise from the business multiple times in the past. Officers detained the suspect on scene, and he was arrested for related charges."
+  },
+  {
+    "cmd": "East Command",
+    "id": "26-027848",
+    "code": "Shooting-Investigation",
+    "location": "7500 Block Vanderburg Dr",
+    "date": "2026-02-01",
+    "time": "1838",
+    "text": "Officers responded to reports of a shooting. Responding officers located evidence of a shooting, but no reported victims. Officers conducted an investigation and a report was generated."
+  },
+  {
+    "cmd": "East Command",
+    "id": "26-027919",
+    "code": "Suspicious Subject-Arrest",
+    "location": "5300 Block Folsom Blvd",
+    "date": "2026-02-01",
+    "time": "2029",
+    "text": "Officers responded to a report that a suspect who previously burglarized the business the was back on scene. Officers located the suspect and he was arrested for related charges."
+  },
+  {
+    "cmd": "North Command",
+    "id": "26-027973",
+    "code": "Pursuit-Arrest",
+    "location": "I 80 & Norwood Ave",
+    "date": "2026-02-01",
+    "time": "2157",
+    "text": "Officers attempted to conduct a traffic stop of a vehicle for a vehicle code violation. The vehicle did not stop and a pursuit ensued. The vehicle eventually stopped and the driver was safely detained. The driver was arrested for related charges."
   }
 ]
