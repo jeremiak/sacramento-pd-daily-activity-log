@@ -23245,5 +23245,41 @@
     "date": "2026-02-03",
     "time": "1822",
     "text": "Officers responded to reports of a subject who was unconscious behind the wheel of a running vehicle in a parking lot. Responding officers located the subject and observed a firearm on his lap. The suspect was safely detained by officers, and the firearm was determined to be a replica. Officers found the suspect to be in possession of narcotics and drug paraphernalia. The suspect was arrested for related charges."
+  },
+  {
+    "cmd": "North Command",
+    "id": "26-030601",
+    "code": "Traffic Stop - Firearm Arrest",
+    "location": "Northgate Blvd & W. Silver Eagle Rd.",
+    "date": "2026-02-04",
+    "time": "1721",
+    "text": "Officers conducted a traffic stop of a vehicle for a vehicle code violation. The occupants of the vehicle were found to be on active parole. During a search of the vehicle, officers located an illegally possessed firearm. Both occupants of the vehicle were safely detained and arrested for related charges."
+  },
+  {
+    "cmd": "North Command",
+    "id": "26-030623",
+    "code": "Assault - Firearm Arrest",
+    "location": "4800 Block Kokomo Dr",
+    "date": "2026-02-04",
+    "time": "1748",
+    "text": "Officers responded to reports of a suspect armed with a handgun. An assisting agency’s air unit located the suspect and safely directed officers to the suspect where he was detained. Officers located a firearm nearby. The suspect was arrested for related charges."
+  },
+  {
+    "cmd": "East Command",
+    "id": "26-030663",
+    "code": "Bicycle Stop - Arrest",
+    "location": "20 Block Howe Ave",
+    "date": "2026-02-04",
+    "time": "1835",
+    "text": "Officers attempted to conduct a stop of a suspect on a bicycle. The suspect did not stop and fled into a nearby hotel room. The suspect refused to exit the room. Officers were eventually able to open the door of the hotel room and safely detain the suspect. The suspect was arrested for related charges and an outstanding warrant."
+  },
+  {
+    "cmd": "South Command",
+    "id": "26-030694",
+    "code": "Robbery - Arrest",
+    "location": "3500 Block Meadowview Rd",
+    "date": "2026-02-04",
+    "time": "1921",
+    "text": "Officers responded to reports of a robbery. Responding officers located and detained two suspects nearby with the victim’s belongings. The suspects were arrested for related charges."
   }
 ]
