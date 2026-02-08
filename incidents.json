@@ -23281,5 +23281,23 @@
     "date": "2026-02-04",
     "time": "1921",
     "text": "Officers responded to reports of a robbery. Responding officers located and detained two suspects nearby with the victim’s belongings. The suspects were arrested for related charges."
+  },
+  {
+    "cmd": "Central Command",
+    "id": "26-031422",
+    "code": "Robbery - Arrest",
+    "location": "600 Block of K St",
+    "date": "2026-02-05",
+    "time": "1635",
+    "text": "Officers responded to reports of a robbery. It was reported that two suspects stole two electric scooters from two victims. Officers conducted follow-up and were able to locate one of the suspects and one of the scooters. That suspect was arrested for related charges. The investigation continues."
+  },
+  {
+    "cmd": "South Command",
+    "id": "26-031711",
+    "code": "Pursuit - Stolen Vehicle Arrest",
+    "location": "Mack Rd / Franklin Blvd",
+    "date": "2026-02-05",
+    "time": "2313",
+    "text": "Officers observed a reckless driver and attempted to stop it. The driver failed to yield and led officers on a pursuit. Officers eventually utilized the Pursuit Immobilization Technique (PIT) and brought the pursuit to a safe end and the driver was detained. The vehicle was found to be an unreported stolen vehicle and the suspect was arrested for related charges."
   }
 ]
