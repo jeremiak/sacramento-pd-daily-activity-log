@@ -23308,5 +23308,32 @@
     "date": "2026-02-06",
     "time": "2012",
     "text": "Officers conducted a traffic stop. During the stop, officers observed a portion of a firearm in possession of one of the occupants of the vehicle. All of the occupants of the vehicle were safely detained, and officers seized the illegally possessed firearm. The suspect was cited for the firearm."
+  },
+  {
+    "cmd": "North Command",
+    "id": "26-032616",
+    "code": "Pursuit - Arrest",
+    "location": "400 Block Harris Ave",
+    "date": "2026-02-07",
+    "time": "0007",
+    "text": "Officers responded to reports of a possible burglary. Responding officers observed multiple subjects enter a vehicle and quickly leave the area upon officers arrival. Officers attempted to stop the vehicle, but the vehicle did not stop and a pursuit ensued. The vehicle eventually pulled over and the driver was arrested for related charges."
+  },
+  {
+    "cmd": "South Command",
+    "id": "26-032697",
+    "code": "Firearm - Arrest",
+    "location": "2300 Block X St",
+    "date": "2026-02-07",
+    "time": "0204",
+    "text": "Officers responded to a report of a subject trespassing in the area. Responding officers determined the suspect to be on probation. In an attempt to detain the suspect, a brief struggle ensued and an illegally possessed firearm fell from the suspect’s person. The suspect was safely detained and arrested for narcotics and firearm related charges."
+  },
+  {
+    "cmd": "South Command",
+    "id": "26-033223",
+    "code": "Stolen Vehicle - Arrest",
+    "location": "24th St & Fruitridge Rd",
+    "date": "2026-02-07",
+    "time": "1842",
+    "text": "Officers located a stolen vehicle in the area. Officers safely detained the suspect, and they were arrested for related charges."
   }
 ]
