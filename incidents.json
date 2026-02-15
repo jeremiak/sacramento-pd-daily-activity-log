@@ -23362,5 +23362,32 @@
     "date": "2026-02-10",
     "time": "2122",
     "text": "Officers responded to reports of a shooting. Responding officers located an adult victim with at least one non-life-threatening gunshot wound. The victim was transported to an area hospital. There is no suspect information at this time. Officers conducted an investigation and a report was generated."
+  },
+  {
+    "cmd": "North Command",
+    "id": "26-036917",
+    "code": "Firearm - Arrest",
+    "location": "2700 Block of Oakmont St",
+    "date": "2026-02-12",
+    "time": "0025",
+    "text": "Officers responded to reports of a disturbance. During the investigation, officers located an illegally possessed loaded shotgun in the suspect’s trunk. The suspect was arrested for related charges."
+  },
+  {
+    "cmd": "South Command",
+    "id": "26-037427",
+    "code": "Robbery/Vehicle Burglary - Arrest",
+    "location": "Meer Way / 22nd Ave",
+    "date": "2026-02-12",
+    "time": "1630",
+    "text": "Officers responded to reports of an attempted robbery. The suspect fled prior to police arrival. A short time later, officers received a separate call of an attempted vehicle burglary in the area. Officers responded to that location and detained the suspect, who matched the description in the attempted robbery. After a thorough investigation, the suspect was arrested on related charges."
+  },
+  {
+    "cmd": "North Command",
+    "id": "26-037704",
+    "code": "Fatal Vehicle Collision",
+    "location": "El Camino Ave / Empress St",
+    "date": "2026-02-12",
+    "time": "2157",
+    "text": "Officers responded to reports of a vehicle vs. pedestrian collision. The pedestrian was transported to an area hospital where they were pronounced deceased. The driver of the vehicle remained on scene and cooperated with law enforcement. DUI does not appear to be a factor in this case. Due to the circumstances, detectives from our Major Collision Investigation Unit (MCIU) and CSI responded to take over the investigation."
   }
 ]
