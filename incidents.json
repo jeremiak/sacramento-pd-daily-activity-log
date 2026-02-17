@@ -23407,5 +23407,23 @@
     "date": "2026-02-13",
     "time": "2108",
     "text": "Officers responded to reports from a security guard that they heard person load a firearm during a dispute. Responding officers located three subjects, who fled. Two subjects were detained while a third was able to get away from officers. In total, three illegally possessed firearms were recovered. After a detailed investigation, one of the suspects were arrested on firearm related charges."
+  },
+  {
+    "cmd": "Central Command",
+    "id": "26-038848",
+    "code": "Felony Assault - Arrest",
+    "location": "K St / 9th St",
+    "date": "2026-02-14",
+    "time": "0329",
+    "text": "Officers responded to reports of a female who swung a knife at a security guard. Responding officers located the suspect and safely detained her. The suspect was ultimately arrested for related charges."
+  },
+  {
+    "cmd": "South Command",
+    "id": "26-039142",
+    "code": "Stolen Vehicle - Warrant Arrest",
+    "location": "3300 Block of Fruitridge Rd",
+    "date": "2026-02-14",
+    "time": "1241",
+    "text": "Officers located an occupied stolen vehicle. The driver was detained and was found to have an active felony warrant. The suspect was arrested for related charges."
   }
 ]
