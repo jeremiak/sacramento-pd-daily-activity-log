@@ -23443,5 +23443,23 @@
     "date": "2026-02-16",
     "time": "2349",
     "text": "Officers located a stolen vehicle in the area. Officers safely detained the driver. The driver was arrested for related charges."
+  },
+  {
+    "cmd": "East Command",
+    "id": "26-041864",
+    "code": "Shooting - Investigation",
+    "location": "3000 Block 43rd St",
+    "date": "2026-02-17",
+    "time": "1829",
+    "text": "Officers responded to reports of sounds of gun fire. Responding officers located evidence of a shooting but no reported victims or property damage. Officers conducted an investigation and a report was generated. "
+  },
+  {
+    "cmd": "Central Command",
+    "id": "26-042027",
+    "code": "Stolen Bicycle - Arrest",
+    "location": "300 Block K St",
+    "date": "2026-02-17",
+    "time": "2334",
+    "text": "Officers responded to reports of a stolen bicycle in the area. Responding officers quickly located the stolen bike and suspect and quickly detained him. The suspect was arrested for related charges."
   }
 ]
