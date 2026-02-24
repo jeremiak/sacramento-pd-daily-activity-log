@@ -23488,5 +23488,23 @@
     "date": "2026-02-20",
     "time": "2042",
     "text": "Officers located an occupied stolen vehicle. The driver was detained and arrested for related charges."
+  },
+  {
+    "cmd": "South Command",
+    "id": "26-044646",
+    "code": "Shooting - Arrest",
+    "location": "4300 Block of 23rd St",
+    "date": "2026-02-21",
+    "time": "0344",
+    "text": "Officers responded to reports of a shooting. Responding officers located evidence of a shooting. No injuries were reported. Officers conducted an investigation and a report was generated."
+  },
+  {
+    "cmd": "East Command",
+    "id": "26-045293",
+    "code": "Robbery - Arrest",
+    "location": "3000 Block of Power Inn Rd",
+    "date": "2026-02-21",
+    "time": "2117",
+    "text": "Officers responded to reports of a robbery of a person at knife point by four juveniles. Ground units arrived on scene and were able to detain all four suspects with the assistance of Sac Sheriff’s Helicopter. After a thorough investigation, all four suspects were arrested for robbery related charges."
   }
 ]
