@@ -23506,5 +23506,23 @@
     "date": "2026-02-21",
     "time": "2117",
     "text": "Officers responded to reports of a robbery of a person at knife point by four juveniles. Ground units arrived on scene and were able to detain all four suspects with the assistance of Sac Sheriff’s Helicopter. After a thorough investigation, all four suspects were arrested for robbery related charges."
+  },
+  {
+    "cmd": "North Command",
+    "id": "26-045752",
+    "code": "Stolen Vehicle - Arrest",
+    "location": "Norwood Ave / Silver Eagle Rd",
+    "date": "2026-02-22",
+    "time": "1149",
+    "text": "Officers located an occupied stolen vehicle. The driver was detained and arrested for related charges."
+  },
+  {
+    "cmd": "North Command",
+    "id": "26-046258",
+    "code": "Pursuit - Arrest",
+    "location": "Fell St / Grand Ave",
+    "date": "2026-02-22",
+    "time": "2324",
+    "text": "Officers responded to reports of a reckless driver. Upon arrival, the suspect fled from officers, leading them on a pursuit. The suspect ended up pulling over a few blocks away. The suspect was detained and arrested for related charges."
   }
 ]
