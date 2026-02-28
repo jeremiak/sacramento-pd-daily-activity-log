@@ -23560,5 +23560,14 @@
     "date": "2026-02-23",
     "time": "2305",
     "text": "Officers responded to reports of a shooting. Responding officers located evidence of a shooting. No injuries were reported. Officers conducted an investigation and a report was generated."
+  },
+  {
+    "cmd": "North Command",
+    "id": "26-048097",
+    "code": "Shooting - Investigation",
+    "location": "400 Block Ford Ave",
+    "date": "2026-02-25",
+    "time": "0019",
+    "text": "Officers responded to reports of sounds of gunfire. Responding officers located evidence of a shooting but there were no reported victims or damage to property. Officers conducted an investigation and report was generated. "
   }
 ]
