@@ -23569,5 +23569,23 @@
     "date": "2026-02-25",
     "time": "0019",
     "text": "Officers responded to reports of sounds of gunfire. Responding officers located evidence of a shooting but there were no reported victims or damage to property. Officers conducted an investigation and report was generated. "
+  },
+  {
+    "cmd": "East Command",
+    "id": "26-049281",
+    "code": "Suspicious Activity - Firearm Arrest",
+    "location": "6200 Block 2nd Ave",
+    "date": "2026-02-26",
+    "time": "0918",
+    "text": "Officers responded to the area for reports of a subject carrying a rifle under their clothing. Responding officers detained the suspect and located a rifle in the suspect's clothing. The rifle was found to be stolen. The suspect was arrested for related charges.  "
+  },
+  {
+    "cmd": "North Command",
+    "id": "26-049996",
+    "code": "Stolen Vehicle - Arrest",
+    "location": "Truxel Rd & I 80",
+    "date": "2026-02-26",
+    "time": "2236",
+    "text": "Officers located a stolen vehicle in the area. Officers detained the occupants of the vehicle, and the driver was arrested for related charges. "
   }
 ]
