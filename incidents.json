@@ -23587,5 +23587,23 @@
     "date": "2026-02-26",
     "time": "2236",
     "text": "Officers located a stolen vehicle in the area. Officers detained the occupants of the vehicle, and the driver was arrested for related charges. "
+  },
+  {
+    "cmd": "North Command",
+    "id": "26-051842",
+    "code": "Assault - Arrest",
+    "location": "800 Block Rio Robles Ave",
+    "date": "2026-02-28",
+    "time": "2204",
+    "text": "Officers responded to reports of a physical altercation. Responding officers located an adult male victim who was transported to an area hospital. Officers located the suspect nearby and arrested the suspect for related charges."
+  },
+  {
+    "cmd": "North Command",
+    "id": "26-051895",
+    "code": "Shooting - Investigation",
+    "location": "2800 Block Aquino Dr",
+    "date": "2026-02-28",
+    "time": "2254",
+    "text": "Officers responded to reports of sounds of gunfire. Responding officers located evidence of a shooting but no reported victims or property damage. Officers conducted an investigation and a report was generated.  "
   }
 ]
