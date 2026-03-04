@@ -23605,5 +23605,32 @@
     "date": "2026-02-28",
     "time": "2254",
     "text": "Officers responded to reports of sounds of gunfire. Responding officers located evidence of a shooting but no reported victims or property damage. Officers conducted an investigation and a report was generated.  "
+  },
+  {
+    "cmd": "South Command",
+    "id": "26-052615",
+    "code": "Robbery-Arrest",
+    "location": "Freeport Blvd & 21st St",
+    "date": "2026-03-01",
+    "time": "1705",
+    "text": "Officers responded to a report of a robbery. Responding officers quickly located and detained the suspects. The suspects were arrested for related charges."
+  },
+  {
+    "cmd": "North Command",
+    "id": "26-052843",
+    "code": "Shooting - Investigation",
+    "location": "3800 Block Willow St",
+    "date": "2026-03-01",
+    "time": "2147",
+    "text": "Officers responded to reports of sounds of gunfire. Responding officers located evidence of a shooting but no reported injured victims. Officers conducted an investigation and a report was generated. "
+  },
+  {
+    "cmd": "Central Command",
+    "id": "26-052923",
+    "code": "Traffic Stop - Firearm Arrest",
+    "location": "3rd Street & I Street",
+    "date": "2026-03-01",
+    "time": "2325",
+    "text": "With the assistance of the Public Safety Camera Network, officers conducted a traffic stop of a vehicle. Officers located an illegally possessed firearm in the vehicle, and the suspect was arrested for related charges. "
   }
 ]
