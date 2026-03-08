@@ -23650,5 +23650,41 @@
     "date": "2026-03-03",
     "time": "1237",
     "text": "Officers responded to reports of a shooting. Responding officers located a victim who was uninjured. Officers conducted an investigation and a report was generated."
+  },
+  {
+    "cmd": "North Command",
+    "id": "26-055732",
+    "code": "Stolen Vehicle - Arrest",
+    "location": "El Camino Ave & Del Paso Blvd",
+    "date": "2026-03-05",
+    "time": "0210",
+    "text": "Officers located a stolen vehicle in the area. Officers stopped the vehicle and safely detained the driver. The driver was arrested for related charges. "
+  },
+  {
+    "cmd": "South Command",
+    "id": "26-055812",
+    "code": "Vandalism - Arrest",
+    "location": "1900 Block Broadway",
+    "date": "2026-03-05",
+    "time": "0651",
+    "text": "Officers responded to reports of a vandalism in progress. Responding officers located the suspect and during an attempt to detain him, the suspect was uncooperative. Officers were able to get the suspect safely detained and he was arrested for related charges.  "
+  },
+  {
+    "cmd": "North Command",
+    "id": "26-056330",
+    "code": "Stabbing - Investigation",
+    "location": "3200 Block Marysville Blvd",
+    "date": "2026-03-05",
+    "time": "1637",
+    "text": "Officers responded to reports of a stabbing victim that walked up to the fire station. The victim was transported to an area hospital in stable condition. Responding officers located the scene of the stabbing in the 3200 block of Marysville Blvd. Officers conducted an investigation and a report was generated.  "
+  },
+  {
+    "cmd": "East Command",
+    "id": "26-056625",
+    "code": "Stolen Vehicle - Arrest",
+    "location": "100 Block Bicentennial Cir",
+    "date": "2026-03-05",
+    "time": "2153",
+    "text": "With the assistance of an air unit, officers located a stolen vehicle in the area. Officers stopped the vehicle and safely detained the driver."
   }
 ]
