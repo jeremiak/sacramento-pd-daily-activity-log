@@ -23686,5 +23686,41 @@
     "date": "2026-03-05",
     "time": "2153",
     "text": "With the assistance of an air unit, officers located a stolen vehicle in the area. Officers stopped the vehicle and safely detained the driver."
+  },
+  {
+    "cmd": "East Command",
+    "id": "26-056740",
+    "code": "Pursuit - Arrest",
+    "location": "Sophia Way & 11th Ave",
+    "date": "2026-03-06",
+    "time": "0202",
+    "text": "Officers observed a vehicle traveling at a high rate of speed in the area. Officers attempted to conduct a traffic stop of the vehicle but the vehicle did not stop. Officers lost sight of the vehicle as it made several turns before it ultimately crashed in the 3300 block of 58th St. The four occupants of the vehicle were safely detained without major injuries. The driver, an adult male on probation was arrested on pursuit related charges as well as charges related to illegally possessing ammunition that was located in the vehicle."
+  },
+  {
+    "cmd": "North Command",
+    "id": "26-056960",
+    "code": "Assault - Arrest",
+    "location": "3200 Block Marysville Blvd",
+    "date": "2026-03-06",
+    "time": "1013",
+    "text": "Officers responded to the area after receiving reports of the suspect from the previous day’s stabbing investigation (26-056330) was in the area. Officers located the suspect of the stabbing and safely detained him. The suspect was arrested for charges related to the assault."
+  },
+  {
+    "cmd": "Central Command",
+    "id": "26-057530",
+    "code": "Pursuit-Arrest",
+    "location": "Richards Blvd & Sequoia Pacific Blvd",
+    "date": "2026-03-06",
+    "time": "2027",
+    "text": "Officers attempted to conduct a traffic stop of a vehicle. The vehicle did not stop and a short, slow speed pursuit ensued until the driver eventually pulled over. The driver was cited and released and their vehicle was towed."
+  },
+  {
+    "cmd": "Central Command",
+    "id": "26-057653",
+    "code": "Traffic Stop - Firearm Arrest",
+    "location": "Front St & K St",
+    "date": "2026-03-06",
+    "time": "2254",
+    "text": "Officer conducted a traffic stop of a vehicle. During a search of the vehicle, officers located an illegally possessed firearm. Officers detained the possessor of the firearm and arrested him on weapons related charges."
   }
 ]
