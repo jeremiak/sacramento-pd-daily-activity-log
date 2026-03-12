@@ -23731,5 +23731,23 @@
     "date": "2026-03-08",
     "time": "1823",
     "text": "Officers located a stolen vehicle in the area. The passenger of the vehicle fled on foot. Officers safely detained the driver. Officers established a perimeter and conducted a search for the passenger but were unable to locate them. "
+  },
+  {
+    "cmd": "North Command",
+    "id": "26-059688",
+    "code": "Brandishing - Firearm Arrest",
+    "location": "3200 Block Arena Blvd",
+    "date": "2026-03-09",
+    "time": "0846",
+    "text": "Officers responded to reports of a suspect who brandished a firearm at a victim. Responding officers safely detained the suspect and located two illegally possessed firearms within the suspect’s vehicle. The suspect was arrested for related charges."
+  },
+  {
+    "cmd": "Central Command",
+    "id": "26-060321",
+    "code": "Vandalism - Arrest",
+    "location": "700 Block 7th St",
+    "date": "2026-03-09",
+    "time": "2154",
+    "text": "Officers responded to reports of vandalism. Responding officers arrested an adult male suspect for vandalizing pipes within the building causing flooding to the building."
   }
 ]
