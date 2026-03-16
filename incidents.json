@@ -23776,5 +23776,32 @@
     "date": "2026-03-12",
     "time": "2117",
     "text": "Officers responded to reports of a shooting. Responding officers located evidence of shooting. No injuries were reported. Officers conducted an investigation and a report was generated."
+  },
+  {
+    "cmd": "North Command",
+    "id": "26-063887",
+    "code": "Traffic Stop - Firearm Arrest",
+    "location": "3000 Block of Northgate Blvd",
+    "date": "2026-03-13",
+    "time": "1820",
+    "text": "Officers stopped a vehicle for a vehicle code violation. During the investigation, officers located an ammunition and an illegally possessed privately-manufactured handgun in the vehicle. The driver was arrested for related charges."
+  },
+  {
+    "cmd": "East Command",
+    "id": "26-063986",
+    "code": "Shooting - Investigation",
+    "location": "3600 Block of 22nd Ave",
+    "date": "2026-03-13",
+    "time": "1958",
+    "text": "Officers responded to reports of a shooting. Responding officers located evidence of a shooting. No injuries were reported. Officers conducted an investigation and a report was generated."
+  },
+  {
+    "cmd": "North Command",
+    "id": "26-064134",
+    "code": "Fatal Collision - Investigation",
+    "location": "W. Elkhorn Blvd / E. Commerce Wy",
+    "date": "2026-03-13",
+    "time": "2311",
+    "text": "Officers responded to reports of a two vehicle collision. One driver was pronounced deceased on scene. The driver of the other vehicle remained on scene and DUI did not appear to be a factor. Major Collision Investigators responded to take over the investigation."
   }
 ]
