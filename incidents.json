@@ -23866,5 +23866,23 @@
     "date": "2026-03-19",
     "time": "2113",
     "text": "Officers attempted to conduct a traffic stop of a vehicle they observed driving erratically. The vehicle did not stop and a brief pursuit ensued. The driver of the vehicle eventually pulled over and was detained. After further investigation, the driver was arrested for DUI and pursuit related charges."
+  },
+  {
+    "cmd": "East Command",
+    "id": "26-069960",
+    "code": "Suspicious Vehicle - Firearm Arrest",
+    "location": "Fruitridge Rd & 65th St",
+    "date": "2026-03-20",
+    "time": "0044",
+    "text": "Officers initiated a vehicle tow of an unoccupied vehicle in a no parking zone. As the tow was being arranged, a subject who advised he was the driver and owner of the vehicle retuned to the scene. Officers observed a firearm in the rear seat of the vehicle and located methamphetamine. The subject was arrested on related charges."
+  },
+  {
+    "cmd": "Central Command",
+    "id": "26-070471",
+    "code": "Brandishing - Citation",
+    "location": "300 Block L St",
+    "date": "2026-03-20",
+    "time": "1517",
+    "text": "Officers responded to reports of a subject brandishing a firearm. Utilizing the Public Safety Camera Network, officers located the suspect vehicle. Officers conducted a stop of the vehicle and safely detained the occupant. A realistic replica rifle was located in the vehicle. The replica rifle was seized, and a citation was issued for related charges."
   }
 ]
