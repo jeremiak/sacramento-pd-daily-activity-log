@@ -23884,5 +23884,32 @@
     "date": "2026-03-20",
     "time": "1517",
     "text": "Officers responded to reports of a subject brandishing a firearm. Utilizing the Public Safety Camera Network, officers located the suspect vehicle. Officers conducted a stop of the vehicle and safely detained the occupant. A realistic replica rifle was located in the vehicle. The replica rifle was seized, and a citation was issued for related charges."
+  },
+  {
+    "cmd": "Central Command",
+    "id": "26-070992",
+    "code": "Foot Pursuit - Citation",
+    "location": "Front St & L St",
+    "date": "2026-03-21",
+    "time": "0006",
+    "text": "Officers observed a subject in a group with an open container of alcohol. When officers attempted to contact the subjects, two people fled. Officers pursued the suspects and safely detained them. The suspects were cited for related charges."
+  },
+  {
+    "cmd": "East Command",
+    "id": "26-071068",
+    "code": "Stolen Vehicle - Arrest",
+    "location": "14th Ave & W. Railroad Ave",
+    "date": "2026-03-21",
+    "time": "0155",
+    "text": "Officers located a stolen vehicle in the area. Officers stopped the vehicle and detained the occupants. The juvenile driver was arrested for related charges."
+  },
+  {
+    "cmd": "Central Command",
+    "id": "26-071203",
+    "code": "Assault - Firearm Arrest",
+    "location": "J St & 10th St",
+    "date": "2026-03-21",
+    "time": "0900",
+    "text": "Officers responded to reports of an assault involving a firearm. The suspect reportedly pointed a firearm at the victim. The victim was uninjured. Officers located the suspect and he was safely detained. Officers located a firearm on the suspect and he was arrested for related charges."
   }
 ]
