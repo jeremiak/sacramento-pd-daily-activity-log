@@ -23911,5 +23911,23 @@
     "date": "2026-03-21",
     "time": "0900",
     "text": "Officers responded to reports of an assault involving a firearm. The suspect reportedly pointed a firearm at the victim. The victim was uninjured. Officers located the suspect and he was safely detained. Officers located a firearm on the suspect and he was arrested for related charges."
+  },
+  {
+    "cmd": "North Command",
+    "id": "26-072141",
+    "code": "Stolen Vehicle - Arrest",
+    "location": "4500 Block Truxel Rd",
+    "date": "2026-03-22",
+    "time": "0517",
+    "text": "Officers located a stolen U-Haul truck that was stolen the night prior, containing equipment for a recent event in the downtown area. After a pursuit of the truck, officers safely detained the driver, and the driver was arrested for related charges."
+  },
+  {
+    "cmd": "South Command",
+    "id": "26-072267",
+    "code": "Suspicious Weapon - Firearm Arrest",
+    "location": "7th St & J St",
+    "date": "2026-03-22",
+    "time": "1043",
+    "text": "Officers responded to reports of a possible robbery at gunpoint. Officers reviewed video that captured the incident. Officers and K-9 coordinated with Regional Transit Units and safely detained the suspect. During a search, an illegally possessed firearm was located. The suspect was booked for related charges. The original victim was not located."
   }
 ]
