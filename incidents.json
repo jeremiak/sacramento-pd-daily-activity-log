@@ -23929,5 +23929,32 @@
     "date": "2026-03-22",
     "time": "1043",
     "text": "Officers responded to reports of a possible robbery at gunpoint. Officers reviewed video that captured the incident. Officers and K-9 coordinated with Regional Transit Units and safely detained the suspect. During a search, an illegally possessed firearm was located. The suspect was booked for related charges. The original victim was not located."
+  },
+  {
+    "cmd": "North Command",
+    "id": "26-073931",
+    "code": "Subject Stop - Firearm & Narcotic Arrest",
+    "location": "Northgate Blvd / Harding Ave",
+    "date": "2026-03-24",
+    "time": "0041",
+    "text": "Officers stopped a man on a scooter. The man fled but was located a short distance later. An area search revealed a bag discarded by the suspect. A loaded illegally possessed firearm and narcotics were located inside. The suspect was arrested for related charges."
+  },
+  {
+    "cmd": "East Command",
+    "id": "26-073937",
+    "code": "Stolen Vehicle - Firearm Arrest",
+    "location": "Elder Creek Rd / Florin Perkins Rd",
+    "date": "2026-03-24",
+    "time": "0050",
+    "text": "Officers located an occupied stolen vehicle. The driver was detained and during the investigation, officers located an illegally possessed firearm inside of the vehicle. Additionally, a passenger was found to be in possession of mail belonging to a third party. Both were arrested for their respective charges."
+  },
+  {
+    "cmd": "North Command",
+    "id": "26-073959",
+    "code": "Traffic Stop - Firearm Arrest",
+    "location": "2500 Block of Capitol Oaks Dr",
+    "date": "2026-03-24",
+    "time": "0133",
+    "text": "Officers stopped a vehicle. During the investigation, officers located an illegally possessed “ghost gun” in the vehicle. A passenger was arrested for multiple firearm related charges."
   }
 ]
