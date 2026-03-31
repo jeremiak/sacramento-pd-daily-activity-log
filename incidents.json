@@ -24010,5 +24010,23 @@
     "date": "2026-03-27",
     "time": "2213",
     "text": "Officers responded to reports of a shooting. Responding officers located an adult male victim with non-life threatening injuries. The victim was transported to an area hospital. Officers conducted an investigation and a report was generated."
+  },
+  {
+    "cmd": "Central Command",
+    "id": "26-078347",
+    "code": "Subject Stop - Firearm Arrest",
+    "location": "N 16th St & A St",
+    "date": "2026-03-28",
+    "time": "1655",
+    "text": "Officers contacted two subjects in a vehicle. The officers observed narcotic paraphernalia in plain view. Officers detained the occupants of the vehicle and the driver advised there was a firearm in the vehicle. Officers located a loaded, illegally possessed, stolen firearm and additional ammunition. The driver, a convicted felon, was arrested for related charges."
+  },
+  {
+    "cmd": "North Command",
+    "id": "26-078371",
+    "code": "Pursuit-Arrest",
+    "location": "Fairfield St & Eleanor Ave",
+    "date": "2026-03-28",
+    "time": "1722",
+    "text": "Officers attempted to conduct a traffic stop of a vehicle. The driver did not stop and a pursuit ensued. The driver eventually pulled over and was safely detained. The driver a was arrested for related charges and his vehicle was towed."
   }
 ]
