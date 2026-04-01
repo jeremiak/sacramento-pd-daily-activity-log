@@ -24028,5 +24028,50 @@
     "date": "2026-03-28",
     "time": "1722",
     "text": "Officers attempted to conduct a traffic stop of a vehicle. The driver did not stop and a pursuit ensued. The driver eventually pulled over and was safely detained. The driver a was arrested for related charges and his vehicle was towed."
+  },
+  {
+    "cmd": "East Command",
+    "id": "26-079078",
+    "code": "Felony Vehicle Stop - Arrest",
+    "location": "Stockton Blvd & Elder Creek Rd",
+    "date": "2026-03-29",
+    "time": "1239",
+    "text": "Officers located a felony vehicle in the area. The occupants of the vehicle were detained. Through their investigation, officers found both the driver and passenger of the vehicle to have outstanding felony warrants. The two were arrested for their warrants."
+  },
+  {
+    "cmd": "South Command",
+    "id": "26-079170",
+    "code": "Bicycle Stop - Arrest",
+    "location": "Franklin Blvd & Boyce Dr",
+    "date": "2026-03-29",
+    "time": "1528",
+    "text": "Officers located a known suspect with an outstanding felony warrant, riding a bicycle. Officers attempted to stop the suspect, however the suspect did not stop and fled from officers. Officers pursued the suspect until they were detained. The suspect was arrested for related charges."
+  },
+  {
+    "cmd": "South Command",
+    "id": "26-079266",
+    "code": "Bicycle Stop - Arrest",
+    "location": "3800 Block Florin Rd",
+    "date": "2026-03-29",
+    "time": "1742",
+    "text": "Officers located a suspect with an outstanding warrant, on a bicycle. Officers detained the suspect and they were arrested for their warrant."
+  },
+  {
+    "cmd": "Central Command",
+    "id": "26-079439",
+    "code": "Disturbance - Firearm and Drug Arrest",
+    "location": "1100 Block 2nd St",
+    "date": "2026-03-29",
+    "time": "2128",
+    "text": "Officers contacted a group smoking marijuana in public. Officers located an illegally possessed firearm on one of the suspects. During a search of the vehicle officers located additional narcotics. Two suspects were arrested for related charges."
+  },
+  {
+    "cmd": "South Command",
+    "id": "26-079467",
+    "code": "Shooting Investigation - Arrest",
+    "location": "2400 Block Florin Rd",
+    "date": "2026-03-29",
+    "time": "2156",
+    "text": "Officers responded to reports of a shooting. Responding officers located an adult male victim with at least one gunshot wound. The male was transported to an area hospital for serious injuries and is currently in stable condition. With the assistance of an air unit, officers located the shooting suspect as well as a firearm. The suspect was arrested for related charges."
   }
 ]
