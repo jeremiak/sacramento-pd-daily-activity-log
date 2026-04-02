@@ -24073,5 +24073,23 @@
     "date": "2026-03-29",
     "time": "2156",
     "text": "Officers responded to reports of a shooting. Responding officers located an adult male victim with at least one gunshot wound. The male was transported to an area hospital for serious injuries and is currently in stable condition. With the assistance of an air unit, officers located the shooting suspect as well as a firearm. The suspect was arrested for related charges."
+  },
+  {
+    "cmd": "East Command",
+    "id": "26-079634",
+    "code": "Stolen Vehicle - Arrest",
+    "location": "Stockton Blvd & Riza Ave",
+    "date": "2026-03-30",
+    "time": "0356",
+    "text": "Officers located a stolen vehicle in the area. Officers stopped the vehicle and detained all of the occupants. The suspect driver was arrested for charges related to the stolen vehicle."
+  },
+  {
+    "cmd": "South Command",
+    "id": "26-079882",
+    "code": "Bicycle Stop - Arrest",
+    "location": "Florin Rd & Franklin Blvd",
+    "date": "2026-03-30",
+    "time": "1145",
+    "text": "Officers attempted to conduct a bicycle stop. The rider did not stop and fled from officers. Officers pursued the suspect until he was safely detained. The suspect had an outstanding felony warrant, and officers also located an imitation firearm in the suspect’s backpack. The suspect was arrested on related charges."
   }
 ]
