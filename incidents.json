@@ -24091,5 +24091,23 @@
     "date": "2026-03-30",
     "time": "1145",
     "text": "Officers attempted to conduct a bicycle stop. The rider did not stop and fled from officers. Officers pursued the suspect until he was safely detained. The suspect had an outstanding felony warrant, and officers also located an imitation firearm in the suspect’s backpack. The suspect was arrested on related charges."
+  },
+  {
+    "cmd": "South Command",
+    "id": "26-080461",
+    "code": "Foot Pursuit - Arrest",
+    "location": "7000 Block South Land Park Dr",
+    "date": "2026-03-31",
+    "time": "0102",
+    "text": "Officers responded to a report of two subject removing tires from a vehicle. Officers attempted to contact the suspects; however, both of the suspects fled from officers on foot. Both suspects were pursued by officers and safely detained. The suspects were arrested on related charges."
+  },
+  {
+    "cmd": "South Command",
+    "id": "26-080539",
+    "code": "Pursuit - Arrest",
+    "location": "Brookfield Dr & Franklin Blvd",
+    "date": "2026-03-31",
+    "time": "0412",
+    "text": "Officers located a stolen vehicle in the area and attempted to stop it. The vehicle did not yield, and a short pursuit ensued. The pursuit was however cancelled due to the conditions. An air unit overhead located the possible suspect in the area and when officers attempted to contact the suspect, he fled on a bicycle. Officers established a perimeter and the suspect was located and detained. The suspect was determined not to be the same person in the stolen vehicle, although he did have an outstanding felony warrant and was arrested on related charges.  "
   }
 ]
