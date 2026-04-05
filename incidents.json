@@ -24118,5 +24118,23 @@
     "date": "2026-04-01",
     "time": "2358",
     "text": "Officers responded to reports of a stolen bicycle. Utilizing the Public Safety Camera Network, officers in our Real Time Information Center quickly located the stolen bike and the suspect. Responding officers detained the suspect and he was arrested for related charges. "
+  },
+  {
+    "cmd": "South Command",
+    "id": "26-082667",
+    "code": "Robbery-Arrest",
+    "location": "3500 Block Florin Rd",
+    "date": "2026-04-02",
+    "time": "1624",
+    "text": "Officers responded to a report of a robbery. Responding officers located the suspect and he was arrested for charges related to the theft."
+  },
+  {
+    "cmd": "East Command",
+    "id": "26-082959",
+    "code": "Vehicle Collision Investigation",
+    "location": "2900 Block Ramona Ave",
+    "date": "2026-04-02",
+    "time": "2212",
+    "text": "Officers responded to a vehicle versus pedestrian collision. The pedestrian was transported to an area hospital for serious injuries and is currently in stable condition. The driver of the vehicle remained on scene. Impairment does not appear to be a factor of the collision at this time."
   }
 ]
