@@ -24136,5 +24136,23 @@
     "date": "2026-04-02",
     "time": "2212",
     "text": "Officers responded to a vehicle versus pedestrian collision. The pedestrian was transported to an area hospital for serious injuries and is currently in stable condition. The driver of the vehicle remained on scene. Impairment does not appear to be a factor of the collision at this time."
+  },
+  {
+    "cmd": "North Command",
+    "id": "26-083841",
+    "code": "Domestic Violence - Firearm Arrest",
+    "location": "4400 Block Truxel Rd",
+    "date": "2026-04-03",
+    "time": "2014",
+    "text": "Officers responded to reports of a domestic violence related incident involving a suspect armed with a firearm threatening to shoot the victim. Officers and an air unit arrived on scene and located the suspect. The suspect was safely detained. Officers located a firearm in the suspect’s vehicle. The suspect was arrested for related charges."
+  },
+  {
+    "cmd": "South Command",
+    "id": "26-083855",
+    "code": "Bicycle Stop - Arrest",
+    "location": "3000 Block Florin Rd",
+    "date": "2026-04-03",
+    "time": "2028",
+    "text": "Officers attempted to conduct a bicycle stop. The bike rider did not stop and officers pursued him. Officers were able to safely detain the suspect, and he was arrested for related charges"
   }
 ]
