@@ -24208,5 +24208,50 @@
     "date": "2026-04-10",
     "time": "2135",
     "text": "Officers working Core Safety in downtown stopped a vehicle for a vehicle code violation. During the investigation, officers located an illegally possessed handgun in the vehicle. The driver was detained for related charges."
+  },
+  {
+    "cmd": "South Command",
+    "id": "26-091372",
+    "code": "Brandishing - Arrest",
+    "location": "700 Block of Revere St",
+    "date": "2026-04-12",
+    "time": "0206",
+    "text": "Officers responded to reports of a male who brandished a firearm and fled. Responding officers located the suspect and detained him. During the investigation, a firearm was recovered. The suspect was arrested for related charges."
+  },
+  {
+    "cmd": "South Command",
+    "id": "26-091660",
+    "code": "Assault - Arrest",
+    "location": "8100 Block Consumnes River Blvd",
+    "date": "2026-04-12",
+    "time": "1359",
+    "text": "Officers responded to a report of an assault involving a squeegee causing minor injuries to the victim. The suspect fled prior to officers’ arrival. Later in the day, officers responded to reports of the suspect returning to the area. Officers located the suspect and safely detained him after a short foot pursuit. The suspect was arrested for related charges."
+  },
+  {
+    "cmd": "South Command",
+    "id": "26-091726",
+    "code": "Stolen Vehicle - Arrest",
+    "location": "Broadway & Riverside Blvd",
+    "date": "2026-04-12",
+    "time": "1519",
+    "text": "Officers located a stolen vehicle in the area. Officers safely detained the driver and passenger of the vehicle. The driver was arrested for related charges and multiple outstanding warrants."
+  },
+  {
+    "cmd": "East Command",
+    "id": "26-091851",
+    "code": "Stolen Vehicle - Arrest",
+    "location": "Stockton Blvd & Lawrence Drive",
+    "date": "2026-04-12",
+    "time": "1758",
+    "text": "Officers located a stolen vehicle in the area. The occupants of the vehicle were safely detained, and the driver was arrested for related charges. "
+  },
+  {
+    "cmd": "South Command",
+    "id": "26-092004",
+    "code": "Vehicle Collision Investigation",
+    "location": "Calvine Rd & Bruceville Rd",
+    "date": "2026-04-12",
+    "time": "2112",
+    "text": "Officers responded to a solo vehicle collision. Responding officers locate a male adult with life threatening injuries who was transported to an area hospital. Despite life saving measures, he was pronounced deceased. Two passengers of the vehicle were also transported to an area hospital for non-life-threatening injuries. Due to the circumstances, Major Collision Investigation Unit detectives and Crime Scene Investigators responded to the scene and took over the investigation."
   }
 ]
