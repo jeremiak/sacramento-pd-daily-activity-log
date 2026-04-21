@@ -24289,5 +24289,23 @@
     "date": "2026-04-17",
     "time": "2343",
     "text": "Officers working Core Safety downtown attempted to stop a pair of juveniles for trespassing and curfew violations. During the investigation, officers located an illegally possessed handgun and methamphetamine on one of the juveniles. The suspect was booked into Juvenile Hall on related charges."
+  },
+  {
+    "cmd": "South Command",
+    "id": "26-096818",
+    "code": "Shooting - Investigation",
+    "location": "8300 Block of Arroyo Vista Dr",
+    "date": "2026-04-18",
+    "time": "0401",
+    "text": "Officers responded to reports of a shooting. Responding officers located evidence of a shooting. No injuries were reported. Officers conducted an investigation and a report was generated."
+  },
+  {
+    "cmd": "North Command",
+    "id": "26-097569",
+    "code": "Shooting - Investigation",
+    "location": "2200 Block of Arena Blvd",
+    "date": "2026-04-18",
+    "time": "2241",
+    "text": "Officers responded to reports of a shooting after a pool party. Responding officers located evidence of a shooting and three damaged vehicles. No injuries were reported. Officers conducted an investigation and a report was generated."
   }
 ]
