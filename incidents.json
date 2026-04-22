@@ -24307,5 +24307,23 @@
     "date": "2026-04-18",
     "time": "2241",
     "text": "Officers responded to reports of a shooting after a pool party. Responding officers located evidence of a shooting and three damaged vehicles. No injuries were reported. Officers conducted an investigation and a report was generated."
+  },
+  {
+    "cmd": "South Command",
+    "id": "26-097750",
+    "code": "Firearm - Arrest",
+    "location": "400 Block of Broadway",
+    "date": "2026-04-19",
+    "time": "0145",
+    "text": "Officers were responding to an unrelated call when they observed a vehicle in the area that caught their attention. As they approached, the front passenger fled from the vehicle on foot, but was quickly detained. The driver was detained as well and during the investigation, a loaded AR-15 was observed in plain view. After a thorough investigation, the passenger was arrested for related charges."
+  },
+  {
+    "cmd": "North Command",
+    "id": "26-097901",
+    "code": "Pursuit - Arrest",
+    "location": "4700 Block Natomas Blvd",
+    "date": "2026-04-19",
+    "time": "0822",
+    "text": "Officers responded to reports of a suspicious vehicle driving recklessly through the area. Officers located the vehicle and attempted to stop it. The vehicle did not yield and a pursuit ensued. Officers determined the suspect vehicle to be stolen. The pursuit led officers to the area of Riego Road in Sutter County where the pursuit ended when the suspect vehicle was involved in a solo collision into a ditch. The suspect was safely detained and transported to an area hospital for medical treatment."
   }
 ]
