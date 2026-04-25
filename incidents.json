@@ -24352,5 +24352,23 @@
     "date": "2026-04-21",
     "time": "2050",
     "text": "Bicycle officers contacted a suspect selling narcotics. The suspect was detained and during the investigation, officers located an unregistered, illegally possessed loaded handgun. The suspect was arrested for related charges."
+  },
+  {
+    "cmd": "North Command",
+    "id": "26-101076",
+    "code": "Shooting - Investigation",
+    "location": "60 Block of Ford Rd",
+    "date": "2026-04-22",
+    "time": "2202",
+    "text": "Officers responded to reports of a shooting. Responding officers located a vehicle that was struck by gunfire. No injuries were reported. Officers conducted an investigation and a report was generated."
+  },
+  {
+    "cmd": "North Command",
+    "id": "26-101081",
+    "code": "Shooting - Investigation",
+    "location": "40 Block of Ford Rd",
+    "date": "2026-04-22",
+    "time": "2206",
+    "text": "Officers responded to reports of a shooting. Responding officers located a vehicle that was struck by gunfire. No injuries were reported. Officers conducted an investigation and a report was generated."
   }
 ]
