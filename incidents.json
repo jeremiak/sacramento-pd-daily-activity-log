@@ -24415,5 +24415,32 @@
     "date": "2026-04-25",
     "time": "2050",
     "text": "A motor officer attempted to stop a vehicle. The driver failed to yield and led officers on a pursuit. Sacramento Sheriff’s Office’s helicopter (STAR) arrived and eventually assisted ground units in locating the driver and passenger. The driver was found to have two felony warrants. The driver was arrested on a multitude of charges."
+  },
+  {
+    "cmd": "North Command",
+    "id": "26-104138",
+    "code": "Pursuit - Arrest",
+    "location": "Woodlake Drive & Oxford Street",
+    "date": "2026-04-26",
+    "time": "0830",
+    "text": "Officers located an occupied stolen vehicle. Officers attempted to stop the vehicle, however, it fled from officers. The suspect fled from the vehicle on foot but was identified by passengers in the vehicle. The passengers were detained and released. The suspect was not located. A report was generated."
+  },
+  {
+    "cmd": "South Command",
+    "id": "26-104557",
+    "code": "Subject Stop - Arrest",
+    "location": "24th St & Florin Rd",
+    "date": "2026-04-26",
+    "time": "1922",
+    "text": "Officers attempted to conduct a subject stop. The suspect, however, fled on foot and a brief foot pursuit ensued. The suspect was eventually detained and arrested for charges related to the foot pursuit and possession of drug paraphernalia."
+  },
+  {
+    "cmd": "East Command",
+    "id": "26-104697",
+    "code": "Shooting Investigation",
+    "location": "3400 Block 20th Ave",
+    "date": "2026-04-26",
+    "time": "2233",
+    "text": "Officers responded to reports of sounds of gun fire. Responding officers located evidence of a shooting, but no reported property damage or injured parties. Officers investigated and a report was generated."
   }
 ]
