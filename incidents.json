@@ -24460,5 +24460,23 @@
     "date": "2026-04-27",
     "time": "1523",
     "text": "Officers located a vehicle involved in an earlier shooting investigation. Officers conducted a traffic stop of the vehicle, and the suspect driver was safely detained. Officers obtained a search warrant for the suspect vehicle and the suspect's residence. Officers located an illegally possessed, loaded, short-barreled assault rifle and ammunition in the vehicle, matching evidence located at the shooting scene. The suspect was arrested on numerous weapons related charges. "
+  },
+  {
+    "cmd": "North Command",
+    "id": "26-106160",
+    "code": "Shooting Investigation",
+    "location": "Grand Ave & Balsam St",
+    "date": "2026-04-28",
+    "time": "1547",
+    "text": "Officers responded to reports of sounds of shots fired right before a vehicle collision. Responding officers located the party involved in the crash and the occupants were transported to an area hospital as a precaution related to the crash. No other victims were reported. A report was generated."
+  },
+  {
+    "cmd": "Central Command",
+    "id": "26-106353",
+    "code": "Weapons Investigation - Firearm Arrest",
+    "location": "2500 Block Rice Aly",
+    "date": "2026-04-28",
+    "time": "1900",
+    "text": "Officers responded to a report of suspect who pointed a gun at a victim. Responding officers located the suspect and safely detained him. Officers located a bb gun and additional firearms. The suspect was arrested for related charges."
   }
 ]
