@@ -24478,5 +24478,32 @@
     "date": "2026-04-28",
     "time": "1900",
     "text": "Officers responded to a report of suspect who pointed a gun at a victim. Responding officers located the suspect and safely detained him. Officers located a bb gun and additional firearms. The suspect was arrested for related charges."
+  },
+  {
+    "cmd": "Central Command",
+    "id": "26-107099",
+    "code": "Weapons Investigation - Firearm Arrest",
+    "location": "1000 Block K St",
+    "date": "2026-04-29",
+    "time": "1515",
+    "text": "Officers responded to reports of a suspect who was reportedly armed and attempting to sell things. Responding officers, with the assistance of an air unit located the suspect and safely detained him. Officers located evidence indicative of drug sales and an illegally possessed, loaded firearm. The suspect was arrested for related charges."
+  },
+  {
+    "cmd": "East Command",
+    "id": "26-107376",
+    "code": "Burglary - Arrest",
+    "location": "8500 Block Folsom Blvd",
+    "date": "2026-04-29",
+    "time": "2048",
+    "text": "Officers responded to reports of a burglary. Responding officers located the suspect and safely detained him. The suspect was arrested on related charges. "
+  },
+  {
+    "cmd": "Central Command",
+    "id": "26-107383",
+    "code": "Stolen Bike - Arrest",
+    "location": "11th St & K St",
+    "date": "2026-04-29",
+    "time": "2107",
+    "text": "Officers responded to reports of a stolen bicycle. Responding officers located the bike and the suspect in possession of it. Officers determined the suspect also had an outstanding felony warrant and was a felon in possession of pepper spray. The suspect was arrested on related charges. "
   }
 ]
