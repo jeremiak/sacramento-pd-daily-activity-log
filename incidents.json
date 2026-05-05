@@ -24514,5 +24514,32 @@
     "date": "2026-04-30",
     "time": "2119",
     "text": "Officers contacted a known probationer in a vehicle. The probationer was detained and during a probation search, officers located a large quantity of methamphetamine and indicia of sales. The suspect was arrested on narcotic sales charges."
+  },
+  {
+    "cmd": "North Command",
+    "id": "26-108590",
+    "code": "Stolen Vehicle - Arrest",
+    "location": "Norwood Ave / Interstate 80",
+    "date": "2026-05-01",
+    "time": "1037",
+    "text": "Officers located an occupied stolen vehicle. While waiting for additional units to respond, the driver fled from the vehicle on foot. The suspect was ultimately detained and found to have an active felony warrant for stolen vehicle. The suspect was arrested for related charges."
+  },
+  {
+    "cmd": "East Command",
+    "id": "26-109408",
+    "code": "Stolen Vehicle - Firearm Arrest",
+    "location": "McKinley Village Wy / C St",
+    "date": "2026-05-02",
+    "time": "0100",
+    "text": "A patrol sergeant located an occupied stolen motorhome. During the investigation, officers located an illegally possessed handgun. The suspect was arrested for related charges."
+  },
+  {
+    "cmd": "North Command",
+    "id": "26-109652",
+    "code": "Felony Assault - Investigation",
+    "location": "3700 Block of Hovnanian Dr",
+    "date": "2026-05-02",
+    "time": "1142",
+    "text": "Officers responded to reports of a suspect pointing a revolver at two victims who were walking their dog. Officers conducted a thorough investigation and a report was generated."
   }
 ]
