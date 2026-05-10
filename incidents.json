@@ -24559,5 +24559,23 @@
     "date": "2026-05-05",
     "time": "1837",
     "text": "Officers responded to reports of a shooting. Responding officers located evidence of a shooting. No injuries were reported. Officers conducted an investigation and a report was generated."
+  },
+  {
+    "cmd": "Central Command",
+    "id": "26-114565",
+    "code": "Robbery - Arrest",
+    "location": "200 Block of Richards Blvd",
+    "date": "2026-05-07",
+    "time": "1427",
+    "text": "Officers responded to reports of a robbery of a person by fear. Officers did follow up on the suspect and located him in the area. The suspect was arrested on robbery related charges."
+  },
+  {
+    "cmd": "North Command",
+    "id": "26-114945",
+    "code": "Shooting - Investigation",
+    "location": "2600 Block of Erin Dr",
+    "date": "2026-05-07",
+    "time": "2148",
+    "text": "Officers responded to reports of a shooting. Responding officers located one person who sustained a non-life-threatening gunshot wound. The victim was transported to an area hospital for treatment. Officers conducted an investigation and a report was generated."
   }
 ]
