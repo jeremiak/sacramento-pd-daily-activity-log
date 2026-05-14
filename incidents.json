@@ -24649,5 +24649,50 @@
     "date": "2026-05-10",
     "time": "2153",
     "text": "Officers responded to reports of suspects vandalizing vehicles. Responding officers determined the suspects had committed felony vandalism before fleeing on foot. Officers quickly located the three suspects nearby. The suspects were arrested for outstanding warrants and vandalism related charges."
+  },
+  {
+    "cmd": "North Command",
+    "id": "26-118318",
+    "code": "Vehicle Collision Investigation",
+    "location": "Northgate Blvd & Bridgeford Dr",
+    "date": "2026-05-11",
+    "time": "1039",
+    "text": "Officers responded to reports of a vehicle versus motorcycle collision. The motorcyclist was transported to an area hospital for life threatening injuries. Due to the circumstances, detectives from the Major Collision Investigation Unit and Crime Scene Investigators responded to the scene and took over the investigation."
+  },
+  {
+    "cmd": "Central Command",
+    "id": "26-118610",
+    "code": "Subject Stop - Arrest",
+    "location": "11th St & Jazz Aly",
+    "date": "2026-05-11",
+    "time": "1611",
+    "text": "Bike officers located a parolee at large. The suspect attempted to flee from officers on foot, but was safely detained and arrested."
+  },
+  {
+    "cmd": "North Command",
+    "id": "26-118702",
+    "code": "Stolen Vehicle - Arrest",
+    "location": "1600 Block Arden Wy",
+    "date": "2026-05-11",
+    "time": "1813",
+    "text": "Officers located a stolen vehicle in the area and identified the occupants of the vehicle through security cameras. When responding officers attempted to contact the suspects who were now on foot, the suspects fled. Officers were able to apprehend all the suspects involved, and the driver was arrested for related charges."
+  },
+  {
+    "cmd": "Central Command",
+    "id": "26-118773",
+    "code": "Robbery - Arrest",
+    "location": "11th St & Jazz Aly",
+    "date": "2026-05-11",
+    "time": "2011",
+    "text": "Officers responded to reports of a suspect attempting to rob victims of their food. Responding officers located the suspect nearby and detained him. The suspect was arrested for related charges."
+  },
+  {
+    "cmd": "South Command",
+    "id": "26-118876",
+    "code": "Vehicle Pursuit - Firearms and Narcotics Arrest",
+    "location": "24th St & John Still Dr",
+    "date": "2026-05-11",
+    "time": "2226",
+    "text": "Officers attempted to conduct a traffic stop of a vehicle. The vehicle did not stop and a pursuit ensued. Two passengers of the vehicle fled on foot. The driver and two additional passengers remained in the vehicle. Officers quickly established a perimeter, an Air Unit and UAS were utilized and located the suspects who fled. Officers searched the suspect vehicle and located two illegally possessed firearms and evidence or narcotics sales. A third firearm and additional narcotics were located along the suspects’ path of travel. Four adults and one juvenile suspect were arrested on multiple related charges."
   }
 ]
