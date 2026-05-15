@@ -24694,5 +24694,41 @@
     "date": "2026-05-11",
     "time": "2226",
     "text": "Officers attempted to conduct a traffic stop of a vehicle. The vehicle did not stop and a pursuit ensued. Two passengers of the vehicle fled on foot. The driver and two additional passengers remained in the vehicle. Officers quickly established a perimeter, an Air Unit and UAS were utilized and located the suspects who fled. Officers searched the suspect vehicle and located two illegally possessed firearms and evidence or narcotics sales. A third firearm and additional narcotics were located along the suspects’ path of travel. Four adults and one juvenile suspect were arrested on multiple related charges."
+  },
+  {
+    "cmd": "North Command",
+    "id": "26-119006",
+    "code": "Traffic Stop - Arrest",
+    "location": "Forrest St & El Camino Ave",
+    "date": "2026-05-12",
+    "time": "0242",
+    "text": "Officers conducted a traffic stop of a vehicle. The passenger of the vehicle fled on foot from the vehicle and officers pursued her. The suspect was detained and was found to have two outstanding warrants. The suspect was arrested for her warrants."
+  },
+  {
+    "cmd": "North Command",
+    "id": "26-119545",
+    "code": "Traffic Stop",
+    "location": "3200 Block Rio Linda Blvd",
+    "date": "2026-05-12",
+    "time": "1525",
+    "text": "Officers conducted a traffic stop of a vehicle. During their investigation, officers located an illegally possessed, loaded handgun and drugs. The two suspects who were in the vehicle were arrested for related charges."
+  },
+  {
+    "cmd": "South Command",
+    "id": "26-119601",
+    "code": "Subject Stop - Firearm Arrest",
+    "location": "Valley Hi Dr & Golden Field Wy",
+    "date": "2026-05-12",
+    "time": "1621",
+    "text": "Officers contacted two subjects who quickly exited a vehicle, with an open container of alcohol in public. During a search of the vehicle, officers located an illegally possessed, loaded firearm. The suspects were arrested for related charges."
+  },
+  {
+    "cmd": "North Command",
+    "id": "26-119727",
+    "code": "Stabbing Investigation - Arrest",
+    "location": "W El Camino Ave & Gateway Oaks Dr",
+    "date": "2026-05-12",
+    "time": "1822",
+    "text": "Officers responded to reports of a stabbing. Responding officers located a female adult victim with at least one stab wound. The victim was transported to an area hospital in critical condition. The suspect was located and after a thorough investigation, the suspect was booked into the Sacramento County Main Jail on assault related charges."
   }
 ]
