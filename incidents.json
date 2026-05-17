@@ -24730,5 +24730,23 @@
     "date": "2026-05-12",
     "time": "1822",
     "text": "Officers responded to reports of a stabbing. Responding officers located a female adult victim with at least one stab wound. The victim was transported to an area hospital in critical condition. The suspect was located and after a thorough investigation, the suspect was booked into the Sacramento County Main Jail on assault related charges."
+  },
+  {
+    "cmd": "East Command",
+    "id": "26-121401",
+    "code": "Burglary - Arrest",
+    "location": "2300 Block of American River Dr",
+    "date": "2026-05-14",
+    "time": "1235",
+    "text": "Officers responded to reports of a burglary in progress. Prior to police arrival, bystanders were able to grab and hold onto the suspect until police arrived. The suspect was ultimately detained by our officers and arrested on burglary-related charges."
+  },
+  {
+    "cmd": "Central Command",
+    "id": "26-121927",
+    "code": "Domestic Violence - Firearm Arrest",
+    "location": "700 Block of 29th St",
+    "date": "2026-05-14",
+    "time": "2129",
+    "text": "Officers responded to reports of a domestic violence incident where the suspect was armed with a handgun. The suspect fled prior to police arrival, but thanks to the keen eye of Sacramento County Sheriff Office’s helicopter (STAR), the air unit located and directed ground units to where the suspect was. The suspect was safely detained, and a loaded handgun was recovered. The suspect was arrested for related charges."
   }
 ]
