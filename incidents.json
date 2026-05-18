@@ -24748,5 +24748,32 @@
     "date": "2026-05-14",
     "time": "2129",
     "text": "Officers responded to reports of a domestic violence incident where the suspect was armed with a handgun. The suspect fled prior to police arrival, but thanks to the keen eye of Sacramento County Sheriff Office’s helicopter (STAR), the air unit located and directed ground units to where the suspect was. The suspect was safely detained, and a loaded handgun was recovered. The suspect was arrested for related charges."
+  },
+  {
+    "cmd": "North Command",
+    "id": "26-122126",
+    "code": "Assault - Firearm Arrest",
+    "location": "2300 Block Sandcastle Wy",
+    "date": "2026-05-15",
+    "time": "0549",
+    "text": "Officers responded to reports of a subject waving handgun around. Responding officers safely detained the suspect. Officers located the firearm involved and arrested the suspect for related charges."
+  },
+  {
+    "cmd": "South Command",
+    "id": "26-122319",
+    "code": "Stolen Bicycle - Arrest",
+    "location": "500 Block Broadway",
+    "date": "2026-05-15",
+    "time": "1005",
+    "text": "Officers located a stolen bicycle and the suspect in possession of it. The suspect was arrested for related charges."
+  },
+  {
+    "cmd": "South Command",
+    "id": "26-122775",
+    "code": "Pursuit - Arrest",
+    "location": "24th St & 40th Ave",
+    "date": "2026-05-15",
+    "time": "1705",
+    "text": "Officers attempted to conduct a traffic stop of a dirt bike. The dirt bike did not stop and a short pursuit ensued. The suspect eventually pulled over and the suspect was detained. The suspect was arrested for related charges."
   }
 ]
