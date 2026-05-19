@@ -24775,5 +24775,41 @@
     "date": "2026-05-15",
     "time": "1705",
     "text": "Officers attempted to conduct a traffic stop of a dirt bike. The dirt bike did not stop and a short pursuit ensued. The suspect eventually pulled over and the suspect was detained. The suspect was arrested for related charges."
+  },
+  {
+    "cmd": "North Command",
+    "id": "26-123366",
+    "code": "Suspicious Weapon - Firearm Arrest",
+    "location": "El Camino Ave & Auburn Blvd",
+    "date": "2026-05-16",
+    "time": "0317",
+    "text": "Officers responded to reports of a subject walking around with a handgun. Responding officer located the suspect and he was safely detained. Officers located an illegally possessed, loaded firearm in the suspect’s possession. The suspect, a prior felon, was arrested for related charges."
+  },
+  {
+    "cmd": "North Command",
+    "id": "26-123464",
+    "code": "Subject Stop - Arrest",
+    "location": "North Ave & Lily St",
+    "date": "2026-05-16",
+    "time": "0812",
+    "text": "Officers attempted to conduct a subject stop, however the suspect fled on foot. Officers pursued the suspect and he was quickly apprehend. The suspect was found to have an outstanding felony warrant. The suspect was arrested for related charges."
+  },
+  {
+    "cmd": "East Command",
+    "id": "26-124095",
+    "code": "Shooting - Firearm Arrest",
+    "location": "4900 Block Folsom Blvd",
+    "date": "2026-05-16",
+    "time": "1940",
+    "text": "Officers responded to reports of a group of teenagers fighting. During the fight, it was reported that a suspect fired off a gun, striking a vehicle, and ran into a residence nearby. Officers established a perimeter around the residence and safely detained the adult female suspect. Officers located a firearm in the residence. The suspect was arrested for related charges.  "
+  },
+  {
+    "cmd": "North Command",
+    "id": "26-124315",
+    "code": "Traffic Stop - Arrest",
+    "location": "Evergreen St & El Camino Ave",
+    "date": "2026-05-16",
+    "time": "2318",
+    "text": "Officers conducted a traffic stop of a wanted suspect in a vehicle. Officers safely detained the occupants of the vehicle. The passenger was arrested for being a suspect of a crime from an outside agency and had multiple outstanding warrants. "
   }
 ]
