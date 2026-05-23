@@ -24838,5 +24838,32 @@
     "date": "2026-05-19",
     "time": "0241",
     "text": "Officers responded to reports of a robbery of a victim delivering food. Two suspects confronted the victim, robbing him at knifepoint. Responding officers were quickly able to locate the suspects and the victim’s property. The suspects were arrested on related charges."
+  },
+  {
+    "cmd": "North Command",
+    "id": "26-127287",
+    "code": "Stolen Vehicle - Recovery",
+    "location": "2600 Block New Market Dr",
+    "date": "2026-05-20",
+    "time": "0235",
+    "text": "Officers responded to reports of a stolen vehicle. Utilizing an app, officers later located the vehicle unoccupied, in a different area of the city. The vehicle was released back to the owner."
+  },
+  {
+    "cmd": "East Command",
+    "id": "26-127301",
+    "code": "Theft - Arrest",
+    "location": "6500 Block 4th Ave",
+    "date": "2026-05-20",
+    "time": "0324",
+    "text": "Officers responded to a report of a stolen bicycle in the area. Officers located the stolen bike and the suspect who was in possession of it. The suspect was arrested on related charges."
+  },
+  {
+    "cmd": "South Command",
+    "id": "26-127871",
+    "code": "Theft-Arrest",
+    "location": "Florin Rd. & 17th St.",
+    "date": "2026-05-20",
+    "time": "1628",
+    "text": "Officers responded to reports of a theft in progress from a business. Officers located the suspects on a nearby bus. When officers attempted to stop the suspects, the suspects fled on foot and a brief foot pursuit ensued. Officers safely detained both suspects and they were arrested for related charges. "
   }
 ]
