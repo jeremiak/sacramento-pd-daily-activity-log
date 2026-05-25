@@ -24874,5 +24874,23 @@
     "date": "2026-05-21",
     "time": "1305",
     "text": "Officers responded to reports of two males fighting. Through the investigation, officers determined that the main aggressor attacked the 69-year-old victim and attempted to steal a ring off his finger. The victim was transported to an area hospital for treatment and the suspect was arrested on attempted robbery, elder abuse, and felony assault charges."
+  },
+  {
+    "cmd": "North Command",
+    "id": "26-129250",
+    "code": "Shooting - Investigation",
+    "location": "2200 Block of Northview Dr",
+    "date": "2026-05-22",
+    "time": "0219",
+    "text": "Officers responded to reports of a shooting. Responding officers located evidence of a shooting. No injuries were reported. Officers conducted an investigation, and a report was generated."
+  },
+  {
+    "cmd": "East Command",
+    "id": "26-130009",
+    "code": "Firearm - Arrest",
+    "location": "Power Inn Rd / Cucamonga Ave",
+    "date": "2026-05-22",
+    "time": "1913",
+    "text": "Officers responded to reports of a road rage incident involving a firearm. Responding officers located the vehicle and conducted a stop. The driver was detained and during the investigation, officers located a firearm. The suspect was arrested for related charges."
   }
 ]
