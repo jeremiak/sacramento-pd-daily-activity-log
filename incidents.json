@@ -24901,5 +24901,23 @@
     "date": "2026-05-23",
     "time": "1657",
     "text": "Officers attempted to stop a vehicle for a vehicle code violation. The driver failed to yield and led officers on pursuit. The suspect’s vehicle ran out of gas and the suspect was detained. The suspect was found to be on Post Release Community Supervision (PRCS) and had four active felony warrants. The suspect was arrested for related charges."
+  },
+  {
+    "cmd": "North Command",
+    "id": "26-131459",
+    "code": "Del Paso Blvd & Northgate Blvd",
+    "location": "Pursuit - Firearm Arrest",
+    "date": "2026-05-24",
+    "time": "0801",
+    "text": "Officers located a stolen vehicle. Officers attempted to conduct a traffic stop of the vehicle; however, it did not stop and a short pursuit ensued. The suspect eventually fled from the vehicle on foot and after a lengthy foot pursuit was safely detained. Officers located an illegally possessed firearm, and the suspect was arrested for related charges."
+  },
+  {
+    "cmd": "Central Command",
+    "id": "26-132123",
+    "code": "Bicycle Stop - Arrest",
+    "location": "F St & 9th St",
+    "date": "2026-05-24",
+    "time": "2258",
+    "text": "Officers attempted to conduct a bicycle stop of a suspect. The suspect did not stop and fled on his bike until he was safely detained by officers. The suspect was arrested for related charges."
   }
 ]
