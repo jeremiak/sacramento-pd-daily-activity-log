@@ -24955,5 +24955,41 @@
     "date": "2026-05-29",
     "time": "1750",
     "text": "Officers observed a known probationer sitting inside of a vehicle. The subject on probation was detained and during a search of the vehicle, officers located a loaded, stolen firearm. The suspect who is also a convicted felon, was arrested on related firearms charges."
+  },
+  {
+    "cmd": "North Command",
+    "id": "26-136477",
+    "code": "Shooting - Investigation",
+    "location": "600 Block Morrison Ave",
+    "date": "2026-05-30",
+    "time": "0031",
+    "text": "Officers responded to reports of sounds of gunfire. Responding officers located evidence of a shooting but no reported victims or property damage. Officers conducted an investigation and a report was generated."
+  },
+  {
+    "cmd": "Central Command",
+    "id": "26-137151",
+    "code": "Pursuit - Arrest",
+    "location": "N 11th St & N D St",
+    "date": "2026-05-30",
+    "time": "1837",
+    "text": "Officers observed a vehicle with no license plates, parked in the area. When officers approached the vehicle, they observed the occupant in the driver’s seat to be in possession of narcotic paraphernalia. Upon seeing the officers, the driver took off in the vehicle and led officers on a pursuit. The pursuit ended with a PIT maneuver. After the PIT, the suspect intentionally collided with a patrol vehicle. The suspect was subsequently detained. An officer was transported to an area hospital for minor injuries and was released shortly after. The suspect was arrested on related charges."
+  },
+  {
+    "cmd": "East Command",
+    "id": "26-137473",
+    "code": "Us 50 EB & Hwy 99 NB",
+    "location": "Traffic Stop - Firearm Arrest",
+    "date": "2026-05-31",
+    "time": "0027",
+    "text": "Officers observed a vehicle traveling at a high rate of speed and conducted a traffic stop. During the stop, officers observed an open container of alcohol. During a subsequent search of the vehicle, officers located an illegally possessed firearm. The driver was arrested on related charges."
+  },
+  {
+    "cmd": "Central Command",
+    "id": "26-137530",
+    "code": "Suspicious Vehicle-Firearm Arrest",
+    "location": "1100 Block Front St",
+    "date": "2026-05-31",
+    "time": "0120",
+    "text": "Officers contacted a suspicious occupied vehicle. During a search of the vehicle, officers located an illegally possessed, loaded firearm. The suspect was arrested on related charges."
   }
 ]
