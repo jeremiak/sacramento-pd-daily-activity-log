@@ -24991,5 +24991,14 @@
     "date": "2026-05-31",
     "time": "0120",
     "text": "Officers contacted a suspicious occupied vehicle. During a search of the vehicle, officers located an illegally possessed, loaded firearm. The suspect was arrested on related charges."
+  },
+  {
+    "cmd": "South Command",
+    "id": "26-139046",
+    "code": "Traffic Stop - Warrant Arrest",
+    "location": "24th St / 34th Ave",
+    "date": "2026-06-01",
+    "time": "1610",
+    "text": "Officers stopped a motorcyclist. During the stop, officers determined that the rider had multiple outstanding warrants. The rider resisted arrested when officers attempted to detain him. The suspect was eventually arrested for related charges."
   }
 ]
