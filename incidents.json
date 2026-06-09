@@ -25036,5 +25036,32 @@
     "date": "2026-06-04",
     "time": "2254",
     "text": "Officers responded to reports of a shooting. Responding officers located evidence of a shooting. No injuries were reported. Officers conducted an investigation and a report was generated."
+  },
+  {
+    "cmd": "South Command",
+    "id": "26-144139",
+    "code": "Traffic Stop-Firearm Arrest",
+    "location": "24th St & 47th Ave",
+    "date": "2026-06-06",
+    "time": "2053",
+    "text": "Officers conducted a traffic stop of a vehicle. During a search of the vehicle officers located an illegally possessed, loaded firearm and methamphetamine. The suspect was arrested on related charges."
+  },
+  {
+    "cmd": "North Command",
+    "id": "26-144219",
+    "code": "Bicycle Stop - Arrest",
+    "location": "Northgate Blvd & Cleveland Ave",
+    "date": "2026-06-06",
+    "time": "2208",
+    "text": "Officers attempted to conduct a bicycle stop. The suspect on the bike did not stop and attempted to flee from officers on the bike and then by foot. Officers detained the suspect a short distance later and was arrested on charges related to the pursuit and narcotics."
+  },
+  {
+    "cmd": "South Command",
+    "id": "26-144314",
+    "code": "Subject Stop - Arrest",
+    "location": "24th St & Florin Rd",
+    "date": "2026-06-06",
+    "time": "2343",
+    "text": "Officers located a known subject on probation and attempted to conduct a subject stop. The suspect fled from officers on foot but was apprehended a short distance later. The suspect was arrested on charges related to the foot pursuit and narcotics."
   }
 ]
