@@ -25063,5 +25063,59 @@
     "date": "2026-06-06",
     "time": "2343",
     "text": "Officers located a known subject on probation and attempted to conduct a subject stop. The suspect fled from officers on foot but was apprehended a short distance later. The suspect was arrested on charges related to the foot pursuit and narcotics."
+  },
+  {
+    "cmd": "North Command",
+    "id": "26-144380",
+    "code": "Foot Pursuit - Arrest",
+    "location": "4100 Block E Commerce Way",
+    "date": "2026-06-07",
+    "time": "0050",
+    "text": "Officers responded to a call for service and contacted a subject related to the call. When officers attempted to identify the subject, he provided officers with a fake name. When officers were able to accurately identify the suspect, they learned he had four outstanding arrest warrants. Officers attempted to detain the suspect; however, he fled on foot. Officers were able to apprehend the suspect. During a search of the suspect, officers located burglary tools and narcotics. The suspect was arrested on related charges and his warrants."
+  },
+  {
+    "cmd": "South Command",
+    "id": "26-145383",
+    "code": "Stolen Vehicle - Arrest",
+    "location": "7400 Block Troon Wy",
+    "date": "2026-06-08",
+    "time": "0231",
+    "text": "Officers responded to reports of two vehicles that were broken into, with one of the vehicles being stolen. During a search of the area for the stolen vehicle, officers located it and safely detained the driver. The driver was arrested on related charges."
+  },
+  {
+    "cmd": "Central Command",
+    "id": "26-145674",
+    "code": "Carjacking - Investigation",
+    "location": "200 Block Richards Blvd",
+    "date": "2026-06-08",
+    "time": "1156",
+    "text": "Officers responded to reports of a carjacking. The victim sustained visible injuries. Officers conducted an investigation and a report was generated."
+  },
+  {
+    "cmd": "Central Command",
+    "id": "26-145762",
+    "code": "Assault - Arrest",
+    "location": "1500 Block A St",
+    "date": "2026-06-08",
+    "time": "1339",
+    "text": "Officers responded to reports of an assault involving a baseball bat. Responding officers located the victim who sustained non-life threatening injuries. Officers located the suspect nearby and the suspect was arrested on charges related to the assault."
+  },
+  {
+    "cmd": "North Command",
+    "id": "26-145864",
+    "code": "Suspicious Weapon - Firearm Arrest",
+    "location": "3700 Block Northgate Blvd",
+    "date": "2026-06-08",
+    "time": "1530",
+    "text": "Officers responded to reports of a suspicious vehicle. During their investigation, officers located a stolen firearm, narcotics, cash and scales. Officers arrested the suspect occupants for outstanding warrants, weapons and narcotics related charges.  "
+  },
+  {
+    "cmd": "South Command",
+    "id": "26-146110",
+    "code": "Stolen Vehicle - Arrest",
+    "location": "7500 Block Abiding Pl",
+    "date": "2026-06-08",
+    "time": "2010",
+    "text": "Officers located a parked stolen vehicle. Officers detained nearby suspects and through their investigation determined the driver of the vehicle. The suspect was arrested on related charges."
   }
 ]
