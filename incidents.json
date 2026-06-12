@@ -25117,5 +25117,23 @@
     "date": "2026-06-08",
     "time": "2010",
     "text": "Officers located a parked stolen vehicle. Officers detained nearby suspects and through their investigation determined the driver of the vehicle. The suspect was arrested on related charges."
+  },
+  {
+    "cmd": "Central Command",
+    "id": "26-146471",
+    "code": "Assault - Arrest",
+    "location": "400 Block 12th St",
+    "date": "2026-06-09",
+    "time": "0955",
+    "text": "Officers responded to reports of a male suspect throwing rocks at passing vehicles in the 400 block of 12th St. Responding officers located a victim with non-life-threatening injuries, who was struck by the suspect. While officers were attempting to detain the suspect, he was combative and fought with officers. Officers were not injured and detained the suspect. The suspect was arrested for outstanding warrants, and several charges related to the assaults."
+  },
+  {
+    "cmd": "South Command",
+    "id": "26-146736",
+    "code": "Shooting Investigation",
+    "location": "7700 Block 24th St",
+    "date": "2026-06-09",
+    "time": "1454",
+    "text": "Officers responded to reports of a shooting. Two male victims were located with non-life-threatening gunshot wounds. One victim was transported to an area hospital and the other victim self-transported to an area hospital. Officers conducted an investigation and a report was generated."
   }
 ]
