@@ -25135,5 +25135,32 @@
     "date": "2026-06-09",
     "time": "1454",
     "text": "Officers responded to reports of a shooting. Two male victims were located with non-life-threatening gunshot wounds. One victim was transported to an area hospital and the other victim self-transported to an area hospital. Officers conducted an investigation and a report was generated."
+  },
+  {
+    "cmd": "South Command",
+    "id": "26-147787",
+    "code": "Assault-Arrest",
+    "location": "4600 Block Freeport Blvd",
+    "date": "2026-06-10",
+    "time": "1623",
+    "text": "Officers responded to reports of a subject throwing rocks at moving vehicles. Responding officers located the suspect who armed themselves with scissors and attempted to flee. Officers were able to detain the suspect who was a parolee at large. The suspect was booked at jail."
+  },
+  {
+    "cmd": "South Command",
+    "id": "26-147883",
+    "code": "Shooting-Investigation",
+    "location": "4400 Block Mack Rd",
+    "date": "2026-06-10",
+    "time": "1802",
+    "text": "Officers responded to reports of a shooting. Responding officers located evidence of a shooting but no victims were located on scene. A short time later, an adult male victim arrived at an area hospital with a non-life-threatening gunshot wound. Officers are investigating to determine if he is related to the shooting. The investigation is ongoing."
+  },
+  {
+    "cmd": "Central Command",
+    "id": "26-147935",
+    "code": "Assault-Arrest",
+    "location": "900 Block 27th St",
+    "date": "2026-06-10",
+    "time": "1909",
+    "text": "Officers responded to reports of a fight. Responding officers located a victim who had been hit with a pipe and sustained minor injuries. Officers located the suspect near the scene and he was arrested on related charges."
   }
 ]
