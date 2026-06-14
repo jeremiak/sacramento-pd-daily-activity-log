@@ -25162,5 +25162,32 @@
     "date": "2026-06-10",
     "time": "1909",
     "text": "Officers responded to reports of a fight. Responding officers located a victim who had been hit with a pipe and sustained minor injuries. Officers located the suspect near the scene and he was arrested on related charges."
+  },
+  {
+    "cmd": "East Command",
+    "id": "26-148433",
+    "code": "Stolen Vehicle - Arrest",
+    "location": "Folsom Blvd - Arrest",
+    "date": "2026-06-11",
+    "time": "1011",
+    "text": "Officers located an occupied stolen vehicle. The occupants were detained and through the investigation, officers discovered the vehicle was involved with a carjacking in the City of Sacramento. The driver was arrested for related charges."
+  },
+  {
+    "cmd": "North Command",
+    "id": "26-148845",
+    "code": "Felony Assault - Arrest",
+    "location": "3000 Block of Club Center Dr",
+    "date": "2026-06-11",
+    "time": "1721",
+    "text": "Officers responded to reports from a victim that his 14-year-old brother was trying to stab him over a phone charger. Responding officers detained the suspect and booked him into Juvenile Hall on felony assault charges."
+  },
+  {
+    "cmd": "East Command",
+    "id": "26-149124",
+    "code": "Bicycle Stop - Warrant Arrest",
+    "location": "6200 Block of Folsom Blvd",
+    "date": "2026-06-11",
+    "time": "2332",
+    "text": "Officers stopped a cyclist for equipment violation. The suspect initially lied about his name, but after thorough police work, the suspect’s identity was discovered and officers learned he had an outstanding felony no-bail warrant. The suspect was arrested for related charges."
   }
 ]
