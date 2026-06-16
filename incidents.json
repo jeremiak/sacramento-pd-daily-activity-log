@@ -25189,5 +25189,41 @@
     "date": "2026-06-11",
     "time": "2332",
     "text": "Officers stopped a cyclist for equipment violation. The suspect initially lied about his name, but after thorough police work, the suspect’s identity was discovered and officers learned he had an outstanding felony no-bail warrant. The suspect was arrested for related charges."
+  },
+  {
+    "cmd": "East Command",
+    "id": "26-149735",
+    "code": "Burglary - Arrest",
+    "location": "3700 Block of 2nd Ave",
+    "date": "2026-06-12",
+    "time": "1604",
+    "text": "Officers responded to reports of a burglary in progress. Responding officers located the suspect inside of the residence and detained him. The suspect was arrested on related charges, as well as an outstanding felony warrant."
+  },
+  {
+    "cmd": "North Command",
+    "id": "26-150198",
+    "code": "Shooting - Investigation",
+    "location": "4400 Block of Truxel Rd",
+    "date": "2026-06-13",
+    "time": "0010",
+    "text": "Officers responded to reports of a shooting. Responding officers located an adult male with a non-life-threatening gunshot wound. No suspects were located, but an investigation was conducted and a report was generated."
+  },
+  {
+    "cmd": "North Command",
+    "id": "26-150653",
+    "code": "Pursuit - Firearm Arrest",
+    "location": "Main Ave / Raley Blvd",
+    "date": "2026-06-13",
+    "time": "1326",
+    "text": "Officers attempted to stop a known 15-year-old who fled on a motorcycle. The suspect eventually fled from the motorcycle on foot and attempted to get away from officers but was unsuccessful. During the investigation, officers located an illegally possessed loaded un-serialized Glock-style handgun with an extended magazine. The suspect was arrested for related charges."
+  },
+  {
+    "cmd": "North Command",
+    "id": "26-150773",
+    "code": "Robbery - Arrest",
+    "location": "3700 Block of Truxel Rd",
+    "date": "2026-06-13",
+    "time": "1629",
+    "text": "Officers responded to reports of a robbery with a hammer at a business. SPD’s helicopter (Air 1) arrived and assisted ground units in locating the suspect, who was unsuccessfully attempting to flee. The suspect was arrested for robbery, resisting arrest, and probation violation charges."
   }
 ]
