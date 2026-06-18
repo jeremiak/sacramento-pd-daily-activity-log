@@ -25234,5 +25234,23 @@
     "date": "2026-06-14",
     "time": "1945",
     "text": "Officers responded to reports of vehicles driving recklessly in the area. With the assistance of an Air Unit, motor officers stopped two vehicles that were seen racing through a neighborhood. The two vehicles were towed and the drivers were issued citations."
+  },
+  {
+    "cmd": "South Command",
+    "id": "26-152218",
+    "code": "Disturbance - Firearm Arrest",
+    "location": "Nixos Way & Meadowview Rd.",
+    "date": "2026-06-15",
+    "time": "0119",
+    "text": "Officers responded to reports of an argument with a firearm observed. Responding officers, with the assistance of an Air Unit located the involved parties and observed a subject point an object at another subject. Officers located the object and found that it was a firearm. One subject was arrested for firearms related charges, and the other subject was arrested for their outstanding warrants. "
+  },
+  {
+    "cmd": "North Command",
+    "id": "26-152600",
+    "code": "Prowling - Arrest",
+    "location": "2800 Block of Belden St",
+    "date": "2026-06-15",
+    "time": "1318",
+    "text": "Officers responded to reports of a suspect who was attempting to open the victim’s front door; however, no entry was made. Officers detained the suspect and during the investigation, located methamphetamine. The suspect was arrested for prowling and possessing methamphetamine charges."
   }
 ]
