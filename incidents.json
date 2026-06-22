@@ -25297,5 +25297,68 @@
     "date": "2026-06-18",
     "time": "2014",
     "text": "Officers located a Vespa with a stolen license plate on it. A record check of Vespa’s VIN showed it was stolen as well. The rider was arrested on related charges."
+  },
+  {
+    "cmd": "North Command",
+    "id": "26-156567",
+    "code": "Fatal Vehicle Collison",
+    "location": "Orchard Ln & West River Rd",
+    "date": "2026-06-19",
+    "time": "1733",
+    "text": "Officers responded to reports of a solo motorcycle collision. The motorcyclist was transported to an area hospital where he later succumbed to his injuries. Major Collision Investigation Unit detectives and Crime Scene Investigators responded to the scene to take over the investigation."
+  },
+  {
+    "cmd": "South Command",
+    "id": "26-156658",
+    "code": "Robbery-Arrest",
+    "location": "2300 Block Florin Rd",
+    "date": "2026-06-19",
+    "time": "1929",
+    "text": "Officers responded to reports of a robbery in progress. Responding officers located the suspect with the assistance of security. The suspect was arrested for related charges."
+  },
+  {
+    "cmd": "South Command",
+    "id": "26-156702",
+    "code": "Battery-Arrest",
+    "location": "1900 Block Broadway",
+    "date": "2026-06-19",
+    "time": "2011",
+    "text": "Officers responded to reports of a battery with serious injuries. Responding officers located the suspect nearby. The suspect was arrested for related charges."
+  },
+  {
+    "cmd": "North Command",
+    "id": "26-156716",
+    "code": "Fatal Vehicle Collision",
+    "location": "Roseville Rd & Tri Stations Rd",
+    "date": "2026-06-19",
+    "time": "2037",
+    "text": "Officers responded to reports of a vehicle collision involving two vehicles. Two parties were pronounced deceased on scene. Two additional parties sustained non-life-threatening injuries and were transported to an area hospital. Major Collision Investigation Unit detectives and Crime Scene Investigators responded to the scene to take over the investigation."
+  },
+  {
+    "cmd": "Central Command",
+    "id": "26-156750",
+    "code": "Traffic Stop-Firearm Arrest",
+    "location": "Front St & L St",
+    "date": "2026-06-19",
+    "time": "2129",
+    "text": "Officers conducted a traffic stop of a vehicle. Multiple occupants of the vehicle were on probation. Officers conducted a search of the vehicle and located two illegally possessed firearms. The suspects were arrested for related charges and outstanding warrants."
+  },
+  {
+    "cmd": "North Command",
+    "id": "26-156791",
+    "code": "Carjacking-Firearm Arrest",
+    "location": "3500 Block Norwood Ave",
+    "date": "2026-06-19",
+    "time": "2211",
+    "text": "Officers responded to reports of a carjacking involving a firearm. With the assistance of an Air Unit, the victim’s stolen vehicle was located in front of a residence. Officers detained several people from the residence, including the suspect. A search warrant of the residence was executed and officers located two firearms and the victim’s property. The suspect was arrested for multiple related charges."
+  },
+  {
+    "cmd": "Central Command",
+    "id": "26-156866",
+    "code": "Subject Stop-Firearm Arrest",
+    "location": "L St & Firehouse Alley",
+    "date": "2026-06-19",
+    "time": "2340",
+    "text": "Officers conducted a subject stop. The suspect attempted to flee on foot, but was quickly apprehended. Officers located an illegally possessed firearm in the suspect’s possession. The suspect was arrested for related charges."
   }
 ]
