@@ -25378,5 +25378,14 @@
     "date": "2026-06-20",
     "time": "2348",
     "text": "Officers conducted a subject stop. The suspect was found to be a parolee at large. The suspect was arrested."
+  },
+  {
+    "cmd": "Central Command",
+    "id": "26-158655",
+    "code": "Traffic Stop-Firearm Arrest",
+    "location": "Front St & K St",
+    "date": "2026-06-21",
+    "time": "2353",
+    "text": "Officers conducted a traffic stop of a vehicle. During the stop, officers located a stolen firearm. Officers arrested the suspect for related charges. "
   }
 ]
