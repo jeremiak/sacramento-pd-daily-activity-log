@@ -25405,5 +25405,32 @@
     "date": "2026-06-24",
     "time": "2042",
     "text": "Officers responded to reports of an assault involving a weapon. Responding officers located the assault suspect nearby and safely detained him. The suspect was arrested on related charges."
+  },
+  {
+    "cmd": "South Command",
+    "id": "26-161457",
+    "code": "Robbery Investigation",
+    "location": "1100 Block 43rd Ave",
+    "date": "2026-06-25",
+    "time": "0106",
+    "text": "Officers responded to reports of a robbery involving a firearm. Responding officers searched the area for the suspect but were unable to locate them. Officers conducted an investigation and a report was generated."
+  },
+  {
+    "cmd": "East Command",
+    "id": "26-161614",
+    "code": "Stolen Vehicle - Arrest",
+    "location": "5300 Block of Prickly Pear Ave",
+    "date": "2026-06-25",
+    "time": "0931",
+    "text": "Officers located an occupied stolen vehicle. The suspect attempted to flee from the vehicle on foot, but after a perimeter was established, the suspect was located. The suspect was arrested on related charges."
+  },
+  {
+    "cmd": "Central Command",
+    "id": "26-162284",
+    "code": "Attempted Robbery - Arrest",
+    "location": "20th St / K St",
+    "date": "2026-06-25",
+    "time": "2329",
+    "text": "Officers responded to reports of an attempted robbery. Through amazing police work and our Public Safety Camera Network, officers were able to identify the suspect and located him in the area. The suspect was arrested on attempted robbery charges."
   }
 ]
