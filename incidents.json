@@ -25468,5 +25468,41 @@
     "date": "2026-06-26",
     "time": "2305",
     "text": "Officers conducted a stop of a group of individuals, one of subject was known to have outstanding warrants. The suspect with the warrants attempted to flee and resist officers but was eventually detained. The suspect was arrested on related charges and outstanding warrants."
+  },
+  {
+    "cmd": "Central Command",
+    "id": "26-163273",
+    "code": "Suspicious Circumstances - Firearm Arrest",
+    "location": "Firehouse Alley & L St",
+    "date": "2026-06-27",
+    "time": "0045",
+    "text": "Officers contacted a group of suspicious subjects. Upon contact, one of the suspects fled on foot. He was eventually detained and officers located an illegally possessed loaded firearm in the suspect’s pants. The suspect was arrested on related charges."
+  },
+  {
+    "cmd": "East Command",
+    "id": "26-163280",
+    "code": "Traffic Stop - Arrest",
+    "location": "Fruitridge Rd & HWY 99",
+    "date": "2026-06-27",
+    "time": "0105",
+    "text": "Officers conducted a traffic stop and determined the driver to have an outstanding felony warrant. The driver was safely detained and arrested on the warrant."
+  },
+  {
+    "cmd": "Central Command",
+    "id": "26-163336",
+    "code": "Suspicious Weapons - Arrest",
+    "location": "1000 Block Front St",
+    "date": "2026-06-27",
+    "time": "0253",
+    "text": "Officers responded to a report of a suspect who was seen producing and racking a firearm in the area. Utilizing the Public Safety Camera Network, officers located the suspect and safely detained him. Officers located the illegally possessed firearm and the suspect was arrested on related charges."
+  },
+  {
+    "cmd": "Central Command",
+    "id": "26-163914",
+    "code": "Robbery - Arrest",
+    "location": "200 Block K St",
+    "date": "2026-06-27",
+    "time": "2003",
+    "text": "Officers responded to reports of a robbery. Utilizing the Public Safety Camera Network, Bike Unit officers were able to locate the group of robbery suspects. The suspects were on juvenile probation and arrested on charges related to the robbery and conspiracy."
   }
 ]
