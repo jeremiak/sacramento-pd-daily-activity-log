@@ -25567,5 +25567,23 @@
     "date": "2026-07-02",
     "time": "2327",
     "text": "Officers located an occupied stolen vehicle. The driver fled from the vehicle on foot. A perimeter was set up and thanks to the assistance of our Air Unit, the suspect was located and detained. The suspect was booked into Juvenile Hall on related charges."
+  },
+  {
+    "cmd": "South Command",
+    "id": "26-169103",
+    "code": "Robbery - Arrest",
+    "location": "7400 Block of Franklin Blvd",
+    "date": "2026-07-03",
+    "time": "0826",
+    "text": "Officers responded to reports of a robbery of a person. The victim was not injured and responding officers located the suspect in the immediate area. The suspect was arrested on robbery related charges."
+  },
+  {
+    "cmd": "South Command",
+    "id": "26-169685",
+    "code": "Traffic Stop - Firearm Arrest",
+    "location": "Mack Rd / Summersdale Dr",
+    "date": "2026-07-03",
+    "time": "2023",
+    "text": "Officers stopped a vehicle for a vehicle code violation. It was learned that the driver was a convicted felon with extensive firearm history. During the investigation, officers located an illegally possessed loaded firearm under the driver’s seat. The suspect was arrested for related charges."
   }
 ]
