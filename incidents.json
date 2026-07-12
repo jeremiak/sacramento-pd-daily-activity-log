@@ -25648,5 +25648,23 @@
     "date": "2026-07-08",
     "time": "2339",
     "text": "Officers responded to reported sounds of gunfire. Responding officers located evidence of a shooting. No victims or property damage was reported. Officers conducted an investigation and a report was generated.  "
+  },
+  {
+    "cmd": "South Command",
+    "id": "26-175798",
+    "code": "Pursuit - Arrest",
+    "location": "Valley Hi Dr & Monaghan Cir",
+    "date": "2026-07-09",
+    "time": "2142",
+    "text": "Officers attempted to stop a motorbike for a traffic violation. The bike did not stop and a brief pursuit ensued before the bike pulled over. Officers safely detained the rider and he was transported to juvenile hall on related charges."
+  },
+  {
+    "cmd": "South Command",
+    "id": "26-175897",
+    "code": "Pursuit - Arrest",
+    "location": "28th St & Fruitridge Rd",
+    "date": "2026-07-09",
+    "time": "2338",
+    "text": "Officers attempted to stop a go-kart for a traffic violation. The driver did not stop, and a brief pursuit ensued before the driver pulled over. Officers determined the go-kart was recently stolen. The suspect was arrested on related charges and for an outstanding warrant."
   }
 ]
