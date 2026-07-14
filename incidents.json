@@ -25693,5 +25693,32 @@
     "date": "2026-07-10",
     "time": "2009",
     "text": "Officers contacted a subject known to have outstanding warrants. When officers attempted to detain the suspect, he became resistive, resulting in minor injuries to the officers. The suspect was ultimately detained and arrested on related charges as well as drug related charges and outstanding warrants."
+  },
+  {
+    "cmd": "North Command",
+    "id": "26-177029",
+    "code": "Stolen Vehicle - Arrest",
+    "location": "Jessie Ave & Norwood Ave",
+    "date": "2026-07-11",
+    "time": "0113",
+    "text": "Officers located a stolen vehicle in the area. Officers conducted a stop of the vehicle and safely detained the driver. The driver was arrested on related charges."
+  },
+  {
+    "cmd": "East Command",
+    "id": "26-177192",
+    "code": "Subject Stop - Arrest",
+    "location": "Elvas Ave & 66th St",
+    "date": "2026-07-11",
+    "time": "0854",
+    "text": "Officers conducted a subject stop of a known wanted suspect. Officers safely detained the suspect and he was taken into custody."
+  },
+  {
+    "cmd": "North Command",
+    "id": "26-177829",
+    "code": "Bicycle Stop-Arrest",
+    "location": "American Ave & W El Camino Ave",
+    "date": "2026-07-11",
+    "time": "2321",
+    "text": "Officers attempted to conduct a stop of a bicycle. The suspect attempted to flee on the bike and then via foot. The suspect was eventually safely apprehended and arrested on related charges and his outstanding warrants."
   }
 ]
