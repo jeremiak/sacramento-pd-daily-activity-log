@@ -25729,5 +25729,32 @@
     "date": "2026-07-12",
     "time": "1939",
     "text": "Officers located a burglary suspect. The suspect fled on foot and with the assistance of the Air Unit and K-9, the suspect was located and peacefully surrendered to officers. The suspect was booked on related charges."
+  },
+  {
+    "cmd": "South Command",
+    "id": "26-178815",
+    "code": "Pursuit - Arrest",
+    "location": "X St & 19th St",
+    "date": "2026-07-13",
+    "time": "0001",
+    "text": "Officers attempted to conduct a traffic stop of a vehicle. The vehicle did not stop and a brief pursuit ensued. The driver ultimately pulled over and was safely detained. The driver was arrested on related charges."
+  },
+  {
+    "cmd": "South Command",
+    "id": "26-178824",
+    "code": "Suspicious Vehicle - Firearm Arrest",
+    "location": "Calvine Rd & Carlin Ave",
+    "date": "2026-07-13",
+    "time": "0013",
+    "text": "Officers contacted a suspicious subject in a vehicle and observed a firearm in plain view. The suspect was detained and arrested on firearms and narcotics related charges."
+  },
+  {
+    "cmd": "North Command",
+    "id": "26-179688",
+    "code": "Hit-And-Run Collision Investigation",
+    "location": "Roseville Rd & Connie Dr",
+    "date": "2026-07-13",
+    "time": "2115",
+    "text": "Officers responded to reports of a vehicle versus pedestrian collision. Responding officers located an adult female pedestrian who was transported to an area hospital and is currently in stable condition. The vehicle involved in the collision fled prior to police arrival. Officers conducted an investigation and a report was generated. "
   }
 ]
