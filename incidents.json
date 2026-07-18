@@ -25765,5 +25765,32 @@
     "date": "2026-07-14",
     "time": "1651",
     "text": "Officers responded to reports of a robbery. Officers located the suspect nearby and during an attempt to detain the suspect. The suspect became resistive and attempted to flee but was safely detained. The suspect was arrested on related charges."
+  },
+  {
+    "cmd": "Central Command",
+    "id": "26-180799",
+    "code": "Foot Pursuit - Arrest",
+    "location": "1600 Block L St",
+    "date": "2026-07-15",
+    "time": "0336",
+    "text": "Officers contacted the driver of a suspicious vehicle. The driver fled on foot but was safely detained. After further investigation, the suspect was determined to be a parolee at large. The suspect was arrested on related charges."
+  },
+  {
+    "cmd": "Central Command",
+    "id": "26-180988",
+    "code": "Stabbing - Arrest",
+    "location": "500 Block of Bercut Dr",
+    "date": "2026-07-15",
+    "time": "1006",
+    "text": "Officers were hailed by a female who reported she had been stabbed by another woman over a dispute of personal property. The victim sustained a minor injury. Officers located the suspect nearby, who was arrested for felony assault with a deadly weapon."
+  },
+  {
+    "cmd": "South Command",
+    "id": "26-181126",
+    "code": "Stolen Vehicle - Arrest",
+    "location": "7300 Block of Franklin Blvd",
+    "date": "2026-07-15",
+    "time": "1221",
+    "text": "A K-9 officer located an occupied stolen vehicle. The driver was detained and arrested for related charges."
   }
 ]
