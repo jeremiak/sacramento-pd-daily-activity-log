@@ -25819,5 +25819,68 @@
     "date": "2026-07-18",
     "time": "2254",
     "text": "Officers attempted to conduct a traffic stop. The vehicle did not stop and a pursuit ensued. During the pursuit, the suspect vehicle was involved in a minor collision and the occupants of the suspect vehicle fled on foot. Officers pursued the driver on foot and safely detained him. Additionally, officers located and safely detained a passenger of the vehicle after a brief foot pursuit. A backpack with a loaded pistol was located in the path of travel of the second passenger, but he was not located. The driver and passenger were arrested on related charges and booked at Juvenile Hall."
+  },
+  {
+    "cmd": "East Command",
+    "id": "26-184730",
+    "code": "Shooting - Investigation",
+    "location": "4700 Block of 36th St",
+    "date": "2026-07-19",
+    "time": "0141",
+    "text": "Officers responded to reports of a shooting. Responding officers located evidence of a shooting. No injuries were reported. Officers conducted an investigation and a report was generated."
+  },
+  {
+    "cmd": "North Command",
+    "id": "26-184797",
+    "code": "Suspicious Circumstances",
+    "location": "900 Block North Ave",
+    "date": "2026-07-19",
+    "time": "0342",
+    "text": "Officers responded to reports of a large group of vehicles in a parking lot with a group of subjects drinking alcohol. Responding officers located a person fleeing from the scene on foot and discard a loaded rifle. Officers seized the rifle and searched for the suspect but were unable to locate them. The crowd was safely dispersed from the parking lot."
+  },
+  {
+    "cmd": "North Command",
+    "id": "26-185216",
+    "code": "Felony Vehicle-Arrest",
+    "location": "Del Paso Blvd & Hwy 160",
+    "date": "2026-07-19",
+    "time": "1614",
+    "text": "Officers located a suspect vehicle related to a felony. Officers safely detained the driver of the vehicle, and they were arrested on related charges."
+  },
+  {
+    "cmd": "North Command",
+    "id": "26-185289",
+    "code": "Sideshow Activity",
+    "location": "South Ave & Pinell St",
+    "date": "2026-07-19",
+    "time": "1736",
+    "text": "An air unit arrived overhead of reports of approximately 50 vehicles engaging in sideshow activity and observed a hit-and-run collision related to the event. The air unit directed responding ground units to the vehicle involved in the hit-and-run. Officers contacted the occupants of the vehicle. They were cited on related charges and the vehicle was towed."
+  },
+  {
+    "cmd": "South Command",
+    "id": "26-185385",
+    "code": "Sideshow Activity",
+    "location": "24th St & 69th Ave",
+    "date": "2026-07-19",
+    "time": "1928",
+    "text": "Officers responded to reports of approximately 20 vehicles blocking an intersection and driving recklessly. Responding officers safely dispersed the group and conducted several enforcement stops."
+  },
+  {
+    "cmd": "North Command",
+    "id": "26-185580",
+    "code": "Brandishing-Firearm Arrest",
+    "location": "Truxel Rd. & I-80",
+    "date": "2026-07-19",
+    "time": "2250",
+    "text": "Officers responded to a report of a vehicle that brandished a firearm. While searching the area, officers located the vehicle and an illegally possessed firearm. Officers arrested three occupants of the vehicle on firearm and brandishing related charges."
+  },
+  {
+    "cmd": "South Command",
+    "id": "26-185596",
+    "code": "Pursuit - Arrest",
+    "location": "Charente Wy & Damascas Dr",
+    "date": "2026-07-19",
+    "time": "2308",
+    "text": "Officers responded to reports of sideshow activity. Responding officers attempted to conduct a related traffic stop. The vehicle did not stop and a pursuit ensued but was discontinued after officers lost sight of the vehicle. Officers responded to reports later of a suspicious vehicle and the occupants of the vehicle hiding in nearby bushes. Officers located the driver of the vehicle and arrested the driver on charges related to the pursuit."
   }
 ]
