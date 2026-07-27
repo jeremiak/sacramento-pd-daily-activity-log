@@ -25900,5 +25900,23 @@
     "date": "2026-07-23",
     "time": "0250",
     "text": "Officers responded to reports of a vehicle into a building in the 1700 block of Kathleen Ave. The incident turned out to be a burglary of a marijuana cultivation business where the suspects fled the scene prior to police arrival. Responding officers conducted an investigation and a report was generated. "
+  },
+  {
+    "cmd": "Central Command",
+    "id": "26-189422",
+    "code": "Subject Stop - Felony Arrest",
+    "location": "N. 16th St / A St",
+    "date": "2026-07-24",
+    "time": "0002",
+    "text": "Officers observed a known wanted felon and attempted to stop him. The suspect attempted to flee on an electric assist bicycle, but was apprehended by an officer. The suspect was arrested."
+  },
+  {
+    "cmd": "East Command",
+    "id": "26-189984",
+    "code": "Stolen Vehicle - Arrest",
+    "location": "6200 Block 40th Ave",
+    "date": "2026-07-24",
+    "time": "1535",
+    "text": "Officers located a stolen vehicle in the area. Officers attempted to stop the vehicle but when it did not stop a brief, slow speed pursuit ensued. The vehicle eventually pulled over and the driver was safely detained and arrested on related charges."
   }
 ]
