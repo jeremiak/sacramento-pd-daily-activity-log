@@ -25918,5 +25918,50 @@
     "date": "2026-07-24",
     "time": "1535",
     "text": "Officers located a stolen vehicle in the area. Officers attempted to stop the vehicle but when it did not stop a brief, slow speed pursuit ensued. The vehicle eventually pulled over and the driver was safely detained and arrested on related charges."
+  },
+  {
+    "cmd": "South Command",
+    "id": "26-190522",
+    "code": "Foot Pursuit - Firearm Arrest",
+    "location": "Kit Carson St & Ringgold St",
+    "date": "2026-07-25",
+    "time": "0028",
+    "text": "Officers contacted a group of subjects. One suspect fled while clutching his waistband prompting a brief foot pursuit. The suspect was safely apprehended, and a loaded firearm was located in the area of the pursuit. The suspect was arrested on related charges."
+  },
+  {
+    "cmd": "Central Command",
+    "id": "26-190618",
+    "code": "Stabbing Investigation - Arrest",
+    "location": "Front St & K St",
+    "date": "2026-07-25",
+    "time": "0303",
+    "text": "Officers responded to reports of an assault involving a weapon. Responding officers located three adult male victims on scene, each with at least one stab wound. The victims were transported to an area hospital. Two additional adult male victims with stab wounds were self-transported to area hospitals. Three people of interest were detained. Detectives were called in to take over the investigation. A male adult suspect was arrested on related charges."
+  },
+  {
+    "cmd": "South Command",
+    "id": "26-191257",
+    "code": "Stolen Vehicle - Arrest",
+    "location": "Franklin Blvd & Florin Rd",
+    "date": "2026-07-25",
+    "time": "2058",
+    "text": "Officers located a stolen vehicle in the area. Officers safely detained the occupants of the vehicle. The driver was arrested on related charges and an outstanding warrant."
+  },
+  {
+    "cmd": "East Command",
+    "id": "26-191392",
+    "code": "Subject Stop - Arrest",
+    "location": "2800 Block Power Inn Rd",
+    "date": "2026-07-25",
+    "time": "2325",
+    "text": "Officers contacted a subject in the area. During their investigation, officers determined the suspect to have outstanding felony warrants. The suspect was arrested on their warrants."
+  },
+  {
+    "cmd": "South Command",
+    "id": "26-191407",
+    "code": "Subject Stop - Firearm Arrest",
+    "location": "Revere St & Kit Carson St",
+    "date": "2026-07-25",
+    "time": "2340",
+    "text": "Officers contact several people drinking and smoking marijuana in public. One subject attempted to conceal an object in a vehicle and provided a false name to officers. The suspect was detained and during a search of the vehicle a loaded firearm was located. The suspect who is prohibited from possessing firearms was arrested on related charges."
   }
 ]
