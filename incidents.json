@@ -25972,5 +25972,23 @@
     "date": "2026-07-26",
     "time": "1628",
     "text": "Officers conducted a subject stop in the area. Dring officers' investigation the suspect was found to have an outstanding felony warrant. The suspect was arrested on the warrant. "
+  },
+  {
+    "cmd": "North Command",
+    "id": "26-192452",
+    "code": "Brandishing - Arrest",
+    "location": "3400 Block of Shadow Tree Dr",
+    "date": "2026-07-27",
+    "time": "0327",
+    "text": "Officers responded to reports of a fight where one party retrieved a knife and threatened the other. Responding officers safely detained the suspect and the knife was located. The suspect was arrested for assault, brandishing, and criminal threat related charges."
+  },
+  {
+    "cmd": "North Command",
+    "id": "26-193057",
+    "code": "Traffic Stop - Firearm Arrest",
+    "location": "Los Robles Blvd / Marysville Blvd",
+    "date": "2026-07-27",
+    "time": "1750",
+    "text": "Officers stopped a vehicle. During the investigation, officers located an illegally possessed handgun on a convicted felon. The suspect was arrested for related charges."
   }
 ]
