@@ -25999,5 +25999,41 @@
     "date": "2026-07-28",
     "time": "1553",
     "text": "Officers responded to reports of a solo vehicle collision into a fence and building, causing a small gas leak. The driver remained on scene and did not display any objective signs of intoxication. SFD and PG&E responded and rendered the area safe."
+  },
+  {
+    "cmd": "North Command",
+    "id": "26-194315",
+    "code": "Probation Search - Firearm Arrest",
+    "location": "3300 Block of High St",
+    "date": "2026-07-29",
+    "time": "0204",
+    "text": "Officers contacted an individual in a vehicle. A probation search was conducted and officers located an illegally possessed firearm. The suspect was arrested for felon in possession of a firearm and other related charges."
+  },
+  {
+    "cmd": "East Command",
+    "id": "26-195055",
+    "code": "Felony Assault - Arrest",
+    "location": "21st Ave / Antonia Ct",
+    "date": "2026-07-29",
+    "time": "1909",
+    "text": "Officers responded to reports of a suspect who pointed a handgun at a victim and fled. Officers established a perimeter and located the suspect. The suspect, a 13-year-old was detained and ultimately arrested on felony assault charges. He was booked into Juvenile Hall."
+  },
+  {
+    "cmd": "Central Command",
+    "id": "26-195295",
+    "code": "Subject Stop - Warrant Arrest",
+    "location": "N. C St / Ahern St",
+    "date": "2026-07-30",
+    "time": "0019",
+    "text": "Officers stopped a group of subjects and recognized one as a wanted felon. The wanted individual fled from officers on foot but was apprehended. The suspect was arrested for his outstanding warrant and resisting arrest."
+  },
+  {
+    "cmd": "East Command",
+    "id": "26-196168",
+    "code": "Pursuit - Arrest",
+    "location": "Fruitridge Rd / St Hwy 99 NB",
+    "date": "2026-07-30",
+    "time": "2000",
+    "text": "Officers attempted to stop an individual on an e-bike. The suspect failed to yield and led officers on pursuit. The suspect eventually pulled over and was arrested. The e-bike was booked as evidence."
   }
 ]
