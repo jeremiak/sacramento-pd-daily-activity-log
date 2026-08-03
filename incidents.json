@@ -26035,5 +26035,14 @@
     "date": "2026-07-30",
     "time": "2000",
     "text": "Officers attempted to stop an individual on an e-bike. The suspect failed to yield and led officers on pursuit. The suspect eventually pulled over and was arrested. The e-bike was booked as evidence."
+  },
+  {
+    "cmd": "East Command",
+    "id": "26-197211",
+    "code": "Subject Stop - Warrant Arrest",
+    "location": "Howe Ave / Folsom Blvd",
+    "date": "2026-07-31",
+    "time": "2239",
+    "text": "Officers contacted an individual and after conducting a records check, determined that person had an outstanding felony warrant. The suspect was booked on the warrant."
   }
 ]
