@@ -26044,5 +26044,23 @@
     "date": "2026-07-31",
     "time": "2239",
     "text": "Officers contacted an individual and after conducting a records check, determined that person had an outstanding felony warrant. The suspect was booked on the warrant."
+  },
+  {
+    "cmd": "South Command",
+    "id": "26-197318",
+    "code": "Shooting - Investigation",
+    "location": "10 Block of Linnea Ct",
+    "date": "2026-08-01",
+    "time": "0033",
+    "text": "Officers responded to reports of a shooting. Responding officers located evidence of a shooting at the scene. A juvenile with a non-life-threatening gunshot wound was transported to an area hospital by a private party. It is believed that victim was related to this scene. Officers conducted an investigation and a report was generated."
+  },
+  {
+    "cmd": "East Command",
+    "id": "26-198199",
+    "code": "Shooting - Investigation",
+    "location": "4400 Block of H St",
+    "date": "2026-08-01",
+    "time": "2329",
+    "text": "Officers responded to reports of shooting at a house party. Responding officers located evidence of a shooting. Officers did not locate any shooting victims. Officers conducted an investigation and a report was generated."
   }
 ]
