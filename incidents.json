@@ -26062,5 +26062,32 @@
     "date": "2026-08-01",
     "time": "2329",
     "text": "Officers responded to reports of shooting at a house party. Responding officers located evidence of a shooting. Officers did not locate any shooting victims. Officers conducted an investigation and a report was generated."
+  },
+  {
+    "cmd": "North Command",
+    "id": "26-198613",
+    "code": "Pursuit - Arrest",
+    "location": "El Camino Ave & Cantalier St.",
+    "date": "2026-08-02",
+    "time": "1301",
+    "text": "Officers observed a vehicle traveling at a high rate of speed and attempted to stop it. The driver did not stop and a pursuit ensued. The driver eventually pulled over and was safely detained. He was arrested on related charges. "
+  },
+  {
+    "cmd": "North Command",
+    "id": "26-198709",
+    "code": "Disturbance - Arrest",
+    "location": "2400 Block Seamist Dr",
+    "date": "2026-08-02",
+    "time": "1449",
+    "text": "Officers responded to a disturbance and learned one of the involved subjects had an outstanding felony warrant. When officers attempted to detained the suspect he fled on foot to a nearby apartment. Officers conducted a surround and callout and the suspect was safely detained and arrested on related charges."
+  },
+  {
+    "cmd": "North Command",
+    "id": "26-199140",
+    "code": "Suspicious Vehicle - Arrest",
+    "location": "300 Block Bowman Ave",
+    "date": "2026-08-02",
+    "time": "2357",
+    "text": "Officers conducted a park check and contacted a group of individuals in a vehicle in the park after hours. During their investigation, officers found one of the occupants had an outstanding felony warrant. The suspect was arrested on his warrant."
   }
 ]
