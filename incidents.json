@@ -26089,5 +26089,32 @@
     "date": "2026-08-02",
     "time": "2357",
     "text": "Officers conducted a park check and contacted a group of individuals in a vehicle in the park after hours. During their investigation, officers found one of the occupants had an outstanding felony warrant. The suspect was arrested on his warrant."
+  },
+  {
+    "cmd": "South Command",
+    "id": "26-199148",
+    "code": "Suspicious Vehicle - Arrest",
+    "location": "Florin Rd & Loma Verde Way",
+    "date": "2026-08-03",
+    "time": "0013",
+    "text": "Officers contacted an occupant of an occupied vehicle and determined the driver was on probation. During a search of the vehicle, officers located narcotics. The suspect was arrested on related charges."
+  },
+  {
+    "cmd": "South Command",
+    "id": "26-199230",
+    "code": "Subject Stop - Arrest",
+    "location": "Luther Dr & Florin Rd",
+    "date": "2026-08-03",
+    "time": "0247",
+    "text": "Officers conducted a subject stop. During their investigation, officers determined the suspect had an outstanding felony warrant. The suspect was booked on her warrant."
+  },
+  {
+    "cmd": "Central Command",
+    "id": "26-199374",
+    "code": "Felony Assault - Arrest",
+    "location": "Kondos Ave / 13th St",
+    "date": "2026-08-03",
+    "time": "0834",
+    "text": "Officers responded to reports of a suspect who threw a rock through the window of a moving vehicle. The suspect was detained and arrested for felony assault charges."
   }
 ]
