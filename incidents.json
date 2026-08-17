@@ -26251,5 +26251,23 @@
     "date": "2026-08-13",
     "time": "1605",
     "text": "Officers attempted to stop a known suspect with a felony warrant. The suspect attempted to flee on foot from officers but was apprehended. The suspect was arrested for related charges."
+  },
+  {
+    "cmd": "North Command",
+    "id": "26-210867",
+    "code": "Shooting - Investigation",
+    "location": "200 Block of Danville Wy",
+    "date": "2026-08-14",
+    "time": "2034",
+    "text": "Officers responded to reports of a shooting. Responding officers located evidence of a shooting. A victim with a non-life-threatening gunshot wound was located. Officers conducted an investigation and a report was generated."
+  },
+  {
+    "cmd": "North Command",
+    "id": "26-211108",
+    "code": "Traffic Stop - Firearm Arrest",
+    "location": "2400 Block of Seamist Dr",
+    "date": "2026-08-14",
+    "time": "2346",
+    "text": "Officers stopped a vehicle and the driver was on probation. During a search, officers located an illegally possessed loaded handgun on the driver’s person. The driver, a 17-year-old, was booked into juvenile hall on related charges."
   }
 ]
