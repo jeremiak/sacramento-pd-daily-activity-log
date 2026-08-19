@@ -26278,5 +26278,23 @@
     "date": "2026-08-15",
     "time": "1916",
     "text": "Officers located an occupied stolen vehicle. The driver was detained and arrested for related charges."
+  },
+  {
+    "cmd": "East Command",
+    "id": "26-212090",
+    "code": "Shooting - Investigation",
+    "location": "5300 Block of Martin Luther King, Jr. Blvd",
+    "date": "2026-08-16",
+    "time": "0022",
+    "text": "Officers responded to reports of a shooting. Responding officers located evidence of a shooting. No injuries were reported. Officers conducted an investigation and a report was generated."
+  },
+  {
+    "cmd": "Central Command",
+    "id": "26-212244",
+    "code": "Disturbance - Arrest",
+    "location": "I St & 3rd St",
+    "date": "2026-08-16",
+    "time": "0658",
+    "text": "Officers responded to a report of a subject holding a metal pipe. Responding officers attempted to contact the suspect who was determined to be a parolee at large. The suspect was resistive but was eventually safely detained and arrested on related charges. "
   }
 ]
