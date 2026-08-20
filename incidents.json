@@ -26296,5 +26296,50 @@
     "date": "2026-08-16",
     "time": "0658",
     "text": "Officers responded to a report of a subject holding a metal pipe. Responding officers attempted to contact the suspect who was determined to be a parolee at large. The suspect was resistive but was eventually safely detained and arrested on related charges. "
+  },
+  {
+    "cmd": "South Command",
+    "id": "26-213003",
+    "code": "Subject Stop - Arrest",
+    "location": "Mack Rd & Valley Hi Dr",
+    "date": "2026-08-17",
+    "time": "0045",
+    "text": "Officers contacted a subject who fled on foot. After a brief foot pursuit, the suspect was detained and found in possession of methamphetamine and paraphernalia, with prior drug convictions. A records check revealed the subject was an outstanding robbery suspect from an outside agency. "
+  },
+  {
+    "cmd": "Central Command",
+    "id": "26-213103",
+    "code": "Assault-Arrest",
+    "location": "1500 Block 21st Ave",
+    "date": "2026-08-17",
+    "time": "0650",
+    "text": "Officers responded to reports of an assault with a metal pole. The victim sustained minor injuries. Responding officers searched the area for the suspect. Officers located the suspect nearby and he was arrested on related charges. "
+  },
+  {
+    "cmd": "North Command",
+    "id": "26-213761",
+    "code": "Medical Aid",
+    "location": "3600 Block N Freeway Blvd",
+    "date": "2026-08-17",
+    "time": "1847",
+    "text": "Officers responded to reports of a subject down and not breathing. Officers recognized what appeared to be an overdose emergency and quickly administered medical aid and Narcan to the subject. The Narcan was effective and subject regained consciousness. The subject was transported to an area hospital for medical treatment. "
+  },
+  {
+    "cmd": "South Command",
+    "id": "26-213912",
+    "code": "Vehicle Collision Investigation",
+    "location": "3200 Block Cosumnes River Blvd",
+    "date": "2026-08-17",
+    "time": "2255",
+    "text": "Officers responded to a two-vehicle collision where both parties involved sustained moderate injuries and were transported to an area hospital for medical treatment. They are currently in stable condition. "
+  },
+  {
+    "cmd": "North Command",
+    "id": "26-213920",
+    "code": "Subject Stop - Firearm Arrest",
+    "location": "400 Block Haggin Ave",
+    "date": "2026-08-17",
+    "time": "2301",
+    "text": "Officers contacted a subject matching the description of a suspect on a call for service. During the investigation, officers recovered an illegally possessed, loaded firearm and arrested the suspect on related charges.  "
   }
 ]
