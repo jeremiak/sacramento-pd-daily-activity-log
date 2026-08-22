@@ -26359,5 +26359,23 @@
     "date": "2026-08-18",
     "time": "1828",
     "text": "Officers located a stolen vehicle in the area. Officers safely detained the suspect and they were arrested on related charges. "
+  },
+  {
+    "cmd": "North Command",
+    "id": "26-215248",
+    "code": "Suspicious Activity-Firearm Arrest",
+    "location": "300 Block Graves Ave",
+    "date": "2026-08-19",
+    "time": "0746",
+    "text": "Officers responded to reports of a subject who fired a firearm into the air before fleeing the area. Officers conducted an investigation. No injuries or property damage was reported. Later in the day; officers located the suspect who was in possession of a firearm, and he was arrested on related charges."
+  },
+  {
+    "cmd": "East Command",
+    "id": "26-215878",
+    "code": "Stockton Blvd & Fruitridge Rd",
+    "location": "Subject Stop - Firearm Arrest",
+    "date": "2026-08-19",
+    "time": "1914",
+    "text": "Officers contacted a subject who was determined to be on probation. Officers located an illegally possessed firearm and ammunition on the suspect. The suspect was arrested and booked on related charges.  "
   }
 ]
