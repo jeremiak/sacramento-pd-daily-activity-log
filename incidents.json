@@ -26395,5 +26395,23 @@
     "date": "2026-08-21",
     "time": "1841",
     "text": "Officers attempted to conduct a traffic stop. During the stop, the passenger of the vehicle fled on foot. Officers learned the passenger had an outstanding felony warrant. Additional resources responded to the scene and the suspect was safely detained."
+  },
+  {
+    "cmd": "East Command",
+    "id": "26-218342",
+    "code": "Subject Stop-Arrest",
+    "location": "Fran Barker Ave & Taylor St",
+    "date": "2026-08-22",
+    "time": "0446",
+    "text": "Officers attempted to conduct a subject stop. The suspect fled from officers on foot. Officers learned the suspect had an outstanding felony warrant. Officers established a perimeter and the suspect was eventually located and detained. The suspect was arrested on related charges."
+  },
+  {
+    "cmd": "South Command",
+    "id": "26-218987",
+    "code": "Assault-Arrest",
+    "location": "200 Block Hemford Cir",
+    "date": "2026-08-22",
+    "time": "2041",
+    "text": "Officers responded to reports of a suspect who swung a sword at two victims. The suspect subsequently barricaded himself alone in the residence. Crisis negotiators and SWAT responded to the scene and after several hours, the suspect was safely detained. A sword and firearm were recovered from the residence. The suspect was arrested on related charges."
   }
 ]
