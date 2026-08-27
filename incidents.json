@@ -26413,5 +26413,59 @@
     "date": "2026-08-22",
     "time": "2041",
     "text": "Officers responded to reports of a suspect who swung a sword at two victims. The suspect subsequently barricaded himself alone in the residence. Crisis negotiators and SWAT responded to the scene and after several hours, the suspect was safely detained. A sword and firearm were recovered from the residence. The suspect was arrested on related charges."
+  },
+  {
+    "cmd": "Central Command",
+    "id": "26-219185",
+    "code": "Stabbing-Investigation",
+    "location": "1100 Block 21st St",
+    "date": "2026-08-23",
+    "time": "0206",
+    "text": "Officers responded to a subject who has been stabbed. The adult male victim was transported to an area hospital and is currently in stable condition. Officers conducted an investigation and a report was generated."
+  },
+  {
+    "cmd": "North Command",
+    "id": "26-219924",
+    "code": "Shooting Investigation",
+    "location": "2300 Block Ray St",
+    "date": "2026-08-23",
+    "time": "2144",
+    "text": "Officers responded to reports of sounds of gunfire. Responding officers located evidence of a shooting but no reported injuries or property damage. Officers conducted an investigation and a report was generated."
+  },
+  {
+    "cmd": "East Command",
+    "id": "26-220002",
+    "code": "Assault Investigation-Arrest",
+    "location": "3800 Block 16th Ave",
+    "date": "2026-08-23",
+    "time": "2319",
+    "text": "Officers located a suspect of an assault with a deadly weapon. The suspect was safely detained and arrested on related charges."
+  },
+  {
+    "cmd": "East Command",
+    "id": "26-220025",
+    "code": "Shooting Investigation",
+    "location": "4800 Block Martin Luther King Jr Blvd",
+    "date": "2026-08-24",
+    "time": "0006",
+    "text": "Officers responded to reported sounds of gunfire. Responding officers located evidence of a shooting but there were no reported victims or property damage. Officers conducted an investigation and a report was generated."
+  },
+  {
+    "cmd": "North Command",
+    "id": "26-220069",
+    "code": "Pursuit",
+    "location": "Grand Ave & Dry Creek Rd",
+    "date": "2026-08-24",
+    "time": "0143",
+    "text": "Officers observed what appeared to be a suspect breaking into a vehicle. The suspect fled in another vehicle that was later confirmed to be stolen. Officers initiated a pursuit and the suspect was eventually safely taken into custody after he fled on foot from the vehicle and attempted to hide from officers."
+  },
+  {
+    "cmd": "East Command",
+    "id": "26-220130",
+    "code": "Burglary - Arrest",
+    "location": "1900 Block of Alhambra Blvd",
+    "date": "2026-08-24",
+    "time": "0509",
+    "text": "Officers responded to reports of a burglary in progress. Officers set up a perimeter and the suspect armed himself with a crossbow. The suspect was apprehended with the assistance of an Elk Grove PD K9. The suspect matched the description of a separate burglary earlier in the evening. The suspect was arrested for both burglaries and two outstanding felony warrants."
   }
 ]
