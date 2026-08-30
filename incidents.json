@@ -26476,5 +26476,14 @@
     "date": "2026-08-25",
     "time": "2307",
     "text": "A caller reported that an armed person was inside of their unlocked vehicle that was parked in the driveway. The suspect fled prior to police arrival, however responding officers located a suspect matching the description nearby. A loaded stolen handgun was located and the suspect was arrested for related charges."
+  },
+  {
+    "cmd": "North Command",
+    "id": "26-223943",
+    "code": "Traffic Stop - Firearm Arrest",
+    "location": "3400 Block of Bayou Rd",
+    "date": "2026-08-27",
+    "time": "1852",
+    "text": "A motor officer stopped a vehicle for a vehicle code violation. The driver was on probation and during the investigation, officers located an illegally possessed loaded handgun inside of the vehicle. The suspect was arrested for related charges."
   }
 ]
