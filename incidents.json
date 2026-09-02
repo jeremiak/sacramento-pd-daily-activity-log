@@ -26521,5 +26521,23 @@
     "date": "2026-08-29",
     "time": "2046",
     "text": "Officers responded to reports of a female victim who sustained non-life-threatening stab wounds. The suspect returned to the scene while officers were on scene and was detained. The suspect was arrested for felony assault charges."
+  },
+  {
+    "cmd": "East Command",
+    "id": "26-226345",
+    "code": "Weapons Call - Firearm/DUI Arrest",
+    "location": "3000 Block of K St",
+    "date": "2026-08-30",
+    "time": "0155",
+    "text": "Officers were hailed regarding reports of a male who removed a handgun from a vehicle and put it in his waistband. Officers conducted a felony vehicle stop and the driver was detained. Officers located the illegally possessed firearm and he displayed objective signs of intoxication. The suspect was arrested for related charges."
+  },
+  {
+    "cmd": "South Command",
+    "id": "26-226479",
+    "code": "Brandishing - Arrest",
+    "location": "1600 Block of Belt Wy",
+    "date": "2026-08-30",
+    "time": "0754",
+    "text": "Officers responded to a board-and-care residence for reports that a resident pointed a firearm at another resident. Responding officers detained the suspect and located the shotgun, as well as a loaded handgun. The suspect was arrested for related charges."
   }
 ]
