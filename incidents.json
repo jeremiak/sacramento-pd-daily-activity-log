@@ -26584,5 +26584,23 @@
     "date": "2026-09-03",
     "time": "1000",
     "text": "Officers located an occupied stolen vehicle. When officers attempted to stop the vehicle, the driver failed to yield and led officers on pursuit. Officers utilized a PIT maneuver to end the pursuit and the suspect was taken into custody."
+  },
+  {
+    "cmd": "North Command",
+    "id": "26-232203",
+    "code": "Vandalism - Arrest",
+    "location": "800 Block of Del Verde Cir",
+    "date": "2026-09-04",
+    "time": "1708",
+    "text": "Officers responded to reports of a suspect armed with an axe, striking multiple vehicles. Responding officers located the suspect, who initially refused to exit a vehicle. After a brief period of negotiations, the suspect surrendered and was detained. The suspect was arrested for related charges."
+  },
+  {
+    "cmd": "North Command",
+    "id": "26-233170",
+    "code": "Firearm - Arrest",
+    "location": "3500 Block of Marysville Blvd",
+    "date": "2026-09-05",
+    "time": "1458",
+    "text": "Officers responded to reports from a victim that they were being chased by a female in a vehicle. Responding officers located the suspect vehicle and detained the driver. During the investigation, officers located a loaded handgun in the vehicle. The suspect was arrested for related charges."
   }
 ]
