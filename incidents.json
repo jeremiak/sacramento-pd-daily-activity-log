@@ -26602,5 +26602,59 @@
     "date": "2026-09-05",
     "time": "1458",
     "text": "Officers responded to reports from a victim that they were being chased by a female in a vehicle. Responding officers located the suspect vehicle and detained the driver. During the investigation, officers located a loaded handgun in the vehicle. The suspect was arrested for related charges."
+  },
+  {
+    "cmd": "East Command",
+    "id": "26-233726",
+    "code": "Shooting - Investigation",
+    "location": "Cucamonga Ave / Ramona Ave",
+    "date": "2026-09-06",
+    "time": "0037",
+    "text": "Officers responded to reports of a shooting. Responding officers located three adult female victims with non-life-threatening gunshot wounds. Two were transported to area hospitals for treatment and one was treated on scene. A short time late, officers responded to a related vehicle collision where an adult male was located with at least one gunshot wound. He was transported to an area hospital with non-life-threatening injuries."
+  },
+  {
+    "cmd": "East Command",
+    "id": "26-234315",
+    "code": "Assault - Arrest",
+    "location": "500 Block Dunbarton Cir",
+    "date": "2026-09-06",
+    "time": "1622",
+    "text": "Officers responded to reports of an assault involving a knife. Responding officers located an adult male victim with a stab wound, and he was transported to an area hospital with non-life threatening injuries. The adult male suspect barricaded himself in a residence. SWAT and Crisis Negotiators were called to the scene and worked to peacefully resolve the situation. The suspect was safely detained. "
+  },
+  {
+    "cmd": "South Command",
+    "id": "26-234408",
+    "code": "Bicycle Stop - Arrest",
+    "location": "Luther Dr & Winning Way",
+    "date": "2026-09-06",
+    "time": "1832",
+    "text": "Officers attempted to conduct a bike stop of a suspect with outstanding warrants. The suspect fled on a bike and a brief pursuit ensued. Officers detained the suspect who was found to be in possession of narcotics. The suspect was arrested on related charges."
+  },
+  {
+    "cmd": "Central Command",
+    "id": "26-234483",
+    "code": "Burglary - Arrest",
+    "location": "2700 Block I St",
+    "date": "2026-09-06",
+    "time": "1959",
+    "text": "Officers responded to reports of a nude man attempting to enter multiple apartments. Responding officers located the suspect who locked himself in an unoccupied apartment. Officers entered the apartment and safely detained the suspect. The suspect was arrested on related charges."
+  },
+  {
+    "cmd": "East Command",
+    "id": "26-234591",
+    "code": "Burglary - Arrest",
+    "location": "100 Block Scripps Dr",
+    "date": "2026-09-06",
+    "time": "2206",
+    "text": "Officers responded to reports of a subject inside of a locked business. Responding officers located the suspect with a bottle of alcohol in the building. The suspect was arrested on related charges."
+  },
+  {
+    "cmd": "South Command",
+    "id": "26-234611",
+    "code": "Stolen Vehicle - Arrest",
+    "location": "16th St & J St",
+    "date": "2026-09-06",
+    "time": "2236",
+    "text": "Officers located a stolen vehicle and attempted to stop it. The vehicle did not stop and a pursuit ensued but was discontinued based on the conditions. Shortly after, officers located the suspect vehicle and stop it. The driver was safely detained and arrested on related charges."
   }
 ]
