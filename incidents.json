@@ -26656,5 +26656,32 @@
     "date": "2026-09-06",
     "time": "2236",
     "text": "Officers located a stolen vehicle and attempted to stop it. The vehicle did not stop and a pursuit ensued but was discontinued based on the conditions. Shortly after, officers located the suspect vehicle and stop it. The driver was safely detained and arrested on related charges."
+  },
+  {
+    "cmd": "North Command",
+    "id": "26-234685",
+    "code": "Foot Pursuit - Arrest",
+    "location": "W El Camino Ave & Northgate Blvd",
+    "date": "2026-09-07",
+    "time": "0023",
+    "text": "Officers attempted to contact a suspect who was known to be selling narcotics and an outstanding felony warrant. Responding officers located the suspect who attempted to flee on foot. The suspect was quickly detained and during a subsequent search of the suspect’s vehicle, officers located narcotics. The suspect was arrested on related charges."
+  },
+  {
+    "cmd": "South Command",
+    "id": "26-234699",
+    "code": "Bicycle Stop - Arrest",
+    "location": "2400 Block Meadowview Rd",
+    "date": "2026-09-07",
+    "time": "0045",
+    "text": "Officers attempted to conduct a bike stop of a subject. The suspect then fled from officers on the bike. After several blocks, officers were able to safely detain the suspect who was found to have two outstanding warrants. The suspect was arrested for his warrants and related charges."
+  },
+  {
+    "cmd": "Central Command",
+    "id": "26-235507",
+    "code": "Robbery - Arrest",
+    "location": "1600 Block of Arden Wy",
+    "date": "2026-09-07",
+    "time": "2037",
+    "text": "Officers responded to reports of a robbery of a person by force. The suspects fled the scene on a Regional Transit bus but was apprehended near 29th St and F St downtown. The 15-year-old and 19-year-old suspects were arrested for robbery."
   }
 ]
