@@ -26692,5 +26692,32 @@
     "date": "2026-09-08",
     "time": "0012",
     "text": "Officers responded to reports of a shooting. Responding officers located evidence of a shooting. No injuries were reported. Officers conducted an investigation and a report was generated."
+  },
+  {
+    "cmd": "North Command",
+    "id": "26-236704",
+    "code": "Felony Assault - Arrest",
+    "location": "2500 Block of Colfax St",
+    "date": "2026-09-09",
+    "time": "0018",
+    "text": "Officers responded to reports of a firearm pointed at a victim. The suspect was detained and an imitation firearm was recovered. The suspect's probation was violated and he was booked for related charges."
+  },
+  {
+    "cmd": "North Command",
+    "id": "26-236757",
+    "code": "Stolen Vehicle - Arrest",
+    "location": "Taylor St / Fran Barker Ave",
+    "date": "2026-09-09",
+    "time": "0236",
+    "text": "Officers located a suspect in possession of a stolen vehicle. The suspect was booked on related charges. "
+  },
+  {
+    "cmd": "Central Command",
+    "id": "26-237623",
+    "code": "Stabbing - Investigation",
+    "location": "400 Block of Bannon St",
+    "date": "2026-09-09",
+    "time": "1932",
+    "text": "Officers responded to reports of a stabbing. Officers located a victim with non-life-threatening injuries and they were transported to a nearby hospital. Officers canvassed the area and an investigation is currently being conducted."
   }
 ]
