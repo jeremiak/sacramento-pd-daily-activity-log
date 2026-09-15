@@ -26746,5 +26746,23 @@
     "date": "2026-09-11",
     "time": "2309",
     "text": "Officer observed a suspect drinking alcohol in their vehicle. Officers located an illegally possessed loaded firearm in the vehicle. The suspect was arrested on related charges."
+  },
+  {
+    "cmd": "South Command",
+    "id": "26-240757",
+    "code": "Robbery-Arrest",
+    "location": "200 Block Florin Rd",
+    "date": "2026-09-12",
+    "time": "1449",
+    "text": "Officers responded to reports of a robbery. Responding officers located the suspect nearby and he was safely detained. The suspect was arrested on related charges."
+  },
+  {
+    "cmd": "South Command",
+    "id": "26-241104",
+    "code": "Stabbing Investigation-Arrest",
+    "location": "2600 Block Meadowview Rd",
+    "date": "2026-09-12",
+    "time": "2057",
+    "text": "Officers responded to reports of a stabbing. Responding officers located a victim with non life threatening stab wounds. Officers located the suspect and safely detained him. The suspect was arrested on related charges."
   }
 ]
