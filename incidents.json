@@ -26845,5 +26845,32 @@
     "date": "2026-09-17",
     "time": "1813",
     "text": "Officers conducted a stop of a known probationer. The suspect fled from officers and was apprehended. The suspect was booked for narcotic related charges and resisting arrest. "
+  },
+  {
+    "cmd": "North Command",
+    "id": "26-246470",
+    "code": "Traffic Stop-Arrest",
+    "location": "Grove Ave & Redwood Ave",
+    "date": "2026-09-18",
+    "time": "0935",
+    "text": "Officers conducted a traffic stop of a vehicle with no license plates. During officers’ investigation they found the vehicle to be stolen. The driver was safely detained and arrested on related charges."
+  },
+  {
+    "cmd": "South Command",
+    "id": "26-246945",
+    "code": "Traffic Stop-Firearm Arrest",
+    "location": "Broadway & 29th St",
+    "date": "2026-09-18",
+    "time": "1711",
+    "text": "Officers conducted a traffic stop in the area. The driver was determined to be on parole. During a parole search of the suspect’s residence, officers located an illegally possessed firearm. The suspect was arrested on related charges."
+  },
+  {
+    "cmd": "East Command",
+    "id": "26-247254",
+    "code": "Vandalism - Arrest",
+    "location": "3100 Block X St",
+    "date": "2026-09-18",
+    "time": "2200",
+    "text": "Officers responded to reports of a subject acting erraticly and vandalizing property with a golf club. Responding officers were able to safely detain the suspect after the suspect threw a rock at officers. The suspect was arrested on related charges."
   }
 ]
