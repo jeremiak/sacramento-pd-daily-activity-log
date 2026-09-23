@@ -26881,5 +26881,23 @@
     "date": "2026-09-19",
     "time": "1431",
     "text": "Officers attempted to conduct a stop of a moped. The moped rider did not stop and fled from officers. The moped rider eventually pulled over and was safely detained. The suspect was arrested on related charges."
+  },
+  {
+    "cmd": "Central Command",
+    "id": "26-248498",
+    "code": "Vandalism - Arrest",
+    "location": "100 Block K St",
+    "date": "2026-09-20",
+    "time": "0616",
+    "text": "Officers responded to a report of a suspect attempting to forcefully enter a business. Responding officers detained the male suspect who had punched through a window. The suspect was transported to an area hospital for his injuries and was cited for the vandalism."
+  },
+  {
+    "cmd": "South Command",
+    "id": "26-248896",
+    "code": "Traffic Stop-Arrest",
+    "location": "Florin Rd & Parkhaven Way",
+    "date": "2026-09-20",
+    "time": "1642",
+    "text": "Officers attempted to conduct a traffic stop of a group of juveniles on pocket bikes. The riders did not stop and a pursuit was initiated but cancelled due to the conditions. Officers continued to search the area for the suspects and located the primary one. The suspect was safely detained and arrested on pursuit related charges."
   }
 ]
