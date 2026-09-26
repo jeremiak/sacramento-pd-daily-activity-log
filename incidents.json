@@ -26935,5 +26935,41 @@
     "date": "2026-09-22",
     "time": "1836",
     "text": "Officers responded to reports of an assault. A suspect armed with a knife assaulted 3 victims and barricaded themself in their residence. Crisis negotiators and SWAT responded to the scene and the suspect peacefully surrendered to officers and was safely detained. The suspect was booked on related assault charges. "
+  },
+  {
+    "cmd": "Central Command",
+    "id": "26-251275",
+    "code": "Burglary - Arrest",
+    "location": "1700 Block of L ST",
+    "date": "2026-09-23",
+    "time": "0035",
+    "text": "Officers responded to multiple ringing alarms of a building and once on scene located an opened door. Responding officers located a suspect inside of the building, she was safely detained and booked on related charges. "
+  },
+  {
+    "cmd": "Central Command",
+    "id": "26-251681",
+    "code": "Assault - Arrest",
+    "location": "13th St and F St",
+    "date": "2026-09-23",
+    "time": "1242",
+    "text": "Officers responded to reports of a suspect brandishing a knife and making stabbing motions at a victim. The suspect also chased the victim as they attempted to flee. The victim had no injuries. Officers located the suspect and the suspect was safely detained. The suspect was booked for related charges.   "
+  },
+  {
+    "cmd": "South Command",
+    "id": "26-251741",
+    "code": "Assault - Arrest",
+    "location": "2500 Block of Cadjew Ave",
+    "date": "2026-09-23",
+    "time": "1358",
+    "text": "Officers responded to reports of a vehicle accident into a building. Through their investigation, officers learned the driver drove the vehicle into the building on purpose, causing minor injuries to a victim. The driver was also found to be intoxicated. The driver was arrested for assault with a deadly weapon and DUI related charges. "
+  },
+  {
+    "cmd": "Central Command",
+    "id": "26-252166",
+    "code": "Firearm - Arrest",
+    "location": "200 Block of 6th St",
+    "date": "2026-09-23",
+    "time": "2138",
+    "text": "Officers responded to reports of a domestic incident involving a suspect pointing a firearm at a victim. The suspect fled the scene prior to officers arrival. Officers coordinated with outside agencies and the suspect was safely located and detained. The suspect was booked for related charges. "
   }
 ]
