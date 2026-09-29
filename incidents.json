@@ -26980,5 +26980,23 @@
     "date": "2026-09-25",
     "time": "0216",
     "text": "Officers contacted a subject who provided officers with a fake name. Once the subject was identified, he was found to have an outstanding warrant. The subject was booked on related charges. "
+  },
+  {
+    "cmd": "East Command",
+    "id": "26-254992",
+    "code": "Robbery - Arrest",
+    "location": "6700 Block of Folsom Blvd",
+    "date": "2026-09-26",
+    "time": "1649",
+    "text": "Officers responded to reports of a robbery. The suspect dropped his phone in the store while he was leaving. When he returned, he assaulted staff attempting to get his phone back. Officers arrived on scene and were able to safely detain the suspect. The suspect was booked on related charges. "
+  },
+  {
+    "cmd": "North Command",
+    "id": "26-255203",
+    "code": "Pursuit - Arrest",
+    "location": "Northgate Blvd & I-80",
+    "date": "2026-09-26",
+    "time": "2214",
+    "text": "Officers were monitoring a sideshow and conducted a traffic stop of an involved vehicle. The vehicle failed to yield to officers and fled. Officers located the suspect vehicle disabled and off of the roadway. The suspect had no injuries and was safely detained by officers. The suspect was booked for related charges. "
   }
 ]
