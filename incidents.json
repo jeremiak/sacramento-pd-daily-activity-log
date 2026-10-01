@@ -27016,5 +27016,32 @@
     "date": "2026-09-27",
     "time": "2327",
     "text": "Officers responded to reports of an argument, leading to the suspect kicking the victim in the head while the victim was on the ground. Officers arrived on scene and safely detained the suspect. The suspect was booked for related charges. "
+  },
+  {
+    "cmd": "East Command",
+    "id": "26-256290",
+    "code": "Firearm - Arrest",
+    "location": "Fruitridge Rd and MLK Jr Blvd",
+    "date": "2026-09-28",
+    "time": "0242",
+    "text": "Officers conducted a stop of the vehicle. Upon a probation search of one of the occupants, an illegally possessed firearm was located. The suspect was booked on related charges. "
+  },
+  {
+    "cmd": "North Command",
+    "id": "26-257131",
+    "code": "Pursuit - Arrest",
+    "location": "Branch St and Acacia Ave",
+    "date": "2026-09-28",
+    "time": "2102",
+    "text": "Officers contacted a suspect who had an outstanding warrant. The suspect fled from Officers and was safely apprehended. The suspect was booked for his warrant and related charges."
+  },
+  {
+    "cmd": "Central Command",
+    "id": "26-257201",
+    "code": "Burglary - Arrest",
+    "location": "1000 Block of 10th St",
+    "date": "2026-09-28",
+    "time": "2307",
+    "text": "Officers responded to reports of a suspect entering a residence and swinging a knife at 2 victims. The suspect left the scene prior to officers' arrival. Officers located the suspect and safely detained him. The suspect was booked on related charges. "
   }
 ]
