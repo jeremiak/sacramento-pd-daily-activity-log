@@ -27052,5 +27052,32 @@
     "date": "2026-10-01",
     "time": "1101",
     "text": "Officers responded to reports of a vehicle versus pedestrian collision. Despite lifesaving measures, the pedestrian was pronounced deceased on scene. Major Collison Investigation Unit detectives and Crime Scene Investigators responded to the scene to take over the Investigation."
+  },
+  {
+    "cmd": "Central Command",
+    "id": "26-261625",
+    "code": "Subject Stop-Firearm Arrest",
+    "location": "28th St & J St",
+    "date": "2026-10-03",
+    "time": "0141",
+    "text": "Officers responded to reports of a subject with a handgun. When officers attempted to stop the suspect, he fled with a handgun in his hand. Officers detained the suspect and recovered the gun. The suspect was arrested on related charges."
+  },
+  {
+    "cmd": "East Command",
+    "id": "26-261655",
+    "code": "Sideshow",
+    "location": "4500 Block Mack Rd",
+    "date": "2026-10-03",
+    "time": "0229",
+    "text": "Officers responded to reports of a large sideshow. Responding officers and the air unit worked to clear the large crowd from the area."
+  },
+  {
+    "cmd": "Central Command",
+    "id": "26-262505",
+    "code": "Suspicious Vehicle-Firearm Arrest",
+    "location": "Front St & J St",
+    "date": "2026-10-03",
+    "time": "2224",
+    "text": "Officers contacted occupants in a suspicious vehicle. Officers located a stolen handgun, an additional illegally possessed handgun and evidence of drug sales. The four suspects were arrested and booked into Jail and Juvenile Hall. "
   }
 ]
