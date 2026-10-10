@@ -27142,5 +27142,23 @@
     "date": "2026-10-05",
     "time": "1120",
     "text": "Officers located a suspect wanted for felony vandalism. Officers safely detained the suspect, who later kicked officers. The officers had no injuries and the suspect was booked for related charges. "
+  },
+  {
+    "cmd": "North Command",
+    "id": "26-265882",
+    "code": "Assault - Arrest",
+    "location": "400 Arden Way",
+    "date": "2026-10-07",
+    "time": "0841",
+    "text": "Officers responded to reports of an altercation between multiple individuals. Officers arrived on scene and learned during the altercation, a suspect stabbed a victim. The victim had non-life-threatening injuries and the suspect was safely detained. The suspect was booked on related charges. "
+  },
+  {
+    "cmd": "East Command",
+    "id": "26-266336",
+    "code": "Assault - Arrest",
+    "location": "5900 14th Ave",
+    "date": "2026-10-07",
+    "time": "1703",
+    "text": "Officers responded to reports of a suspect brandishing a firearm at a victim during an argument. Officers arrived on scene and located the suspect. He was safely detained and booked for related charges. "
   }
 ]
