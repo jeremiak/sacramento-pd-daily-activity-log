@@ -27295,5 +27295,32 @@
     "date": "2026-10-22",
     "time": "1704",
     "text": "Officers responded to reports of a 17-year-old victim with a non-life-threatening gunshot wound. A scene of where the actual shooting occurred has not been determined at this time. An investigation was conducted and a report was generated.  "
+  },
+  {
+    "cmd": "South Command",
+    "id": "26-281146",
+    "code": "Shooting Investigation",
+    "location": "100 Block Seavey Cir",
+    "date": "2026-10-23",
+    "time": "0256",
+    "text": "Officers responded to reports of sounds of a shooting. Responding officers located evidence of a shooting, but no reported injuries. Officers conducted an investigation and a report was generated."
+  },
+  {
+    "cmd": "North Command",
+    "id": "26-282018",
+    "code": "Traffic Stop-Arrest",
+    "location": "Roanoke Ave & Ivy St",
+    "date": "2026-10-23",
+    "time": "2222",
+    "text": "Officers attempted to conduct a traffic stop of a reckless driver. The driver did not stop and a slow speed pursuit ensued. The vehicle eventually stopped and the driver and passenger were detained. The driver was found to be under the influence and was arrested on DUI and additional related charges."
+  },
+  {
+    "cmd": "East Command",
+    "id": "26-283066",
+    "code": "Traffic Stop-Arrest",
+    "location": "W St & Alhambra Blvd",
+    "date": "2026-10-24",
+    "time": "2354",
+    "text": "Officers conducted a traffic stop and determined one of the occupants of the vehicle was on parole. During a search of the vehicle, officers located multiple narcotics and evidence of narcotic sales. The suspect was arrested on related charges."
   }
 ]
