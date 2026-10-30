@@ -27349,5 +27349,23 @@
     "date": "2026-10-25",
     "time": "1945",
     "text": "Officers in the area were advised of a male displaying a firearm. Officers located and safely detained the suspect. An imitation firearm was located on the suspect and he was arrested for related charges. "
+  },
+  {
+    "cmd": "Central Command",
+    "id": "26-285045",
+    "code": "Vandalism-Arrest",
+    "location": "1000 Block R St",
+    "date": "2026-10-27",
+    "time": "1033",
+    "text": "Officers responded to reports of vandalism. The suspect was located nearby and was detained by officers. The suspect, who is on probation was found to be in possession of burglary tools. The suspect was arrested for felony vandalism."
+  },
+  {
+    "cmd": "East Command",
+    "id": "26-285334",
+    "code": "Robbery-Arrest",
+    "location": "2300 34th St",
+    "date": "2026-10-27",
+    "time": "1557",
+    "text": "Officers responded to reports of a robbery. Officers located one of the suspects and an imitation firearm in their possession. The suspect was arrested on robbery related charges."
   }
 ]
