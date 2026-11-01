@@ -27376,5 +27376,23 @@
     "date": "2026-10-28",
     "time": "1803",
     "text": "Officers located a stolen vehicle. The driver was safely detained and was arrested on related charges."
+  },
+  {
+    "cmd": "North Command",
+    "id": "26-287452",
+    "code": "Pursuit-Arrest",
+    "location": "Del Paso Rd & E Commerce Way",
+    "date": "2026-10-29",
+    "time": "1956",
+    "text": "Officers responded to reports of a domestic violence related incident. Responding officers attempted to stop the involved vehicle. The vehicle did not yield and a pursuit ensued. The suspect was eventually detained and arrested on related charges."
+  },
+  {
+    "cmd": "South Command",
+    "id": "26-287483",
+    "code": "Shooting-Investigation",
+    "location": "1700 Block Florin Rd",
+    "date": "2026-10-29",
+    "time": "2045",
+    "text": "Officers responded to reports of a shooting. Responding officers located an adult male victim with at least one non-life-threatening gunshot wound. The victim was uncooperative and refused to be transported to the hospital. Officers conducted an investigation and a report was generated."
   }
 ]
