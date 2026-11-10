@@ -27430,5 +27430,41 @@
     "date": "2026-11-05",
     "time": "2117",
     "text": "Officers on foot patrol observed a suspicious subject manipulating something in a vehicle before walking away. Officers observed a firearm on the floorboard of the vehicle and detained the subject. During a search of the vehicle, officers located two illegally possessed firearms, and evidence of narcotic sales. Additional narcotics were located on the suspect. The suspect was arrested on narcotics and firearm related charges."
+  },
+  {
+    "cmd": "Central Command",
+    "id": "26-295375",
+    "code": "Disturbance-Drug Arrest",
+    "location": "1500 Block O St",
+    "date": "2026-11-06",
+    "time": "2243",
+    "text": "Officers were on scene conducting an investigation when a call came in about a subject with a gun at the same location. As officers were detaining the suspect, officers observed narcotics on his person. Additionally, officers located additional narcotics and evidence indicative of drug sales."
+  },
+  {
+    "cmd": "North Command",
+    "id": "26-295502",
+    "code": "Shooting Investigation",
+    "location": "800 Block North Ave",
+    "date": "2026-11-07",
+    "time": "0152",
+    "text": "Officers responded to reports of sounds of a shooting. Responding officers located evidence of a shooting. No injured victims were reported. Officers conducted an investigation and a report was generated."
+  },
+  {
+    "cmd": "North Command",
+    "id": "26-295526",
+    "code": "Traffic Stop-Firearm Arrest",
+    "location": "Harris Ave & Norwood Ave",
+    "date": "2026-11-07",
+    "time": "0244",
+    "text": "Officers conducted a traffic stop of a vehicle for a vehicle code violation. Officers located an illegally possessed firearm on the driver. The driver was arrested on related charges."
+  },
+  {
+    "cmd": "Central Command",
+    "id": "26-296331",
+    "code": "Suspicious Subject-Firearm Arrest",
+    "location": "2000 Block O St",
+    "date": "2026-11-07",
+    "time": "2324",
+    "text": "Officers contacted a suspicious subject inside of a vehicle. Officers detained the occupants of the vehicle. During a parole search of the vehicle officers located an illegally possessed firearm. The suspect who was a passenger of the vehicle was arrested on related charges."
   }
 ]
