@@ -27466,5 +27466,23 @@
     "date": "2026-11-07",
     "time": "2324",
     "text": "Officers contacted a suspicious subject inside of a vehicle. Officers detained the occupants of the vehicle. During a parole search of the vehicle officers located an illegally possessed firearm. The suspect who was a passenger of the vehicle was arrested on related charges."
+  },
+  {
+    "cmd": "South Command",
+    "id": "26-296410",
+    "code": "Bicycle Stop-Arrest",
+    "location": "6400 Block Mack Rd",
+    "date": "2026-11-08",
+    "time": "0053",
+    "text": "Officers attempted to conduct a bike stop for an equipment violation. The suspect fled from officers on the bike but was quickly detained nearby. Officers located narcotics on the suspect. The suspect also had two outstanding felony warrants that he was arrested for."
+  },
+  {
+    "cmd": "South Command",
+    "id": "26-296947",
+    "code": "Stolen Vehicle - Arrest",
+    "location": "Woodbine Ave and 51st Ave",
+    "date": "2026-11-08",
+    "time": "1638",
+    "text": "Officers responded to reports of a stolen vehicle. Officers located the stolen vehicle with the suspect inside. The suspect safely surrendered to officers and was booked on related charges. "
   }
 ]
