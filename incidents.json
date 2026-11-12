@@ -27484,5 +27484,32 @@
     "date": "2026-11-08",
     "time": "1638",
     "text": "Officers responded to reports of a stolen vehicle. Officers located the stolen vehicle with the suspect inside. The suspect safely surrendered to officers and was booked on related charges. "
+  },
+  {
+    "cmd": "North Command",
+    "id": "26-297312",
+    "code": "Assault - Arrest",
+    "location": "1300 Block of Del Paso Blvd",
+    "date": "2026-11-09",
+    "time": "0018",
+    "text": "Officers responded to reports of an assault. The suspect assaulted the victim with, causing non-life-threatening-injuries. Nearby bystanders detained the suspect, until police arrived. The suspect was booked on related charges. "
+  },
+  {
+    "cmd": "North Command",
+    "id": "26-298151",
+    "code": "Suspicious Vehicle - Firearm Arrest",
+    "location": "Northfield Dr & Northview Dr",
+    "date": "2026-11-09",
+    "time": "2347",
+    "text": "Officers contacted occupants in a suspicious vehicle and observed narcotic paraphernalia. Officers located an illegally possessed handgun and evidence of drug sales. The suspect was arrested on related charges. "
+  },
+  {
+    "cmd": "North Command",
+    "id": "26-298152",
+    "code": "Collision - DUI Arrest",
+    "location": "West El Camino Ave & Western Ave",
+    "date": "2026-11-09",
+    "time": "2347",
+    "text": "Officers responded to reports of a vehicle collision. Responding officers located a driver who collided with a fixed object. Officers on scene determined the driver to be driving under the influence. The driver was arrested on related charges."
   }
 ]
