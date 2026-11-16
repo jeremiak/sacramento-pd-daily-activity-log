@@ -27538,5 +27538,23 @@
     "date": "2026-11-11",
     "time": "2358",
     "text": "Officers located a stolen vehicle. The driver was safely detained and arrested on related charges."
+  },
+  {
+    "cmd": "North Command",
+    "id": "26-301552",
+    "code": "Traffic Stop-Arrest",
+    "location": "Arcade Blvd & Marysville Blvd",
+    "date": "2026-11-13",
+    "time": "1821",
+    "text": "Officers conducted a traffic stop of a vehicle that previously fled from officers in a pursuit and was not located at the time. The driver of the vehicle was identified as the suspect in the previous pursuit. The driver was safely detained and arrested for felony evading."
+  },
+  {
+    "cmd": "South Command",
+    "id": "26-301717",
+    "code": "Shooting Investigation",
+    "location": "7400 Block Winnett Way",
+    "date": "2026-11-13",
+    "time": "2246",
+    "text": "Officers responded to reports of a shooting. Responding officers located an adult male with at least one non-life threating gunshot wound. The male victim was transported to an area hospital. Officers conducted an investigation and a report was written."
   }
 ]
