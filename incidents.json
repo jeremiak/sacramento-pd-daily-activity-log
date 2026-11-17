@@ -27556,5 +27556,23 @@
     "date": "2026-11-13",
     "time": "2246",
     "text": "Officers responded to reports of a shooting. Responding officers located an adult male with at least one non-life threating gunshot wound. The male victim was transported to an area hospital. Officers conducted an investigation and a report was written."
+  },
+  {
+    "cmd": "North Command",
+    "id": "26-301849",
+    "code": "Disturbance - Firearm Arrest",
+    "location": "300 Block El Camino Ave",
+    "date": "2026-11-14",
+    "time": "0141",
+    "text": "Officers responded to reports of a disturbance involving a weapon. Responding officers safely detained the suspect and subsequently conducted a probation search at the suspect’s residence. Officers located an illegal firearm. The suspect was arrested on related charges."
+  },
+  {
+    "cmd": "Central Command",
+    "id": "26-302717",
+    "code": "Traffic Stop-Firearm Arrest",
+    "location": "7th St & L St",
+    "date": "2026-11-14",
+    "time": "2343",
+    "text": "Officers conducted a traffic stop of a vehicle. During the stop, officers located an illegally possessed, loaded firearm on the passenger's person. The passenger was arrested on related charges."
   }
 ]
