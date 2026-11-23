@@ -27601,5 +27601,32 @@
     "date": "2026-11-18",
     "time": "2142",
     "text": "Officers responded to reports of a burglary. The suspect broke the front window of the business, entered the property, and left the scene prior to officer's arrival. Officers canvassed the area and located the suspect nearby. The suspect was safely detained and booked for related charges."
+  },
+  {
+    "cmd": "South Command",
+    "id": "26-307730",
+    "code": "Subject Stop - Arrest",
+    "location": "Florin Rd & 24th St",
+    "date": "2026-11-20",
+    "time": "1815",
+    "text": "Officers attempted to conduct a stop of a known suspect involved in narcotic activity. The suspect fled from officers on foot, discarding a bag. Officers detained the suspect and recovered the bag containing a small amount of narcotics. The suspect was arrested on related charges."
+  },
+  {
+    "cmd": "South Command",
+    "id": "26-307864",
+    "code": "Domestic Violence Incident-Firearm Arrest",
+    "location": "7600 Block Franklin Blvd",
+    "date": "2026-11-20",
+    "time": "2106",
+    "text": "Officers responded to a domestic violence related incident. The suspect consented to a search of the residence where officers located a stolen firearm. The suspect was arrested on related charges."
+  },
+  {
+    "cmd": "East Command",
+    "id": "26-307945",
+    "code": "Burglary -Arrest",
+    "location": "5000 Block Fruitridge Rd",
+    "date": "2026-11-20",
+    "time": "2247",
+    "text": "Officers responded to reports of a burglary. Responding officers established a perimeter and the suspect peacefully surrendered and was detained. The suspect was found to be in possession of stolen merchandise and was arrested on related charges."
   }
 ]
