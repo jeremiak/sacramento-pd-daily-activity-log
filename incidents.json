@@ -27628,5 +27628,32 @@
     "date": "2026-11-20",
     "time": "2247",
     "text": "Officers responded to reports of a burglary. Responding officers established a perimeter and the suspect peacefully surrendered and was detained. The suspect was found to be in possession of stolen merchandise and was arrested on related charges."
+  },
+  {
+    "cmd": "North Command",
+    "id": "26-308030",
+    "code": "Subject Stop - Arrest",
+    "location": "4000 Block Norwood Ave",
+    "date": "2026-11-21",
+    "time": "0108",
+    "text": "Officers observed a suspicious subject standing next to a vehicle clutching a heavy item in his waistband. The suspect fled from officers on foot with a firearm in his hand. The suspect threw the firearm and was safely detained by officers. Officers recovered the firearm and the suspect was arrested on related charges."
+  },
+  {
+    "cmd": "North Command",
+    "id": "26-308497",
+    "code": "Assault-Arrest",
+    "location": "3600 Block Northgate Blvd",
+    "date": "2026-11-21",
+    "time": "1553",
+    "text": "Officers responded to reports of multiple subjects involved in an assault. Responding officers located the suspect who was reportedly armed with a knife. Officers recovered the knife. No injuries were reported in the assault. The suspect was arrested on related charges."
+  },
+  {
+    "cmd": "North Command",
+    "id": "26-308750",
+    "code": "Disturbance - Firearm Arrest",
+    "location": "900 Block Arden Wy",
+    "date": "2026-11-21",
+    "time": "2122",
+    "text": "Officers responded to reports of a disturbance and a person armed with a firearm. Responding officers located a suspect who fled on foot. The suspect was detained and was found to be in possession of an illegally possessed, stolen firearm and narcotics. He was arrested on related charges."
   }
 ]
