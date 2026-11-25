@@ -27655,5 +27655,23 @@
     "date": "2026-11-21",
     "time": "2122",
     "text": "Officers responded to reports of a disturbance and a person armed with a firearm. Responding officers located a suspect who fled on foot. The suspect was detained and was found to be in possession of an illegally possessed, stolen firearm and narcotics. He was arrested on related charges."
+  },
+  {
+    "cmd": "South Command",
+    "id": "26-309112",
+    "code": "Robbery - Arrest",
+    "location": "15th Street and X Street",
+    "date": "2026-11-22",
+    "time": "0951",
+    "text": "Officers responded to reports of an assault. A suspect assaulted the victim with an object and took the victim's belongings. Officers arrived on scene and safely detained the suspect. The victim had minor injuries and their stolen property was recovered. The suspect was booked on related charges. "
+  },
+  {
+    "cmd": "South Command",
+    "id": "26-309242",
+    "code": "Burglary - Arrest",
+    "location": "5600 Block of Freeport Blvd",
+    "date": "2026-11-22",
+    "time": "1310",
+    "text": "Officers responded to reports of two suspects fleeing a business, after it had been broken into. Officers canvassed the area and located both suspects. The suspects were safely detained and booked for related charges. "
   }
 ]
